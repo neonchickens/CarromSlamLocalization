@@ -13,7 +13,7 @@
         "description_location": "A button on the file explorer menu",
         "value_english": "Accept",
         "value_translated_automated": "Принимать",
-        "value_translated_native": null
+        "value_translated_native": "Принять"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -103,7 +103,7 @@
         "description_location": "A button on the landing menu",
         "value_english": "Quit",
         "value_translated_automated": "Покидать",
-        "value_translated_native": null
+        "value_translated_native": "Покинуть"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -696,7 +696,7 @@
         "description_text": "Describes the disc pool game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Disc Pool",
-        "value_translated_automated": "Дисковый пул",
+        "value_translated_automated": "Дискпул",
         "value_translated_native": null
       },
       {
