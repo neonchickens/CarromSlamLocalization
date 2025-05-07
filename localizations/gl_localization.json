@@ -1,0 +1,1685 @@
+{
+  "$type": "Localization, Assembly-CSharp-Editor",
+  "code": "gl",
+  "exonym_english": "Galician",
+  "endonym_native": "galego",
+  "translations": {
+    "$type": "Translation[], Assembly-CSharp-Editor",
+    "$values": [
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_accept",
+        "description_text": "Confirms the action for the selected file",
+        "description_location": "A button on the file explorer menu",
+        "value_english": "Accept",
+        "value_translated_automated": "Aceptar",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_bot",
+        "description_text": "Adds a bot player to the game",
+        "description_location": "A button on the players menu",
+        "value_english": "Add Bot",
+        "value_translated_automated": "Engadir bot",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_browser",
+        "description_text": "Views the browser menu, displaying other public games",
+        "description_location": "A button on the landing menu",
+        "value_english": "Browser",
+        "value_translated_automated": "Navegador",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_customization",
+        "description_text": "Views the customization menu, allowing for customization of player items",
+        "description_location": "A button on the pause menu",
+        "value_english": "Customization",
+        "value_translated_automated": "Personalización",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_invite",
+        "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
+        "description_location": "A button on the players menu",
+        "value_english": "Invite Friends",
+        "value_translated_automated": "Invita amigos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_join",
+        "description_text": "Joins the server of the selected lobby",
+        "description_location": "A button on the browser menu",
+        "value_english": "Join",
+        "value_translated_automated": "Únete",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_load",
+        "description_text": "Views the file explorer menu, allowing the user to select an available file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Load File",
+        "value_translated_automated": "Cargar ficheiro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_mods",
+        "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
+        "description_location": "A button on the landing menu",
+        "value_english": "Mods",
+        "value_translated_automated": "Mods",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_play",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the landing menu",
+        "value_english": "Play",
+        "value_translated_automated": "Xogar",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_players",
+        "description_text": "Views the players menu, allowing the user to manage bots and connected users",
+        "description_location": "A button on the pause menu",
+        "value_english": "Players",
+        "value_translated_automated": "Xogadores",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_quit",
+        "description_text": "Quits the server/application",
+        "description_location": "A button on the landing menu",
+        "value_english": "Quit",
+        "value_translated_automated": "Saír",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_ready",
+        "description_text": "Confirms the local player is ready",
+        "description_location": "A button on the pregame menu",
+        "value_english": "Ready",
+        "value_translated_automated": "Listo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_resume",
+        "description_text": "Removes the pause menu, focusing on the play area",
+        "description_location": "A button on the pause menu",
+        "value_english": "Resume",
+        "value_translated_automated": "Currículo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_rules",
+        "description_text": "Views the rules menu, allowing for managing of game types and rules",
+        "description_location": "A button on the pause menu",
+        "value_english": "Rules",
+        "value_translated_automated": "Regras",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_save",
+        "description_text": "Views the file explorer menu, allowing the user to save the config to file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Save File",
+        "value_translated_automated": "Gardar ficheiro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_server",
+        "description_text": "Views the server menu, allowing the user to manage their steam lobby",
+        "description_location": "A button on the pause menu",
+        "value_english": "Server",
+        "value_translated_automated": "Servidor",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_settings",
+        "description_text": "Views the settings menu, allowing the user to manage their application settings",
+        "description_location": "A button on the landing and pause menu",
+        "value_english": "Settings",
+        "value_translated_automated": "Configuración",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_statistics",
+        "description_text": "Views the statistics menu, allowing the user to view and manage previous games, statistics, and achievements",
+        "description_location": "A button on the landing menu",
+        "value_english": "Statistics",
+        "value_translated_automated": "Estatísticas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_back",
+        "description_text": "Exits the current menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Back",
+        "value_translated_automated": "De volta",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_next",
+        "description_text": "Jumps to the next camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Camera",
+        "value_translated_automated": "Próxima cámara",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_prev",
+        "description_text": "Jumps to the previous camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Camera",
+        "value_translated_automated": "Cámara anterior",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_chat",
+        "description_text": "Toggles the focus of the chat/event menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Chat",
+        "value_translated_automated": "Alterna o chat",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_primary",
+        "description_text": "Used to confirm shot placement and power",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Primary Action",
+        "value_translated_automated": "Acción Primaria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_quaternary",
+        "description_text": "Used to reset pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Quaternary Action",
+        "value_translated_automated": "Acción Cuaternaria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_scoreboard",
+        "description_text": "Toggles the visibility of the scoreboard menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Scoreboard",
+        "value_translated_automated": "Alternar o marcador",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_secondary",
+        "description_text": "Used to cancel shots",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Secondary Action",
+        "value_translated_automated": "Acción Secundaria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_start",
+        "description_text": "Used to confirm the current action",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Start",
+        "value_translated_automated": "Comeza",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_tertiary",
+        "description_text": "Used to spawn individual pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Tertary Action",
+        "value_translated_automated": "Acción Tertaria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_toggle_ready",
+        "description_text": "Toggles the player pregame readiness",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Ready",
+        "value_translated_automated": "Activa/desactiva Preparado",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_pointer",
+        "description_text": "Changes the color of the player's pointer",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Pointer Color",
+        "value_translated_automated": "Cor do punteiro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_primary_striker",
+        "description_text": "Changes the primary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Color",
+        "value_translated_automated": "Cor primaria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_secondary_striker",
+        "description_text": "Changes the secondary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Color",
+        "value_translated_automated": "Cor secundaria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_trail",
+        "description_text": "Changes the color of the player's trail",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Trail Color",
+        "value_translated_automated": "Cor da pista",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_striker",
+        "description_text": "Changes the skin of the player's carrom striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Striker Skin",
+        "value_translated_automated": "Skin de dianteiro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_trail",
+        "description_text": "Changes the skin of the player's trail",
+        "description_location": "A customization option in the general tab of the customization menu",
+        "value_english": "Trial Skin",
+        "value_translated_automated": "Pel de proba",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_primary_striker",
+        "description_text": "Changes the primary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Texture",
+        "value_translated_automated": "Textura primaria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_secondary_striker",
+        "description_text": "Changes the secondary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Texture",
+        "value_translated_automated": "Textura secundaria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_author",
+        "description_text": "Describes the creator of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Author",
+        "value_translated_automated": "Autor",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_best_of",
+        "description_text": "Describes that this game is according to the following conditions",
+        "description_location": "A label in the intro menu",
+        "value_english": "Best of",
+        "value_translated_automated": "O mellor de",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_blue",
+        "description_text": "Describes the value of blue used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Blue",
+        "value_translated_automated": "Azul",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_bots",
+        "description_text": "Describes the amount of computer controlled players present in the lobby",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Bots",
+        "value_translated_automated": "Bots",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_date",
+        "description_text": "Describes the date the mod was last updated",
+        "description_location": "A label in the mods menu",
+        "value_english": "Date",
+        "value_translated_automated": "Data",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_debt",
+        "description_text": "Describes the score debt owed by a particular team",
+        "description_location": "A label in the Professional Carrom game mode menu",
+        "value_english": "Team {0} owes {1} point(s)",
+        "value_translated_automated": "O equipo {0} debe {1} puntos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_description",
+        "description_text": "Describes the contents of the mod, set by the author of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Description",
+        "value_translated_automated": "Descrición",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_green",
+        "description_text": "Describes the value of green used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Green",
+        "value_translated_automated": "Verde",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_not_ready",
+        "description_text": "Describes a player who is not yet prepared to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Not Ready",
+        "value_translated_automated": "Non está listo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_player",
+        "description_text": "Describes a player name",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player",
+        "value_translated_automated": "Xogador",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_players_ready",
+        "description_text": "Describes the amount of players waiting to play out of a total amount",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Players Ready",
+        "value_translated_automated": "Xogadores listos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_point_count",
+        "description_text": "Describes an amount of points",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} points",
+        "value_translated_automated": "{0} puntos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_ready",
+        "description_text": "Describes a player who is prepared and waiting to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Ready",
+        "value_translated_automated": "Listo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_red",
+        "description_text": "Describes the value of red used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Red",
+        "value_translated_automated": "Vermello",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round_count",
+        "description_text": "Describes an amount of rounds",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} rounds",
+        "value_translated_automated": "{0} roldas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_score",
+        "description_text": "Describes a score value",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Score",
+        "value_translated_automated": "Puntuación",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_player",
+        "description_text": "Describes that the scoreboard represents individual player statistics",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player Scoreboard",
+        "value_translated_automated": "Marcador de xogadores",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_team",
+        "description_text": "Describes that the scoreboard represents team scoring",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team Scoreboard",
+        "value_translated_automated": "Marcador de equipos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_spectators",
+        "description_text": "Describes the amount of players who are set to spectate mode",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Spectators",
+        "value_translated_automated": "Espectadores",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team",
+        "description_text": "Describes a team association",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team",
+        "value_translated_automated": "Equipo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team_number",
+        "description_text": "Describes a specific team",
+        "description_location": "A label in the intro menu",
+        "value_english": "Team {0}",
+        "value_translated_automated": "Equipo {0}",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_total",
+        "description_text": "Describes a current total score",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Total",
+        "value_translated_automated": "Total",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_end",
+        "description_text": "States the game has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Game has ended",
+        "value_translated_automated": "O xogo rematou",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_start",
+        "description_text": "States the game has started",
+        "description_location": "An event message from the system",
+        "value_english": "Game is starting!",
+        "value_translated_automated": "O xogo comeza!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_covered",
+        "description_text": "States the queen has been covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has covered the queen",
+        "value_translated_automated": "O equipo {0} {1} cubriu á dama",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_uncovered",
+        "description_text": "States that the queen has been sank, but needs covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} must now complete the cover",
+        "value_translated_automated": "O equipo {0} {1} agora debe completar a portada",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_end",
+        "description_text": "States the round has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} has ended",
+        "value_translated_automated": "A rolda {0} rematou",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_start",
+        "description_text": "States the round has started",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} is starting!",
+        "value_translated_automated": "A rolda {0} comeza!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_foul",
+        "description_text": "States that the player has sank their striker",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has fouled",
+        "value_translated_automated": "O equipo {0} {1} cometeu unha falta",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_miss",
+        "description_text": "States that the player has missed",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has missed",
+        "value_translated_automated": "O equipo {0} {1} perdeuse",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_single",
+        "description_text": "States that the player has hit one or more pieces",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has sank their shot",
+        "value_translated_automated": "O equipo {0} {1} afundiu o seu tiro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_anywhere",
+        "description_text": "Describes the ability to place your striker anywhere on the board",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Anywhere",
+        "value_translated_automated": "En calquera lugar",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assorted",
+        "description_text": "Describes the ability to choose a variety of options throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Assorted",
+        "value_translated_automated": "Variado",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_blitz",
+        "description_text": "Describes the blitz game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Blitz",
+        "value_translated_automated": "Blitz",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_bowling",
+        "description_text": "Describes the bowling game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Bowling",
+        "value_translated_automated": "Bolos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_carrom",
+        "description_text": "Describes the carrom game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "Carrom",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_casual",
+        "description_text": "Describes the ability to place your striker anywhere on the baseline",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Casual",
+        "value_translated_automated": "Casual",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_crokinole",
+        "description_text": "Describes the crokinole game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Crokinole",
+        "value_translated_automated": "Crokinol",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_default",
+        "description_text": "Describes a default configuration",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Default",
+        "value_translated_automated": "Por defecto",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_disc_pool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc Pool",
+        "value_translated_automated": "Piscina de discos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_friends",
+        "description_text": "Describes the friends only configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Friends",
+        "value_translated_automated": "Amigos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_points",
+        "description_text": "Describes the points game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Points",
+        "value_translated_automated": "Puntos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_private",
+        "description_text": "Describes the private configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Private",
+        "value_translated_automated": "Privado",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_professional",
+        "description_text": "Describes the professional game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Professional",
+        "value_translated_automated": "Profesional",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_public",
+        "description_text": "Describes the public configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Public",
+        "value_translated_automated": "Público",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_random",
+        "description_text": "Describes the ability to choose a random option to use throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Random",
+        "value_translated_automated": "Aleatorio",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_sandbox",
+        "description_text": "Describes the sandbox game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Sandbox",
+        "value_translated_automated": "Sandbox",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_strict",
+        "description_text": "Describes the ability to place your striker only where the rules allow",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Strict",
+        "value_translated_automated": "Estricto",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_training",
+        "description_text": "Describes the training game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "Formación",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_tutorial",
+        "description_text": "Describes the tutorial game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Tutorial",
+        "value_translated_automated": "Titoría",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_board",
+        "description_text": "Choice of what board will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "Xunta",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_forward_striker",
+        "description_text": "Choice of whether a forward only trajectory rule will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Forward shot only",
+        "value_translated_automated": "Só tiro cara adiante",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_inset",
+        "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket inset",
+        "value_translated_automated": "Inserto de peto de parede",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_rounded",
+        "description_text": "Choice of whether to round off the corner around the pocket",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket rounded",
+        "value_translated_automated": "Peto de parede redondeado",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_board",
+        "description_text": "Choice of how bouncy the floor is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness board",
+        "value_translated_automated": "Taboleiro de rebote",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_piece",
+        "description_text": "Choice of how bouncy the piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness piece",
+        "value_translated_automated": "Peza de rebote",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_striker",
+        "description_text": "Choice of how bouncy a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness striker",
+        "value_translated_automated": "Golpeador de rebote",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_wall",
+        "description_text": "Choice of how bouncy the wall is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness wall",
+        "value_translated_automated": "Muro de rebote",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_points",
+        "description_text": "Choice of max points to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Point maximum",
+        "value_translated_automated": "Punto máximo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_rounds",
+        "description_text": "Choice of max rounds to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Round maximum",
+        "value_translated_automated": "Máximo redondo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_black",
+        "description_text": "Choice of how many black pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces black",
+        "value_translated_automated": "Pezas negras",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_red",
+        "description_text": "Choice of how many red pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces red",
+        "value_translated_automated": "Pezas vermellas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_team",
+        "description_text": "Choice of how many team pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces per team",
+        "value_translated_automated": "Pezas por equipo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_white",
+        "description_text": "Choice of how many white pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces white",
+        "value_translated_automated": "Pezas brancas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_spots",
+        "description_text": "Choice of how many sides the board will have",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Spots",
+        "value_translated_automated": "Puntos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_teams",
+        "description_text": "Choice of how many teams could be in the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Teams",
+        "value_translated_automated": "Equipos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_distance_baseline",
+        "description_text": "Choice of how far the baseline is from the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Distance baseline",
+        "value_translated_automated": "Distancia de referencia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_break",
+        "description_text": "Choice of break configuration",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Break",
+        "value_translated_automated": "Descanso",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_friction_board",
+        "description_text": "Choice of how much friction the board has",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board friction",
+        "value_translated_automated": "Fricción da placa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game",
+        "description_text": "Choice of game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "Xogo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game_mode",
+        "description_text": "Choice of game mode within a game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game mode",
+        "value_translated_automated": "Modo de xogo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_piece",
+        "description_text": "Choice of the mass of pieces",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass pieces",
+        "value_translated_automated": "Pezas en masa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_striker",
+        "description_text": "Choice of the mass of uniform strikers",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass striker",
+        "value_translated_automated": "Golpeador masivo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_percent_inset",
+        "description_text": "Choice of how inset the pocket is into the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pocket inset",
+        "value_translated_automated": "Inserto de peto",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_placement_striker",
+        "description_text": "Choice of where a player is allowed to place a striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Striker placement",
+        "value_translated_automated": "Colocación do dianteiro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_cap_queen",
+        "description_text": "Choice of where the game caps the queens point contribution",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Queen points cap",
+        "value_translated_automated": "Cap de puntos da raíña",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_black",
+        "description_text": "Choice of how many points a black piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for black",
+        "value_translated_automated": "Puntos para o negro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_red",
+        "description_text": "Choice of how many points a red piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for red",
+        "value_translated_automated": "Puntos para o vermello",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_team",
+        "description_text": "Choice of how many points a team piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for piece",
+        "value_translated_automated": "Puntos por peza",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_white",
+        "description_text": "Choice of how many points a white piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for white",
+        "value_translated_automated": "Puntos para as brancas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_power_striker",
+        "description_text": "Choice of how high the power cap for strikers is set",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power Scale",
+        "value_translated_automated": "Escala de potencia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_board",
+        "description_text": "Choice of how large a board is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Board",
+        "value_translated_automated": "Taboleiro de tamaño",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_piece",
+        "description_text": "Choice of how large a piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Piece",
+        "value_translated_automated": "Tamaño Peza",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_pocket",
+        "description_text": "Choice of how large a pocket is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Pocket",
+        "value_translated_automated": "Tamaño de peto",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_striker",
+        "description_text": "Choice of how large a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Striker",
+        "value_translated_automated": "Talla Striker",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_time_turn",
+        "description_text": "Choice of how long a turn can be",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Turn Timer",
+        "value_translated_automated": "Turn Timer",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_uniform_striker",
+        "description_text": "Choice of enforcing a uniform striker across all players",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Uniform Striker",
+        "value_translated_automated": "Atacante uniforme",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_count_max_players",
+        "description_text": "Describes the maximum player server count",
+        "description_location": "A setting in the server menu",
+        "value_english": "Max Players",
+        "value_translated_automated": "Máximo de xogadores",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_name",
+        "description_text": "Describes the public server name",
+        "description_location": "A setting in the server menu",
+        "value_english": "Name",
+        "value_translated_automated": "Nome",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_privacy",
+        "description_text": "Describes the server visibility",
+        "description_location": "A setting in the server menu",
+        "value_english": "Privacy",
+        "value_translated_automated": "Privacidade",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_cursor",
+        "description_text": "Describes the sensitivity of the cursor",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Cursor sensitivity",
+        "value_translated_automated": "Sensibilidade do cursor",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_zoom",
+        "description_text": "Describes the sensitivity of the zoom",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Zoom sensitivity",
+        "value_translated_automated": "Sensibilidade do zoom",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_fullscreen",
+        "description_text": "Describes the fullscreen status of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Fullscreen",
+        "value_translated_automated": "Pantalla completa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_refresh_rate",
+        "description_text": "Describes the refresh rate of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Refresh rate",
+        "value_translated_automated": "Taxa de actualización",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_resolution",
+        "description_text": "Describes the video resolution of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Resolution",
+        "value_translated_automated": "Resolución",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game",
+        "description_text": "Describes the volume relating to physical game elements",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game volume",
+        "value_translated_automated": "Volume do xogo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game_mode",
+        "description_text": "Describes the volume relating to game mode events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game mode volume",
+        "value_translated_automated": "Volume do modo de xogo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_master",
+        "description_text": "Describes the volume scale of all volume types",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Master volume",
+        "value_translated_automated": "Volume mestre",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_menu",
+        "description_text": "Describes the volume relating to menu events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "UI volume",
+        "value_translated_automated": "Volume da IU",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_black_sank",
+        "description_text": "Describes the amount of black pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Black Sank",
+        "value_translated_automated": "Afundido Negro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_foul",
+        "description_text": "Describes the amount of strikers sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Fouls",
+        "value_translated_automated": "Faltas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_sank",
+        "description_text": "Describes the amount of red pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Sank",
+        "value_translated_automated": "A raíña afundiuse",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_attempt",
+        "description_text": "Describes the amount of strikers shot by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Attempt",
+        "value_translated_automated": "Intento de tiro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_made",
+        "description_text": "Describes the amount of pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Sank",
+        "value_translated_automated": "Tiro afundido",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_white_sank",
+        "description_text": "Describes the amount of white pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "White Sank",
+        "value_translated_automated": "Afundimento Branco",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_audio",
+        "description_text": "Describes a page of audio related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Audio",
+        "value_translated_automated": "Audio",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_board",
+        "description_text": "Describes a page of board related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "Xunta",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_breaks",
+        "description_text": "Describes a page of carrom break related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Breaks",
+        "value_translated_automated": "Descansos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_carrom",
+        "description_text": "Describes a page of carrom related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "Carrom",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_controls",
+        "description_text": "Describes a page of rebind related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Controls",
+        "value_translated_automated": "Controis",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_customizations",
+        "description_text": "Describes a page of customization related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Customizations",
+        "value_translated_automated": "Personalizacións",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game",
+        "description_text": "Describes a page of game related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "Xogo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game_mode",
+        "description_text": "Describes a page of game mode related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game Mode",
+        "value_translated_automated": "Modo de xogo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_general",
+        "description_text": "Describes a page of general related rules",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "General",
+        "value_translated_automated": "Xeral",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_personal",
+        "description_text": "Describes a page of personal related customizaitons",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Personal",
+        "value_translated_automated": "Persoal",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_pointer",
+        "description_text": "Describes a page of pointer related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Pointer",
+        "value_translated_automated": "Punteiro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_presets",
+        "description_text": "Describes a page of ruleset related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Presets",
+        "value_translated_automated": "Presets",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_skin",
+        "description_text": "Describes a page of carrom skin related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Skin",
+        "value_translated_automated": "Pel",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trail",
+        "description_text": "Describes a page of trail related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Trail",
+        "value_translated_automated": "Rastro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trainings",
+        "description_text": "Describes a page of training related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Trainings",
+        "value_translated_automated": "Adestramentos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_video",
+        "description_text": "Describes a page of video related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Video",
+        "value_translated_automated": "Vídeo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_baselines",
+        "description_text": "Defines the location where each turn starts",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The striker must start play from the baseline.",
+        "value_translated_automated": "O dianteiro debe comezar a xogar dende a liña de fondo.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_board_carrom",
+        "description_text": "Defines the carrom board",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here we see a carrom board.",
+        "value_translated_automated": "Aquí vemos un taboleiro de carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break",
+        "description_text": "Defines the break at the start of a round",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
+        "value_translated_automated": "Cada xogo de carrom comezará con todas as pezas puntuables agrupadas no centro. O primeiro tiro da rolda chámase descanso.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_bot",
+        "description_text": "Shows the user what a break may look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here a bot demonstrates a break.",
+        "value_translated_automated": "Aquí un bot demostra unha pausa.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_player",
+        "description_text": "Encourages the user to take a shot at a break",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself!",
+        "value_translated_automated": "Probao vostede mesmo!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_strategy",
+        "description_text": "Defines the strategy behind a break scenario",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
+        "value_translated_automated": "Unha pausa ben acertada debería dispersar as pezas por todo o taboleiro. Un xogador hábil pode ser capaz de darse vantaxe durante toda a rolda a partir dun bo descanso e dos tiros posteriores.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_camera",
+        "description_text": "Defines the camera controls",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
+        "value_translated_automated": "Podes cambiar os ángulos da cámara premendo 0, 1, 2 ou 3. A cámara de reprodución recomendada é 1. Podes mover a cámara en calquera momento mantendo pulsado o botón dereito do rato e movendo o rato. Consulta máis controis da cámara no menú de controis.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_carrom",
+        "description_text": "Defines the game of carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
+        "value_translated_automated": "Carrom xógase introducindo discos noutros discos para empurralos nos buratos do taboleiro. Facelo con éxito outorgache outra volta. O xogo remata cando un equipo queda sen discos para apuntar.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_chat",
+        "description_text": "Defines how chat can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Turn history and chat can be opened by pressing T.",
+        "value_translated_automated": "O historial de quendas e o chat pódense abrir premendo T.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_complete",
+        "description_text": "Encourages the user that they are prepared for carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
+        "value_translated_automated": "Completaches o titorial! Agora estás preparado para xogar aos xogos de carrom con amigos e bots.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_cursor",
+        "description_text": "Encourages the user to move their cursor to the correct location",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Place your cursor on the baseline to start your shot.",
+        "value_translated_automated": "Coloca o cursor na liña de base para comezar a túa toma.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_drag",
+        "description_text": "Encourages the user to perform an action to add power to the shot",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Drag your cursor away from your target while continuing to hold left click.",
+        "value_translated_automated": "Arrastra o cursor para afastalo do teu destino mentres continúas mantendo premido o clic esquerdo.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_left_click",
+        "description_text": "Encourages the user to perform an action to confirm their striker placement",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Left click and hold to confirm your striker placement.",
+        "value_translated_automated": "Fai clic co botón esquerdo e manteña premido para confirmar a posición do dianteiro.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pause",
+        "description_text": "Defines the pause menu functionality",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
+        "value_translated_automated": "O menú de pausa contén axustes e controis da aplicación, e pódese acceder en calquera momento premendo a tecla Esc.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_1",
+        "description_text": "Defines the pockets",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
+        "value_translated_automated": "As placas de carrom estándar veñen con catro buratos, chamados petos, en cada esquina.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_2",
+        "description_text": "Shows the user their first carrom shot example",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
+        "value_translated_automated": "Estes petos son onde pretendes afundir os discos. Mira como xoga o noso bot.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen",
+        "description_text": "Defines the queen",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
+        "value_translated_automated": "O modo profesional requirirá que a raíña sexa embolsada para completar a rolda. Para marcar a dama, primeiro debes embolsar a raíña e despois embolsar con éxito o teu seguinte tiro para cubrir a dama. De non facelo, a raíña devolverá ao taboleiro.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_bot",
+        "description_text": "Shows the user professional mode's queen pocketing sequence",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
+        "value_translated_automated": "Aquí tes un escenario. Observa o peto do bot e despois tapa a raíña.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_player",
+        "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself. First the queen, then the white piece.",
+        "value_translated_automated": "Probao vostede mesmo. Primeiro a raíña, despois a peza branca.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_recommendation",
+        "description_text": "Recommends the user try an easy game mode",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
+        "value_translated_automated": "O modo de puntos recoméndase para os teus primeiros par de xogos. Isto ofréceche moitas oportunidades para marcar.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_release",
+        "description_text": "Encourages the user to perform an action to release the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Release left click to flick your striker into play.",
+        "value_translated_automated": "Solta o clic esquerdo para poñer o teu dianteiro en xogo.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoreboard",
+        "description_text": "Defines how the scoreboard can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
+        "value_translated_automated": "Os diferentes modos de xogo teñen regras de puntuación diferentes, pero a puntuación pódese ver en calquera momento premendo a tecla TAB.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoring",
+        "description_text": "Defines how different game modes handle scoring",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
+        "value_translated_automated": "Os modos profesional e de agrupación de discos terán como obxectivo só embolsar a cor do teu equipo, mentres que o modo de puntos asigna diferentes valores de puntos para cada peza de cores diferentes. Normalmente, unha peza de cor vermella ten un alto valor e denomínase a raíña.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_signature",
+        "description_text": "Well wishes from our development team",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
+        "value_translated_automated": "Goza de Carrom Slam! ~Equipo Dinahsoft",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_striker",
+        "description_text": "Defines the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The disc used to start play is called the striker.",
+        "value_translated_automated": "O disco utilizado para comezar a reprodución chámase dianteiro.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_bot",
+        "description_text": "Shows the user what a turn might look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now let's try to sink our first shot. Watch the bot first.",
+        "value_translated_automated": "Agora imos tentar afundir o noso primeiro tiro. Observe o bot primeiro.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_player",
+        "description_text": "Encourages the user to try pocketing the white piece",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
+        "value_translated_automated": "Agora o teu turno. Golpea esa peza branca no peto ao lado como o bot.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_tutorial",
+        "description_text": "Defines Carrom Slam! and the tutorial",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
+        "value_translated_automated": "Carrom Slam! é un xogo de simulador de carrom. Este tutorial ensinarache os controis e como xogar ao carrom.",
+        "value_translated_native": null
+      }
+    ]
+  }
+}

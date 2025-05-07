@@ -1,0 +1,1685 @@
+{
+  "$type": "Localization, Assembly-CSharp-Editor",
+  "code": "ny",
+  "exonym_english": "Nyanja",
+  "endonym_native": "Nyanja",
+  "translations": {
+    "$type": "Translation[], Assembly-CSharp-Editor",
+    "$values": [
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_accept",
+        "description_text": "Confirms the action for the selected file",
+        "description_location": "A button on the file explorer menu",
+        "value_english": "Accept",
+        "value_translated_automated": "Landirani",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_bot",
+        "description_text": "Adds a bot player to the game",
+        "description_location": "A button on the players menu",
+        "value_english": "Add Bot",
+        "value_translated_automated": "Onjezani Bot",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_browser",
+        "description_text": "Views the browser menu, displaying other public games",
+        "description_location": "A button on the landing menu",
+        "value_english": "Browser",
+        "value_translated_automated": "Msakatuli",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_customization",
+        "description_text": "Views the customization menu, allowing for customization of player items",
+        "description_location": "A button on the pause menu",
+        "value_english": "Customization",
+        "value_translated_automated": "Kusintha mwamakonda",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_invite",
+        "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
+        "description_location": "A button on the players menu",
+        "value_english": "Invite Friends",
+        "value_translated_automated": "Itanani Anzanu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_join",
+        "description_text": "Joins the server of the selected lobby",
+        "description_location": "A button on the browser menu",
+        "value_english": "Join",
+        "value_translated_automated": "Lowani",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_load",
+        "description_text": "Views the file explorer menu, allowing the user to select an available file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Load File",
+        "value_translated_automated": "Lowetsani Fayilo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_mods",
+        "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
+        "description_location": "A button on the landing menu",
+        "value_english": "Mods",
+        "value_translated_automated": "Mods",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_play",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the landing menu",
+        "value_english": "Play",
+        "value_translated_automated": "Sewerani",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_players",
+        "description_text": "Views the players menu, allowing the user to manage bots and connected users",
+        "description_location": "A button on the pause menu",
+        "value_english": "Players",
+        "value_translated_automated": "Osewera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_quit",
+        "description_text": "Quits the server/application",
+        "description_location": "A button on the landing menu",
+        "value_english": "Quit",
+        "value_translated_automated": "Siyani",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_ready",
+        "description_text": "Confirms the local player is ready",
+        "description_location": "A button on the pregame menu",
+        "value_english": "Ready",
+        "value_translated_automated": "Okonzeka",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_resume",
+        "description_text": "Removes the pause menu, focusing on the play area",
+        "description_location": "A button on the pause menu",
+        "value_english": "Resume",
+        "value_translated_automated": "Pitilizani",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_rules",
+        "description_text": "Views the rules menu, allowing for managing of game types and rules",
+        "description_location": "A button on the pause menu",
+        "value_english": "Rules",
+        "value_translated_automated": "Malamulo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_save",
+        "description_text": "Views the file explorer menu, allowing the user to save the config to file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Save File",
+        "value_translated_automated": "Sungani Fayilo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_server",
+        "description_text": "Views the server menu, allowing the user to manage their steam lobby",
+        "description_location": "A button on the pause menu",
+        "value_english": "Server",
+        "value_translated_automated": "Seva",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_settings",
+        "description_text": "Views the settings menu, allowing the user to manage their application settings",
+        "description_location": "A button on the landing and pause menu",
+        "value_english": "Settings",
+        "value_translated_automated": "Zokonda",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_statistics",
+        "description_text": "Views the statistics menu, allowing the user to view and manage previous games, statistics, and achievements",
+        "description_location": "A button on the landing menu",
+        "value_english": "Statistics",
+        "value_translated_automated": "Ziwerengero",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_back",
+        "description_text": "Exits the current menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Back",
+        "value_translated_automated": "Kubwerera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_next",
+        "description_text": "Jumps to the next camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Camera",
+        "value_translated_automated": "Kamera Yotsatira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_prev",
+        "description_text": "Jumps to the previous camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Camera",
+        "value_translated_automated": "Kamera Yam'mbuyo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_chat",
+        "description_text": "Toggles the focus of the chat/event menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Chat",
+        "value_translated_automated": "Sinthani Chat",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_primary",
+        "description_text": "Used to confirm shot placement and power",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Primary Action",
+        "value_translated_automated": "Ntchito Yoyamba",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_quaternary",
+        "description_text": "Used to reset pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Quaternary Action",
+        "value_translated_automated": "Quaternary Action",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_scoreboard",
+        "description_text": "Toggles the visibility of the scoreboard menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Scoreboard",
+        "value_translated_automated": "Sinthani Scoreboard",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_secondary",
+        "description_text": "Used to cancel shots",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Secondary Action",
+        "value_translated_automated": "Ntchito Yachiwiri",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_start",
+        "description_text": "Used to confirm the current action",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Start",
+        "value_translated_automated": "Yambani",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_tertiary",
+        "description_text": "Used to spawn individual pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Tertary Action",
+        "value_translated_automated": "Tertary Action",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_toggle_ready",
+        "description_text": "Toggles the player pregame readiness",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Ready",
+        "value_translated_automated": "Sinthani Okonzeka",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_pointer",
+        "description_text": "Changes the color of the player's pointer",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Pointer Color",
+        "value_translated_automated": "Mtundu wa Pointer",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_primary_striker",
+        "description_text": "Changes the primary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Color",
+        "value_translated_automated": "Mtundu Woyambirira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_secondary_striker",
+        "description_text": "Changes the secondary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Color",
+        "value_translated_automated": "Mtundu Wachiwiri",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_trail",
+        "description_text": "Changes the color of the player's trail",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Trail Color",
+        "value_translated_automated": "Mtundu wa Trail",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_striker",
+        "description_text": "Changes the skin of the player's carrom striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Striker Skin",
+        "value_translated_automated": "Striker Khungu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_trail",
+        "description_text": "Changes the skin of the player's trail",
+        "description_location": "A customization option in the general tab of the customization menu",
+        "value_english": "Trial Skin",
+        "value_translated_automated": "Mayesero Khungu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_primary_striker",
+        "description_text": "Changes the primary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Texture",
+        "value_translated_automated": "Kupanga Kwambiri",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_secondary_striker",
+        "description_text": "Changes the secondary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Texture",
+        "value_translated_automated": "Sekondale Kapangidwe",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_author",
+        "description_text": "Describes the creator of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Author",
+        "value_translated_automated": "Wolemba",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_best_of",
+        "description_text": "Describes that this game is according to the following conditions",
+        "description_location": "A label in the intro menu",
+        "value_english": "Best of",
+        "value_translated_automated": "Zabwino kwambiri",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_blue",
+        "description_text": "Describes the value of blue used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Blue",
+        "value_translated_automated": "Buluu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_bots",
+        "description_text": "Describes the amount of computer controlled players present in the lobby",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Bots",
+        "value_translated_automated": "Maboti",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_date",
+        "description_text": "Describes the date the mod was last updated",
+        "description_location": "A label in the mods menu",
+        "value_english": "Date",
+        "value_translated_automated": "Tsiku",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_debt",
+        "description_text": "Describes the score debt owed by a particular team",
+        "description_location": "A label in the Professional Carrom game mode menu",
+        "value_english": "Team {0} owes {1} point(s)",
+        "value_translated_automated": "Gulu {0} lili ndi ngongole {1} mapointi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_description",
+        "description_text": "Describes the contents of the mod, set by the author of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Description",
+        "value_translated_automated": "Kufotokozera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_green",
+        "description_text": "Describes the value of green used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Green",
+        "value_translated_automated": "Green",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_not_ready",
+        "description_text": "Describes a player who is not yet prepared to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Not Ready",
+        "value_translated_automated": "Osakonzeka",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_player",
+        "description_text": "Describes a player name",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player",
+        "value_translated_automated": "Wosewera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_players_ready",
+        "description_text": "Describes the amount of players waiting to play out of a total amount",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Players Ready",
+        "value_translated_automated": "Osewera Okonzeka",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_point_count",
+        "description_text": "Describes an amount of points",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} points",
+        "value_translated_automated": "{0} mfundo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_ready",
+        "description_text": "Describes a player who is prepared and waiting to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Ready",
+        "value_translated_automated": "Okonzeka",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_red",
+        "description_text": "Describes the value of red used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Red",
+        "value_translated_automated": "Chofiira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round_count",
+        "description_text": "Describes an amount of rounds",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} rounds",
+        "value_translated_automated": "{0} kuzungulira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_score",
+        "description_text": "Describes a score value",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Score",
+        "value_translated_automated": "Chogoli",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_player",
+        "description_text": "Describes that the scoreboard represents individual player statistics",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player Scoreboard",
+        "value_translated_automated": "Player Scoreboard",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_team",
+        "description_text": "Describes that the scoreboard represents team scoring",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team Scoreboard",
+        "value_translated_automated": "Team Scoreboard",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_spectators",
+        "description_text": "Describes the amount of players who are set to spectate mode",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Spectators",
+        "value_translated_automated": "Owonera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team",
+        "description_text": "Describes a team association",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team",
+        "value_translated_automated": "Gulu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team_number",
+        "description_text": "Describes a specific team",
+        "description_location": "A label in the intro menu",
+        "value_english": "Team {0}",
+        "value_translated_automated": "Gulu {0}",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_total",
+        "description_text": "Describes a current total score",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Total",
+        "value_translated_automated": "Zonse",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_end",
+        "description_text": "States the game has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Game has ended",
+        "value_translated_automated": "Masewera atha",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_start",
+        "description_text": "States the game has started",
+        "description_location": "An event message from the system",
+        "value_english": "Game is starting!",
+        "value_translated_automated": "Masewera akuyamba!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_covered",
+        "description_text": "States the queen has been covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has covered the queen",
+        "value_translated_automated": "Gulu {0} {1} lathandiza mfumukazi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_uncovered",
+        "description_text": "States that the queen has been sank, but needs covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} must now complete the cover",
+        "value_translated_automated": "Gulu {0} {1} liyenera kumaliza chivundikirocho",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_end",
+        "description_text": "States the round has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} has ended",
+        "value_translated_automated": "Round {0} yatha",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_start",
+        "description_text": "States the round has started",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} is starting!",
+        "value_translated_automated": "Round {0} ikuyamba!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_foul",
+        "description_text": "States that the player has sank their striker",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has fouled",
+        "value_translated_automated": "Timu {0} {1} yalephera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_miss",
+        "description_text": "States that the player has missed",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has missed",
+        "value_translated_automated": "Gulu {0} {1} laphonya",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_single",
+        "description_text": "States that the player has hit one or more pieces",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has sank their shot",
+        "value_translated_automated": "Timu {0} {1} yamira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_anywhere",
+        "description_text": "Describes the ability to place your striker anywhere on the board",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Anywhere",
+        "value_translated_automated": "Kulikonse",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assorted",
+        "description_text": "Describes the ability to choose a variety of options throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Assorted",
+        "value_translated_automated": "Zosiyanasiyana",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_blitz",
+        "description_text": "Describes the blitz game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Blitz",
+        "value_translated_automated": "Blitz",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_bowling",
+        "description_text": "Describes the bowling game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Bowling",
+        "value_translated_automated": "Bowling",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_carrom",
+        "description_text": "Describes the carrom game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "Carrom",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_casual",
+        "description_text": "Describes the ability to place your striker anywhere on the baseline",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Casual",
+        "value_translated_automated": "Wamba",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_crokinole",
+        "description_text": "Describes the crokinole game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Crokinole",
+        "value_translated_automated": "Crokinole",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_default",
+        "description_text": "Describes a default configuration",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Default",
+        "value_translated_automated": "Zosasintha",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_disc_pool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc Pool",
+        "value_translated_automated": "Phukusi la Diski",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_friends",
+        "description_text": "Describes the friends only configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Friends",
+        "value_translated_automated": "Anzanga",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_points",
+        "description_text": "Describes the points game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Points",
+        "value_translated_automated": "Mfundo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_private",
+        "description_text": "Describes the private configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Private",
+        "value_translated_automated": "Zachinsinsi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_professional",
+        "description_text": "Describes the professional game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Professional",
+        "value_translated_automated": "Katswiri",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_public",
+        "description_text": "Describes the public configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Public",
+        "value_translated_automated": "Pagulu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_random",
+        "description_text": "Describes the ability to choose a random option to use throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Random",
+        "value_translated_automated": "Mwachisawawa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_sandbox",
+        "description_text": "Describes the sandbox game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Sandbox",
+        "value_translated_automated": "Bokosi la mchenga",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_strict",
+        "description_text": "Describes the ability to place your striker only where the rules allow",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Strict",
+        "value_translated_automated": "Wokhwima",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_training",
+        "description_text": "Describes the training game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "Maphunziro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_tutorial",
+        "description_text": "Describes the tutorial game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Tutorial",
+        "value_translated_automated": "Maphunziro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_board",
+        "description_text": "Choice of what board will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "Bungwe",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_forward_striker",
+        "description_text": "Choice of whether a forward only trajectory rule will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Forward shot only",
+        "value_translated_automated": "Kuwombera kutsogolo kokha",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_inset",
+        "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket inset",
+        "value_translated_automated": "Chikwama cha khoma",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_rounded",
+        "description_text": "Choice of whether to round off the corner around the pocket",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket rounded",
+        "value_translated_automated": "Thumba lozungulira khoma",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_board",
+        "description_text": "Choice of how bouncy the floor is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness board",
+        "value_translated_automated": "Bounciness board",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_piece",
+        "description_text": "Choice of how bouncy the piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness piece",
+        "value_translated_automated": "Chigawo cha bounciness",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_striker",
+        "description_text": "Choice of how bouncy a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness striker",
+        "value_translated_automated": "Wowombera Bounciness",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_wall",
+        "description_text": "Choice of how bouncy the wall is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness wall",
+        "value_translated_automated": "Bounciness wall",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_points",
+        "description_text": "Choice of max points to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Point maximum",
+        "value_translated_automated": "Point maximum",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_rounds",
+        "description_text": "Choice of max rounds to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Round maximum",
+        "value_translated_automated": "Zozungulira kwambiri",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_black",
+        "description_text": "Choice of how many black pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces black",
+        "value_translated_automated": "Zigawo zakuda",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_red",
+        "description_text": "Choice of how many red pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces red",
+        "value_translated_automated": "Zigawo zofiira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_team",
+        "description_text": "Choice of how many team pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces per team",
+        "value_translated_automated": "Zidutswa pa gulu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_white",
+        "description_text": "Choice of how many white pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces white",
+        "value_translated_automated": "Zigawo zoyera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_spots",
+        "description_text": "Choice of how many sides the board will have",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Spots",
+        "value_translated_automated": "Mawanga",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_teams",
+        "description_text": "Choice of how many teams could be in the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Teams",
+        "value_translated_automated": "Magulu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_distance_baseline",
+        "description_text": "Choice of how far the baseline is from the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Distance baseline",
+        "value_translated_automated": "mtunda woyambira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_break",
+        "description_text": "Choice of break configuration",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Break",
+        "value_translated_automated": "Kuswa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_friction_board",
+        "description_text": "Choice of how much friction the board has",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board friction",
+        "value_translated_automated": "Kukangana kwa board",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game",
+        "description_text": "Choice of game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "Masewera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game_mode",
+        "description_text": "Choice of game mode within a game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game mode",
+        "value_translated_automated": "Masewera amasewera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_piece",
+        "description_text": "Choice of the mass of pieces",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass pieces",
+        "value_translated_automated": "Misa zidutswa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_striker",
+        "description_text": "Choice of the mass of uniform strikers",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass striker",
+        "value_translated_automated": "Wowombera wamkulu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_percent_inset",
+        "description_text": "Choice of how inset the pocket is into the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pocket inset",
+        "value_translated_automated": "Pocket mkati",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_placement_striker",
+        "description_text": "Choice of where a player is allowed to place a striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Striker placement",
+        "value_translated_automated": "Kuyika kwa Striker",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_cap_queen",
+        "description_text": "Choice of where the game caps the queens point contribution",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Queen points cap",
+        "value_translated_automated": "Queen points cap",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_black",
+        "description_text": "Choice of how many points a black piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for black",
+        "value_translated_automated": "Mfundo zakuda",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_red",
+        "description_text": "Choice of how many points a red piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for red",
+        "value_translated_automated": "Mfundo zofiira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_team",
+        "description_text": "Choice of how many points a team piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for piece",
+        "value_translated_automated": "Mfundo za chidutswa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_white",
+        "description_text": "Choice of how many points a white piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for white",
+        "value_translated_automated": "Mfundo zoyera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_power_striker",
+        "description_text": "Choice of how high the power cap for strikers is set",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power Scale",
+        "value_translated_automated": "Sikelo ya Mphamvu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_board",
+        "description_text": "Choice of how large a board is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Board",
+        "value_translated_automated": "Size Board",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_piece",
+        "description_text": "Choice of how large a piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Piece",
+        "value_translated_automated": "Chigawo Chachikulu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_pocket",
+        "description_text": "Choice of how large a pocket is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Pocket",
+        "value_translated_automated": "Size Pocket",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_striker",
+        "description_text": "Choice of how large a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Striker",
+        "value_translated_automated": "Size Striker",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_time_turn",
+        "description_text": "Choice of how long a turn can be",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Turn Timer",
+        "value_translated_automated": "Sinthani Nthawi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_uniform_striker",
+        "description_text": "Choice of enforcing a uniform striker across all players",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Uniform Striker",
+        "value_translated_automated": "Uniform Striker",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_count_max_players",
+        "description_text": "Describes the maximum player server count",
+        "description_location": "A setting in the server menu",
+        "value_english": "Max Players",
+        "value_translated_automated": "Max Players",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_name",
+        "description_text": "Describes the public server name",
+        "description_location": "A setting in the server menu",
+        "value_english": "Name",
+        "value_translated_automated": "Dzina",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_privacy",
+        "description_text": "Describes the server visibility",
+        "description_location": "A setting in the server menu",
+        "value_english": "Privacy",
+        "value_translated_automated": "Zazinsinsi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_cursor",
+        "description_text": "Describes the sensitivity of the cursor",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Cursor sensitivity",
+        "value_translated_automated": "Kukhudzidwa kwa cholozera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_zoom",
+        "description_text": "Describes the sensitivity of the zoom",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Zoom sensitivity",
+        "value_translated_automated": "Zoom sensitivity",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_fullscreen",
+        "description_text": "Describes the fullscreen status of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Fullscreen",
+        "value_translated_automated": "Kudzaza zenera lonse",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_refresh_rate",
+        "description_text": "Describes the refresh rate of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Refresh rate",
+        "value_translated_automated": "Mtengo wotsitsimutsa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_resolution",
+        "description_text": "Describes the video resolution of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Resolution",
+        "value_translated_automated": "Kusamvana",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game",
+        "description_text": "Describes the volume relating to physical game elements",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game volume",
+        "value_translated_automated": "Kuchuluka kwamasewera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game_mode",
+        "description_text": "Describes the volume relating to game mode events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game mode volume",
+        "value_translated_automated": "Game mode voliyumu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_master",
+        "description_text": "Describes the volume scale of all volume types",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Master volume",
+        "value_translated_automated": "Voliyumu yayikulu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_menu",
+        "description_text": "Describes the volume relating to menu events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "UI volume",
+        "value_translated_automated": "UI voliyumu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_black_sank",
+        "description_text": "Describes the amount of black pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Black Sank",
+        "value_translated_automated": "Black Sank",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_foul",
+        "description_text": "Describes the amount of strikers sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Fouls",
+        "value_translated_automated": "Zoyipa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_sank",
+        "description_text": "Describes the amount of red pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Sank",
+        "value_translated_automated": "Mfumukazi Sank",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_attempt",
+        "description_text": "Describes the amount of strikers shot by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Attempt",
+        "value_translated_automated": "Kuwombera Kuyesa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_made",
+        "description_text": "Describes the amount of pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Sank",
+        "value_translated_automated": "Kuwomberedwa Kumira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_white_sank",
+        "description_text": "Describes the amount of white pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "White Sank",
+        "value_translated_automated": "White Sank",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_audio",
+        "description_text": "Describes a page of audio related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Audio",
+        "value_translated_automated": "Zomvera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_board",
+        "description_text": "Describes a page of board related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "Bungwe",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_breaks",
+        "description_text": "Describes a page of carrom break related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Breaks",
+        "value_translated_automated": "Zopuma",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_carrom",
+        "description_text": "Describes a page of carrom related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "Carrom",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_controls",
+        "description_text": "Describes a page of rebind related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Controls",
+        "value_translated_automated": "Amawongolera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_customizations",
+        "description_text": "Describes a page of customization related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Customizations",
+        "value_translated_automated": "Zosintha mwamakonda",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game",
+        "description_text": "Describes a page of game related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "Masewera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game_mode",
+        "description_text": "Describes a page of game mode related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game Mode",
+        "value_translated_automated": "Masewera a Masewera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_general",
+        "description_text": "Describes a page of general related rules",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "General",
+        "value_translated_automated": "General",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_personal",
+        "description_text": "Describes a page of personal related customizaitons",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Personal",
+        "value_translated_automated": "Payekha",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_pointer",
+        "description_text": "Describes a page of pointer related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Pointer",
+        "value_translated_automated": "Cholozera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_presets",
+        "description_text": "Describes a page of ruleset related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Presets",
+        "value_translated_automated": "Zokonzeratu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_skin",
+        "description_text": "Describes a page of carrom skin related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Skin",
+        "value_translated_automated": "Khungu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trail",
+        "description_text": "Describes a page of trail related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Trail",
+        "value_translated_automated": "Njira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trainings",
+        "description_text": "Describes a page of training related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Trainings",
+        "value_translated_automated": "Maphunziro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_video",
+        "description_text": "Describes a page of video related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Video",
+        "value_translated_automated": "Kanema",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_baselines",
+        "description_text": "Defines the location where each turn starts",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The striker must start play from the baseline.",
+        "value_translated_automated": "Wowomberayo ayenera kuyamba kusewera kuyambira pachiyambi.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_board_carrom",
+        "description_text": "Defines the carrom board",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here we see a carrom board.",
+        "value_translated_automated": "Apa tikuwona bolodi la carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break",
+        "description_text": "Defines the break at the start of a round",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
+        "value_translated_automated": "Masewera aliwonse a carrom ayamba ndi zidutswa zonse zomwe zidalunjikitsidwa pakati. Kuwombera koyamba kwa kuzungulira kumatchedwa kupuma.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_bot",
+        "description_text": "Shows the user what a break may look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here a bot demonstrates a break.",
+        "value_translated_automated": "Apa bot ikuwonetsa kupuma.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_player",
+        "description_text": "Encourages the user to take a shot at a break",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself!",
+        "value_translated_automated": "Yesani nokha!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_strategy",
+        "description_text": "Defines the strategy behind a break scenario",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
+        "value_translated_automated": "Kuphulika kwabwino kuyenera kubalalitsa zidutswa kudutsa bolodi. Wosewera waluso amatha kudzipatsa mwayi wozungulira mozungulira kuchokera pakupuma bwino komanso kuwombera kotsatira.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_camera",
+        "description_text": "Defines the camera controls",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
+        "value_translated_automated": "Mukhoza kusintha ma angles a kamera mwa kukanikiza 0, 1, 2, kapena 3. Kamera yomwe ikulimbikitsidwa kusewera ndi 1. Mukhoza kusuntha kamera yanu nthawi iliyonse pogwira kumanja ndikusuntha mbewa. Onani zowongolera zambiri za kamera pazosankha zowongolera.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_carrom",
+        "description_text": "Defines the game of carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
+        "value_translated_automated": "Carrom imaseweredwa ndikugwedeza ma diski mu ma diski ena kuti amakankhire mabowo pa bolodi. Kuchita zimenezi bwinobwino kumakupatsaninso njira ina. Masewerawa amatha pamene timu ikusowa ma discs kuti ikwaniritse.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_chat",
+        "description_text": "Defines how chat can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Turn history and chat can be opened by pressing T.",
+        "value_translated_automated": "Sinthani mbiri ndi macheza akhoza kutsegulidwa ndikukanikiza T.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_complete",
+        "description_text": "Encourages the user that they are prepared for carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
+        "value_translated_automated": "Mwamaliza maphunziro! Tsopano mwakonzeka kusewera masewera a carrom ndi anzanu ndi bots.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_cursor",
+        "description_text": "Encourages the user to move their cursor to the correct location",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Place your cursor on the baseline to start your shot.",
+        "value_translated_automated": "Ikani cholozera chanu poyambira kuti muyambe kujambula.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_drag",
+        "description_text": "Encourages the user to perform an action to add power to the shot",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Drag your cursor away from your target while continuing to hold left click.",
+        "value_translated_automated": "Kokani cholozera chanu kutali ndi chandamale chanu kwinaku mukupitiriza kudina kumanzere.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_left_click",
+        "description_text": "Encourages the user to perform an action to confirm their striker placement",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Left click and hold to confirm your striker placement.",
+        "value_translated_automated": "Dinani kumanzere ndikugwiritsitsa kuti mutsimikizire kuti wowombera wanu wayiyika.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pause",
+        "description_text": "Defines the pause menu functionality",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
+        "value_translated_automated": "Menyu yopumira imakhala ndi zokonda ndi zowongolera, ndipo mutha kupezeka nthawi iliyonse podina kiyi yothawa.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_1",
+        "description_text": "Defines the pockets",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
+        "value_translated_automated": "Ma board a carrom okhazikika amabwera ndi mabowo anayi, otchedwa matumba, pakona iliyonse.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_2",
+        "description_text": "Shows the user their first carrom shot example",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
+        "value_translated_automated": "M'matumba awa ndi komwe mukufuna kumiza ma disc. Onani momwe bot yathu imasewera.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen",
+        "description_text": "Defines the queen",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
+        "value_translated_automated": "Katswiriyu adzafuna kuti mfumukazi ikhale m'thumba kuti amalize kuzungulira. Kuti mugonjetse mfumukazi, muyenera kuyika mfumukazi m'thumba kaye kenako ndikuyika mthumba mwanu kuti muphimbe mfumukaziyo. Kukanika kubwezera mfumukaziyo ku board.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_bot",
+        "description_text": "Shows the user professional mode's queen pocketing sequence",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
+        "value_translated_automated": "Nayi zochitika. Yang'anani thumba la bot ndikuphimba mfumukaziyo.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_player",
+        "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself. First the queen, then the white piece.",
+        "value_translated_automated": "Yesani nokha. Choyamba mfumukazi, kenako chidutswa choyera.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_recommendation",
+        "description_text": "Recommends the user try an easy game mode",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
+        "value_translated_automated": "Mapointsi amalimbikitsidwa pamasewera anu angapo oyamba. Izi zimakupatsirani mwayi wambiri wogoletsa.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_release",
+        "description_text": "Encourages the user to perform an action to release the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Release left click to flick your striker into play.",
+        "value_translated_automated": "Tulutsani kudina kumanzere kuti mutsegule wosewera wanu.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoreboard",
+        "description_text": "Defines how the scoreboard can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
+        "value_translated_automated": "Mitundu yosiyanasiyana yamasewera ili ndi malamulo osiyanasiyana ogoletsa, koma zigoli zitha kuwonedwa nthawi iliyonse podina kiyi ya TAB.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoring",
+        "description_text": "Defines how different game modes handle scoring",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
+        "value_translated_automated": "Mitundu yaukadaulo ndi ma disc pool idzakuthandizani kuti mungofuna kuyika mtundu wa gulu lanu, pomwe ma point amagawira mfundo zosiyanasiyana pagawo lililonse lamitundu yosiyanasiyana. Kawirikawiri, chidutswa chamtundu wofiira ndi chamtengo wapatali, ndipo chimatchedwa mfumukazi.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_signature",
+        "description_text": "Well wishes from our development team",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
+        "value_translated_automated": "Sangalalani ndi Carrom Slam! ~Timu ya Dinahsoft",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_striker",
+        "description_text": "Defines the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The disc used to start play is called the striker.",
+        "value_translated_automated": "Chimbale chomwe chimagwiritsidwa ntchito poyambira kusewera chimatchedwa womenya.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_bot",
+        "description_text": "Shows the user what a turn might look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now let's try to sink our first shot. Watch the bot first.",
+        "value_translated_automated": "Tsopano tiyeni tiyese kumira kuwombera kwathu koyamba. Yang'anani bot poyamba.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_player",
+        "description_text": "Encourages the user to try pocketing the white piece",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
+        "value_translated_automated": "Tsopano nthawi yanu. Menyani chidutswa choyera chija mthumba pafupi nacho ngati bot.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_tutorial",
+        "description_text": "Defines Carrom Slam! and the tutorial",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
+        "value_translated_automated": "Carrom Slam! ndi masewera a carrom simulator. Phunziroli likuphunzitsani zowongolera komanso momwe mungasewere carrom.",
+        "value_translated_native": null
+      }
+    ]
+  }
+}

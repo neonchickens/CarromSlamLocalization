@@ -1,0 +1,1685 @@
+{
+  "$type": "Localization, Assembly-CSharp-Editor",
+  "code": "hy",
+  "exonym_english": "Armenian",
+  "endonym_native": "հայկ",
+  "translations": {
+    "$type": "Translation[], Assembly-CSharp-Editor",
+    "$values": [
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_accept",
+        "description_text": "Confirms the action for the selected file",
+        "description_location": "A button on the file explorer menu",
+        "value_english": "Accept",
+        "value_translated_automated": "Ընդունել",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_bot",
+        "description_text": "Adds a bot player to the game",
+        "description_location": "A button on the players menu",
+        "value_english": "Add Bot",
+        "value_translated_automated": "Ավելացնել բոտ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_browser",
+        "description_text": "Views the browser menu, displaying other public games",
+        "description_location": "A button on the landing menu",
+        "value_english": "Browser",
+        "value_translated_automated": "Բրաուզեր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_customization",
+        "description_text": "Views the customization menu, allowing for customization of player items",
+        "description_location": "A button on the pause menu",
+        "value_english": "Customization",
+        "value_translated_automated": "Անհատականացում",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_invite",
+        "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
+        "description_location": "A button on the players menu",
+        "value_english": "Invite Friends",
+        "value_translated_automated": "Հրավիրեք ընկերներին",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_join",
+        "description_text": "Joins the server of the selected lobby",
+        "description_location": "A button on the browser menu",
+        "value_english": "Join",
+        "value_translated_automated": "Միանալ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_load",
+        "description_text": "Views the file explorer menu, allowing the user to select an available file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Load File",
+        "value_translated_automated": "Բեռնել ֆայլը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_mods",
+        "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
+        "description_location": "A button on the landing menu",
+        "value_english": "Mods",
+        "value_translated_automated": "Mods",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_play",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the landing menu",
+        "value_english": "Play",
+        "value_translated_automated": "Խաղալ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_players",
+        "description_text": "Views the players menu, allowing the user to manage bots and connected users",
+        "description_location": "A button on the pause menu",
+        "value_english": "Players",
+        "value_translated_automated": "Խաղացողներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_quit",
+        "description_text": "Quits the server/application",
+        "description_location": "A button on the landing menu",
+        "value_english": "Quit",
+        "value_translated_automated": "Դուրս գալ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_ready",
+        "description_text": "Confirms the local player is ready",
+        "description_location": "A button on the pregame menu",
+        "value_english": "Ready",
+        "value_translated_automated": "Պատրաստ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_resume",
+        "description_text": "Removes the pause menu, focusing on the play area",
+        "description_location": "A button on the pause menu",
+        "value_english": "Resume",
+        "value_translated_automated": "Ռեզյումե",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_rules",
+        "description_text": "Views the rules menu, allowing for managing of game types and rules",
+        "description_location": "A button on the pause menu",
+        "value_english": "Rules",
+        "value_translated_automated": "Կանոններ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_save",
+        "description_text": "Views the file explorer menu, allowing the user to save the config to file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Save File",
+        "value_translated_automated": "Պահպանել Ֆայլը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_server",
+        "description_text": "Views the server menu, allowing the user to manage their steam lobby",
+        "description_location": "A button on the pause menu",
+        "value_english": "Server",
+        "value_translated_automated": "Սերվեր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_settings",
+        "description_text": "Views the settings menu, allowing the user to manage their application settings",
+        "description_location": "A button on the landing and pause menu",
+        "value_english": "Settings",
+        "value_translated_automated": "Կարգավորումներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_statistics",
+        "description_text": "Views the statistics menu, allowing the user to view and manage previous games, statistics, and achievements",
+        "description_location": "A button on the landing menu",
+        "value_english": "Statistics",
+        "value_translated_automated": "Վիճակագրություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_back",
+        "description_text": "Exits the current menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Back",
+        "value_translated_automated": "Ետ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_next",
+        "description_text": "Jumps to the next camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Camera",
+        "value_translated_automated": "Հաջորդ տեսախցիկը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_prev",
+        "description_text": "Jumps to the previous camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Camera",
+        "value_translated_automated": "Նախորդ տեսախցիկ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_chat",
+        "description_text": "Toggles the focus of the chat/event menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Chat",
+        "value_translated_automated": "Միացնել Զրույցը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_primary",
+        "description_text": "Used to confirm shot placement and power",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Primary Action",
+        "value_translated_automated": "Առաջնային գործողություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_quaternary",
+        "description_text": "Used to reset pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Quaternary Action",
+        "value_translated_automated": "Չորրորդական գործողություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_scoreboard",
+        "description_text": "Toggles the visibility of the scoreboard menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Scoreboard",
+        "value_translated_automated": "Միացնել ցուցատախտակը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_secondary",
+        "description_text": "Used to cancel shots",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Secondary Action",
+        "value_translated_automated": "Երկրորդական գործողություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_start",
+        "description_text": "Used to confirm the current action",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Start",
+        "value_translated_automated": "Սկսել",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_tertiary",
+        "description_text": "Used to spawn individual pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Tertary Action",
+        "value_translated_automated": "Երրորդական գործողություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_toggle_ready",
+        "description_text": "Toggles the player pregame readiness",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Ready",
+        "value_translated_automated": "Միացնել «Պատրաստ է»:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_pointer",
+        "description_text": "Changes the color of the player's pointer",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Pointer Color",
+        "value_translated_automated": "Ցուցանիշի գույնը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_primary_striker",
+        "description_text": "Changes the primary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Color",
+        "value_translated_automated": "Առաջնային գույն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_secondary_striker",
+        "description_text": "Changes the secondary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Color",
+        "value_translated_automated": "Երկրորդական գույն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_trail",
+        "description_text": "Changes the color of the player's trail",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Trail Color",
+        "value_translated_automated": "Հետքի գույնը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_striker",
+        "description_text": "Changes the skin of the player's carrom striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Striker Skin",
+        "value_translated_automated": "հարձակվող Մաշկը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_trail",
+        "description_text": "Changes the skin of the player's trail",
+        "description_location": "A customization option in the general tab of the customization menu",
+        "value_english": "Trial Skin",
+        "value_translated_automated": "Փորձնական մաշկ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_primary_striker",
+        "description_text": "Changes the primary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Texture",
+        "value_translated_automated": "Առաջնային հյուսվածք",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_secondary_striker",
+        "description_text": "Changes the secondary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Texture",
+        "value_translated_automated": "Երկրորդական հյուսվածք",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_author",
+        "description_text": "Describes the creator of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Author",
+        "value_translated_automated": "Հեղինակ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_best_of",
+        "description_text": "Describes that this game is according to the following conditions",
+        "description_location": "A label in the intro menu",
+        "value_english": "Best of",
+        "value_translated_automated": "Լավագույնը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_blue",
+        "description_text": "Describes the value of blue used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Blue",
+        "value_translated_automated": "Կապույտ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_bots",
+        "description_text": "Describes the amount of computer controlled players present in the lobby",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Bots",
+        "value_translated_automated": "Բոտեր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_date",
+        "description_text": "Describes the date the mod was last updated",
+        "description_location": "A label in the mods menu",
+        "value_english": "Date",
+        "value_translated_automated": "Ամսաթիվ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_debt",
+        "description_text": "Describes the score debt owed by a particular team",
+        "description_location": "A label in the Professional Carrom game mode menu",
+        "value_english": "Team {0} owes {1} point(s)",
+        "value_translated_automated": "{0} թիմը պարտք է {1} միավոր(ներ)",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_description",
+        "description_text": "Describes the contents of the mod, set by the author of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Description",
+        "value_translated_automated": "Նկարագրություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_green",
+        "description_text": "Describes the value of green used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Green",
+        "value_translated_automated": "Կանաչ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_not_ready",
+        "description_text": "Describes a player who is not yet prepared to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Not Ready",
+        "value_translated_automated": "Պատրաստ չէ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_player",
+        "description_text": "Describes a player name",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player",
+        "value_translated_automated": "Խաղացող",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_players_ready",
+        "description_text": "Describes the amount of players waiting to play out of a total amount",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Players Ready",
+        "value_translated_automated": "Խաղացողները պատրաստ են",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_point_count",
+        "description_text": "Describes an amount of points",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} points",
+        "value_translated_automated": "{0} միավոր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_ready",
+        "description_text": "Describes a player who is prepared and waiting to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Ready",
+        "value_translated_automated": "Պատրաստ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_red",
+        "description_text": "Describes the value of red used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Red",
+        "value_translated_automated": "Կարմիր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round_count",
+        "description_text": "Describes an amount of rounds",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} rounds",
+        "value_translated_automated": "{0} տուր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_score",
+        "description_text": "Describes a score value",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Score",
+        "value_translated_automated": "Միավոր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_player",
+        "description_text": "Describes that the scoreboard represents individual player statistics",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player Scoreboard",
+        "value_translated_automated": "Խաղացողի վարկանիշային աղյուսակը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_team",
+        "description_text": "Describes that the scoreboard represents team scoring",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team Scoreboard",
+        "value_translated_automated": "Թիմի ցուցատախտակ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_spectators",
+        "description_text": "Describes the amount of players who are set to spectate mode",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Spectators",
+        "value_translated_automated": "Հանդիսատեսներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team",
+        "description_text": "Describes a team association",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team",
+        "value_translated_automated": "Թիմ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team_number",
+        "description_text": "Describes a specific team",
+        "description_location": "A label in the intro menu",
+        "value_english": "Team {0}",
+        "value_translated_automated": "Թիմ {0}",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_total",
+        "description_text": "Describes a current total score",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Total",
+        "value_translated_automated": "Ընդամենը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_end",
+        "description_text": "States the game has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Game has ended",
+        "value_translated_automated": "Խաղն ավարտվեց",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_start",
+        "description_text": "States the game has started",
+        "description_location": "An event message from the system",
+        "value_english": "Game is starting!",
+        "value_translated_automated": "Խաղը սկսվում է!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_covered",
+        "description_text": "States the queen has been covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has covered the queen",
+        "value_translated_automated": "{0} {1} թիմը ծածկել է թագուհուն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_uncovered",
+        "description_text": "States that the queen has been sank, but needs covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} must now complete the cover",
+        "value_translated_automated": "{0} {1} թիմն այժմ պետք է լրացնի շապիկը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_end",
+        "description_text": "States the round has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} has ended",
+        "value_translated_automated": "{0} տուրն ավարտվել է",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_start",
+        "description_text": "States the round has started",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} is starting!",
+        "value_translated_automated": "«{0}» տուրը մեկնարկում է:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_foul",
+        "description_text": "States that the player has sank their striker",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has fouled",
+        "value_translated_automated": "{0} {1} թիմը խախտումներ է կատարել",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_miss",
+        "description_text": "States that the player has missed",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has missed",
+        "value_translated_automated": "{0} {1} թիմը բաց է թողել",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_single",
+        "description_text": "States that the player has hit one or more pieces",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has sank their shot",
+        "value_translated_automated": "{0} {1} թիմը խփեց իր հարվածը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_anywhere",
+        "description_text": "Describes the ability to place your striker anywhere on the board",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Anywhere",
+        "value_translated_automated": "Որևէ տեղ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assorted",
+        "description_text": "Describes the ability to choose a variety of options throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Assorted",
+        "value_translated_automated": "Տեսականին",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_blitz",
+        "description_text": "Describes the blitz game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Blitz",
+        "value_translated_automated": "Բլից",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_bowling",
+        "description_text": "Describes the bowling game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Bowling",
+        "value_translated_automated": "Բոուլինգ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_carrom",
+        "description_text": "Describes the carrom game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "Կարոմ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_casual",
+        "description_text": "Describes the ability to place your striker anywhere on the baseline",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Casual",
+        "value_translated_automated": "Պատահական",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_crokinole",
+        "description_text": "Describes the crokinole game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Crokinole",
+        "value_translated_automated": "Կրոկինոլ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_default",
+        "description_text": "Describes a default configuration",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Default",
+        "value_translated_automated": "Կանխադրված",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_disc_pool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc Pool",
+        "value_translated_automated": "Սկավառակի լողավազան",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_friends",
+        "description_text": "Describes the friends only configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Friends",
+        "value_translated_automated": "Ընկերներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_points",
+        "description_text": "Describes the points game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Points",
+        "value_translated_automated": "Միավորներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_private",
+        "description_text": "Describes the private configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Private",
+        "value_translated_automated": "Մասնավոր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_professional",
+        "description_text": "Describes the professional game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Professional",
+        "value_translated_automated": "Պրոֆեսիոնալ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_public",
+        "description_text": "Describes the public configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Public",
+        "value_translated_automated": "Հանրային",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_random",
+        "description_text": "Describes the ability to choose a random option to use throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Random",
+        "value_translated_automated": "Պատահական",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_sandbox",
+        "description_text": "Describes the sandbox game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Sandbox",
+        "value_translated_automated": "Sandbox",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_strict",
+        "description_text": "Describes the ability to place your striker only where the rules allow",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Strict",
+        "value_translated_automated": "Խիստ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_training",
+        "description_text": "Describes the training game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "Ուսուցում",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_tutorial",
+        "description_text": "Describes the tutorial game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Tutorial",
+        "value_translated_automated": "Ձեռնարկ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_board",
+        "description_text": "Choice of what board will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "Վարչություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_forward_striker",
+        "description_text": "Choice of whether a forward only trajectory rule will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Forward shot only",
+        "value_translated_automated": "Միայն առաջ հարված",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_inset",
+        "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket inset",
+        "value_translated_automated": "Պատի գրպանի ներդիր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_rounded",
+        "description_text": "Choice of whether to round off the corner around the pocket",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket rounded",
+        "value_translated_automated": "Պատի գրպանը կլորացված",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_board",
+        "description_text": "Choice of how bouncy the floor is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness board",
+        "value_translated_automated": "Ճարպակալման տախտակ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_piece",
+        "description_text": "Choice of how bouncy the piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness piece",
+        "value_translated_automated": "Ճարպակալման կտոր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_striker",
+        "description_text": "Choice of how bouncy a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness striker",
+        "value_translated_automated": "Հարձակվող",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_wall",
+        "description_text": "Choice of how bouncy the wall is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness wall",
+        "value_translated_automated": "Թափանցիկ պատ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_points",
+        "description_text": "Choice of max points to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Point maximum",
+        "value_translated_automated": "Առավելագույն միավոր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_rounds",
+        "description_text": "Choice of max rounds to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Round maximum",
+        "value_translated_automated": "Կլոր առավելագույնը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_black",
+        "description_text": "Choice of how many black pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces black",
+        "value_translated_automated": "Սև կտորներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_red",
+        "description_text": "Choice of how many red pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces red",
+        "value_translated_automated": "Կարմիր կտորներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_team",
+        "description_text": "Choice of how many team pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces per team",
+        "value_translated_automated": "Կտորներ մեկ թիմի համար",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_white",
+        "description_text": "Choice of how many white pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces white",
+        "value_translated_automated": "Կտորներ սպիտակ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_spots",
+        "description_text": "Choice of how many sides the board will have",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Spots",
+        "value_translated_automated": "Բծեր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_teams",
+        "description_text": "Choice of how many teams could be in the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Teams",
+        "value_translated_automated": "Թիմեր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_distance_baseline",
+        "description_text": "Choice of how far the baseline is from the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Distance baseline",
+        "value_translated_automated": "Հեռավորության ելակետ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_break",
+        "description_text": "Choice of break configuration",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Break",
+        "value_translated_automated": "Ընդմիջում",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_friction_board",
+        "description_text": "Choice of how much friction the board has",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board friction",
+        "value_translated_automated": "Տախտակի շփում",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game",
+        "description_text": "Choice of game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "Խաղ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game_mode",
+        "description_text": "Choice of game mode within a game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game mode",
+        "value_translated_automated": "Խաղի ռեժիմ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_piece",
+        "description_text": "Choice of the mass of pieces",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass pieces",
+        "value_translated_automated": "Զանգվածային կտորներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_striker",
+        "description_text": "Choice of the mass of uniform strikers",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass striker",
+        "value_translated_automated": "Զանգվածային հարձակվող",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_percent_inset",
+        "description_text": "Choice of how inset the pocket is into the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pocket inset",
+        "value_translated_automated": "Գրպանի ներդիր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_placement_striker",
+        "description_text": "Choice of where a player is allowed to place a striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Striker placement",
+        "value_translated_automated": "Հարձակվողի տեղավորում",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_cap_queen",
+        "description_text": "Choice of where the game caps the queens point contribution",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Queen points cap",
+        "value_translated_automated": "Queen միավոր գլխարկ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_black",
+        "description_text": "Choice of how many points a black piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for black",
+        "value_translated_automated": "Միավորներ սևի համար",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_red",
+        "description_text": "Choice of how many points a red piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for red",
+        "value_translated_automated": "Միավորներ կարմիրի համար",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_team",
+        "description_text": "Choice of how many points a team piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for piece",
+        "value_translated_automated": "Միավորներ կտորի համար",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_white",
+        "description_text": "Choice of how many points a white piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for white",
+        "value_translated_automated": "Միավորներ սպիտակի համար",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_power_striker",
+        "description_text": "Choice of how high the power cap for strikers is set",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power Scale",
+        "value_translated_automated": "Power Scale",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_board",
+        "description_text": "Choice of how large a board is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Board",
+        "value_translated_automated": "Չափի տախտակ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_piece",
+        "description_text": "Choice of how large a piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Piece",
+        "value_translated_automated": "Չափի կտոր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_pocket",
+        "description_text": "Choice of how large a pocket is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Pocket",
+        "value_translated_automated": "Գրպանի չափ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_striker",
+        "description_text": "Choice of how large a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Striker",
+        "value_translated_automated": "Չափի հարձակվող",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_time_turn",
+        "description_text": "Choice of how long a turn can be",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Turn Timer",
+        "value_translated_automated": "Պտտեցնել ժմչփը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_uniform_striker",
+        "description_text": "Choice of enforcing a uniform striker across all players",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Uniform Striker",
+        "value_translated_automated": "Համազգեստ հարձակվող",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_count_max_players",
+        "description_text": "Describes the maximum player server count",
+        "description_location": "A setting in the server menu",
+        "value_english": "Max Players",
+        "value_translated_automated": "Max Players",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_name",
+        "description_text": "Describes the public server name",
+        "description_location": "A setting in the server menu",
+        "value_english": "Name",
+        "value_translated_automated": "Անուն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_privacy",
+        "description_text": "Describes the server visibility",
+        "description_location": "A setting in the server menu",
+        "value_english": "Privacy",
+        "value_translated_automated": "Գաղտնիություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_cursor",
+        "description_text": "Describes the sensitivity of the cursor",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Cursor sensitivity",
+        "value_translated_automated": "Կուրսորի զգայունությունը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_zoom",
+        "description_text": "Describes the sensitivity of the zoom",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Zoom sensitivity",
+        "value_translated_automated": "Մեծացնելու զգայունություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_fullscreen",
+        "description_text": "Describes the fullscreen status of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Fullscreen",
+        "value_translated_automated": "Ամբողջ էկրանով",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_refresh_rate",
+        "description_text": "Describes the refresh rate of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Refresh rate",
+        "value_translated_automated": "Թարմացման արագությունը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_resolution",
+        "description_text": "Describes the video resolution of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Resolution",
+        "value_translated_automated": "Բանաձեւ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game",
+        "description_text": "Describes the volume relating to physical game elements",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game volume",
+        "value_translated_automated": "Խաղի ծավալը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game_mode",
+        "description_text": "Describes the volume relating to game mode events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game mode volume",
+        "value_translated_automated": "Խաղի ռեժիմի ծավալը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_master",
+        "description_text": "Describes the volume scale of all volume types",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Master volume",
+        "value_translated_automated": "Հիմնական ծավալը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_menu",
+        "description_text": "Describes the volume relating to menu events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "UI volume",
+        "value_translated_automated": "UI ծավալը",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_black_sank",
+        "description_text": "Describes the amount of black pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Black Sank",
+        "value_translated_automated": "Սև Սանկ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_foul",
+        "description_text": "Describes the amount of strikers sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Fouls",
+        "value_translated_automated": "Ֆայլեր",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_sank",
+        "description_text": "Describes the amount of red pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Sank",
+        "value_translated_automated": "Թագուհի Սանկ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_attempt",
+        "description_text": "Describes the amount of strikers shot by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Attempt",
+        "value_translated_automated": "Կրակոցների փորձ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_made",
+        "description_text": "Describes the amount of pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Sank",
+        "value_translated_automated": "Shot Սանկ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_white_sank",
+        "description_text": "Describes the amount of white pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "White Sank",
+        "value_translated_automated": "Սպիտակ Սանկ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_audio",
+        "description_text": "Describes a page of audio related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Audio",
+        "value_translated_automated": "Աուդիո",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_board",
+        "description_text": "Describes a page of board related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "Վարչություն",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_breaks",
+        "description_text": "Describes a page of carrom break related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Breaks",
+        "value_translated_automated": "Ընդմիջումներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_carrom",
+        "description_text": "Describes a page of carrom related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "Կարոմ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_controls",
+        "description_text": "Describes a page of rebind related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Controls",
+        "value_translated_automated": "Կառավարում",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_customizations",
+        "description_text": "Describes a page of customization related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Customizations",
+        "value_translated_automated": "Անհատականացումներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game",
+        "description_text": "Describes a page of game related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "Խաղ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game_mode",
+        "description_text": "Describes a page of game mode related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game Mode",
+        "value_translated_automated": "Խաղի ռեժիմ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_general",
+        "description_text": "Describes a page of general related rules",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "General",
+        "value_translated_automated": "Գեներալ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_personal",
+        "description_text": "Describes a page of personal related customizaitons",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Personal",
+        "value_translated_automated": "Անձնական",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_pointer",
+        "description_text": "Describes a page of pointer related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Pointer",
+        "value_translated_automated": "Ցուցիչ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_presets",
+        "description_text": "Describes a page of ruleset related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Presets",
+        "value_translated_automated": "Նախադրվածներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_skin",
+        "description_text": "Describes a page of carrom skin related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Skin",
+        "value_translated_automated": "Մաշկ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trail",
+        "description_text": "Describes a page of trail related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Trail",
+        "value_translated_automated": "Հետք",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trainings",
+        "description_text": "Describes a page of training related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Trainings",
+        "value_translated_automated": "Թրեյնինգներ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_video",
+        "description_text": "Describes a page of video related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Video",
+        "value_translated_automated": "Տեսանյութ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_baselines",
+        "description_text": "Defines the location where each turn starts",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The striker must start play from the baseline.",
+        "value_translated_automated": "Հարձակվողը պետք է խաղը սկսի բազային գծից:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_board_carrom",
+        "description_text": "Defines the carrom board",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here we see a carrom board.",
+        "value_translated_automated": "Այստեղ մենք տեսնում ենք կարոմ տախտակ:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break",
+        "description_text": "Defines the break at the start of a round",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
+        "value_translated_automated": "Քարոմի յուրաքանչյուր խաղ կսկսվի կենտրոնում հավաքված բոլոր խաղաքարերով: Ռաունդի առաջին հարվածը կոչվում է ընդմիջում:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_bot",
+        "description_text": "Shows the user what a break may look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here a bot demonstrates a break.",
+        "value_translated_automated": "Այստեղ բոտը ցույց է տալիս ընդմիջում:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_player",
+        "description_text": "Encourages the user to take a shot at a break",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself!",
+        "value_translated_automated": "Փորձեք ինքներդ:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_strategy",
+        "description_text": "Defines the strategy behind a break scenario",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
+        "value_translated_automated": "Լավ հարվածի ընդմիջումը պետք է ցրի կտորները տախտակի վրա: Հմուտ խաղացողը կարող է իրեն առավելություն տալ ամբողջ ռաունդի ընթացքում լավ ընդմիջումից և հետագա հարվածներից:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_camera",
+        "description_text": "Defines the camera controls",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
+        "value_translated_automated": "Դուք կարող եք փոխել տեսախցիկի անկյունները՝ սեղմելով 0, 1, 2 կամ 3: Խաղացողի առաջարկվող տեսախցիկը 1 է: Դուք կարող եք ցանկացած պահի տեղափոխել տեսախցիկը՝ սեղմելով աջ սեղմումը և շարժելով մկնիկը: Տեսեք ավելի շատ տեսախցիկի կառավարումներ Կառավարման ընտրացանկում:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_carrom",
+        "description_text": "Defines the game of carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
+        "value_translated_automated": "Carrom-ը նվագարկվում է սկավառակները այլ սկավառակների մեջ պտտելով՝ դրանք տախտակի վրա անցքերի մեջ մղելու համար: Այդպես վարվելը ձեզ ևս մեկ շրջադարձ է տալիս: Խաղն ավարտվում է, երբ թիմը վերջանում է թիրախի համար նախատեսված սկավառակներով:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_chat",
+        "description_text": "Defines how chat can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Turn history and chat can be opened by pressing T.",
+        "value_translated_automated": "Շրջադարձերի պատմությունը և զրույցը կարող են բացվել՝ սեղմելով T:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_complete",
+        "description_text": "Encourages the user that they are prepared for carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
+        "value_translated_automated": "Դուք ավարտել եք ձեռնարկը: Այժմ դուք պատրաստ եք խաղալ carrom խաղեր ընկերների և բոտերի հետ:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_cursor",
+        "description_text": "Encourages the user to move their cursor to the correct location",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Place your cursor on the baseline to start your shot.",
+        "value_translated_automated": "Տեղադրեք ձեր կուրսորը բազային գծի վրա՝ ձեր կրակոցը սկսելու համար:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_drag",
+        "description_text": "Encourages the user to perform an action to add power to the shot",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Drag your cursor away from your target while continuing to hold left click.",
+        "value_translated_automated": "Քաշեք ձեր կուրսորը ձեր թիրախից՝ շարունակելով պահել ձախ սեղմումը:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_left_click",
+        "description_text": "Encourages the user to perform an action to confirm their striker placement",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Left click and hold to confirm your striker placement.",
+        "value_translated_automated": "Ձախ սեղմեք և պահեք՝ ձեր հարձակվողի դիրքը հաստատելու համար:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pause",
+        "description_text": "Defines the pause menu functionality",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
+        "value_translated_automated": "Դադարի ընտրացանկը պարունակում է հավելվածի կարգավորումներ և կառավարումներ, և ցանկացած պահի կարող եք մուտք գործել այն՝ սեղմելով «Escape» ստեղնը:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_1",
+        "description_text": "Defines the pockets",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
+        "value_translated_automated": "Ստանդարտ կարոմ տախտակները գալիս են չորս անցքերով, որոնք կոչվում են գրպաններ, յուրաքանչյուր անկյունում:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_2",
+        "description_text": "Shows the user their first carrom shot example",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
+        "value_translated_automated": "Այս գրպաններն այն վայրերն են, որտեղ դուք ցանկանում եք խորտակել սկավառակները: Դիտեք, թե ինչպես է խաղում մեր բոտը:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen",
+        "description_text": "Defines the queen",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
+        "value_translated_automated": "Պրոֆեսիոնալ ռեժիմը կպահանջի թագուհուն գրպանել՝ փուլն ավարտելու համար: Թագուհուն գոլ խփելու համար նախ պետք է գրպանեք թագուհուն, ապա հաջողությամբ գրպանեք ձեր հաջորդ կրակոցը՝ թագուհուն ծածկելու համար: Եթե ​​դա չկատարվի, թագուհուն կվերադարձնեն խաղատախտակ:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_bot",
+        "description_text": "Shows the user professional mode's queen pocketing sequence",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
+        "value_translated_automated": "Ահա մի սցենար. Դիտեք բոտի գրպանը, ապա ծածկեք թագուհուն:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_player",
+        "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself. First the queen, then the white piece.",
+        "value_translated_automated": "Փորձեք ինքներդ: Սկզբում թագուհին, հետո սպիտակ կտորը։",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_recommendation",
+        "description_text": "Recommends the user try an easy game mode",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
+        "value_translated_automated": "Միավորների ռեժիմը խորհուրդ է տրվում ձեր առաջին երկու խաղերի համար: Սա ձեզ շատ հնարավորություններ է տալիս գոլ խփելու համար:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_release",
+        "description_text": "Encourages the user to perform an action to release the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Release left click to flick your striker into play.",
+        "value_translated_automated": "Ազատեք ձախ սեղմումը՝ ձեր հարձակվողին խաղալու համար:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoreboard",
+        "description_text": "Defines how the scoreboard can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
+        "value_translated_automated": "Խաղի տարբեր ռեժիմներն ունեն միավորների տարբեր կանոններ, սակայն հաշիվը կարելի է դիտել ցանկացած ժամանակ՝ սեղմելով TAB ստեղնը:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoring",
+        "description_text": "Defines how different game modes handle scoring",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
+        "value_translated_automated": "Պրոֆեսիոնալ և սկավառակային լողավազանի ռեժիմները թույլ կտան, որ դուք միայն նպատակ ունենաք գրպանել ձեր թիմի գույնը, մինչդեռ միավորների ռեժիմը տարբեր միավորների արժեքներ է հատկացնում յուրաքանչյուր տարբեր գույնի կտորի համար: Սովորաբար կարմիր գույնի կտորը բարձր արժեք ունի և կոչվում է թագուհի:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_signature",
+        "description_text": "Well wishes from our development team",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
+        "value_translated_automated": "Վայելեք Carrom Slam-ը: ~Dinahsoft թիմ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_striker",
+        "description_text": "Defines the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The disc used to start play is called the striker.",
+        "value_translated_automated": "Խաղը սկսելու համար օգտագործվող սկավառակը կոչվում է հարձակվող:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_bot",
+        "description_text": "Shows the user what a turn might look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now let's try to sink our first shot. Watch the bot first.",
+        "value_translated_automated": "Հիմա փորձենք խորտակել մեր առաջին կրակոցը։ Նախ դիտեք բոտը:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_player",
+        "description_text": "Encourages the user to try pocketing the white piece",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
+        "value_translated_automated": "Հիմա ձեր հերթն է: Խփեք այդ սպիտակ կտորը կողքի գրպանը, ինչպես բոտը:",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_tutorial",
+        "description_text": "Defines Carrom Slam! and the tutorial",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
+        "value_translated_automated": "Carrom Slam! carrom simulator խաղ է: Այս ձեռնարկը կսովորեցնի ձեզ կառավարել և ինչպես խաղալ carrom:",
+        "value_translated_native": null
+      }
+    ]
+  }
+}

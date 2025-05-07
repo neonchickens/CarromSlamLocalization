@@ -1,0 +1,1685 @@
+{
+  "$type": "Localization, Assembly-CSharp-Editor",
+  "code": "hi",
+  "exonym_english": "Hindi",
+  "endonym_native": "हिंदी",
+  "translations": {
+    "$type": "Translation[], Assembly-CSharp-Editor",
+    "$values": [
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_accept",
+        "description_text": "Confirms the action for the selected file",
+        "description_location": "A button on the file explorer menu",
+        "value_english": "Accept",
+        "value_translated_automated": "स्वीकार करना",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_bot",
+        "description_text": "Adds a bot player to the game",
+        "description_location": "A button on the players menu",
+        "value_english": "Add Bot",
+        "value_translated_automated": "बॉट जोड़ें",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_browser",
+        "description_text": "Views the browser menu, displaying other public games",
+        "description_location": "A button on the landing menu",
+        "value_english": "Browser",
+        "value_translated_automated": "ब्राउज़र",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_customization",
+        "description_text": "Views the customization menu, allowing for customization of player items",
+        "description_location": "A button on the pause menu",
+        "value_english": "Customization",
+        "value_translated_automated": "अनुकूलन",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_invite",
+        "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
+        "description_location": "A button on the players menu",
+        "value_english": "Invite Friends",
+        "value_translated_automated": "मित्रों को आमंत्रित करें",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_join",
+        "description_text": "Joins the server of the selected lobby",
+        "description_location": "A button on the browser menu",
+        "value_english": "Join",
+        "value_translated_automated": "जोड़ना",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_load",
+        "description_text": "Views the file explorer menu, allowing the user to select an available file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Load File",
+        "value_translated_automated": "फ़ाइल लोड करें",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_mods",
+        "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
+        "description_location": "A button on the landing menu",
+        "value_english": "Mods",
+        "value_translated_automated": "मॉड",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_play",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the landing menu",
+        "value_english": "Play",
+        "value_translated_automated": "खेल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_players",
+        "description_text": "Views the players menu, allowing the user to manage bots and connected users",
+        "description_location": "A button on the pause menu",
+        "value_english": "Players",
+        "value_translated_automated": "खिलाड़ी",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_quit",
+        "description_text": "Quits the server/application",
+        "description_location": "A button on the landing menu",
+        "value_english": "Quit",
+        "value_translated_automated": "छोड़ना",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_ready",
+        "description_text": "Confirms the local player is ready",
+        "description_location": "A button on the pregame menu",
+        "value_english": "Ready",
+        "value_translated_automated": "तैयार",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_resume",
+        "description_text": "Removes the pause menu, focusing on the play area",
+        "description_location": "A button on the pause menu",
+        "value_english": "Resume",
+        "value_translated_automated": "फिर शुरू करना",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_rules",
+        "description_text": "Views the rules menu, allowing for managing of game types and rules",
+        "description_location": "A button on the pause menu",
+        "value_english": "Rules",
+        "value_translated_automated": "नियम",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_save",
+        "description_text": "Views the file explorer menu, allowing the user to save the config to file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Save File",
+        "value_translated_automated": "फाइल सुरक्षित करें",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_server",
+        "description_text": "Views the server menu, allowing the user to manage their steam lobby",
+        "description_location": "A button on the pause menu",
+        "value_english": "Server",
+        "value_translated_automated": "सर्वर",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_settings",
+        "description_text": "Views the settings menu, allowing the user to manage their application settings",
+        "description_location": "A button on the landing and pause menu",
+        "value_english": "Settings",
+        "value_translated_automated": "सेटिंग्स",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_statistics",
+        "description_text": "Views the statistics menu, allowing the user to view and manage previous games, statistics, and achievements",
+        "description_location": "A button on the landing menu",
+        "value_english": "Statistics",
+        "value_translated_automated": "आंकड़े",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_back",
+        "description_text": "Exits the current menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Back",
+        "value_translated_automated": "पीछे",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_next",
+        "description_text": "Jumps to the next camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Camera",
+        "value_translated_automated": "अगला कैमरा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_prev",
+        "description_text": "Jumps to the previous camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Camera",
+        "value_translated_automated": "पिछला कैमरा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_chat",
+        "description_text": "Toggles the focus of the chat/event menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Chat",
+        "value_translated_automated": "चैट टॉगल करें",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_primary",
+        "description_text": "Used to confirm shot placement and power",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Primary Action",
+        "value_translated_automated": "प्राथमिक क्रिया",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_quaternary",
+        "description_text": "Used to reset pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Quaternary Action",
+        "value_translated_automated": "चतुर्धातुक क्रिया",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_scoreboard",
+        "description_text": "Toggles the visibility of the scoreboard menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Scoreboard",
+        "value_translated_automated": "स्कोरबोर्ड टॉगल करें",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_secondary",
+        "description_text": "Used to cancel shots",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Secondary Action",
+        "value_translated_automated": "द्वितीयक क्रिया",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_start",
+        "description_text": "Used to confirm the current action",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Start",
+        "value_translated_automated": "शुरू",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_tertiary",
+        "description_text": "Used to spawn individual pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Tertary Action",
+        "value_translated_automated": "तृतीयक क्रिया",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_toggle_ready",
+        "description_text": "Toggles the player pregame readiness",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Ready",
+        "value_translated_automated": "टॉगल तैयार",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_pointer",
+        "description_text": "Changes the color of the player's pointer",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Pointer Color",
+        "value_translated_automated": "सूचक रंग",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_primary_striker",
+        "description_text": "Changes the primary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Color",
+        "value_translated_automated": "प्राथमिक रंग",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_secondary_striker",
+        "description_text": "Changes the secondary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Color",
+        "value_translated_automated": "द्वितीयक रंग",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_trail",
+        "description_text": "Changes the color of the player's trail",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Trail Color",
+        "value_translated_automated": "पगडंडी का रंग",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_striker",
+        "description_text": "Changes the skin of the player's carrom striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Striker Skin",
+        "value_translated_automated": "स्ट्राइकर त्वचा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_trail",
+        "description_text": "Changes the skin of the player's trail",
+        "description_location": "A customization option in the general tab of the customization menu",
+        "value_english": "Trial Skin",
+        "value_translated_automated": "परीक्षण त्वचा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_primary_striker",
+        "description_text": "Changes the primary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Texture",
+        "value_translated_automated": "प्राथमिक बनावट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_secondary_striker",
+        "description_text": "Changes the secondary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Texture",
+        "value_translated_automated": "माध्यमिक बनावट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_author",
+        "description_text": "Describes the creator of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Author",
+        "value_translated_automated": "लेखक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_best_of",
+        "description_text": "Describes that this game is according to the following conditions",
+        "description_location": "A label in the intro menu",
+        "value_english": "Best of",
+        "value_translated_automated": "के बहतरीन",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_blue",
+        "description_text": "Describes the value of blue used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Blue",
+        "value_translated_automated": "नीला",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_bots",
+        "description_text": "Describes the amount of computer controlled players present in the lobby",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Bots",
+        "value_translated_automated": "बॉट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_date",
+        "description_text": "Describes the date the mod was last updated",
+        "description_location": "A label in the mods menu",
+        "value_english": "Date",
+        "value_translated_automated": "तारीख",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_debt",
+        "description_text": "Describes the score debt owed by a particular team",
+        "description_location": "A label in the Professional Carrom game mode menu",
+        "value_english": "Team {0} owes {1} point(s)",
+        "value_translated_automated": "टीम {0} को {1} अंक बकाया हैं",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_description",
+        "description_text": "Describes the contents of the mod, set by the author of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Description",
+        "value_translated_automated": "विवरण",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_green",
+        "description_text": "Describes the value of green used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Green",
+        "value_translated_automated": "हरा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_not_ready",
+        "description_text": "Describes a player who is not yet prepared to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Not Ready",
+        "value_translated_automated": "तैयार नहीं है",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_player",
+        "description_text": "Describes a player name",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player",
+        "value_translated_automated": "खिलाड़ी",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_players_ready",
+        "description_text": "Describes the amount of players waiting to play out of a total amount",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Players Ready",
+        "value_translated_automated": "खिलाड़ी तैयार",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_point_count",
+        "description_text": "Describes an amount of points",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} points",
+        "value_translated_automated": "{0} अंक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_ready",
+        "description_text": "Describes a player who is prepared and waiting to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Ready",
+        "value_translated_automated": "तैयार",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_red",
+        "description_text": "Describes the value of red used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Red",
+        "value_translated_automated": "लाल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round_count",
+        "description_text": "Describes an amount of rounds",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} rounds",
+        "value_translated_automated": "{0} राउंड",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_score",
+        "description_text": "Describes a score value",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Score",
+        "value_translated_automated": "अंक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_player",
+        "description_text": "Describes that the scoreboard represents individual player statistics",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player Scoreboard",
+        "value_translated_automated": "प्लेयर स्कोरबोर्ड",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_team",
+        "description_text": "Describes that the scoreboard represents team scoring",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team Scoreboard",
+        "value_translated_automated": "टीम स्कोरबोर्ड",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_spectators",
+        "description_text": "Describes the amount of players who are set to spectate mode",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Spectators",
+        "value_translated_automated": "दर्शकों",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team",
+        "description_text": "Describes a team association",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team",
+        "value_translated_automated": "टीम",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team_number",
+        "description_text": "Describes a specific team",
+        "description_location": "A label in the intro menu",
+        "value_english": "Team {0}",
+        "value_translated_automated": "टीम {0}",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_total",
+        "description_text": "Describes a current total score",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Total",
+        "value_translated_automated": "कुल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_end",
+        "description_text": "States the game has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Game has ended",
+        "value_translated_automated": "खेल समाप्त हो गया है",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_start",
+        "description_text": "States the game has started",
+        "description_location": "An event message from the system",
+        "value_english": "Game is starting!",
+        "value_translated_automated": "खेल शुरू हो रहा है!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_covered",
+        "description_text": "States the queen has been covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has covered the queen",
+        "value_translated_automated": "टीम {0} {1} ने रानी को कवर कर लिया है",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_uncovered",
+        "description_text": "States that the queen has been sank, but needs covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} must now complete the cover",
+        "value_translated_automated": "टीम {0} {1} को अब कवर पूरा करना होगा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_end",
+        "description_text": "States the round has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} has ended",
+        "value_translated_automated": "राउंड {0} ख़त्म हो गया है",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_start",
+        "description_text": "States the round has started",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} is starting!",
+        "value_translated_automated": "राउंड {0} शुरू हो रहा है!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_foul",
+        "description_text": "States that the player has sank their striker",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has fouled",
+        "value_translated_automated": "टीम {0} {1} ने फाउल किया है",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_miss",
+        "description_text": "States that the player has missed",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has missed",
+        "value_translated_automated": "टीम {0} {1} चूक गई",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_single",
+        "description_text": "States that the player has hit one or more pieces",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has sank their shot",
+        "value_translated_automated": "टीम {0} {1} ने अपना शॉट बर्बाद कर लिया है",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_anywhere",
+        "description_text": "Describes the ability to place your striker anywhere on the board",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Anywhere",
+        "value_translated_automated": "कहीं भी",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assorted",
+        "description_text": "Describes the ability to choose a variety of options throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Assorted",
+        "value_translated_automated": "मिश्रित",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_blitz",
+        "description_text": "Describes the blitz game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Blitz",
+        "value_translated_automated": "बम बरसाना",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_bowling",
+        "description_text": "Describes the bowling game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Bowling",
+        "value_translated_automated": "बॉलिंग",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_carrom",
+        "description_text": "Describes the carrom game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "कैरम",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_casual",
+        "description_text": "Describes the ability to place your striker anywhere on the baseline",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Casual",
+        "value_translated_automated": "अनौपचारिक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_crokinole",
+        "description_text": "Describes the crokinole game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Crokinole",
+        "value_translated_automated": "क्रोकिनोल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_default",
+        "description_text": "Describes a default configuration",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Default",
+        "value_translated_automated": "गलती करना",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_disc_pool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc Pool",
+        "value_translated_automated": "डिस्क पूल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_friends",
+        "description_text": "Describes the friends only configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Friends",
+        "value_translated_automated": "दोस्त",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_points",
+        "description_text": "Describes the points game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Points",
+        "value_translated_automated": "अंक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_private",
+        "description_text": "Describes the private configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Private",
+        "value_translated_automated": "निजी",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_professional",
+        "description_text": "Describes the professional game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Professional",
+        "value_translated_automated": "पेशेवर",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_public",
+        "description_text": "Describes the public configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Public",
+        "value_translated_automated": "जनता",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_random",
+        "description_text": "Describes the ability to choose a random option to use throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Random",
+        "value_translated_automated": "यादृच्छिक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_sandbox",
+        "description_text": "Describes the sandbox game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Sandbox",
+        "value_translated_automated": "सैंडबॉक्स",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_strict",
+        "description_text": "Describes the ability to place your striker only where the rules allow",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Strict",
+        "value_translated_automated": "कठोर",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_training",
+        "description_text": "Describes the training game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "प्रशिक्षण",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_tutorial",
+        "description_text": "Describes the tutorial game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Tutorial",
+        "value_translated_automated": "ट्यूटोरियल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_board",
+        "description_text": "Choice of what board will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "तख़्ता",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_forward_striker",
+        "description_text": "Choice of whether a forward only trajectory rule will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Forward shot only",
+        "value_translated_automated": "केवल फॉरवर्ड शॉट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_inset",
+        "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket inset",
+        "value_translated_automated": "दीवार पॉकेट इनसेट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_rounded",
+        "description_text": "Choice of whether to round off the corner around the pocket",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket rounded",
+        "value_translated_automated": "दीवार की जेब गोलाकार",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_board",
+        "description_text": "Choice of how bouncy the floor is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness board",
+        "value_translated_automated": "बाउंसीनेस बोर्ड",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_piece",
+        "description_text": "Choice of how bouncy the piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness piece",
+        "value_translated_automated": "उछालभरा टुकड़ा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_striker",
+        "description_text": "Choice of how bouncy a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness striker",
+        "value_translated_automated": "उछालभरा स्ट्राइकर",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_wall",
+        "description_text": "Choice of how bouncy the wall is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness wall",
+        "value_translated_automated": "उछालभरी दीवार",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_points",
+        "description_text": "Choice of max points to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Point maximum",
+        "value_translated_automated": "अधिकतम बिंदु",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_rounds",
+        "description_text": "Choice of max rounds to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Round maximum",
+        "value_translated_automated": "अधिकतम गोल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_black",
+        "description_text": "Choice of how many black pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces black",
+        "value_translated_automated": "टुकड़े काले",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_red",
+        "description_text": "Choice of how many red pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces red",
+        "value_translated_automated": "टुकड़े लाल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_team",
+        "description_text": "Choice of how many team pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces per team",
+        "value_translated_automated": "प्रति टीम टुकड़े",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_white",
+        "description_text": "Choice of how many white pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces white",
+        "value_translated_automated": "टुकड़े सफेद",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_spots",
+        "description_text": "Choice of how many sides the board will have",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Spots",
+        "value_translated_automated": "स्पॉट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_teams",
+        "description_text": "Choice of how many teams could be in the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Teams",
+        "value_translated_automated": "टीमें",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_distance_baseline",
+        "description_text": "Choice of how far the baseline is from the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Distance baseline",
+        "value_translated_automated": "दूरी आधार रेखा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_break",
+        "description_text": "Choice of break configuration",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Break",
+        "value_translated_automated": "तोड़ना",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_friction_board",
+        "description_text": "Choice of how much friction the board has",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board friction",
+        "value_translated_automated": "बोर्ड घर्षण",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game",
+        "description_text": "Choice of game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "खेल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game_mode",
+        "description_text": "Choice of game mode within a game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game mode",
+        "value_translated_automated": "खेल मोड",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_piece",
+        "description_text": "Choice of the mass of pieces",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass pieces",
+        "value_translated_automated": "बड़े पैमाने पर टुकड़े",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_striker",
+        "description_text": "Choice of the mass of uniform strikers",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass striker",
+        "value_translated_automated": "मास स्ट्राइकर",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_percent_inset",
+        "description_text": "Choice of how inset the pocket is into the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pocket inset",
+        "value_translated_automated": "पॉकेट इनसेट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_placement_striker",
+        "description_text": "Choice of where a player is allowed to place a striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Striker placement",
+        "value_translated_automated": "स्ट्राइकर प्लेसमेंट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_cap_queen",
+        "description_text": "Choice of where the game caps the queens point contribution",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Queen points cap",
+        "value_translated_automated": "रानी अंक टोपी",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_black",
+        "description_text": "Choice of how many points a black piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for black",
+        "value_translated_automated": "काले रंग के लिए अंक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_red",
+        "description_text": "Choice of how many points a red piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for red",
+        "value_translated_automated": "लाल के लिए अंक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_team",
+        "description_text": "Choice of how many points a team piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for piece",
+        "value_translated_automated": "टुकड़े के लिए अंक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_white",
+        "description_text": "Choice of how many points a white piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for white",
+        "value_translated_automated": "सफ़ेद के लिए अंक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_power_striker",
+        "description_text": "Choice of how high the power cap for strikers is set",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power Scale",
+        "value_translated_automated": "पावर स्केल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_board",
+        "description_text": "Choice of how large a board is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Board",
+        "value_translated_automated": "साइज़ बोर्ड",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_piece",
+        "description_text": "Choice of how large a piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Piece",
+        "value_translated_automated": "साइज़ का टुकड़ा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_pocket",
+        "description_text": "Choice of how large a pocket is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Pocket",
+        "value_translated_automated": "साइज़ पॉकेट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_striker",
+        "description_text": "Choice of how large a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Striker",
+        "value_translated_automated": "साइज़ स्ट्राइकर",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_time_turn",
+        "description_text": "Choice of how long a turn can be",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Turn Timer",
+        "value_translated_automated": "टाइमर चालू करें",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_uniform_striker",
+        "description_text": "Choice of enforcing a uniform striker across all players",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Uniform Striker",
+        "value_translated_automated": "वर्दीधारी स्ट्राइकर",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_count_max_players",
+        "description_text": "Describes the maximum player server count",
+        "description_location": "A setting in the server menu",
+        "value_english": "Max Players",
+        "value_translated_automated": "अधिकतम खिलाड़ी",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_name",
+        "description_text": "Describes the public server name",
+        "description_location": "A setting in the server menu",
+        "value_english": "Name",
+        "value_translated_automated": "नाम",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_privacy",
+        "description_text": "Describes the server visibility",
+        "description_location": "A setting in the server menu",
+        "value_english": "Privacy",
+        "value_translated_automated": "गोपनीयता",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_cursor",
+        "description_text": "Describes the sensitivity of the cursor",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Cursor sensitivity",
+        "value_translated_automated": "कर्सर संवेदनशीलता",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_zoom",
+        "description_text": "Describes the sensitivity of the zoom",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Zoom sensitivity",
+        "value_translated_automated": "ज़ूम संवेदनशीलता",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_fullscreen",
+        "description_text": "Describes the fullscreen status of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Fullscreen",
+        "value_translated_automated": "पूर्ण स्क्रीन",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_refresh_rate",
+        "description_text": "Describes the refresh rate of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Refresh rate",
+        "value_translated_automated": "ताज़ा दर",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_resolution",
+        "description_text": "Describes the video resolution of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Resolution",
+        "value_translated_automated": "संकल्प",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game",
+        "description_text": "Describes the volume relating to physical game elements",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game volume",
+        "value_translated_automated": "खेल की मात्रा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game_mode",
+        "description_text": "Describes the volume relating to game mode events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game mode volume",
+        "value_translated_automated": "गेम मोड वॉल्यूम",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_master",
+        "description_text": "Describes the volume scale of all volume types",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Master volume",
+        "value_translated_automated": "मास्टर वॉल्यूम",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_menu",
+        "description_text": "Describes the volume relating to menu events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "UI volume",
+        "value_translated_automated": "यूआई वॉल्यूम",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_black_sank",
+        "description_text": "Describes the amount of black pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Black Sank",
+        "value_translated_automated": "ब्लैक सेंक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_foul",
+        "description_text": "Describes the amount of strikers sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Fouls",
+        "value_translated_automated": "बेईमानी",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_sank",
+        "description_text": "Describes the amount of red pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Sank",
+        "value_translated_automated": "रानी संक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_attempt",
+        "description_text": "Describes the amount of strikers shot by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Attempt",
+        "value_translated_automated": "गोली चलाने का प्रयास",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_made",
+        "description_text": "Describes the amount of pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Sank",
+        "value_translated_automated": "शॉट संक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_white_sank",
+        "description_text": "Describes the amount of white pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "White Sank",
+        "value_translated_automated": "सफेद सांक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_audio",
+        "description_text": "Describes a page of audio related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Audio",
+        "value_translated_automated": "ऑडियो",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_board",
+        "description_text": "Describes a page of board related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "तख़्ता",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_breaks",
+        "description_text": "Describes a page of carrom break related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Breaks",
+        "value_translated_automated": "ब्रेक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_carrom",
+        "description_text": "Describes a page of carrom related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "कैरम",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_controls",
+        "description_text": "Describes a page of rebind related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Controls",
+        "value_translated_automated": "नियंत्रण",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_customizations",
+        "description_text": "Describes a page of customization related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Customizations",
+        "value_translated_automated": "अनुकूलन",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game",
+        "description_text": "Describes a page of game related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "खेल",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game_mode",
+        "description_text": "Describes a page of game mode related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game Mode",
+        "value_translated_automated": "खेल मोड",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_general",
+        "description_text": "Describes a page of general related rules",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "General",
+        "value_translated_automated": "सामान्य",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_personal",
+        "description_text": "Describes a page of personal related customizaitons",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Personal",
+        "value_translated_automated": "निजी",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_pointer",
+        "description_text": "Describes a page of pointer related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Pointer",
+        "value_translated_automated": "सूचक",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_presets",
+        "description_text": "Describes a page of ruleset related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Presets",
+        "value_translated_automated": "प्रीसेट",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_skin",
+        "description_text": "Describes a page of carrom skin related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Skin",
+        "value_translated_automated": "त्वचा",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trail",
+        "description_text": "Describes a page of trail related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Trail",
+        "value_translated_automated": "पगडंडी",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trainings",
+        "description_text": "Describes a page of training related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Trainings",
+        "value_translated_automated": "प्रशिक्षण",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_video",
+        "description_text": "Describes a page of video related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Video",
+        "value_translated_automated": "वीडियो",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_baselines",
+        "description_text": "Defines the location where each turn starts",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The striker must start play from the baseline.",
+        "value_translated_automated": "स्ट्राइकर को बेसलाइन से खेलना शुरू करना होगा।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_board_carrom",
+        "description_text": "Defines the carrom board",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here we see a carrom board.",
+        "value_translated_automated": "यहाँ हमें एक कैरम बोर्ड दिखाई देता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break",
+        "description_text": "Defines the break at the start of a round",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
+        "value_translated_automated": "कैरम का प्रत्येक खेल केंद्र में सभी स्कोरिंग मोहरों को इकट्ठा करके शुरू होगा। राउंड के पहले शॉट को ब्रेक कहा जाता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_bot",
+        "description_text": "Shows the user what a break may look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here a bot demonstrates a break.",
+        "value_translated_automated": "यहां एक बॉट एक ब्रेक प्रदर्शित करता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_player",
+        "description_text": "Encourages the user to take a shot at a break",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself!",
+        "value_translated_automated": "खुद कोशिश करना!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_strategy",
+        "description_text": "Defines the strategy behind a break scenario",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
+        "value_translated_automated": "एक अच्छी तरह से मारा गया ब्रेक टुकड़ों को बोर्ड भर में फैला देना चाहिए। एक कुशल खिलाड़ी एक अच्छे ब्रेक और उसके बाद के शॉट्स से पूरे राउंड में खुद को फायदा देने में सक्षम हो सकता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_camera",
+        "description_text": "Defines the camera controls",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
+        "value_translated_automated": "आप 0, 1, 2, या 3 दबाकर कैमरे का कोण बदल सकते हैं। अनुशंसित कैमरा प्लेइंग 1 है। आप राइट क्लिक दबाकर और माउस को घुमाकर किसी भी समय अपने कैमरे को घुमा सकते हैं। नियंत्रण मेनू में अधिक कैमरा नियंत्रण देखें।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_carrom",
+        "description_text": "Defines the game of carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
+        "value_translated_automated": "कैरम को बोर्ड के छेदों में धकेलने के लिए डिस्क को अन्य डिस्क में घुमाकर खेला जाता है। ऐसा सफलतापूर्वक करने से आपको एक और मोड़ मिल जाता है। खेल तब समाप्त होता है जब टीम के पास लक्ष्य करने के लिए डिस्क समाप्त हो जाती है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_chat",
+        "description_text": "Defines how chat can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Turn history and chat can be opened by pressing T.",
+        "value_translated_automated": "T दबाकर टर्न हिस्ट्री और चैट को खोला जा सकता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_complete",
+        "description_text": "Encourages the user that they are prepared for carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
+        "value_translated_automated": "आपने ट्यूटोरियल पूरा कर लिया है! अब आप दोस्तों और बॉट्स के साथ कैरम गेम खेलने के लिए तैयार हैं।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_cursor",
+        "description_text": "Encourages the user to move their cursor to the correct location",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Place your cursor on the baseline to start your shot.",
+        "value_translated_automated": "अपना शॉट शुरू करने के लिए अपने कर्सर को बेसलाइन पर रखें।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_drag",
+        "description_text": "Encourages the user to perform an action to add power to the shot",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Drag your cursor away from your target while continuing to hold left click.",
+        "value_translated_automated": "बाएं क्लिक को जारी रखते हुए अपने कर्सर को अपने लक्ष्य से दूर खींचें।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_left_click",
+        "description_text": "Encourages the user to perform an action to confirm their striker placement",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Left click and hold to confirm your striker placement.",
+        "value_translated_automated": "अपने स्ट्राइकर प्लेसमेंट की पुष्टि करने के लिए बायाँ-क्लिक करें और दबाए रखें।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pause",
+        "description_text": "Defines the pause menu functionality",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
+        "value_translated_automated": "पॉज़ मेनू में एप्लिकेशन सेटिंग्स और नियंत्रण शामिल हैं, और इसे एस्केप कुंजी दबाकर किसी भी समय एक्सेस किया जा सकता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_1",
+        "description_text": "Defines the pockets",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
+        "value_translated_automated": "मानक कैरम बोर्ड के प्रत्येक कोने में चार छेद होते हैं, जिन्हें पॉकेट कहा जाता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_2",
+        "description_text": "Shows the user their first carrom shot example",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
+        "value_translated_automated": "ये पॉकेट वह जगह हैं जहां आप डिस्क को डुबाने का लक्ष्य रखते हैं। हमारे बॉट को खेलते हुए देखें।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen",
+        "description_text": "Defines the queen",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
+        "value_translated_automated": "प्रोफेशनल मोड में राउंड पूरा करने के लिए रानी को जेब से जेब भरने की आवश्यकता होगी। रानी को गोल करने के लिए, आपको पहले रानी को पॉकेट में डालना होगा और फिर रानी को कवर करने के लिए अपना अगला शॉट सफलतापूर्वक पॉकेट में डालना होगा। ऐसा करने में विफल रहने पर रानी को बोर्ड में वापस कर दिया जाएगा।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_bot",
+        "description_text": "Shows the user professional mode's queen pocketing sequence",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
+        "value_translated_automated": "यहाँ एक परिदृश्य है. बॉट पॉकेट देखें और फिर रानी को ढक दें।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_player",
+        "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself. First the queen, then the white piece.",
+        "value_translated_automated": "खुद कोशिश करना। पहले रानी, ​​फिर सफ़ेद टुकड़ा।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_recommendation",
+        "description_text": "Recommends the user try an easy game mode",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
+        "value_translated_automated": "आपके पहले कुछ खेलों के लिए पॉइंट मोड की अनुशंसा की जाती है। यह आपको स्कोरिंग के बहुत सारे अवसर प्रदान करता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_release",
+        "description_text": "Encourages the user to perform an action to release the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Release left click to flick your striker into play.",
+        "value_translated_automated": "अपने स्ट्राइकर को खेलने के लिए बायाँ क्लिक छोड़ें।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoreboard",
+        "description_text": "Defines how the scoreboard can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
+        "value_translated_automated": "अलग-अलग गेम मोड में अलग-अलग स्कोरिंग नियम होते हैं, लेकिन स्कोर को TAB कुंजी दबाकर किसी भी समय देखा जा सकता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoring",
+        "description_text": "Defines how different game modes handle scoring",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
+        "value_translated_automated": "पेशेवर और डिस्क पूल मोड में आपका लक्ष्य केवल अपनी टीम के रंग को पॉकेट में डालना होगा, जबकि पॉइंट मोड प्रत्येक अलग-अलग रंग के टुकड़े के लिए अलग-अलग पॉइंट मान निर्दिष्ट करता है। आमतौर पर, लाल रंग का टुकड़ा उच्च मूल्य का होता है, और इसे रानी कहा जाता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_signature",
+        "description_text": "Well wishes from our development team",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
+        "value_translated_automated": "कैरम स्लैम का आनंद लें! ~दीनासॉफ्ट टीम",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_striker",
+        "description_text": "Defines the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The disc used to start play is called the striker.",
+        "value_translated_automated": "खेल शुरू करने के लिए उपयोग की जाने वाली डिस्क को स्ट्राइकर कहा जाता है।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_bot",
+        "description_text": "Shows the user what a turn might look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now let's try to sink our first shot. Watch the bot first.",
+        "value_translated_automated": "आइए अब अपना पहला शॉट डुबोने का प्रयास करें। पहले बॉट देखें.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_player",
+        "description_text": "Encourages the user to try pocketing the white piece",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
+        "value_translated_automated": "अब आपकी बारी. बॉट की तरह उस सफेद टुकड़े को बगल वाली जेब में मारो।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_tutorial",
+        "description_text": "Defines Carrom Slam! and the tutorial",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
+        "value_translated_automated": "कैरम स्लैम! एक कैरम सिम्युलेटर गेम है। यह ट्यूटोरियल आपको कैरम खेलने का नियंत्रण और तरीका सिखाएगा।",
+        "value_translated_native": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,1685 @@
+{
+  "$type": "Localization, Assembly-CSharp-Editor",
+  "code": "hmn",
+  "exonym_english": "Hmong",
+  "endonym_native": "Hmoob",
+  "translations": {
+    "$type": "Translation[], Assembly-CSharp-Editor",
+    "$values": [
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_accept",
+        "description_text": "Confirms the action for the selected file",
+        "description_location": "A button on the file explorer menu",
+        "value_english": "Accept",
+        "value_translated_automated": "Txais",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_bot",
+        "description_text": "Adds a bot player to the game",
+        "description_location": "A button on the players menu",
+        "value_english": "Add Bot",
+        "value_translated_automated": "Ntxiv Bot",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_browser",
+        "description_text": "Views the browser menu, displaying other public games",
+        "description_location": "A button on the landing menu",
+        "value_english": "Browser",
+        "value_translated_automated": "Browser",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_customization",
+        "description_text": "Views the customization menu, allowing for customization of player items",
+        "description_location": "A button on the pause menu",
+        "value_english": "Customization",
+        "value_translated_automated": "Kev kho kom haum",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_invite",
+        "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
+        "description_location": "A button on the players menu",
+        "value_english": "Invite Friends",
+        "value_translated_automated": "Caw phooj ywg",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_join",
+        "description_text": "Joins the server of the selected lobby",
+        "description_location": "A button on the browser menu",
+        "value_english": "Join",
+        "value_translated_automated": "Koom nrog",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_load",
+        "description_text": "Views the file explorer menu, allowing the user to select an available file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Load File",
+        "value_translated_automated": "Load File",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_mods",
+        "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
+        "description_location": "A button on the landing menu",
+        "value_english": "Mods",
+        "value_translated_automated": "Mods",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_play",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the landing menu",
+        "value_english": "Play",
+        "value_translated_automated": "Ua si",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_players",
+        "description_text": "Views the players menu, allowing the user to manage bots and connected users",
+        "description_location": "A button on the pause menu",
+        "value_english": "Players",
+        "value_translated_automated": "Cov neeg ua si",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_quit",
+        "description_text": "Quits the server/application",
+        "description_location": "A button on the landing menu",
+        "value_english": "Quit",
+        "value_translated_automated": "Tawm",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_ready",
+        "description_text": "Confirms the local player is ready",
+        "description_location": "A button on the pregame menu",
+        "value_english": "Ready",
+        "value_translated_automated": "Npaj txhij",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_resume",
+        "description_text": "Removes the pause menu, focusing on the play area",
+        "description_location": "A button on the pause menu",
+        "value_english": "Resume",
+        "value_translated_automated": "Rov pib dua",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_rules",
+        "description_text": "Views the rules menu, allowing for managing of game types and rules",
+        "description_location": "A button on the pause menu",
+        "value_english": "Rules",
+        "value_translated_automated": "Cov cai",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_save",
+        "description_text": "Views the file explorer menu, allowing the user to save the config to file",
+        "description_location": "A button on the customization menu",
+        "value_english": "Save File",
+        "value_translated_automated": "Txuag ntaub ntawv",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_server",
+        "description_text": "Views the server menu, allowing the user to manage their steam lobby",
+        "description_location": "A button on the pause menu",
+        "value_english": "Server",
+        "value_translated_automated": "Server",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_settings",
+        "description_text": "Views the settings menu, allowing the user to manage their application settings",
+        "description_location": "A button on the landing and pause menu",
+        "value_english": "Settings",
+        "value_translated_automated": "Chaw",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_statistics",
+        "description_text": "Views the statistics menu, allowing the user to view and manage previous games, statistics, and achievements",
+        "description_location": "A button on the landing menu",
+        "value_english": "Statistics",
+        "value_translated_automated": "Kev txheeb cais",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_back",
+        "description_text": "Exits the current menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Back",
+        "value_translated_automated": "Rov qab",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_next",
+        "description_text": "Jumps to the next camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Camera",
+        "value_translated_automated": "Lub koob yees duab tom ntej",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_prev",
+        "description_text": "Jumps to the previous camera preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Camera",
+        "value_translated_automated": "Yav dhau los lub koob yees duab",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_chat",
+        "description_text": "Toggles the focus of the chat/event menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Chat",
+        "value_translated_automated": "Toggle Chat",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_primary",
+        "description_text": "Used to confirm shot placement and power",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Primary Action",
+        "value_translated_automated": "Thawj Qhov Ua Haujlwm",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_quaternary",
+        "description_text": "Used to reset pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Quaternary Action",
+        "value_translated_automated": "Quaternary Action",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_scoreboard",
+        "description_text": "Toggles the visibility of the scoreboard menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Scoreboard",
+        "value_translated_automated": "Toggle Scoreboard",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_secondary",
+        "description_text": "Used to cancel shots",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Secondary Action",
+        "value_translated_automated": "Secondary Action",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_start",
+        "description_text": "Used to confirm the current action",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Start",
+        "value_translated_automated": "Pib",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_tertiary",
+        "description_text": "Used to spawn individual pieces in the sandbox gamemode",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Tertary Action",
+        "value_translated_automated": "Tertary nkaus",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_toggle_ready",
+        "description_text": "Toggles the player pregame readiness",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Toggle Ready",
+        "value_translated_automated": "Toggle Npaj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_pointer",
+        "description_text": "Changes the color of the player's pointer",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Pointer Color",
+        "value_translated_automated": "Pointer Xim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_primary_striker",
+        "description_text": "Changes the primary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Color",
+        "value_translated_automated": "Thawj Xim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_secondary_striker",
+        "description_text": "Changes the secondary color of the player's striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Color",
+        "value_translated_automated": "Secondary Xim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_trail",
+        "description_text": "Changes the color of the player's trail",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Trail Color",
+        "value_translated_automated": "Trail Xim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_striker",
+        "description_text": "Changes the skin of the player's carrom striker",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Striker Skin",
+        "value_translated_automated": "Daim tawv nqaij Striker",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_skin_trail",
+        "description_text": "Changes the skin of the player's trail",
+        "description_location": "A customization option in the general tab of the customization menu",
+        "value_english": "Trial Skin",
+        "value_translated_automated": "Daim tawv nqaij",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_primary_striker",
+        "description_text": "Changes the primary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Primary Texture",
+        "value_translated_automated": "Kev ntxhib los mos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_texture_secondary_striker",
+        "description_text": "Changes the secondary paint texture of the player's striker skin",
+        "description_location": "A customization option in the carrom tab of the customization menu",
+        "value_english": "Secondary Texture",
+        "value_translated_automated": "Secondary Texture",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_author",
+        "description_text": "Describes the creator of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Author",
+        "value_translated_automated": "Tus sau",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_best_of",
+        "description_text": "Describes that this game is according to the following conditions",
+        "description_location": "A label in the intro menu",
+        "value_english": "Best of",
+        "value_translated_automated": "Qhov zoo tshaj plaws",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_blue",
+        "description_text": "Describes the value of blue used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Blue",
+        "value_translated_automated": "Xiav",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_bots",
+        "description_text": "Describes the amount of computer controlled players present in the lobby",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Bots",
+        "value_translated_automated": "Bots",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_date",
+        "description_text": "Describes the date the mod was last updated",
+        "description_location": "A label in the mods menu",
+        "value_english": "Date",
+        "value_translated_automated": "Hnub tim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_debt",
+        "description_text": "Describes the score debt owed by a particular team",
+        "description_location": "A label in the Professional Carrom game mode menu",
+        "value_english": "Team {0} owes {1} point(s)",
+        "value_translated_automated": "Pab pawg {0} tshuav {1} point(s)",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_description",
+        "description_text": "Describes the contents of the mod, set by the author of the mod",
+        "description_location": "A label in the mods menu",
+        "value_english": "Description",
+        "value_translated_automated": "Kev piav qhia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_green",
+        "description_text": "Describes the value of green used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Green",
+        "value_translated_automated": "Ntsuab",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_not_ready",
+        "description_text": "Describes a player who is not yet prepared to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Not Ready",
+        "value_translated_automated": "Tsis Npaj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_player",
+        "description_text": "Describes a player name",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player",
+        "value_translated_automated": "Player",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_players_ready",
+        "description_text": "Describes the amount of players waiting to play out of a total amount",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Players Ready",
+        "value_translated_automated": "Players Npaj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_point_count",
+        "description_text": "Describes an amount of points",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} points",
+        "value_translated_automated": "{0} cov ntsiab lus",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_ready",
+        "description_text": "Describes a player who is prepared and waiting to play",
+        "description_location": "A label in the players menu",
+        "value_english": "Ready",
+        "value_translated_automated": "Npaj txhij",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_red",
+        "description_text": "Describes the value of red used in the RGB color",
+        "description_location": "A label in the color customization setting",
+        "value_english": "Red",
+        "value_translated_automated": "Liab",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round_count",
+        "description_text": "Describes an amount of rounds",
+        "description_location": "A label in the intro menu",
+        "value_english": "{0} rounds",
+        "value_translated_automated": "{0} puag ncig",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_score",
+        "description_text": "Describes a score value",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Score",
+        "value_translated_automated": "Cov qhab nias",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_player",
+        "description_text": "Describes that the scoreboard represents individual player statistics",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Player Scoreboard",
+        "value_translated_automated": "Player Scoreboard",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_scoreboard_team",
+        "description_text": "Describes that the scoreboard represents team scoring",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team Scoreboard",
+        "value_translated_automated": "Pab Pawg Scoreboard",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_spectators",
+        "description_text": "Describes the amount of players who are set to spectate mode",
+        "description_location": "A label in the pregame menu",
+        "value_english": "Spectators",
+        "value_translated_automated": "Cov neeg saib",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team",
+        "description_text": "Describes a team association",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Team",
+        "value_translated_automated": "Pab neeg",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_team_number",
+        "description_text": "Describes a specific team",
+        "description_location": "A label in the intro menu",
+        "value_english": "Team {0}",
+        "value_translated_automated": "Pab neeg {0}",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_total",
+        "description_text": "Describes a current total score",
+        "description_location": "A label in the scoreboard menu",
+        "value_english": "Total",
+        "value_translated_automated": "Tag nrho",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_end",
+        "description_text": "States the game has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Game has ended",
+        "value_translated_automated": "Kev ua si tau tas lawm",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_game_start",
+        "description_text": "States the game has started",
+        "description_location": "An event message from the system",
+        "value_english": "Game is starting!",
+        "value_translated_automated": "Kev ua si pib!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_covered",
+        "description_text": "States the queen has been covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has covered the queen",
+        "value_translated_automated": "Pab pawg {0} {1} tau npog huab tais",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_uncovered",
+        "description_text": "States that the queen has been sank, but needs covered",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} must now complete the cover",
+        "value_translated_automated": "Pab pawg {0} {1} tam sim no yuav tsum ua kom tiav daim npog",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_end",
+        "description_text": "States the round has ended",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} has ended",
+        "value_translated_automated": "Round {0} tau tas lawm",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_round_start",
+        "description_text": "States the round has started",
+        "description_location": "An event message from the system",
+        "value_english": "Round {0} is starting!",
+        "value_translated_automated": "Round {0} tab tom pib!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_foul",
+        "description_text": "States that the player has sank their striker",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has fouled",
+        "value_translated_automated": "Pab pawg {0} {1} tau ua txhaum",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_miss",
+        "description_text": "States that the player has missed",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has missed",
+        "value_translated_automated": "Pab pawg {0} {1} tsis tuaj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_single",
+        "description_text": "States that the player has hit one or more pieces",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has sank their shot",
+        "value_translated_automated": "Pab pawg {0} {1} tau poob lawv qhov kev txhaj tshuaj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_anywhere",
+        "description_text": "Describes the ability to place your striker anywhere on the board",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Anywhere",
+        "value_translated_automated": "Nyob qhov twg",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assorted",
+        "description_text": "Describes the ability to choose a variety of options throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Assorted",
+        "value_translated_automated": "Muaj ntau yam",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_blitz",
+        "description_text": "Describes the blitz game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Blitz",
+        "value_translated_automated": "Blitz",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_bowling",
+        "description_text": "Describes the bowling game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Bowling",
+        "value_translated_automated": "Bowling",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_carrom",
+        "description_text": "Describes the carrom game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "Carrom",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_casual",
+        "description_text": "Describes the ability to place your striker anywhere on the baseline",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Casual",
+        "value_translated_automated": "Casual",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_crokinole",
+        "description_text": "Describes the crokinole game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Crokinole",
+        "value_translated_automated": "Crokinole",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_default",
+        "description_text": "Describes a default configuration",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Default",
+        "value_translated_automated": "Default",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_disc_pool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc Pool",
+        "value_translated_automated": "Disc Pas Dej",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_friends",
+        "description_text": "Describes the friends only configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Friends",
+        "value_translated_automated": "phooj ywg",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_points",
+        "description_text": "Describes the points game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Points",
+        "value_translated_automated": "Cov ntsiab lus",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_private",
+        "description_text": "Describes the private configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Private",
+        "value_translated_automated": "Tus kheej",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_professional",
+        "description_text": "Describes the professional game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Professional",
+        "value_translated_automated": "Cov kws tshaj lij",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_public",
+        "description_text": "Describes the public configuration",
+        "description_location": "An option in a drop down menu in the server menu",
+        "value_english": "Public",
+        "value_translated_automated": "Public",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_random",
+        "description_text": "Describes the ability to choose a random option to use throughout your game",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Random",
+        "value_translated_automated": "Random",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_sandbox",
+        "description_text": "Describes the sandbox game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Sandbox",
+        "value_translated_automated": "Sandbox",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_strict",
+        "description_text": "Describes the ability to place your striker only where the rules allow",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Strict",
+        "value_translated_automated": "nruj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_training",
+        "description_text": "Describes the training game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "Kev cob qhia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_tutorial",
+        "description_text": "Describes the tutorial game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Tutorial",
+        "value_translated_automated": "Kev qhia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_board",
+        "description_text": "Choice of what board will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "Board",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_forward_striker",
+        "description_text": "Choice of whether a forward only trajectory rule will be used",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Forward shot only",
+        "value_translated_automated": "Forward txhaj nkaus xwb",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_inset",
+        "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket inset",
+        "value_translated_automated": "Phab ntsa hnab tshos inset",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bool_wall_rounded",
+        "description_text": "Choice of whether to round off the corner around the pocket",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Wall pocket rounded",
+        "value_translated_automated": "Phab ntsa hnab tshos puag ncig",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_board",
+        "description_text": "Choice of how bouncy the floor is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness board",
+        "value_translated_automated": "bounciness board",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_piece",
+        "description_text": "Choice of how bouncy the piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness piece",
+        "value_translated_automated": "bounciness qhov",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_striker",
+        "description_text": "Choice of how bouncy a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness striker",
+        "value_translated_automated": "Bounciness striker",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_bounce_wall",
+        "description_text": "Choice of how bouncy the wall is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Bounciness wall",
+        "value_translated_automated": "bounciness phab ntsa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_points",
+        "description_text": "Choice of max points to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Point maximum",
+        "value_translated_automated": "Point siab tshaj plaws",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_max_rounds",
+        "description_text": "Choice of max rounds to end the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Round maximum",
+        "value_translated_automated": "Hloov siab tshaj plaws",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_black",
+        "description_text": "Choice of how many black pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces black",
+        "value_translated_automated": "Cov khoom dub",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_red",
+        "description_text": "Choice of how many red pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces red",
+        "value_translated_automated": "Daim liab",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_team",
+        "description_text": "Choice of how many team pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces per team",
+        "value_translated_automated": "Ib pab pawg",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces_white",
+        "description_text": "Choice of how many white pieces are on the board",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pieces white",
+        "value_translated_automated": "Tej daim dawb",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_spots",
+        "description_text": "Choice of how many sides the board will have",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Spots",
+        "value_translated_automated": "Chaw",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_teams",
+        "description_text": "Choice of how many teams could be in the game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Teams",
+        "value_translated_automated": "Pab pawg",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_distance_baseline",
+        "description_text": "Choice of how far the baseline is from the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Distance baseline",
+        "value_translated_automated": "Distance baseline",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_break",
+        "description_text": "Choice of break configuration",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Break",
+        "value_translated_automated": "So",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_friction_board",
+        "description_text": "Choice of how much friction the board has",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Board friction",
+        "value_translated_automated": "Board kev sib txhuam",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game",
+        "description_text": "Choice of game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "Kev ua si",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_game_mode",
+        "description_text": "Choice of game mode within a game",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Game mode",
+        "value_translated_automated": "Hom kev ua si",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_piece",
+        "description_text": "Choice of the mass of pieces",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass pieces",
+        "value_translated_automated": "Cov khoom loj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_mass_striker",
+        "description_text": "Choice of the mass of uniform strikers",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Mass striker",
+        "value_translated_automated": "Loj striker",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_percent_inset",
+        "description_text": "Choice of how inset the pocket is into the wall",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Pocket inset",
+        "value_translated_automated": "hnab tshos inset",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_placement_striker",
+        "description_text": "Choice of where a player is allowed to place a striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Striker placement",
+        "value_translated_automated": "Striker qhov chaw",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_cap_queen",
+        "description_text": "Choice of where the game caps the queens point contribution",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Queen points cap",
+        "value_translated_automated": "Poj huab tais point cap",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_black",
+        "description_text": "Choice of how many points a black piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for black",
+        "value_translated_automated": "Cov ntsiab lus rau dub",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_red",
+        "description_text": "Choice of how many points a red piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for red",
+        "value_translated_automated": "Cov ntsiab lus rau liab",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_team",
+        "description_text": "Choice of how many points a team piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for piece",
+        "value_translated_automated": "Cov ntsiab lus rau daim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_points_pieces_white",
+        "description_text": "Choice of how many points a white piece is worth",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Points for white",
+        "value_translated_automated": "Cov ntsiab lus rau dawb",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_power_striker",
+        "description_text": "Choice of how high the power cap for strikers is set",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power Scale",
+        "value_translated_automated": "Lub Hwj Chim Loj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_board",
+        "description_text": "Choice of how large a board is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Board",
+        "value_translated_automated": "Loj Board",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_piece",
+        "description_text": "Choice of how large a piece is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Piece",
+        "value_translated_automated": "Loj Daim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_pocket",
+        "description_text": "Choice of how large a pocket is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Pocket",
+        "value_translated_automated": "Pocket Loj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_size_striker",
+        "description_text": "Choice of how large a uniform striker is",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Size Striker",
+        "value_translated_automated": "Loj Striker",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_time_turn",
+        "description_text": "Choice of how long a turn can be",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Turn Timer",
+        "value_translated_automated": "Tig Timer",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_uniform_striker",
+        "description_text": "Choice of enforcing a uniform striker across all players",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Uniform Striker",
+        "value_translated_automated": "Uniform Striker",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_count_max_players",
+        "description_text": "Describes the maximum player server count",
+        "description_location": "A setting in the server menu",
+        "value_english": "Max Players",
+        "value_translated_automated": "Max Players",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_name",
+        "description_text": "Describes the public server name",
+        "description_location": "A setting in the server menu",
+        "value_english": "Name",
+        "value_translated_automated": "Lub npe",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "server_privacy",
+        "description_text": "Describes the server visibility",
+        "description_location": "A setting in the server menu",
+        "value_english": "Privacy",
+        "value_translated_automated": "Tsis pub twg paub",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_cursor",
+        "description_text": "Describes the sensitivity of the cursor",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Cursor sensitivity",
+        "value_translated_automated": "Cursor rhiab heev",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_speed_zoom",
+        "description_text": "Describes the sensitivity of the zoom",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Zoom sensitivity",
+        "value_translated_automated": "Zoom rhiab heev",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_fullscreen",
+        "description_text": "Describes the fullscreen status of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Fullscreen",
+        "value_translated_automated": "puv npo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_refresh_rate",
+        "description_text": "Describes the refresh rate of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Refresh rate",
+        "value_translated_automated": "Refresh tus nqi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_video_resolution",
+        "description_text": "Describes the video resolution of the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Resolution",
+        "value_translated_automated": "Kev daws teeb meem",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game",
+        "description_text": "Describes the volume relating to physical game elements",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game volume",
+        "value_translated_automated": "Kev ua si ntim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_game_mode",
+        "description_text": "Describes the volume relating to game mode events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Game mode volume",
+        "value_translated_automated": "Game hom ntim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_master",
+        "description_text": "Describes the volume scale of all volume types",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Master volume",
+        "value_translated_automated": "Master ntim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_volume_menu",
+        "description_text": "Describes the volume relating to menu events",
+        "description_location": "A setting in the settings menu",
+        "value_english": "UI volume",
+        "value_translated_automated": "UI ntim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_black_sank",
+        "description_text": "Describes the amount of black pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Black Sank",
+        "value_translated_automated": "Dub Sank",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_foul",
+        "description_text": "Describes the amount of strikers sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Fouls",
+        "value_translated_automated": "Fouls",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_sank",
+        "description_text": "Describes the amount of red pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Sank",
+        "value_translated_automated": "Poj huab tais Sank",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_attempt",
+        "description_text": "Describes the amount of strikers shot by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Attempt",
+        "value_translated_automated": "Kev sim tua",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_shot_made",
+        "description_text": "Describes the amount of pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Shot Sank",
+        "value_translated_automated": "Phom Sank",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_white_sank",
+        "description_text": "Describes the amount of white pieces sank by a player",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "White Sank",
+        "value_translated_automated": "Dawb Sank",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_audio",
+        "description_text": "Describes a page of audio related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Audio",
+        "value_translated_automated": "Suab",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_board",
+        "description_text": "Describes a page of board related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Board",
+        "value_translated_automated": "Board",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_breaks",
+        "description_text": "Describes a page of carrom break related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Breaks",
+        "value_translated_automated": "Kev so",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_carrom",
+        "description_text": "Describes a page of carrom related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Carrom",
+        "value_translated_automated": "Carrom",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_controls",
+        "description_text": "Describes a page of rebind related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Controls",
+        "value_translated_automated": "Tswj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_customizations",
+        "description_text": "Describes a page of customization related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Customizations",
+        "value_translated_automated": "Customizations",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game",
+        "description_text": "Describes a page of game related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game",
+        "value_translated_automated": "Kev ua si",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_game_mode",
+        "description_text": "Describes a page of game mode related rules",
+        "description_location": "A tab label in the rules menu",
+        "value_english": "Game Mode",
+        "value_translated_automated": "Hom kev ua si",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_general",
+        "description_text": "Describes a page of general related rules",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "General",
+        "value_translated_automated": "General",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_personal",
+        "description_text": "Describes a page of personal related customizaitons",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Personal",
+        "value_translated_automated": "Tus kheej",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_pointer",
+        "description_text": "Describes a page of pointer related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Pointer",
+        "value_translated_automated": "Taw tes",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_presets",
+        "description_text": "Describes a page of ruleset related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Presets",
+        "value_translated_automated": "Presets",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_skin",
+        "description_text": "Describes a page of carrom skin related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Skin",
+        "value_translated_automated": "Daim tawv nqaij",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trail",
+        "description_text": "Describes a page of trail related customizations",
+        "description_location": "A tab label in the customizations menu",
+        "value_english": "Trail",
+        "value_translated_automated": "Txoj kev",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_trainings",
+        "description_text": "Describes a page of training related mods",
+        "description_location": "A tab label in the mods menu",
+        "value_english": "Trainings",
+        "value_translated_automated": "Kev cob qhia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_video",
+        "description_text": "Describes a page of video related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Video",
+        "value_translated_automated": "Video",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_baselines",
+        "description_text": "Defines the location where each turn starts",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The striker must start play from the baseline.",
+        "value_translated_automated": "Tus ntaus ntawv yuav tsum pib ua si los ntawm lub hauv paus.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_board_carrom",
+        "description_text": "Defines the carrom board",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here we see a carrom board.",
+        "value_translated_automated": "Ntawm no peb pom ib tug carrom board.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break",
+        "description_text": "Defines the break at the start of a round",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
+        "value_translated_automated": "Txhua qhov kev ua si ntawm carrom yuav pib nrog tag nrho cov qhab nia bunched nyob rau hauv qhov chaw. Thawj txhaj koob tshuaj tivthaiv yog hu ua qhov so.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_bot",
+        "description_text": "Shows the user what a break may look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here a bot demonstrates a break.",
+        "value_translated_automated": "Ntawm no ib tug bot qhia ib tug so.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_player",
+        "description_text": "Encourages the user to take a shot at a break",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself!",
+        "value_translated_automated": "Sim koj tus kheej!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_break_strategy",
+        "description_text": "Defines the strategy behind a break scenario",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
+        "value_translated_automated": "Ib qho kev sib tsoo zoo yuav tsum tawg cov khoom hla lub rooj tsavxwm. Ib tus kws tshaj lij yuav tuaj yeem muab lawv tus kheej kom zoo dua rau tag nrho puag ncig los ntawm kev so zoo thiab kev txhaj tshuaj tom ntej.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_camera",
+        "description_text": "Defines the camera controls",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
+        "value_translated_automated": "Koj tuaj yeem hloov lub koob yees duab lub kaum sab xis los ntawm nias 0, 1, 2, lossis 3. Lub koob yees duab ua si pom zoo yog 1. Koj tuaj yeem txav koj lub koob yees duab txhua lub sijhawm los tuav txoj cai nyem thiab txav nas. Saib ntau lub koob yees duab tswj hauv cov ntawv qhia zaub mov.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_carrom",
+        "description_text": "Defines the game of carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
+        "value_translated_automated": "Carrom yog ua si los ntawm flicking discs rau hauv lwm lub disc kom thawb lawv mus rau hauv lub qhov ntawm lub rooj tsavxwm. Ua li no ua tau zoo ua rau koj tig rov los. Qhov kev ua si xaus thaum ib pab neeg khiav tawm ntawm cov discs rau lub hom phiaj.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_chat",
+        "description_text": "Defines how chat can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Turn history and chat can be opened by pressing T.",
+        "value_translated_automated": "Tig keeb kwm thiab sib tham tuaj yeem qhib los ntawm nias T.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_complete",
+        "description_text": "Encourages the user that they are prepared for carrom",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
+        "value_translated_automated": "Koj tau ua tiav qhov kev qhia! Tam sim no koj tau npaj ua si carrom games nrog phooj ywg thiab bots.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_cursor",
+        "description_text": "Encourages the user to move their cursor to the correct location",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Place your cursor on the baseline to start your shot.",
+        "value_translated_automated": "Muab koj tus cursor tso rau ntawm lub hauv paus pib koj txhaj tshuaj.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_drag",
+        "description_text": "Encourages the user to perform an action to add power to the shot",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Drag your cursor away from your target while continuing to hold left click.",
+        "value_translated_automated": "Luag koj tus cursor deb ntawm koj lub hom phiaj thaum tseem tuav laug nyem.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_left_click",
+        "description_text": "Encourages the user to perform an action to confirm their striker placement",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Left click and hold to confirm your striker placement.",
+        "value_translated_automated": "Nyem rau sab laug thiab tuav kom paub meej tias koj qhov chaw tso tawm.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pause",
+        "description_text": "Defines the pause menu functionality",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
+        "value_translated_automated": "Cov ntawv qhia ncua tseg muaj cov ntawv thov kev teeb tsa thiab kev tswj hwm, thiab tuaj yeem nkag tau txhua lub sijhawm los ntawm nias tus yuam sij khiav.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_1",
+        "description_text": "Defines the pockets",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
+        "value_translated_automated": "Standard carrom boards tuaj nrog plaub qhov, hu ua hnab ris, nyob rau hauv txhua lub ces kaum.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_pockets_2",
+        "description_text": "Shows the user their first carrom shot example",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
+        "value_translated_automated": "Cov hnab ris no yog qhov chaw uas koj tab tom npaj rau tog cov discs. Saib raws li peb cov bot ua si.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen",
+        "description_text": "Defines the queen",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
+        "value_translated_automated": "Kev tshaj lij hom yuav xav kom tus poj huab tais yuav tsum tau hnab tshos kom tiav qhov kev sib tw. Yuav kom tau qhab nia poj huab tais, koj yuav tsum xub hnab tshos poj huab tais thiab tom qab ntawd ua tiav lub hnab tshos koj qhov kev txhaj tshuaj tom ntej los npog poj huab tais. Tsis ua li ntawd yuav rov qab ua huab tais rau lub rooj tsavxwm.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_bot",
+        "description_text": "Shows the user professional mode's queen pocketing sequence",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
+        "value_translated_automated": "Ntawm no yog ib tug scenario. Saib lub hnab tshos bot ces npog poj huab tais.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_queen_player",
+        "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Try it yourself. First the queen, then the white piece.",
+        "value_translated_automated": "Sim nws tus kheej. Ua ntej poj huab tais, ces daim dawb.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_recommendation",
+        "description_text": "Recommends the user try an easy game mode",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
+        "value_translated_automated": "Cov ntsiab lus hom yog pom zoo rau koj thawj ob peb ua si. Qhov no muab ntau lub cib fim rau koj kom tau qhab nia.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_release",
+        "description_text": "Encourages the user to perform an action to release the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Release left click to flick your striker into play.",
+        "value_translated_automated": "Tso sab laug nyem rau flick koj striker ua si.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoreboard",
+        "description_text": "Defines how the scoreboard can be used",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
+        "value_translated_automated": "Cov kev ua si sib txawv muaj cov cai sib txawv, tab sis cov qhab nia tuaj yeem pom txhua lub sijhawm los ntawm nias lub pob TAB.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_scoring",
+        "description_text": "Defines how different game modes handle scoring",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
+        "value_translated_automated": "Cov hom kev tshaj lij thiab disc pas dej ua ke yuav muaj koj tsuas yog tsom mus rau hnab tshos koj pab neeg cov xim, thaum cov ntsiab lus hom muab cov ntsiab lus sib txawv rau txhua qhov sib txawv. Feem ntau, ib daim xim liab yog tus nqi siab, thiab raug xa mus rau poj huab tais.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_signature",
+        "description_text": "Well wishes from our development team",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
+        "value_translated_automated": "Txaus siab rau Carrom Slam! ~ Pab pawg Dinahsoft",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_striker",
+        "description_text": "Defines the striker",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "The disc used to start play is called the striker.",
+        "value_translated_automated": "Lub disc siv los pib ua si yog hu ua striker.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_bot",
+        "description_text": "Shows the user what a turn might look like",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now let's try to sink our first shot. Watch the bot first.",
+        "value_translated_automated": "Tam sim no cia sim ua dab dej peb thawj zaug txhaj tshuaj. Saib bot ua ntej.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_turn_player",
+        "description_text": "Encourages the user to try pocketing the white piece",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
+        "value_translated_automated": "Tam sim no koj tig. Ntaus daim dawb ntawd rau hauv hnab tshos ib sab ntawm nws ib yam li lub bot.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tutorial_tutorial",
+        "description_text": "Defines Carrom Slam! and the tutorial",
+        "description_location": "An instruction in the carrom tutorial menu",
+        "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
+        "value_translated_automated": "Carrom Slam! yog qhov kev ua si carrom simulator. Qhov kev qhia no yuav qhia koj txog kev tswj hwm thiab yuav ua li cas ua si carrom.",
+        "value_translated_native": null
+      }
+    ]
+  }
+}
