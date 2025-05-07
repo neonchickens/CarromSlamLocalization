@@ -5,7 +5,7 @@ We have the localization FAQ in our discord, below is a tutorial on how to contr
 1. Select your applicable language from the folder, fluent speakers only please!
 2. Click on the pencil in the top right corner to edit.
 
-[Screenshot 2025-05-07 162550](https://github.com/user-attachments/assets/6f60614f-8d55-4489-9b26-bbf42838f328)
+![edit](https://github.com/user-attachments/assets/5f2002a5-1e7c-4eaa-a9f0-31dc161cf7c4)
 
 4. It will ask you to make a fork, you will need to do this to continue.
 5. Enter the native translation into the appropriate location!
