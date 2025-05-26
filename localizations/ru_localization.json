@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Каждая игра в Карром начинается с того, что все фишки сгруппированы в центре. Первый бросок раунда называется брейк.",
+        "value_translated_automated": "Каждая игра в Карром начинается с того, что все результативные фигуры сгруппированы в центре. Первый бросок раунда называется брейк.",
         "value_translated_native": "Каждая игра в Карром начинается с того, что все фишки сгруппированы в центре. Первый бросок раунда называется разбивка."
       },
       {
