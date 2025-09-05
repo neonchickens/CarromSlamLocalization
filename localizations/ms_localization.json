@@ -147,7 +147,7 @@
         "description_text": "Views the server menu, allowing the user to manage their steam lobby",
         "description_location": "A button on the pause menu",
         "value_english": "Server",
-        "value_translated_automated": "pelayan",
+        "value_translated_automated": "Pelayan",
         "value_translated_native": null
       },
       {
@@ -435,7 +435,7 @@
         "description_text": "Describes the amount of players waiting to play out of a total amount",
         "description_location": "A label in the pregame menu",
         "value_english": "Players Ready",
-        "value_translated_automated": "Pemain Sedia",
+        "value_translated_automated": "Pemain Bersedia",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1110,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "Pusingkan Pemasa",
+        "value_translated_automated": "Putar Pemasa",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Mod kumpulan profesional dan cakera akan membolehkan anda hanya menyasarkan warna pasukan anda, manakala mod mata memberikan nilai mata yang berbeza untuk setiap bahagian berwarna berbeza. Biasanya, sekeping berwarna merah mempunyai nilai tinggi, dan dirujuk sebagai ratu.",
+        "value_translated_automated": "Mod kumpulan profesional dan cakera akan membolehkan anda hanya menyasarkan untuk mengangkut warna pasukan anda, manakala mod mata memberikan nilai mata yang berbeza untuk setiap bahagian berwarna berbeza. Biasanya, sekeping berwarna merah mempunyai nilai tinggi, dan dirujuk sebagai ratu.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam! ialah permainan simulator carrom. Tutorial ini akan mengajar anda kawalan dan cara bermain carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Halaman Seterusnya",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Halaman Sebelumnya",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} telah menyertai permainan.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} telah meninggalkan permainan.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Kiraan sekeping",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Latihan",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Ratu Bertudung",
         "value_translated_native": null
       }
     ]

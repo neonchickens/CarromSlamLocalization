@@ -336,7 +336,7 @@
         "description_text": "Changes the secondary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Texture",
-        "value_translated_automated": "ଦ୍ Secondary ିତୀୟ ଟେକ୍ସଚର |",
+        "value_translated_automated": "ଦଳୀୟ ଗଠନ",
         "value_translated_native": null
       },
       {
@@ -561,7 +561,7 @@
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
-        "value_translated_automated": "ଦଳ {0} {1} ରାଣୀଙ୍କୁ ଆଚ୍ଛାଦନ କରିଛି |",
+        "value_translated_automated": "ଦଳ {0} {1 que ରାଣୀଙ୍କୁ ଆଚ୍ଛାଦନ କରିଛି |",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "0, 1, 2, କିମ୍ବା 3 ଦବାଇ ଆପଣ କ୍ୟାମେରା କୋଣ ପରିବର୍ତ୍ତନ କରିପାରିବେ | ପରାମର୍ଶିତ ଖେଳୁଥିବା କ୍ୟାମେରା ହେଉଛି 1 | ଆପଣ ଯେକ time ଣସି ସମୟରେ ଡାହାଣ କ୍ଲିକ୍ ଧରି ମାଉସକୁ ଘୁଞ୍ଚାଇ ନିଜ କ୍ୟାମେରାକୁ ଘୁଞ୍ଚାଇ ପାରିବେ | କଣ୍ଟ୍ରୋଲ୍ ମେନୁରେ ଅଧିକ କ୍ୟାମେରା ନିୟନ୍ତ୍ରଣ ଦେଖନ୍ତୁ |",
+        "value_translated_automated": "ଆପଣ 0, 1, 2, କିମ୍ବା 3 ଦବାଇ କ୍ୟାମେରା କୋଣ ପରିବର୍ତ୍ତନ କରିପାରିବେ | ପରାମର୍ଶିତ ଖେଳୁଥିବା କ୍ୟାମେରା ହେଉଛି 1 | ଆପଣ ଡାହାଣ କ୍ୟାମେରା ଧରି ମାଉସକୁ ଘୁଞ୍ଚାଇ ନିଜ କ୍ୟାମେରାକୁ ଯେକ time ଣସି ସମୟରେ ଘୁଞ୍ଚାଇ ପାରିବେ | କଣ୍ଟ୍ରୋଲ୍ ମେନୁରେ ଅଧିକ କ୍ୟାମେରା ନିୟନ୍ତ୍ରଣ ଦେଖନ୍ତୁ |",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1614,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "ଆପଣଙ୍କର ଷ୍ଟ୍ରାଇକରକୁ ଚଲାଇବା ପାଇଁ ବାମ କ୍ଲିକ୍ ମୁକ୍ତ କରନ୍ତୁ |",
+        "value_translated_automated": "ତୁମର ଷ୍ଟ୍ରାଇକରକୁ ଖେଳିବା ପାଇଁ ବାମ କ୍ଲିକ୍ ମୁକ୍ତ କର |",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1623,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "ବିଭିନ୍ନ ଖେଳ ମୋଡରେ ଭିନ୍ନ ସ୍କୋରିଂ ନିୟମ ଅଛି, କିନ୍ତୁ ସ୍କୋର ଯେକ time ଣସି ସମୟରେ TAB ଚାବି ଦବାଇ ଦେଖାଯାଇପାରିବ |",
+        "value_translated_automated": "ବିଭିନ୍ନ ଖେଳ ମୋଡରେ ଭିନ୍ନ ସ୍କୋରିଂ ନିୟମ ଅଛି, କିନ୍ତୁ TAB ଚାବିକୁ ଦବାଇ ସ୍କୋର ଯେକ time ଣସି ସମୟରେ ଦେଖାଯାଇପାରିବ |",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "କାରୋମ୍ ସ୍ଲାମ୍! ଏକ କାରୋମ୍ ସିମୁଲେଟର ଖେଳ | ଏହି ଟ୍ୟୁଟୋରିଆଲ୍ ଆପଣଙ୍କୁ ନିୟନ୍ତ୍ରଣ ଏବଂ କାରୋମ୍ କିପରି ଖେଳିବାକୁ ଶିଖାଇବ |",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "କ୍ୟାମେରା 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "କ୍ୟାମେରା 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "କ୍ୟାମେରା 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "କ୍ୟାମେରା 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "ପରବର୍ତ୍ତୀ ପୃଷ୍ଠା |",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "ପୂର୍ବ ପୃଷ୍ଠା |",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0 game ଖେଳରେ ଯୋଗ ଦେଇଛନ୍ତି |",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ଖେଳ ଛାଡିଛି |",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "ଖଣ୍ଡ ଗଣନା |",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "ତାଲିମ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "ରାଣୀ ଆଚ୍ଛାଦିତ |",
         "value_translated_native": null
       }
     ]

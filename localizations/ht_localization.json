@@ -1533,7 +1533,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Trennen kurseur ou lwen sib ou pandan w ap kontinye kenbe klike sou gòch.",
+        "value_translated_automated": "Trennen kurseur ou lwen sib ou pandan w ap kontinye kenbe klike sou bò gòch la.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1614,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "Lage klike sou bò gòch la pou repwoche atakan ou an.",
+        "value_translated_automated": "Lage klike sou gòch la pou repwoche atakan ou a nan jwèt.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Pwofesyonèl ak mòd pisin disk pral fè ou sèlman vize nan pòch koulè ekip ou a, pandan y ap mòd pwen asiyen valè pwen diferan pou chak moso ki gen koulè diferan. Tipikman, yon moso koulè wouj gen gwo valè, epi yo refere yo kòm larenn lan.",
+        "value_translated_automated": "Pwofesyonèl ak mòd pisin disk pral fè ou sèlman vize nan pòch koulè ekip ou a, pandan y ap mòd pwen asiyen valè pwen diferan pou chak moso ki gen koulè diferan. Tipikman, yon moso koulè wouj se gwo valè, epi yo refere yo kòm larenn lan.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam! se yon jwèt similatè carrom. Tutorial sa a pral anseye w kontwòl yo ak kouman yo jwe carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Pwochen Paj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Paj Previous",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} te rantre nan jwèt la.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} te kite jwèt la.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Konte moso",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Fòmasyon",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Rèn kouvri",
         "value_translated_native": null
       }
     ]

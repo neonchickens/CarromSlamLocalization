@@ -1679,6 +1679,105 @@
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam! on carrom-simulaattoripeli. Tämä opetusohjelma opettaa sinulle ohjaimia ja kuinka pelata carromia.",
         "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Seuraava sivu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Edellinen sivu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} on liittynyt peliin.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} on poistunut pelistä.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Kappaleiden määrä",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Koulutus",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Queen Covered",
+        "value_translated_native": null
       }
     ]
   }

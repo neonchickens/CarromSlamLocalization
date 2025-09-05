@@ -147,7 +147,7 @@
         "description_text": "Views the server menu, allowing the user to manage their steam lobby",
         "description_location": "A button on the pause menu",
         "value_english": "Server",
-        "value_translated_automated": "pelayan",
+        "value_translated_automated": "Pelayan",
         "value_translated_native": null
       },
       {
@@ -201,7 +201,7 @@
         "description_text": "Toggles the focus of the chat/event menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Chat",
-        "value_translated_automated": "Alihkan Obrolan",
+        "value_translated_automated": "Beralih Obrolan",
         "value_translated_native": null
       },
       {
@@ -219,7 +219,7 @@
         "description_text": "Used to reset pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Quaternary Action",
-        "value_translated_automated": "Aksi Kuarter",
+        "value_translated_automated": "Aksi Kuarterner",
         "value_translated_native": null
       },
       {
@@ -255,7 +255,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "Aksi Tersier",
+        "value_translated_automated": "Aksi Terter",
         "value_translated_native": null
       },
       {
@@ -300,7 +300,7 @@
         "description_text": "Changes the color of the player's trail",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Trail Color",
-        "value_translated_automated": "Warna Jejak",
+        "value_translated_automated": "Jejak Warna",
         "value_translated_native": null
       },
       {
@@ -309,7 +309,7 @@
         "description_text": "Changes the skin of the player's carrom striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Striker Skin",
-        "value_translated_automated": "Kulit Penyerang",
+        "value_translated_automated": "Kulit Striker",
         "value_translated_native": null
       },
       {
@@ -318,7 +318,7 @@
         "description_text": "Changes the skin of the player's trail",
         "description_location": "A customization option in the general tab of the customization menu",
         "value_english": "Trial Skin",
-        "value_translated_automated": "Kulit Percobaan",
+        "value_translated_automated": "Kulit Uji Coba",
         "value_translated_native": null
       },
       {
@@ -354,7 +354,7 @@
         "description_text": "Describes that this game is according to the following conditions",
         "description_location": "A label in the intro menu",
         "value_english": "Best of",
-        "value_translated_automated": "Yang terbaik dari",
+        "value_translated_automated": "Terbaik dari",
         "value_translated_native": null
       },
       {
@@ -372,7 +372,7 @@
         "description_text": "Describes the amount of computer controlled players present in the lobby",
         "description_location": "A label in the pregame menu",
         "value_english": "Bots",
-        "value_translated_automated": "Bot",
+        "value_translated_automated": "Robot",
         "value_translated_native": null
       },
       {
@@ -390,7 +390,7 @@
         "description_text": "Describes the score debt owed by a particular team",
         "description_location": "A label in the Professional Carrom game mode menu",
         "value_english": "Team {0} owes {1} point(s)",
-        "value_translated_automated": "Tim {0} berhutang {1} poin",
+        "value_translated_automated": "Tim {0} berutang {1} poin",
         "value_translated_native": null
       },
       {
@@ -606,7 +606,7 @@
         "description_text": "States that the player has missed",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has missed",
-        "value_translated_automated": "Tim {0} {1} ketinggalan",
+        "value_translated_automated": "Tim {0} {1} telah hilang",
         "value_translated_native": null
       },
       {
@@ -615,7 +615,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "Tim {0} {1} telah gagal",
+        "value_translated_automated": "Tim {0} {1} telah memasukkan tembakan mereka",
         "value_translated_native": null
       },
       {
@@ -624,7 +624,7 @@
         "description_text": "Describes the ability to place your striker anywhere on the board",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Anywhere",
-        "value_translated_automated": "Dimanapun",
+        "value_translated_automated": "Dimana saja",
         "value_translated_native": null
       },
       {
@@ -633,7 +633,7 @@
         "description_text": "Describes the ability to choose a variety of options throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Assorted",
-        "value_translated_automated": "berbagai macam",
+        "value_translated_automated": "Bermacam-macam",
         "value_translated_native": null
       },
       {
@@ -678,7 +678,7 @@
         "description_text": "Describes the crokinole game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Crokinole",
-        "value_translated_automated": "buaya",
+        "value_translated_automated": "Crokinole",
         "value_translated_native": null
       },
       {
@@ -696,7 +696,7 @@
         "description_text": "Describes the disc pool game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Disc Pool",
-        "value_translated_automated": "Kumpulan Disk",
+        "value_translated_automated": "Kolam Cakram",
         "value_translated_native": null
       },
       {
@@ -786,7 +786,7 @@
         "description_text": "Describes the tutorial game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Tutorial",
-        "value_translated_automated": "tutorial",
+        "value_translated_automated": "Tutorial",
         "value_translated_native": null
       },
       {
@@ -822,7 +822,7 @@
         "description_text": "Choice of whether to round off the corner around the pocket",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket rounded",
-        "value_translated_automated": "Saku dinding membulat",
+        "value_translated_automated": "Kantong dinding berbentuk bulat",
         "value_translated_native": null
       },
       {
@@ -831,7 +831,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Papan kelenturan",
+        "value_translated_automated": "Papan pantul",
         "value_translated_native": null
       },
       {
@@ -840,7 +840,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "Sepotong kelenturan",
+        "value_translated_automated": "Bagian yang memantul",
         "value_translated_native": null
       },
       {
@@ -849,7 +849,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Striker goyang",
+        "value_translated_automated": "Striker yang memantul",
         "value_translated_native": null
       },
       {
@@ -858,7 +858,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "Dinding goyang",
+        "value_translated_automated": "Dinding pantul",
         "value_translated_native": null
       },
       {
@@ -867,7 +867,7 @@
         "description_text": "Choice of max points to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Point maximum",
-        "value_translated_automated": "Poin maksimal",
+        "value_translated_automated": "Poin maksimum",
         "value_translated_native": null
       },
       {
@@ -885,7 +885,7 @@
         "description_text": "Choice of how many black pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces black",
-        "value_translated_automated": "Potongan berwarna hitam",
+        "value_translated_automated": "Potongan hitam",
         "value_translated_native": null
       },
       {
@@ -894,7 +894,7 @@
         "description_text": "Choice of how many red pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces red",
-        "value_translated_automated": "Potongan berwarna merah",
+        "value_translated_automated": "Potongan merah",
         "value_translated_native": null
       },
       {
@@ -912,7 +912,7 @@
         "description_text": "Choice of how many white pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces white",
-        "value_translated_automated": "Potongan berwarna putih",
+        "value_translated_automated": "Potongan putih",
         "value_translated_native": null
       },
       {
@@ -975,7 +975,7 @@
         "description_text": "Choice of game mode within a game",
         "description_location": "A rule in the rules menu",
         "value_english": "Game mode",
-        "value_translated_automated": "Modus permainan",
+        "value_translated_automated": "Mode permainan",
         "value_translated_native": null
       },
       {
@@ -984,7 +984,7 @@
         "description_text": "Choice of the mass of pieces",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass pieces",
-        "value_translated_automated": "Potongan massal",
+        "value_translated_automated": "Potongan massa",
         "value_translated_native": null
       },
       {
@@ -993,7 +993,7 @@
         "description_text": "Choice of the mass of uniform strikers",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass striker",
-        "value_translated_automated": "Striker massal",
+        "value_translated_automated": "Pemogokan massal",
         "value_translated_native": null
       },
       {
@@ -1011,7 +1011,7 @@
         "description_text": "Choice of where a player is allowed to place a striker",
         "description_location": "A rule in the rules menu",
         "value_english": "Striker placement",
-        "value_translated_automated": "Penempatan penyerang",
+        "value_translated_automated": "Penempatan striker",
         "value_translated_native": null
       },
       {
@@ -1029,7 +1029,7 @@
         "description_text": "Choice of how many points a black piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for black",
-        "value_translated_automated": "Poin untuk warna hitam",
+        "value_translated_automated": "Poin untuk hitam",
         "value_translated_native": null
       },
       {
@@ -1038,7 +1038,7 @@
         "description_text": "Choice of how many points a red piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for red",
-        "value_translated_automated": "Poin untuk warna merah",
+        "value_translated_automated": "Poin untuk merah",
         "value_translated_native": null
       },
       {
@@ -1047,7 +1047,7 @@
         "description_text": "Choice of how many points a team piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for piece",
-        "value_translated_automated": "Poin untuk satuan",
+        "value_translated_automated": "Poin untuk bagian",
         "value_translated_native": null
       },
       {
@@ -1056,7 +1056,7 @@
         "description_text": "Choice of how many points a white piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for white",
-        "value_translated_automated": "Poin untuk warna putih",
+        "value_translated_automated": "Poin untuk putih",
         "value_translated_native": null
       },
       {
@@ -1065,7 +1065,7 @@
         "description_text": "Choice of how high the power cap for strikers is set",
         "description_location": "A rule in the rules menu",
         "value_english": "Power Scale",
-        "value_translated_automated": "Skala Kekuatan",
+        "value_translated_automated": "Skala Daya",
         "value_translated_native": null
       },
       {
@@ -1083,7 +1083,7 @@
         "description_text": "Choice of how large a piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Piece",
-        "value_translated_automated": "Potongan Ukuran",
+        "value_translated_automated": "Ukuran Potongan",
         "value_translated_native": null
       },
       {
@@ -1092,7 +1092,7 @@
         "description_text": "Choice of how large a pocket is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Pocket",
-        "value_translated_automated": "Saku Ukuran",
+        "value_translated_automated": "Ukuran Saku",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1101,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "Penyerang Ukuran",
+        "value_translated_automated": "Ukuran Striker",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1110,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "Putar Timer",
+        "value_translated_automated": "Pengatur Waktu Putar",
         "value_translated_native": null
       },
       {
@@ -1119,7 +1119,7 @@
         "description_text": "Choice of enforcing a uniform striker across all players",
         "description_location": "A rule in the rules menu",
         "value_english": "Uniform Striker",
-        "value_translated_automated": "Penyerang Seragam",
+        "value_translated_automated": "Striker Seragam",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1128,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Pemain Maks",
+        "value_translated_automated": "Pemain Maksimal",
         "value_translated_native": null
       },
       {
@@ -1164,7 +1164,7 @@
         "description_text": "Describes the sensitivity of the zoom",
         "description_location": "A setting in the settings menu",
         "value_english": "Zoom sensitivity",
-        "value_translated_automated": "Sensitivitas pembesaran",
+        "value_translated_automated": "Sensitivitas zoom",
         "value_translated_native": null
       },
       {
@@ -1227,7 +1227,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "volume antarmuka pengguna",
+        "value_translated_automated": "Volume antarmuka pengguna",
         "value_translated_native": null
       },
       {
@@ -1236,7 +1236,7 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "Tenggelam Hitam",
+        "value_translated_automated": "Hitam Tenggelam",
         "value_translated_native": null
       },
       {
@@ -1254,7 +1254,7 @@
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "Ratu Tenggelam",
+        "value_translated_automated": "Ratu Sank",
         "value_translated_native": null
       },
       {
@@ -1263,7 +1263,7 @@
         "description_text": "Describes the amount of strikers shot by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Attempt",
-        "value_translated_automated": "Percobaan Tembakan",
+        "value_translated_automated": "Percobaan Penembakan",
         "value_translated_native": null
       },
       {
@@ -1281,7 +1281,7 @@
         "description_text": "Describes the amount of white pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
-        "value_translated_automated": "Tenggelam Putih",
+        "value_translated_automated": "White Sank",
         "value_translated_native": null
       },
       {
@@ -1290,7 +1290,7 @@
         "description_text": "Describes a page of audio related settings",
         "description_location": "A tab label in the settings menu",
         "value_english": "Audio",
-        "value_translated_automated": "Audio",
+        "value_translated_automated": "Suara",
         "value_translated_native": null
       },
       {
@@ -1353,7 +1353,7 @@
         "description_text": "Describes a page of game mode related rules",
         "description_location": "A tab label in the rules menu",
         "value_english": "Game Mode",
-        "value_translated_automated": "Modus Permainan",
+        "value_translated_automated": "Mode Permainan",
         "value_translated_native": null
       },
       {
@@ -1380,7 +1380,7 @@
         "description_text": "Describes a page of pointer related customizations",
         "description_location": "A tab label in the customizations menu",
         "value_english": "Pointer",
-        "value_translated_automated": "penunjuk",
+        "value_translated_automated": "Penunjuk",
         "value_translated_native": null
       },
       {
@@ -1389,7 +1389,7 @@
         "description_text": "Describes a page of ruleset related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Presets",
-        "value_translated_automated": "Preset",
+        "value_translated_automated": "Prasetel",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1434,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "Striker harus memulai permainan dari baseline.",
+        "value_translated_automated": "Penyerang harus memulai permainan dari garis dasar.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Setiap permainan karambol akan dimulai dengan semua bidak pencetak angka berkumpul di tengah. Tembakan pertama pada ronde ini disebut break.",
+        "value_translated_automated": "Setiap permainan karambol akan dimulai dengan semua keping skor dikumpulkan di tengah. Pukulan pertama dalam ronde ini disebut break.",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1479,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Terobosan yang baik akan menyebarkan kepingan ke seluruh papan. Pemain yang terampil mungkin bisa mendapatkan keuntungan sepanjang ronde dari break yang bagus dan tembakan berikutnya.",
+        "value_translated_automated": "Pukulan break yang baik akan menyebarkan bidak-bidak ke seluruh papan. Pemain yang terampil mungkin bisa mendapatkan keuntungan sepanjang ronde dari break yang baik dan pukulan-pukulan berikutnya.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Anda dapat mengubah sudut kamera dengan menekan 0, 1, 2, atau 3. Kamera yang disarankan untuk diputar adalah 1. Anda dapat menggerakkan kamera kapan saja dengan menahan klik kanan dan menggerakkan mouse. Lihat kontrol kamera lainnya di menu kontrol.",
+        "value_translated_automated": "Anda dapat mengubah sudut kamera dengan menekan 0, 1, 2, atau 3. Kamera yang disarankan untuk bermain adalah 1. Anda dapat menggerakkan kamera kapan saja dengan menahan klik kanan dan menggerakkan mouse. Lihat kontrol kamera lainnya di menu kontrol.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom dimainkan dengan menjentikkan cakram ke cakram lain untuk mendorongnya ke dalam lubang di papan. Melakukannya dengan sukses memberi Anda giliran lagi. Permainan berakhir ketika tim kehabisan cakram untuk ditargetkan.",
+        "value_translated_automated": "Karambol dimainkan dengan cara menjentikkan cakram ke cakram lain untuk mendorongnya ke dalam lubang di papan. Jika berhasil, Anda akan mendapatkan giliran lagi. Permainan berakhir ketika satu tim kehabisan cakram untuk diincar.",
         "value_translated_native": null
       },
       {
@@ -1506,7 +1506,7 @@
         "description_text": "Defines how chat can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Turn history and chat can be opened by pressing T.",
-        "value_translated_automated": "Turn history dan chat bisa dibuka dengan menekan T.",
+        "value_translated_automated": "Riwayat putaran dan obrolan dapat dibuka dengan menekan T.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1515,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Anda telah menyelesaikan tutorialnya! Anda sekarang siap memainkan permainan carrom dengan teman dan bot.",
+        "value_translated_automated": "Anda telah menyelesaikan tutorialnya! Anda sekarang siap bermain karambol dengan teman dan bot.",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1524,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "Tempatkan kursor Anda pada garis dasar untuk memulai pengambilan gambar.",
+        "value_translated_automated": "Tempatkan kursor Anda pada garis dasar untuk memulai bidikan Anda.",
         "value_translated_native": null
       },
       {
@@ -1533,7 +1533,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Tarik kursor menjauh dari target sambil terus menahan klik kiri.",
+        "value_translated_automated": "Seret kursor menjauh dari target sambil terus menahan klik kiri.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1569,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Kantong-kantong ini adalah tempat Anda ingin menenggelamkan cakram. Tonton saat bot kami bermain.",
+        "value_translated_automated": "Kantong-kantong ini adalah tempat Anda ingin memasukkan cakram. Saksikan bot kami bermain.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1578,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Mode profesional mengharuskan ratu dikantongi untuk menyelesaikan putaran. Untuk mencetak ratu, Anda harus mengantongi ratu terlebih dahulu dan kemudian berhasil mengantongi tembakan berikutnya untuk menutupi ratu. Gagal melakukan hal ini akan mengembalikan ratu ke dewan.",
+        "value_translated_automated": "Mode profesional mengharuskan ratu masuk ke kantong untuk menyelesaikan ronde. Untuk mendapatkan ratu, Anda harus memasukkan ratu terlebih dahulu ke kantong, lalu berhasil memasukkan tembakan berikutnya untuk melindungi ratu. Jika gagal, ratu akan dikembalikan ke papan.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1587,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Berikut skenarionya. Awasi saku bot lalu tutupi ratu.",
+        "value_translated_automated": "Berikut skenarionya. Awasi kantong bot, lalu lindungi ratu.",
         "value_translated_native": null
       },
       {
@@ -1596,7 +1596,7 @@
         "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself. First the queen, then the white piece.",
-        "value_translated_automated": "Cobalah sendiri. Pertama ratunya, lalu bidak putihnya.",
+        "value_translated_automated": "Coba sendiri. Pertama ratu, lalu bidak putih.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1605,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "Mode poin direkomendasikan untuk beberapa game pertama Anda. Ini memberi Anda banyak peluang untuk mencetak gol.",
+        "value_translated_automated": "Mode poin direkomendasikan untuk beberapa permainan pertama Anda. Ini memberi Anda banyak peluang untuk mencetak gol.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1614,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "Lepaskan klik kiri untuk menggerakkan striker Anda untuk bermain.",
+        "value_translated_automated": "Lepaskan klik kiri untuk mengarahkan striker Anda ke permainan.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1623,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "Mode permainan yang berbeda memiliki aturan penilaian yang berbeda, namun skor dapat dilihat kapan saja dengan menekan tombol TAB.",
+        "value_translated_automated": "Mode permainan yang berbeda memiliki aturan penilaian yang berbeda, tetapi skor dapat dilihat kapan saja dengan menekan tombol TAB.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Mode profesional dan kumpulan cakram akan membuat Anda hanya mengantongi warna tim Anda, sedangkan mode poin memberikan nilai poin berbeda untuk setiap bagian dengan warna berbeda. Biasanya, bidak berwarna merah bernilai tinggi, dan disebut sebagai ratu.",
+        "value_translated_automated": "Mode profesional dan pool disk mengharuskan Anda hanya mengantongi warna tim Anda, sementara mode poin memberikan nilai poin yang berbeda untuk setiap bidak dengan warna berbeda. Biasanya, bidak berwarna merah memiliki nilai tinggi, dan disebut sebagai ratu.",
         "value_translated_native": null
       },
       {
@@ -1650,7 +1650,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "Disk yang digunakan untuk memulai permainan disebut striker.",
+        "value_translated_automated": "Cakram yang digunakan untuk memulai permainan disebut striker.",
         "value_translated_native": null
       },
       {
@@ -1659,7 +1659,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Sekarang mari kita coba untuk melakukan pukulan pertama kita. Perhatikan botnya dulu.",
+        "value_translated_automated": "Sekarang, mari kita coba memasukkan tembakan pertama kita. Perhatikan robotnya dulu.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +1668,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Sekarang giliranmu. Masukkan potongan putih itu ke dalam saku di sebelahnya seperti bot.",
+        "value_translated_automated": "Sekarang giliranmu. Pukul bagian putih itu ke kantong di sebelahnya, persis seperti bot.",
         "value_translated_native": null
       },
       {
@@ -1677,7 +1677,106 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Bantingan Karambol! adalah game simulator karambol. Tutorial ini akan mengajarkan Anda kontrol dan cara bermain carrom.",
+        "value_translated_automated": "Carrom Slam! adalah game simulator karambol. Tutorial ini akan mengajarkan Anda kontrol dan cara bermain karambol.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Halaman Berikutnya",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Halaman Sebelumnya",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} telah bergabung dalam permainan.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} telah meninggalkan permainan.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Jumlah potongan",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Pelatihan",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Ratu Tertutup",
         "value_translated_native": null
       }
     ]

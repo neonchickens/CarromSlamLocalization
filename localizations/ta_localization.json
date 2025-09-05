@@ -597,7 +597,7 @@
         "description_text": "States that the player has sank their striker",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has fouled",
-        "value_translated_automated": "{0} {1} குழு தவறு செய்துள்ளது",
+        "value_translated_automated": "{0} {1} அணி தவறு செய்துள்ளது",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "0, 1, 2 அல்லது 3ஐ அழுத்துவதன் மூலம் கேமரா கோணங்களை மாற்றலாம். பரிந்துரைக்கப்படும் பிளே கேமரா 1. வலது கிளிக் செய்து மவுஸை நகர்த்துவதன் மூலம் உங்கள் கேமராவை எந்த நேரத்திலும் நகர்த்தலாம். கட்டுப்பாடுகள் மெனுவில் மேலும் கேமரா கட்டுப்பாடுகளைப் பார்க்கவும்.",
+        "value_translated_automated": "0, 1, 2, அல்லது 3ஐ அழுத்துவதன் மூலம் கேமரா கோணங்களை மாற்றலாம். பரிந்துரைக்கப்படும் பிளே கேமரா 1. வலது கிளிக் செய்து மவுஸை நகர்த்துவதன் மூலம் எந்த நேரத்திலும் உங்கள் கேமராவை நகர்த்தலாம். கட்டுப்பாடுகள் மெனுவில் மேலும் கேமரா கட்டுப்பாடுகளைப் பார்க்கவும்.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1569,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "இந்த பாக்கெட்டுகள் நீங்கள் டிஸ்க்குகளை மூழ்கடிக்கும் நோக்கத்தில் உள்ளன. எங்கள் போட் விளையாடுவதைப் பாருங்கள்.",
+        "value_translated_automated": "இந்த பாக்கெட்டுகள் நீங்கள் டிஸ்க்குகளை மூழ்கடிக்க இலக்கு வைக்கிறீர்கள். எங்கள் போட் விளையாடுவதைப் பாருங்கள்.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "தொழில்முறை மற்றும் டிஸ்க் பூல் முறைகள் உங்கள் அணியின் நிறத்தை பாக்கெட்டில் அடைவதை மட்டுமே குறிக்கோளாகக் கொண்டிருக்கும், அதே சமயம் புள்ளிகள் பயன்முறையானது ஒவ்வொரு வித்தியாசமான வண்ணத் துண்டுக்கும் வெவ்வேறு புள்ளி மதிப்புகளை ஒதுக்குகிறது. பொதுவாக, சிவப்பு நிறத் துண்டு அதிக மதிப்புடையது, மேலும் அது ராணி என்று குறிப்பிடப்படுகிறது.",
+        "value_translated_automated": "தொழில்முறை மற்றும் டிஸ்க் பூல் முறைகள் உங்கள் அணியின் நிறத்தை பாக்கெட்டில் அடைவதை மட்டுமே குறிக்கோளாகக் கொண்டிருக்கும், அதே சமயம் புள்ளிகள் பயன்முறையானது ஒவ்வொரு வித்தியாசமான வண்ணத் துண்டுக்கும் வெவ்வேறு புள்ளி மதிப்புகளை ஒதுக்குகிறது. பொதுவாக, ஒரு சிவப்பு நிறத் துண்டு அதிக மதிப்புடையது, மேலும் அது ராணி என்று குறிப்பிடப்படுகிறது.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "கேரம் ஸ்லாம்! கேரம் சிமுலேட்டர் கேம். இந்த பயிற்சி உங்களுக்கு கட்டுப்பாடுகள் மற்றும் எப்படி கேரம் விளையாடுவது என்பதை கற்பிக்கும்.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "கேமரா 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "கேமரா 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "கேமரா 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "கேமரா 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "அடுத்த பக்கம்",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "முந்தைய பக்கம்",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} கேமில் சேர்ந்துள்ளார்.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} விளையாட்டிலிருந்து வெளியேறினார்.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "துண்டு எண்ணிக்கை",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "பயிற்சி",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "ராணி மூடப்பட்டிருக்கும்",
         "value_translated_native": null
       }
     ]

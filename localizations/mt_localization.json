@@ -489,7 +489,7 @@
         "description_text": "Describes that the scoreboard represents individual player statistics",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Player Scoreboard",
-        "value_translated_automated": "Player Scoreboard",
+        "value_translated_automated": "Scoreboard tal-Player",
         "value_translated_native": null
       },
       {
@@ -849,7 +849,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Bounciness attakkant",
+        "value_translated_automated": "Attakkant bounciness",
         "value_translated_native": null
       },
       {
@@ -975,7 +975,7 @@
         "description_text": "Choice of game mode within a game",
         "description_location": "A rule in the rules menu",
         "value_english": "Game mode",
-        "value_translated_automated": "Mod tal-logħba",
+        "value_translated_automated": "Mod logħba",
         "value_translated_native": null
       },
       {
@@ -1560,7 +1560,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "Bordijiet tal-carrom standard jiġu b'erba 'toqob, imsejħa bwiet, f'kull kantuniera.",
+        "value_translated_automated": "Bordijiet tal-karrom standard jiġu b'erba 'toqob, imsejħa bwiet, f'kull kantuniera.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1605,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "Il-modalità tal-punti hija rakkomandata għall-ewwel logħob tiegħek. Dan jagħtik ħafna opportunitajiet biex tiskurja.",
+        "value_translated_automated": "Il-modalità tal-punti hija rakkomandata għall-ewwel koppja ta' logħob tiegħek. Dan jagħtik ħafna opportunitajiet biex tiskurja.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Il-modi professjonali u tal-grupp tad-disk se jkollok biss l-għan li tpoġġi l-kulur tat-tim tiegħek fil-but, filwaqt li l-modalità tal-punti tassenja valuri tal-punti differenti għal kull biċċa kulur differenti. Tipikament, biċċa kulur aħmar hija ta 'valur għoli, u tissejjaħ ir-reġina.",
+        "value_translated_automated": "Il-modi professjonali u tal-grupp tad-disk se jkollok biss l-għan li tpoġġi l-kulur tat-tim tiegħek fil-but, filwaqt li l-modalità tal-punti tassenja valuri ta 'punti differenti għal kull biċċa kulur differenti. Tipikament, biċċa kulur aħmar hija ta 'valur għoli, u tissejjaħ ir-reġina.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam! hija logħba simulatur carrom. Dan it-tutorja se jgħallmu l-kontrolli u kif tilgħab carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Il-Pagna Li jmiss",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Il-paġna ta' qabel",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} ingħaqad mal-logħba.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ħalla l-logħba.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Għadd ta' biċċiet",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Taħriġ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Reġina Mgħottija",
         "value_translated_native": null
       }
     ]

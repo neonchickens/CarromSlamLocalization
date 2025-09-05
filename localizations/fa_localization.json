@@ -1254,7 +1254,7 @@
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "ملکه غرق",
+        "value_translated_automated": "ملکه سانک",
         "value_translated_native": null
       },
       {
@@ -1425,7 +1425,7 @@
         "description_text": "Describes a page of video related settings",
         "description_location": "A tab label in the settings menu",
         "value_english": "Video",
-        "value_translated_automated": "ویدئو",
+        "value_translated_automated": "ویدیو",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom با چرخاندن دیسک‌ها به دیسک‌های دیگر پخش می‌شود تا آنها را به سوراخ‌های روی تخته فشار دهد. انجام این کار با موفقیت یک نوبت دیگر به شما می دهد. بازی زمانی به پایان می رسد که دیسک های یک تیم برای هدف گیری تمام شود.",
+        "value_translated_automated": "Carrom با چرخاندن دیسک ها به دیسک های دیگر پخش می شود تا آنها را به سوراخ های روی تخته فشار دهد. انجام این کار با موفقیت یک نوبت دیگر به شما می دهد. بازی زمانی به پایان می رسد که دیسک های یک تیم برای هدف گیری تمام شود.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "حالت های حرفه ای و استخر دیسکی شما را تنها به دنبال رنگ تیم خود می اندازد، در حالی که حالت پوینت مقادیر متفاوتی را برای هر قطعه با رنگ متفاوت تعیین می کند. به طور معمول، یک قطعه قرمز رنگ ارزش بالایی دارد و به آن ملکه می گویند.",
+        "value_translated_automated": "حالت های حرفه ای و استخر دیسکی شما را تنها به دنبال رنگ تیم خود می دانند، در حالی که حالت امتیاز، مقادیر متفاوتی را برای هر قطعه با رنگ متفاوت تعیین می کند. به طور معمول، یک قطعه قرمز رنگ ارزش بالایی دارد و به آن ملکه می گویند.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +1668,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "حالا نوبت شماست آن قطعه سفید را درست مثل ربات به جیب کناری آن بزنید.",
+        "value_translated_automated": "حالا نوبت شماست آن تکه سفید را درست مثل ربات به جیب کنارش بزنید.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "کاروم اسلم! یک بازی شبیه ساز کاروم است. این آموزش کنترل ها و نحوه بازی carrom را به شما آموزش می دهد.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "دوربین 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "دوربین 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "دوربین 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "دوربین 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "صفحه بعدی",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "صفحه قبلی",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} به بازی پیوسته است.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} بازی را ترک کرده است.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "تعداد قطعات",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "آموزش",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "ملکه پوشیده شده است",
         "value_translated_native": null
       }
     ]

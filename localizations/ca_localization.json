@@ -1542,7 +1542,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Feu clic amb el botó esquerre i manteniu premut per confirmar la ubicació del vostre davanter.",
+        "value_translated_automated": "Feu clic amb el botó esquerre i manteniu premut per confirmar la ubicació del vostre atacant.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1578,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "La modalitat professional requerirà que la reina s'embutxaqui per completar la ronda. Per marcar la dama, primer heu d'embutxacar la dama i després embutxacar amb èxit el vostre següent tir per cobrir la dama. Si no ho fa, tornarà la dama al tauler.",
+        "value_translated_automated": "La modalitat professional requerirà que la dama s'embutxaqui per completar la ronda. Per marcar la dama, primer heu d'embutxacar la dama i després embutxacar amb èxit el vostre següent tir per cobrir la dama. Si no ho fa, tornarà la dama al tauler.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Els modes d'agrupació de discos i professionals només us permetran embolicar el color del vostre equip, mentre que el mode de punts assigna valors de punts diferents per a cada peça de color diferent. Normalment, una peça de color vermell té un gran valor i es coneix com la reina.",
+        "value_translated_automated": "Els modes d'agrupació de discos i professionals només us permetran embolicar el color del vostre equip, mentre que el mode de punts assigna diferents valors de punts per a cada peça de color diferent. Normalment, una peça de color vermell té un gran valor i es coneix com la reina.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +1668,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Ara el teu torn. Colpegeu aquesta peça blanca a la butxaca del costat igual que el bot.",
+        "value_translated_automated": "Ara el teu torn. Colpegeu aquesta peça blanca a la butxaca que hi ha al costat igual que el bot.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam! és un joc de simulador de carrom. Aquest tutorial us ensenyarà els controls i com jugar al carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Càmera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Càmera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Càmera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Càmera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Pàgina següent",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Pàgina anterior",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} s'ha unit al joc.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ha deixat el joc.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Recompte de peces",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Formació",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Reina coberta",
         "value_translated_native": null
       }
     ]

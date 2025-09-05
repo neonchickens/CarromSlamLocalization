@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "0 ، 1 ، 2 ياكى 3 نى بېسىش ئارقىلىق كامېرا بۇلۇڭىنى ئۆزگەرتەلەيسىز. تەۋسىيە قىلىنغان قويۇش كامېراسى 1. ئوڭ كۇنۇپكىنى بېسىپ مائۇسنى يۆتكەش ئارقىلىق كامېراڭىزنى خالىغان ۋاقىتتا يۆتكىيەلەيسىز. كونترول تىزىملىكىدە تېخىمۇ كۆپ كامېرا كونتروللىرىنى كۆرۈڭ.",
+        "value_translated_automated": "0 ، 1 ، 2 ياكى 3 نى بېسىش ئارقىلىق كامېرا بۇلۇڭىنى ئۆزگەرتەلەيسىز. تەۋسىيە قىلىنغان قويۇش كامېراسى 1. ئوڭ كۇنۇپكىنى بېسىپ مائۇسنى يۆتكەش ئارقىلىق كامېراڭىزنى خالىغان ۋاقىتتا يۆتكىيەلەيسىز. كونترول تىزىملىكىدىن تېخىمۇ كۆپ كامېرا كونتروللىرىنى كۆرۈڭ.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "كاروم دىسكىنى باشقا دىسكىلارغا ئۇرۇپ تاختايدىكى تۆشۈكلەرگە ئىتتىرىش ئارقىلىق ئوينايدۇ. بۇنداق قىلىش مۇۋەپپەقىيەتلىك ھالدا سىزگە يەنە بىر بۇرۇلۇش بېرىدۇ. بىر گۇرۇپپا نىشانغا قاراپ دىسكا تۈگىگەندە ئويۇن ئاخىرلىشىدۇ.",
+        "value_translated_automated": "كاروم دىسكىنى باشقا دىسكىلارغا ئۇرۇپ تاختايدىكى تۆشۈكلەرگە ئىتتىرىش ئارقىلىق ئوينايدۇ. بۇنداق قىلىش مۇۋەپپەقىيەتلىك ھالدا سىزگە يەنە بىر بۇرۇلۇش بېرىدۇ. بىر گۇرۇپپا نىشاندىكى دىسكا تۈگەپ كەتكەندە ئويۇن ئاخىرلىشىدۇ.",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1524,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "نۇر بەلگىڭىزنى ئاساسىي سىزىققا قويۇپ ئوقنى باشلاڭ.",
+        "value_translated_automated": "نۇر بەلگىڭىزنى ئاساسىي سىزىققا قويۇپ ، ئوقنى باشلاڭ.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1542,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "سول چېكىپ بېسىپ تۇرۇپ ھۇجۇمچىڭىزنىڭ ئورۇنلاشتۇرۇشىنى جەزملەشتۈرۈڭ.",
+        "value_translated_automated": "سول كۇنۇپكىنى بېسىپ تۇرۇپ ھۇجۇمچىڭىزنىڭ ئورۇنلاشتۇرۇشىنى جەزملەشتۈرۈڭ.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1623,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "ئوخشىمىغان ئويۇن ھالىتى ئوخشىمىغان نومۇر ئېلىش قائىدىسىگە ئىگە ، ئەمما TAB كۇنۇپكىسىنى بېسىش ئارقىلىق نومۇرنى خالىغان ۋاقىتتا كۆرگىلى بولىدۇ.",
+        "value_translated_automated": "ئوخشىمىغان ئويۇن ھالىتىنىڭ نومۇر ئېلىش قائىدىسى ئوخشىمايدۇ ، ئەمما TAB كۇنۇپكىسىنى بېسىش ئارقىلىق نومۇرنى خالىغان ۋاقىتتا كۆرگىلى بولىدۇ.",
         "value_translated_native": null
       },
       {
@@ -1677,7 +1677,106 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Carrom Slam! بىر كاروم تەقلىدلەشتۈرگۈچى ئويۇن. بۇ دەرسلىك سىزگە كونترول قىلىش ۋە كارومنى قانداق ئويناشنى ئۆگىتىدۇ.",
+        "value_translated_automated": "Carrom Slam! بىر كاروم تەقلىدلەشتۈرگۈچى ئويۇن. بۇ دەرسلىك سىزگە كونترول ۋە كارومنى قانداق ئويناشنى ئۆگىتىدۇ.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "كامېرا 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "كامېرا 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "كامېرا 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "كامېرا 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "كېيىنكى بەت",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "ئالدىنقى بەت",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} بۇ ئويۇنغا قوشۇلدى.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ئويۇندىن ئايرىلدى.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Piece count",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "مەشىق",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "ئايال پادىشاھ",
         "value_translated_native": null
       }
     ]

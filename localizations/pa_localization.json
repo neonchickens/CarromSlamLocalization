@@ -174,7 +174,7 @@
         "description_text": "Exits the current menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Back",
-        "value_translated_automated": "ਪਿੱਛੇ",
+        "value_translated_automated": "ਵਾਪਸ",
         "value_translated_native": null
       },
       {
@@ -336,7 +336,7 @@
         "description_text": "Changes the secondary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Texture",
-        "value_translated_automated": "ਸੈਕੰਡਰੀ ਟੈਕਸਟ",
+        "value_translated_automated": "ਸੈਕੰਡਰੀ ਬਣਤਰ",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1101,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "ਸਾਈਜ਼ ਸਟਰਾਈਕਰ",
+        "value_translated_automated": "ਸਾਈਜ਼ ਸਟ੍ਰਾਈਕਰ",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1128,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "ਅਧਿਕਤਮ ਖਿਡਾਰੀ",
+        "value_translated_automated": "ਵੱਧ ਤੋਂ ਵੱਧ ਖਿਡਾਰੀ",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "ਕੈਰਮ ਦੀ ਹਰ ਖੇਡ ਕੇਂਦਰ ਵਿੱਚ ਸਾਰੇ ਸਕੋਰਿੰਗ ਟੁਕੜਿਆਂ ਨਾਲ ਸ਼ੁਰੂ ਹੋਵੇਗੀ। ਦੌਰ ਦੇ ਪਹਿਲੇ ਸ਼ਾਟ ਨੂੰ ਬ੍ਰੇਕ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।",
+        "value_translated_automated": "ਕੈਰਮ ਦੀ ਹਰੇਕ ਖੇਡ ਕੇਂਦਰ ਵਿੱਚ ਸਾਰੇ ਸਕੋਰਿੰਗ ਟੁਕੜਿਆਂ ਨਾਲ ਸ਼ੁਰੂ ਹੋਵੇਗੀ। ਦੌਰ ਦੇ ਪਹਿਲੇ ਸ਼ਾਟ ਨੂੰ ਬ੍ਰੇਕ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।",
         "value_translated_native": null
       },
       {
@@ -1560,7 +1560,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "ਸਟੈਂਡਰਡ ਕੈਰਮ ਬੋਰਡ ਹਰ ਇੱਕ ਕੋਨੇ ਵਿੱਚ ਚਾਰ ਛੇਕਾਂ ਦੇ ਨਾਲ ਆਉਂਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਜੇਬਾਂ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।",
+        "value_translated_automated": "ਸਟੈਂਡਰਡ ਕੈਰਮ ਬੋਰਡ ਹਰ ਇੱਕ ਕੋਨੇ ਵਿੱਚ ਚਾਰ ਮੋਰੀਆਂ ਦੇ ਨਾਲ ਆਉਂਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਜੇਬਾਂ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1569,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "ਇਹ ਜੇਬਾਂ ਉਹ ਹਨ ਜਿੱਥੇ ਤੁਸੀਂ ਡਿਸਕਾਂ ਨੂੰ ਡੁੱਬਣ ਦਾ ਟੀਚਾ ਰੱਖ ਰਹੇ ਹੋ. ਦੇਖੋ ਜਿਵੇਂ ਸਾਡਾ ਬੋਟ ਖੇਡਦਾ ਹੈ।",
+        "value_translated_automated": "ਇਹ ਜੇਬਾਂ ਉਹ ਹਨ ਜਿੱਥੇ ਤੁਸੀਂ ਡਿਸਕਾਂ ਨੂੰ ਡੁੱਬਣ ਦਾ ਟੀਚਾ ਰੱਖਦੇ ਹੋ. ਦੇਖੋ ਜਿਵੇਂ ਸਾਡਾ ਬੋਟ ਖੇਡਦਾ ਹੈ।",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "ਪ੍ਰੋਫੈਸ਼ਨਲ ਅਤੇ ਡਿਸਕ ਪੂਲ ਮੋਡ ਤੁਹਾਡੇ ਕੋਲ ਸਿਰਫ ਆਪਣੀ ਟੀਮ ਦੇ ਰੰਗ ਨੂੰ ਪਾਕੇਟ ਕਰਨ ਦਾ ਟੀਚਾ ਰੱਖਣਗੇ, ਜਦੋਂ ਕਿ ਪੁਆਇੰਟ ਮੋਡ ਹਰੇਕ ਵੱਖਰੇ ਰੰਗ ਦੇ ਟੁਕੜੇ ਲਈ ਵੱਖ-ਵੱਖ ਬਿੰਦੂ ਮੁੱਲ ਨਿਰਧਾਰਤ ਕਰਦਾ ਹੈ। ਆਮ ਤੌਰ 'ਤੇ, ਇੱਕ ਲਾਲ ਰੰਗ ਦਾ ਟੁਕੜਾ ਉੱਚ ਮੁੱਲ ਵਾਲਾ ਹੁੰਦਾ ਹੈ, ਅਤੇ ਇਸ ਨੂੰ ਰਾਣੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।",
+        "value_translated_automated": "ਪ੍ਰੋਫੈਸ਼ਨਲ ਅਤੇ ਡਿਸਕ ਪੂਲ ਮੋਡ ਤੁਹਾਡੇ ਕੋਲ ਸਿਰਫ਼ ਆਪਣੀ ਟੀਮ ਦੇ ਰੰਗ ਨੂੰ ਪਾਕੇਟ ਕਰਨ ਦਾ ਟੀਚਾ ਰੱਖਣਗੇ, ਜਦੋਂ ਕਿ ਪੁਆਇੰਟ ਮੋਡ ਹਰੇਕ ਵੱਖਰੇ ਰੰਗ ਦੇ ਟੁਕੜੇ ਲਈ ਵੱਖ-ਵੱਖ ਬਿੰਦੂ ਮੁੱਲ ਨਿਰਧਾਰਤ ਕਰਦਾ ਹੈ। ਆਮ ਤੌਰ 'ਤੇ, ਇੱਕ ਲਾਲ ਰੰਗ ਦਾ ਟੁਕੜਾ ਉੱਚ ਮੁੱਲ ਵਾਲਾ ਹੁੰਦਾ ਹੈ, ਅਤੇ ਇਸ ਨੂੰ ਰਾਣੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "ਕੈਰਮ ਸਲੈਮ! ਇੱਕ ਕੈਰਮ ਸਿਮੂਲੇਟਰ ਗੇਮ ਹੈ। ਇਹ ਟਿਊਟੋਰਿਅਲ ਤੁਹਾਨੂੰ ਕੰਟਰੋਲ ਅਤੇ ਕੈਰਮ ਕਿਵੇਂ ਖੇਡਣਾ ਹੈ ਬਾਰੇ ਸਿਖਾਏਗਾ।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "ਕੈਮਰਾ 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "ਕੈਮਰਾ 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "ਕੈਮਰਾ 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "ਕੈਮਰਾ 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "ਅਗਲਾ ਪੰਨਾ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "ਪਿਛਲਾ ਪੰਨਾ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} ਗੇਮ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋ ਗਿਆ ਹੈ।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ਨੇ ਗੇਮ ਛੱਡ ਦਿੱਤੀ ਹੈ।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "ਟੁਕੜੇ ਦੀ ਗਿਣਤੀ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "ਸਿਖਲਾਈ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "ਰਾਣੀ ਢੱਕੀ ਹੋਈ",
         "value_translated_native": null
       }
     ]

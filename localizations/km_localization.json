@@ -615,7 +615,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "ក្រុម {0} {1} បាន​បរាជ័យ​ការ​បាញ់​របស់​ពួកគេ។",
+        "value_translated_automated": "ក្រុម {0} {1} បាន​បាញ់​គ្រាប់​បាល់​របស់​ពួកគេ។",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom ត្រូវ​បាន​លេង​ដោយ​វាយ​ឌីស​ទៅ​ក្នុង​ឌីស​ផ្សេង​ទៀត​ដើម្បី​រុញ​វា​ទៅ​ក្នុង​រន្ធ​នៅលើ​ក្តារ។ ការធ្វើដូច្នេះដោយជោគជ័យផ្តល់ឱ្យអ្នកនូវវេនមួយទៀត។ ហ្គេមបញ្ចប់នៅពេលដែលក្រុមមួយអស់ឌីសដើម្បីគោលដៅ។",
+        "value_translated_automated": "Carrom ត្រូវ​បាន​លេង​ដោយ​វាយ​ឌីស​ទៅ​ក្នុង​ឌីស​ផ្សេង​ទៀត​ដើម្បី​រុញ​វា​ទៅ​ក្នុង​រន្ធ​នៅលើ​ក្តារ។ ការធ្វើដូច្នេះដោយជោគជ័យផ្តល់ឱ្យអ្នកនូវវេនមួយទៀត។ ហ្គេមបញ្ចប់នៅពេលដែលក្រុមមួយអស់ឌីសដើម្បីកំណត់គោលដៅ។",
         "value_translated_native": null
       },
       {
@@ -1551,7 +1551,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "ម៉ឺនុយផ្អាកមានការកំណត់កម្មវិធី និងការគ្រប់គ្រង ហើយអាចចូលប្រើបានគ្រប់ពេលដោយចុចគ្រាប់ចុចគេច។",
+        "value_translated_automated": "ម៉ឺនុយផ្អាកមានការកំណត់ និងការគ្រប់គ្រងកម្មវិធី ហើយអាចចូលប្រើបានគ្រប់ពេលដោយចុចគ្រាប់ចុចគេច។",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "របៀប​ក្រុម​អាជីព និង​ឌីស​នឹង​មាន​បំណង​ឱ្យ​អ្នក​ដាក់​ពណ៌​ក្រុម​របស់​អ្នក​តែ​ប៉ុណ្ណោះ ខណៈ​ដែល​មុខងារ​ពិន្ទុ​កំណត់​តម្លៃ​ចំណុច​ខុសៗ​គ្នា​សម្រាប់​ដុំ​ពណ៌​ខុសៗ​គ្នា។ ជា​ធម្មតា ដុំ​ពណ៌​ក្រហម​មាន​តម្លៃ​ខ្ពស់ ហើយ​ត្រូវ​បាន​គេ​ហៅ​ថា​ជា​មហាក្សត្រី។",
+        "value_translated_automated": "របៀប​ក្រុម​អាជីព និង​ឌីស​នឹង​មាន​បំណង​ឱ្យ​អ្នក​ដាក់​ពណ៌​ក្រុម​របស់​អ្នក​តែ​ប៉ុណ្ណោះ ខណៈ​ដែល​ទម្រង់​ពិន្ទុ​កំណត់​តម្លៃ​ចំណុច​ខុសៗ​គ្នា​សម្រាប់​ដុំ​ពណ៌​ខុសៗ​គ្នា។ ជាធម្មតា ដុំពណ៌ក្រហមមានតម្លៃខ្ពស់ ហើយត្រូវបានគេសំដៅថាជាមហាក្សត្រី។",
         "value_translated_native": null
       },
       {
@@ -1650,7 +1650,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "ឌីសដែលប្រើសម្រាប់ចាប់ផ្តើមលេងត្រូវបានគេហៅថាខ្សែប្រយុទ្ធ។",
+        "value_translated_automated": "ឌីសដែលប្រើដើម្បីចាប់ផ្តើមលេងត្រូវបានគេហៅថាខ្សែប្រយុទ្ធ។",
         "value_translated_native": null
       },
       {
@@ -1659,7 +1659,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "ឥឡូវនេះសូមព្យាយាមលិចការបាញ់ដំបូងរបស់យើង។ មើល bot ជាមុនសិន។",
+        "value_translated_automated": "ឥឡូវ​នេះ​យើង​ព្យាយាម​ទម្លាក់​ការ​បាញ់​ដំបូង​របស់​យើង។ មើល bot ជាមុនសិន។",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "ខារ៉ាអូខេ! គឺជាហ្គេមក្លែងធ្វើ carrom ។ ការបង្រៀននេះនឹងបង្រៀនអ្នកពីការគ្រប់គ្រង និងរបៀបលេង carrom ។",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "កាមេរ៉ា ១",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "កាមេរ៉ា ២",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "កាមេរ៉ា ៣",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "កាមេរ៉ា ៤",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "ទំព័របន្ទាប់",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "ទំព័រមុន។",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} បាន​ចូលរួម​ហ្គេម។",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} បានចាកចេញពីហ្គេម។",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "រាប់បំណែក",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "ការបណ្តុះបណ្តាល",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "ម្ចាស់ក្សត្រីគ្របដណ្តប់",
         "value_translated_native": null
       }
     ]

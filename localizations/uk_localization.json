@@ -48,7 +48,7 @@
         "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
         "description_location": "A button on the players menu",
         "value_english": "Invite Friends",
-        "value_translated_automated": "Запросити друзів",
+        "value_translated_automated": "Запросіть друзів",
         "value_translated_native": null
       },
       {
@@ -390,7 +390,7 @@
         "description_text": "Describes the score debt owed by a particular team",
         "description_location": "A label in the Professional Carrom game mode menu",
         "value_english": "Team {0} owes {1} point(s)",
-        "value_translated_automated": "Команда {0} має стільки очок: {1}",
+        "value_translated_automated": "Команда {0} винна стільки балів: {1}",
         "value_translated_native": null
       },
       {
@@ -921,7 +921,7 @@
         "description_text": "Choice of how many sides the board will have",
         "description_location": "A rule in the rules menu",
         "value_english": "Spots",
-        "value_translated_automated": "Плями",
+        "value_translated_automated": "плями",
         "value_translated_native": null
       },
       {
@@ -1326,7 +1326,7 @@
         "description_text": "Describes a page of rebind related settings",
         "description_location": "A tab label in the settings menu",
         "value_english": "Controls",
-        "value_translated_automated": "Елементи керування",
+        "value_translated_automated": "Елементи управління",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "У Carrom грають, клацаючи дисками в інші диски, щоб проштовхнути їх у отвори на дошці. Успішне виконання цього надає вам ще один хід. Гра закінчується, коли в команди закінчуються диски для цілей.",
+        "value_translated_automated": "У Carrom грають, клацаючи дисками в інші диски, щоб проштовхнути їх у отвори на дошці. Успішне виконання цього надає вам ще один хід. Гра закінчується, коли у команди закінчуються диски для цілі.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1542,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Клацніть лівою кнопкою миші й утримуйте її, щоб підтвердити розташування нападника.",
+        "value_translated_automated": "Клацніть лівою кнопкою миші та утримуйте її, щоб підтвердити розташування нападника.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "У професійному режимі та режимі дискового басейну ви прагнете лише отримати колір своєї команди, тоді як режим очок призначає різні значення очок для кожної фігури різного кольору. Як правило, фігура червоного кольору є високою цінністю, і її називають ферзем.",
+        "value_translated_automated": "У професійному режимі та режимі дискового басейну ви прагнете лише отримати колір своєї команди, тоді як режим очок призначає різні значення очок для кожної фігури різного кольору. Як правило, фігура червоного кольору має високу цінність, і її називають ферзем.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam! це гра-симулятор Carrom. Цей підручник навчить вас елементам керування та тому, як грати в carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Камера 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Камера 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Камера 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Камера 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Наступна сторінка",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Попередня сторінка",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} приєднався до гри.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} залишив гру.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Підрахунок штук",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Навчання",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Queen Covered",
         "value_translated_native": null
       }
     ]

@@ -264,7 +264,7 @@
         "description_text": "Toggles the player pregame readiness",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
-        "value_translated_automated": "Hazır seçin",
+        "value_translated_automated": "Hazırdır",
         "value_translated_native": null
       },
       {
@@ -1443,7 +1443,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "Burada bir karambol taxtası görürük.",
+        "value_translated_automated": "Burada bir karrom lövhəsi görürük.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Siz 0, 1, 2 və ya 3 düymələrinə basmaqla kamera bucaqlarını dəyişə bilərsiniz. Tövsiyə olunan oynatma kamerası 1-dir. Siz istədiyiniz zaman kameranı sağ klikləməklə və siçanı hərəkət etdirməklə hərəkət etdirə bilərsiniz. İdarəetmə menyusunda daha çox kamera nəzarətinə baxın.",
+        "value_translated_automated": "Siz 0, 1, 2 və ya 3 düymələrinə basmaqla kamera bucaqlarını dəyişə bilərsiniz. Tövsiyə olunan oynatma kamerası 1-dir. Siz istədiyiniz zaman kameranı sağ klikləyərək və siçanı hərəkət etdirərək hərəkət etdirə bilərsiniz. İdarəetmə menyusunda daha çox kamera nəzarətinə baxın.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1578,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Peşəkar rejim raundu tamamlamaq üçün kraliçanın cibində olmasını tələb edəcək. Kraliçaya qol vurmaq üçün əvvəlcə kraliçanı cibinə atmalı və sonra kraliçanı örtmək üçün növbəti atışı uğurla cibinə qoymalısan. Bunu etmədikdə, kraliçanı şuraya qaytaracaq.",
+        "value_translated_automated": "Peşəkar rejim raundu tamamlamaq üçün kraliçanın cibinə qoyulmasını tələb edəcək. Kraliçaya qol vurmaq üçün əvvəlcə kraliçanı cibinə atmalı və sonra kraliçanı örtmək üçün növbəti atışı uğurla cibinə qoymalısan. Bunu etmədikdə, kraliçanı şuraya qaytaracaq.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Peşəkar və disk hovuz rejimləri yalnız öz komandanızın rəngini cibinə salmağı hədəfləyəcək, xal rejimi isə hər bir fərqli rəngli parça üçün fərqli nöqtə dəyərləri təyin edir. Tipik olaraq, qırmızı rəngli bir parça yüksək dəyərə malikdir və kraliça adlanır.",
+        "value_translated_automated": "Peşəkar və diskli hovuz rejimləri yalnız komandanızın rəngini cibinizə salmağı hədəfləyəcək, xal rejimi isə hər bir fərqli rəngli parça üçün fərqli nöqtə dəyərləri təyin edir. Tipik olaraq, qırmızı rəngli bir parça yüksək dəyərə malikdir və kraliça adlanır.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam! carrom simulyator oyunudur. Bu dərslik sizə nəzarətləri və carromu necə oynamağı öyrədəcək.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Növbəti Səhifə",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Əvvəlki Səhifə",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} oyuna qoşuldu.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} oyunu tərk etdi.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Parça sayı",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Təlim",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Kraliça örtülmüşdür",
         "value_translated_native": null
       }
     ]
