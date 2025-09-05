@@ -858,7 +858,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "ရင်ခုန်ခြင်း တံတိုင်း",
+        "value_translated_automated": "ရင်ခုန်ခြင်း နံရံ",
         "value_translated_native": null
       },
       {
@@ -1056,7 +1056,7 @@
         "description_text": "Choice of how many points a white piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for white",
-        "value_translated_automated": "အဖြူအတွက်အမှတ်များ",
+        "value_translated_automated": "အဖြူအတွက်အချက်များ",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom သည် ၎င်းတို့အား ဘုတ်ပေါ်ရှိ အပေါက်များထဲသို့ တွန်းပို့ရန် အခြားအပြားများထဲသို့ လစ်နှိပ်ခြင်းဖြင့် ကစားသည်။ ထိုသို့အောင်မြင်စွာလုပ်ဆောင်ခြင်းက သင့်အား နောက်ထပ်အလှည့်အပြောင်းဖြစ်စေသည်။ အဖွဲ့တစ်ဖွဲ့သည် ပစ်မှတ်ထားရန် discs များပြည့်သွားသောအခါ ဂိမ်းသည် ပြီးဆုံးသည်။",
+        "value_translated_automated": "Carrom သည် ၎င်းတို့အား ဘုတ်ပေါ်ရှိ အပေါက်များထဲသို့ တွန်းပို့ရန် အခြားအပြားများထဲသို့ လစ်နှိပ်ခြင်းဖြင့် ကစားသည်။ ထိုသို့အောင်မြင်စွာလုပ်ဆောင်ခြင်းက သင့်အား နောက်ထပ်အလှည့်အပြောင်းဖြစ်စေသည်။ အဖွဲ့တစ်ဖွဲ့သည် ပစ်မှတ်ထားရန် discs များပြည့်သွားသောအခါ ဂိမ်းပြီးဆုံးသည်။",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1515,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "သင်ခန်းစာ ပြီးသွားပါပြီ။ သင်သည် ယခုအခါ သူငယ်ချင်းများနှင့် ဘော့တ်များနှင့်အတူ carrom ဂိမ်းများကို ကစားရန် အသင့်ဖြစ်နေပါပြီ။",
+        "value_translated_automated": "သင်ခန်းစာ ပြီးသွားပါပြီ။ သင်သည် ယခုအခါ သူငယ်ချင်းများနှင့် ဘော့တ်များနှင့်အတူ carrom ဂိမ်းများကို ကစားရန် အဆင်သင့်ဖြစ်နေပါပြီ။",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1524,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "ရိုက်ချက်စရန် သင့်ကာဆာကို အခြေခံမျဉ်းပေါ်တွင် ထားလိုက်ပါ။",
+        "value_translated_automated": "ရိုက်ချက်စရန် သင့်ကာဆာကို အခြေခံမျဉ်းပေါ်တွင် နေရာချပါ။",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "ပရော်ဖက်ရှင်နယ်နှင့် disc pool မုဒ်များသည် သင့်အဖွဲ့၏အရောင်ကို အိတ်ထဲထည့်ရန်သာ ရည်မှန်းထားမည်ဖြစ်ပြီး အမှတ်မုဒ်သည် မတူညီသောအရောင်စုံအပိုင်းတစ်ခုစီအတွက် မတူညီသောအမှတ်တန်ဖိုးများကို သတ်မှတ်ပေးပါသည်။ ယေဘူယျအားဖြင့်၊ အနီရောင်သည် တန်ဖိုးကြီးပြီး ဘုရင်မအဖြစ် ရည်ညွှန်းသည်။",
+        "value_translated_automated": "ပရော်ဖက်ရှင်နယ်နှင့် disc pool မုဒ်များသည် သင့်အဖွဲ့၏အရောင်ကို အိတ်ထဲထည့်ရန်သာ ရည်မှန်းထားမည်ဖြစ်ပြီး အမှတ်မုဒ်သည် မတူညီသောအရောင်အသွေးအပိုင်းတစ်ခုစီအတွက် မတူညီသောအမှတ်တန်ဖိုးများကို သတ်မှတ်ပေးပါသည်။ ယေဘူယျအားဖြင့်၊ အနီရောင်သည် တန်ဖိုးကြီးပြီး ဘုရင်မအဖြစ် ရည်ညွှန်းသည်။",
         "value_translated_native": null
       },
       {
@@ -1668,7 +1668,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "အခု မင်းအလှည့်။ ဘော့တ်လိုပါပဲ အဲဒီအဖြူရောင်အပိုင်းကို အိတ်ကပ်ဘေးက အိတ်ထဲကို ရိုက်ထည့်လိုက်ပါ။",
+        "value_translated_automated": "အခု မင်းအလှည့်။ ဘော့လုံးကဲ့သို့ ထိုအဖြူကွက်ကို ၎င်းဘေးရှိ အိတ်ကပ်ထဲသို့ ရိုက်ထည့်ပါ။",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam carrom simulator ဂိမ်းတစ်ခုဖြစ်သည်။ ဤသင်ခန်းစာသည် သင့်အား ထိန်းချုပ်မှုများနှင့် carrom ကစားနည်းတို့ကို သင်ကြားပေးမည်ဖြစ်သည်။",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "ကင်မရာ ၁",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "ကင်မရာ ၂",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "ကင်မရာ ၃",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "ကင်မရာ ၄",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "နောက်စာမျက်နှာ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "ယခင်စာမျက်နှာ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} သည် ဂိမ်းတွင် ပါဝင်ခဲ့သည်။",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} သည် ဂိမ်းမှ ထွက်သွားသည်။",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "အပိုင်းအစ အရေအတွက်",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "လေ့ကျင့်ရေး",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "ဘုရင်မ ဖုံးအုပ်ထားသည်။",
         "value_translated_native": null
       }
     ]

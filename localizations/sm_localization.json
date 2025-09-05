@@ -183,7 +183,7 @@
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Next Camera",
-        "value_translated_automated": "Soso'o Meapueata",
+        "value_translated_automated": "Sosoo meapueata",
         "value_translated_native": null
       },
       {
@@ -615,7 +615,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "Ua goto le 'au {0} {1}",
+        "value_translated_automated": "Ua goto le au {0} {1}",
         "value_translated_native": null
       },
       {
@@ -633,7 +633,7 @@
         "description_text": "Describes the ability to choose a variety of options throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Assorted",
-        "value_translated_automated": "Eseese",
+        "value_translated_automated": "Eseesega",
         "value_translated_native": null
       },
       {
@@ -912,7 +912,7 @@
         "description_text": "Choice of how many white pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces white",
-        "value_translated_automated": "Pa'epa'e fasi",
+        "value_translated_automated": "O fasi mea papa'e",
         "value_translated_native": null
       },
       {
@@ -984,7 +984,7 @@
         "description_text": "Choice of the mass of pieces",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass pieces",
-        "value_translated_automated": "Fa'aliga tetele",
+        "value_translated_automated": "fasi fa'alatele",
         "value_translated_native": null
       },
       {
@@ -1002,7 +1002,7 @@
         "description_text": "Choice of how inset the pocket is into the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Pocket inset",
-        "value_translated_automated": "Fa'aofia taga",
+        "value_translated_automated": "Fa'aofi mai taga",
         "value_translated_native": null
       },
       {
@@ -1011,7 +1011,7 @@
         "description_text": "Choice of where a player is allowed to place a striker",
         "description_location": "A rule in the rules menu",
         "value_english": "Striker placement",
-        "value_translated_automated": "Fa'atulagaina o le au ta",
+        "value_translated_automated": "Tu'uga a le au ta'avale",
         "value_translated_native": null
       },
       {
@@ -1020,7 +1020,7 @@
         "description_text": "Choice of where the game caps the queens point contribution",
         "description_location": "A rule in the rules menu",
         "value_english": "Queen points cap",
-        "value_translated_automated": "Masiofo matai",
+        "value_translated_automated": "Masiofo mata'itusi",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1434,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "E tatau ona amata ta'alo le ta'alo mai le laina fa'avae.",
+        "value_translated_automated": "E tatau ona amata taalo le tagata taia mai le laina faavae.",
         "value_translated_native": null
       },
       {
@@ -1470,7 +1470,7 @@
         "description_text": "Encourages the user to take a shot at a break",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself!",
-        "value_translated_automated": "Taumafai oe lava ia!",
+        "value_translated_automated": "Taumafai oe lava!",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1479,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "O se malologa lelei e tatau ona taape vaega i luga o le laupapa. E mafai e se tagata ta'alo atamai ona tu'uina atu ia te ia lava se avanoa mo le ta'amilosaga atoa mai se malologa lelei ma isi togi.",
+        "value_translated_automated": "O se malologa lelei e tatau ona ta'ape vaega i luga o le laupapa. E mafai e se tagata ta'alo atamai ona tu'uina atu ia te ia lava se avanoa mo le ta'amilosaga atoa mai se malologa lelei ma isi togi.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "E ta le Carrom e ala i le su'iina o tisiki i isi tisiki e tulei i totonu o pu i luga o le laupapa. O le faia ma le manuia e maua ai se isi avanoa. E muta le ta'aloga pe a uma le 'au o tisiketi e tulimata'i.",
+        "value_translated_automated": "E ta le Carrom e ala i le su'iina o tisiki i isi tisiki e tulei i totonu o pu i luga o le laupapa. O le faia ma le manuia e maua ai se isi avanoa. E muta le ta'aloga pe a uma le 'au o tisiketi e fa'atatau.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1542,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Kiliki i le agavale ma taofi e fa'amaonia ai le tu'uina o lou tagata ta.",
+        "value_translated_automated": "Kiliki agavale ma taofi e fa'amaonia le tu'uina o lou tagata ta.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1578,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "O le tulaga fa'apolofesa e mana'omia ai le taga o le masiofo e fa'auma ai le ta'amilosaga. Ina ia togi le masiofo, e tatau ona e togi muamua le masiofo ona fa'amalieina lea o lau isi fana e ufiufi ai le masiofo. O le le faia o lena mea o le a toe faafoi ai le masiofo i le laupapa.",
+        "value_translated_automated": "O le tulaga fa'apolofesa e mana'omia ai le taga o le masiofo e fa'auma ai le ta'amilosaga. Ina ia sikoa le masiofo, e tatau ona e togi muamua le masiofo ona manuia lea o lau isi fana e ufiufi ai le masiofo. O le le faia o lena mea o le a toe faafoi atu ai le masiofo i le laupapa.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1605,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "Ua fautuaina le faiga o togi mo au ta'aloga muamua. E maua ai e oe le tele o avanoa mo sikoa.",
+        "value_translated_automated": "Ua fautuaina le faiga o togi mo au ta'aloga muamua e lua. E maua ai e oe le tele o avanoa mo sikoa.",
         "value_translated_native": null
       },
       {
@@ -1650,7 +1650,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "O le tisiketi na fa'aaogaina e amata ai le ta'aloga e ta'ua o le ta'i.",
+        "value_translated_automated": "O le tisiketi na fa'aaoga e amata ai le ta'aloga e ta'ua o le ta.",
         "value_translated_native": null
       },
       {
@@ -1659,7 +1659,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Sei o tatou taumafai e magoto la tatou fana muamua. Matamata muamua le bot.",
+        "value_translated_automated": "Se'i o tatou taumafai e magoto la tatou fana muamua. Matamata muamua le bot.",
         "value_translated_native": null
       },
       {
@@ -1677,7 +1677,106 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Carrom Slam! o se taaloga carrom simulator. O lenei aʻoaʻoga o le a aʻoaʻoina oe i le faʻatonuga ma le auala e taʻalo ai le carrom.",
+        "value_translated_automated": "Carrom Slam! o se taaloga carrom simulator. O lenei aʻoaʻoga o le a aʻoaʻoina oe i le faʻatonuga ma le auala e taʻalo ai carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Meapueata 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Meapueata 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Meapueata 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Meapueata 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Itulau Sosoo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Itulau muamua",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} ua auai i le ta'aloga.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ua alu ese mai le ta'aloga.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Faitauina o vaega",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Aoaoga",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Masiofo Ufiufi",
         "value_translated_native": null
       }
     ]

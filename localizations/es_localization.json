@@ -21,7 +21,7 @@
         "description_text": "Adds a bot player to the game",
         "description_location": "A button on the players menu",
         "value_english": "Add Bot",
-        "value_translated_automated": "Agregar robot",
+        "value_translated_automated": "Agregar bot",
         "value_translated_native": null
       },
       {
@@ -48,7 +48,7 @@
         "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
         "description_location": "A button on the players menu",
         "value_english": "Invite Friends",
-        "value_translated_automated": "invitar amigos",
+        "value_translated_automated": "Invitar amigos",
         "value_translated_native": null
       },
       {
@@ -75,7 +75,7 @@
         "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
         "description_location": "A button on the landing menu",
         "value_english": "Mods",
-        "value_translated_automated": "Modificaciones",
+        "value_translated_automated": "Mods",
         "value_translated_native": null
       },
       {
@@ -183,7 +183,7 @@
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Next Camera",
-        "value_translated_automated": "Siguiente cámara",
+        "value_translated_automated": "Próxima cámara",
         "value_translated_native": null
       },
       {
@@ -201,7 +201,7 @@
         "description_text": "Toggles the focus of the chat/event menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Chat",
-        "value_translated_automated": "Alternar chat",
+        "value_translated_automated": "Activar/desactivar chat",
         "value_translated_native": null
       },
       {
@@ -219,7 +219,7 @@
         "description_text": "Used to reset pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Quaternary Action",
-        "value_translated_automated": "Acción Cuaternaria",
+        "value_translated_automated": "Acción cuaternaria",
         "value_translated_native": null
       },
       {
@@ -228,7 +228,7 @@
         "description_text": "Toggles the visibility of the scoreboard menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Scoreboard",
-        "value_translated_automated": "Alternar marcador",
+        "value_translated_automated": "Cambiar marcador",
         "value_translated_native": null
       },
       {
@@ -264,7 +264,7 @@
         "description_text": "Toggles the player pregame readiness",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
-        "value_translated_automated": "Alternar listo",
+        "value_translated_automated": "Activar/desactivar listo",
         "value_translated_native": null
       },
       {
@@ -300,7 +300,7 @@
         "description_text": "Changes the color of the player's trail",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Trail Color",
-        "value_translated_automated": "Color del rastro",
+        "value_translated_automated": "Color del sendero",
         "value_translated_native": null
       },
       {
@@ -309,7 +309,7 @@
         "description_text": "Changes the skin of the player's carrom striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Striker Skin",
-        "value_translated_automated": "Piel de delantero",
+        "value_translated_automated": "Aspecto de delantero",
         "value_translated_native": null
       },
       {
@@ -372,7 +372,7 @@
         "description_text": "Describes the amount of computer controlled players present in the lobby",
         "description_location": "A label in the pregame menu",
         "value_english": "Bots",
-        "value_translated_automated": "robots",
+        "value_translated_automated": "Bots",
         "value_translated_native": null
       },
       {
@@ -417,7 +417,7 @@
         "description_text": "Describes a player who is not yet prepared to play",
         "description_location": "A label in the players menu",
         "value_english": "Not Ready",
-        "value_translated_automated": "No listo",
+        "value_translated_automated": "No estoy listo",
         "value_translated_native": null
       },
       {
@@ -543,7 +543,7 @@
         "description_text": "States the game has ended",
         "description_location": "An event message from the system",
         "value_english": "Game has ended",
-        "value_translated_automated": "el juego ha terminado",
+        "value_translated_automated": "El juego ha terminado",
         "value_translated_native": null
       },
       {
@@ -570,7 +570,7 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "El equipo {0} {1} ahora debe completar la portada.",
+        "value_translated_automated": "El equipo {0} {1} ahora debe completar la cobertura",
         "value_translated_native": null
       },
       {
@@ -597,7 +597,7 @@
         "description_text": "States that the player has sank their striker",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has fouled",
-        "value_translated_automated": "El equipo {0} {1} ha cometido falta",
+        "value_translated_automated": "El equipo {0} {1} ha cometido una falta",
         "value_translated_native": null
       },
       {
@@ -615,7 +615,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "El equipo {0} {1} ha acertado su tiro",
+        "value_translated_automated": "El equipo {0} {1} ha embocado su tiro",
         "value_translated_native": null
       },
       {
@@ -678,7 +678,7 @@
         "description_text": "Describes the crokinole game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Crokinole",
-        "value_translated_automated": "crokinol",
+        "value_translated_automated": "Crokinole",
         "value_translated_native": null
       },
       {
@@ -696,7 +696,7 @@
         "description_text": "Describes the disc pool game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Disc Pool",
-        "value_translated_automated": "Piscina de discos",
+        "value_translated_automated": "Pool de discos",
         "value_translated_native": "Billar de discos"
       },
       {
@@ -804,7 +804,7 @@
         "description_text": "Choice of whether a forward only trajectory rule will be used",
         "description_location": "A rule in the rules menu",
         "value_english": "Forward shot only",
-        "value_translated_automated": "Solo tiro hacia adelante",
+        "value_translated_automated": "Solo disparo hacia adelante",
         "value_translated_native": null
       },
       {
@@ -813,7 +813,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "Inserción de bolsillo en la pared",
+        "value_translated_automated": "Inserción de bolsillo de pared",
         "value_translated_native": null
       },
       {
@@ -831,7 +831,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "tabla de rebote",
+        "value_translated_automated": "Tabla de rebote",
         "value_translated_native": null
       },
       {
@@ -840,7 +840,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "pieza de rebote",
+        "value_translated_automated": "Pieza de rebote",
         "value_translated_native": null
       },
       {
@@ -849,7 +849,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Delantero saltarín",
+        "value_translated_automated": "Delantero con rebote",
         "value_translated_native": null
       },
       {
@@ -867,7 +867,7 @@
         "description_text": "Choice of max points to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Point maximum",
-        "value_translated_automated": "Máximo de puntos",
+        "value_translated_automated": "Punto máximo",
         "value_translated_native": null
       },
       {
@@ -930,7 +930,7 @@
         "description_text": "Choice of how many teams could be in the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Teams",
-        "value_translated_automated": "equipos",
+        "value_translated_automated": "Equipos",
         "value_translated_native": null
       },
       {
@@ -957,7 +957,7 @@
         "description_text": "Choice of how much friction the board has",
         "description_location": "A rule in the rules menu",
         "value_english": "Board friction",
-        "value_translated_automated": "Fricción del tablero",
+        "value_translated_automated": "Fricción de la tabla",
         "value_translated_native": null
       },
       {
@@ -984,7 +984,7 @@
         "description_text": "Choice of the mass of pieces",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass pieces",
-        "value_translated_automated": "piezas de masa",
+        "value_translated_automated": "Piezas masivas",
         "value_translated_native": null
       },
       {
@@ -993,7 +993,7 @@
         "description_text": "Choice of the mass of uniform strikers",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass striker",
-        "value_translated_automated": "huelguista de masas",
+        "value_translated_automated": "Huelguista de masas",
         "value_translated_native": null
       },
       {
@@ -1002,7 +1002,7 @@
         "description_text": "Choice of how inset the pocket is into the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Pocket inset",
-        "value_translated_automated": "Inserto de bolsillo",
+        "value_translated_automated": "Inserción de bolsillo",
         "value_translated_native": null
       },
       {
@@ -1020,7 +1020,7 @@
         "description_text": "Choice of where the game caps the queens point contribution",
         "description_location": "A rule in the rules menu",
         "value_english": "Queen points cap",
-        "value_translated_automated": "Límite de puntos de reina",
+        "value_translated_automated": "Límite de puntos de la reina",
         "value_translated_native": null
       },
       {
@@ -1029,7 +1029,7 @@
         "description_text": "Choice of how many points a black piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for black",
-        "value_translated_automated": "Puntos para el negro",
+        "value_translated_automated": "Puntos para las negras",
         "value_translated_native": null
       },
       {
@@ -1038,7 +1038,7 @@
         "description_text": "Choice of how many points a red piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for red",
-        "value_translated_automated": "Puntos por el rojo",
+        "value_translated_automated": "Puntos para el rojo",
         "value_translated_native": null
       },
       {
@@ -1056,7 +1056,7 @@
         "description_text": "Choice of how many points a white piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for white",
-        "value_translated_automated": "Puntos para el blanco",
+        "value_translated_automated": "Puntos para las blancas",
         "value_translated_native": null
       },
       {
@@ -1092,7 +1092,7 @@
         "description_text": "Choice of how large a pocket is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Pocket",
-        "value_translated_automated": "Tamaño bolsillo",
+        "value_translated_automated": "Tamaño de bolsillo",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1101,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "Tamaño delantero",
+        "value_translated_automated": "Tamaño del delantero",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1128,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Jugadores máximos",
+        "value_translated_automated": "Máximo de jugadores",
         "value_translated_native": null
       },
       {
@@ -1218,7 +1218,7 @@
         "description_text": "Describes the volume scale of all volume types",
         "description_location": "A setting in the settings menu",
         "value_english": "Master volume",
-        "value_translated_automated": "volumen maestro",
+        "value_translated_automated": "Volumen maestro",
         "value_translated_native": null
       },
       {
@@ -1227,7 +1227,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "volumen de la interfaz de usuario",
+        "value_translated_automated": "Volumen de la interfaz de usuario",
         "value_translated_native": null
       },
       {
@@ -1236,7 +1236,7 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "negro se hundió",
+        "value_translated_automated": "El negro se hundió",
         "value_translated_native": null
       },
       {
@@ -1254,7 +1254,7 @@
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "Reina hundida",
+        "value_translated_automated": "La reina se hundió",
         "value_translated_native": null
       },
       {
@@ -1272,7 +1272,7 @@
         "description_text": "Describes the amount of pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Sank",
-        "value_translated_automated": "Disparo hundido",
+        "value_translated_automated": "El disparo se hundió",
         "value_translated_native": null
       },
       {
@@ -1281,7 +1281,7 @@
         "description_text": "Describes the amount of white pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
-        "value_translated_automated": "blanco se hundió",
+        "value_translated_automated": "White se hundió",
         "value_translated_native": null
       },
       {
@@ -1389,7 +1389,7 @@
         "description_text": "Describes a page of ruleset related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Presets",
-        "value_translated_automated": "Preajustes",
+        "value_translated_automated": "Ajustes preestablecidos",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1434,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "El delantero debe iniciar el juego desde la línea de fondo.",
+        "value_translated_automated": "El delantero debe iniciar el juego desde la línea de base.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Cada juego de carrom comenzará con todas las piezas puntuables agrupadas en el centro. El primer tiro de la ronda se llama descanso.",
+        "value_translated_automated": "Cada partida de carrom comienza con todas las piezas puntuables agrupadas en el centro. El primer golpe de la ronda se llama \"break\".",
         "value_translated_native": null
       },
       {
@@ -1461,7 +1461,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "Aquí un robot demuestra una ruptura.",
+        "value_translated_automated": "Aquí un bot demuestra una ruptura.",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1479,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Un descanso bien acertado debería dispersar las piezas por todo el tablero. Un jugador habilidoso podría conseguir una ventaja durante toda la ronda con un buen descanso y tiros posteriores.",
+        "value_translated_automated": "Un saque bien ejecutado debería dispersar las piezas por el tablero. Un jugador hábil podría obtener ventaja durante toda la ronda con un buen saque y los golpes posteriores.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Puede cambiar los ángulos de la cámara presionando 0, 1, 2 o 3. La cámara de reproducción recomendada es 1. Puede mover la cámara en cualquier momento manteniendo presionado el botón derecho y moviendo el mouse. Vea más controles de cámara en el menú de controles.",
+        "value_translated_automated": "Puedes cambiar el ángulo de la cámara presionando 0, 1, 2 o 3. La cámara recomendada para jugar es la 1. Puedes mover la cámara en cualquier momento manteniendo pulsado el botón derecho y moviendo el ratón. Consulta más controles de la cámara en el menú de controles.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom se juega lanzando discos dentro de otros discos para empujarlos hacia los agujeros del tablero. Hacerlo con éxito te otorga otro turno. El juego termina cuando un equipo se queda sin discos para apuntar.",
+        "value_translated_automated": "El carrom se juega lanzando discos contra otros discos para que entren en los agujeros del tablero. Si lo logras, obtienes otro turno. El juego termina cuando un equipo se queda sin discos para apuntar.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1515,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "¡Has completado el tutorial! Ahora estás listo para jugar juegos carrom con amigos y bots.",
+        "value_translated_automated": "¡Has completado el tutorial! Ya estás listo para jugar carrom con amigos y bots.",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1524,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "Coloca el cursor en la línea de fondo para comenzar tu tiro.",
+        "value_translated_automated": "Coloque el cursor en la línea de base para iniciar el tiro.",
         "value_translated_native": null
       },
       {
@@ -1533,7 +1533,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Arrastra el cursor lejos de tu objetivo mientras continúas manteniendo presionado el clic izquierdo.",
+        "value_translated_automated": "Arrastre el cursor lejos del objetivo mientras continúa manteniendo presionado el clic izquierdo.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1542,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Haga clic izquierdo y mantenga presionado para confirmar la ubicación de su delantero.",
+        "value_translated_automated": "Haz clic izquierdo y mantén presionado para confirmar la ubicación del delantero.",
         "value_translated_native": null
       },
       {
@@ -1551,7 +1551,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "El menú de pausa contiene controles y configuraciones de la aplicación y se puede acceder a él en cualquier momento presionando la tecla Escape.",
+        "value_translated_automated": "El menú de pausa contiene configuraciones y controles de la aplicación, y se puede acceder a él en cualquier momento presionando la tecla Escape.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1569,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Estos bolsillos son donde pretendes hundir los discos. Mira cómo juega nuestro bot.",
+        "value_translated_automated": "En estos huecos es donde intentas hundir los discos. Observa cómo juega nuestro robot.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1578,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "El modo profesional requerirá que se guarde la reina para completar la ronda. Para anotar la reina, primero debes embolsarla y luego embolsar con éxito tu siguiente tiro para cubrir la reina. De no hacerlo, la reina regresará al tablero.",
+        "value_translated_automated": "El modo profesional requiere que la reina esté entronerada para completar la ronda. Para embocar la reina, primero debes entronerarla y luego entronerar con éxito tu siguiente tiro para cubrirla. Si no lo logras, la reina volverá al tablero.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1587,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "He aquí un escenario. Vigila el bolsillo del bot y luego cubre a la reina.",
+        "value_translated_automated": "Aquí tienes un escenario: observa el bolsillo inferior y luego cubre la reina.",
         "value_translated_native": null
       },
       {
@@ -1596,7 +1596,7 @@
         "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself. First the queen, then the white piece.",
-        "value_translated_automated": "Pruébelo usted mismo. Primero la dama, luego la pieza blanca.",
+        "value_translated_automated": "Inténtalo tú mismo. Primero la reina, luego la pieza blanca.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1605,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "Se recomienda el modo de puntos para los primeros dos juegos. Esto le brinda muchas oportunidades de anotar.",
+        "value_translated_automated": "Se recomienda el modo de puntos para tus primeras partidas. Esto te da muchas oportunidades de puntuar.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1614,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "Suelta el clic izquierdo para poner a tu delantero en juego.",
+        "value_translated_automated": "Suelte el clic izquierdo para lanzar su delantero.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1623,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "Los diferentes modos de juego tienen diferentes reglas de puntuación, pero la puntuación se puede ver en cualquier momento presionando la tecla TAB.",
+        "value_translated_automated": "Cada modo de juego tiene diferentes reglas de puntuación, pero la puntuación se puede ver en cualquier momento presionando la tecla TAB.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "En los modos profesional y de grupo de discos solo tendrás como objetivo guardar el color de tu equipo, mientras que el modo de puntos asigna diferentes valores de puntos para cada pieza de diferente color. Por lo general, una pieza de color rojo tiene un gran valor y se la conoce como reina.",
+        "value_translated_automated": "En los modos profesional y de pool de discos, solo tendrás que apuntar a la ficha del color de tu equipo, mientras que en el modo de puntos, cada ficha de color tiene un valor diferente. Normalmente, la ficha roja tiene un valor alto y se la conoce como reina.",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1641,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "¡Disfruta de Carrom Slam! ~Equipo Dinahsoft",
+        "value_translated_automated": "¡Disfruta de Carrom Slam! ~Equipo de Dinahsoft",
         "value_translated_native": null
       },
       {
@@ -1650,7 +1650,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "El disco utilizado para iniciar la reproducción se llama delantero.",
+        "value_translated_automated": "El disco utilizado para iniciar el juego se llama striker.",
         "value_translated_native": null
       },
       {
@@ -1659,7 +1659,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Ahora intentemos acertar nuestro primer tiro. Mira el robot primero.",
+        "value_translated_automated": "Ahora intentemos embocar nuestro primer tiro. Primero, observa el robot.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +1668,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Ahora tu turno. Golpea esa pieza blanca en el bolsillo al lado como el robot.",
+        "value_translated_automated": "Ahora te toca a ti. Mete esa pieza blanca en la tronera de al lado, igual que el bot.",
         "value_translated_native": null
       },
       {
@@ -1677,7 +1677,106 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "¡Golpe de Carrom! es un juego de simulador de carrom. Este tutorial te enseñará los controles y cómo jugar carrom.",
+        "value_translated_automated": "Carrom Slam! es un simulador de carrom. Este tutorial te enseñará los controles y a jugar.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Cámara 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Cámara 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Cámara 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Cámara 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Página siguiente",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Página anterior",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} se ha unido al juego.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ha abandonado el juego.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Recuento de piezas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Capacitación",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Reina cubierta",
         "value_translated_native": null
       }
     ]

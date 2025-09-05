@@ -561,7 +561,7 @@
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
-        "value_translated_automated": "Каманда {0} {1} накрыла ферзя",
+        "value_translated_automated": "Каманда {0} {1} закрыла ферзя",
         "value_translated_native": null
       },
       {
@@ -840,7 +840,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "Бадзёры кавалак",
+        "value_translated_automated": "Кавалак Bounciness",
         "value_translated_native": null
       },
       {
@@ -1038,7 +1038,7 @@
         "description_text": "Choice of how many points a red piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for red",
-        "value_translated_automated": "Ачкі за чырвоны",
+        "value_translated_automated": "Акуляры за чырвоны",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1101,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "Памер Страйкер",
+        "value_translated_automated": "Size Striker",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Кожная гульня ў карром будзе пачынацца з таго, што ўсе заліковыя фігуры збіраюцца ў цэнтры. Першы ўдар у раўндзе называецца брэйкам.",
+        "value_translated_automated": "Кожная гульня ў карром будзе пачынацца з таго, што ўсе заліковыя фігуры збіраюцца ў цэнтры. Першы ўдар раунда называецца брэйкам.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Вы можаце змяніць вуглы камеры, націснуўшы 0, 1, 2 або 3. Рэкамендуемая гульнявая камера - 1. Вы можаце перамяшчаць камеру ў любы час, утрымліваючы правую кнопку мышы і рухаючы мышкай. Глядзіце больш элементаў кіравання камерай у меню элементаў кіравання.",
+        "value_translated_automated": "Вы можаце змяніць ракурс камеры, націснуўшы 0, 1, 2 ці 3. Рэкамендуемая гульнявая камера - 1. Вы можаце перамясціць камеру ў любы час, утрымліваючы правую кнопку мышы і рухаючы мышкай. Глядзіце больш элементаў кіравання камерай у меню элементаў кіравання.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1587,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Вось такі сцэнар. Сачыце за кішэняй бота, а затым накрыйце ферзя.",
+        "value_translated_automated": "Вось такі сцэнар. Сачыце за кішэняй бота, а потым накрыйце ферзя.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1614,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "Адпусціце пстрычку левай кнопкай мышы, каб уключыць нападніка ў гульню.",
+        "value_translated_automated": "Адпусціце пстрычку левай кнопкай мышы, каб уключыць нападаючы.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam! гэта гульня-сімулятар Carrom. Гэты падручнік навучыць вас кіраваць і гуляць у carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Камера 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Камера 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Камера 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Камера 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Наступная старонка",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Папярэдняя старонка",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} далучыўся да гульні.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} пакінуў гульню.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Лік штук",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Навучанне",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Queen Covered",
         "value_translated_native": null
       }
     ]

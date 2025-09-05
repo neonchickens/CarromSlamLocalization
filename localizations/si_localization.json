@@ -165,7 +165,7 @@
         "description_text": "Views the statistics menu, allowing the user to view and manage previous games, statistics, and achievements",
         "description_location": "A button on the landing menu",
         "value_english": "Statistics",
-        "value_translated_automated": "සංඛ්යා ලේඛන",
+        "value_translated_automated": "සංඛ්යාලේඛන",
         "value_translated_native": null
       },
       {
@@ -300,7 +300,7 @@
         "description_text": "Changes the color of the player's trail",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Trail Color",
-        "value_translated_automated": "මාර්ගය වර්ණය",
+        "value_translated_automated": "මංපෙත් වර්ණය",
         "value_translated_native": null
       },
       {
@@ -579,7 +579,7 @@
         "description_text": "States the round has ended",
         "description_location": "An event message from the system",
         "value_english": "Round {0} has ended",
-        "value_translated_automated": "{0} වටය අවසන් වී ඇත",
+        "value_translated_automated": "{0} වටය අවසන් විය",
         "value_translated_native": null
       },
       {
@@ -615,7 +615,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "{0} {1} කණ්ඩායම ඔවුන්ගේ පහර වැදී ඇත",
+        "value_translated_automated": "{0} {1} කණ්ඩායම ඔවුන්ගේ පහර ගිල්වා ඇත",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "ඔබට 0, 1, 2, හෝ 3 එබීමෙන් කැමරා කෝණ වෙනස් කළ හැක. නිර්දේශිත වාදන කැමරාව 1. දකුණු ක්ලික් කර මූසිකය ගෙන යාමෙන් ඔබට ඕනෑම වේලාවක ඔබේ කැමරාව ගෙන යා හැක. පාලන මෙනුවේ තවත් කැමරා පාලන බලන්න.",
+        "value_translated_automated": "ඔබට 0, 1, 2, හෝ 3 එබීමෙන් කැමරා කෝණ වෙනස් කළ හැක. නිර්දේශිත වාදන කැමරාව 1 වේ. දකුණු ක්ලික් කර මූසිකය ගෙන යාමෙන් ඔබට ඕනෑම වේලාවක ඔබේ කැමරාව ගෙන යා හැක. පාලන මෙනුවේ තවත් කැමරා පාලන බලන්න.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1515,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "ඔබ නිබන්ධනය සම්පූර්ණ කර ඇත! මිතුරන් සහ බොට් සමඟ කැරම් ක්‍රීඩා කිරීමට ඔබ දැන් සූදානම්.",
+        "value_translated_automated": "ඔබ නිබන්ධනය සම්පූර්ණ කර ඇත! ඔබ දැන් මිතුරන් සහ බොට් සමඟ කැරම් ක්‍රීඩා කිරීමට සූදානම්ය.",
         "value_translated_native": null
       },
       {
@@ -1551,7 +1551,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "විරාම මෙනුවෙහි යෙදුම් සැකසීම් සහ පාලන අඩංගු වන අතර, ගැලවීමේ යතුර එබීමෙන් ඕනෑම අවස්ථාවක ප්‍රවේශ විය හැක.",
+        "value_translated_automated": "විරාම මෙනුවෙහි යෙදුම් සැකසීම් සහ පාලන අඩංගු වන අතර, ගැලවීමේ යතුර එබීමෙන් ඕනෑම වේලාවක ප්‍රවේශ විය හැක.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1587,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "මෙන්න ජවනිකාවක්. බොට් සාක්කුව නරඹා පසුව රැජින ආවරණය කරන්න.",
+        "value_translated_automated": "මෙන්න ජවනිකාවක්. බොට් සාක්කුව බලා පසුව රැජින ආවරණය කරන්න.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1623,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "විවිධ ක්‍රීඩා ක්‍රමවලට විවිධ ලකුණු කිරීමේ නීති ඇත, නමුත් TAB යතුර එබීමෙන් ලකුණු ඕනෑම වේලාවක නැරඹිය හැකිය.",
+        "value_translated_automated": "විවිධ ක්‍රීඩා ක්‍රමවලට විවිධ ලකුණු කිරීමේ නීති ඇත, නමුත් TAB යතුර එබීමෙන් ලකුණු ඕනෑම වේලාවක බැලිය හැක.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "වෘත්තීය සහ තැටි සංචිත මාතයන් ඔබ ඉලක්ක කරන්නේ ඔබේ කණ්ඩායමේ වර්ණය සාක්කුවට දැමීම පමණක් වන අතර ලකුණු ප්‍රකාරය එක් එක් විවිධ වර්ණ ගැන්වූ කෑල්ල සඳහා විවිධ ලක්ෂ්‍ය අගයන් පවරයි. සාමාන්යයෙන්, රතු පාට කෑල්ලක් ඉහළ අගයක් වන අතර, එය රැජින ලෙස හැඳින්වේ.",
+        "value_translated_automated": "වෘත්තීය සහ තැටි සංචිත ක්‍රම මඟින් ඔබ ඉලක්ක කරන්නේ ඔබේ කණ්ඩායමේ වර්ණය සාක්කුවට දැමීම පමණක් වන අතර ලකුණු ප්‍රකාරය එක් එක් විවිධ වර්ණ ගැන්වූ කෑල්ල සඳහා විවිධ ලක්ෂ්‍ය අගයන් පවරයි. සාමාන්යයෙන්, රතු පාට කෑල්ලක් ඉහළ අගයක් වන අතර, එය රැජින ලෙස හැඳින්වේ.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "කැරම් ස්ලෑම්! කැරම් සිමියුලේටර් ක්‍රීඩාවකි. මෙම නිබන්ධනය ඔබට පාලනයන් සහ කැරම් සෙල්ලම් කරන ආකාරය කියා දෙනු ඇත.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "කැමරාව 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "කැමරාව 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "කැමරාව 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "කැමරාව 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "ඊළඟ පිටුව",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "පෙර පිටුව",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} ක්‍රීඩාවට සම්බන්ධ වී ඇත.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ක්‍රීඩාව හැර ගොස් ඇත.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "කෑලි ගණන්",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "පුහුණු කිරීම",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "රැජින ආවරණය කර ඇත",
         "value_translated_native": null
       }
     ]

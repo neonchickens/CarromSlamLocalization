@@ -633,7 +633,7 @@
         "description_text": "Describes the ability to choose a variety of options throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Assorted",
-        "value_translated_automated": "مختلف",
+        "value_translated_automated": "ملندڙ",
         "value_translated_native": null
       },
       {
@@ -813,7 +813,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "ڀت جي کيسي ۾ داخل",
+        "value_translated_automated": "ڀت جي کيسي ۾ داخل ٿيڻ",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1479,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "چڱيءَ طرح ھٽڻ سان ٽڪرن کي سڄي بورڊ ۾ منتشر ڪرڻ گھرجي. هڪ ماهر رانديگر پاڻ کي سٺي وقفي ۽ بعد ۾ شاٽ کان پوري گول لاءِ فائدو ڏئي سگهي ٿو.",
+        "value_translated_automated": "هڪ چڱيءَ طرح مارڻ واري وقفي سان ٽڪرن کي سڄي بورڊ ۾ منتشر ڪرڻ گهرجي. هڪ ماهر رانديگر پاڻ کي سٺي وقفي ۽ بعد ۾ شاٽ کان پوري گول لاءِ فائدو ڏئي سگهي ٿو.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "ڪيرم کي ٻين ڊسڪن ۾ ڊسڪ کي ڇڪڻ سان راند ڪيو ويندو آهي انهن کي بورڊ تي سوراخ ۾ ڌڪڻ لاء. ائين ڪرڻ ڪاميابيءَ سان توهان کي هڪ ٻيو موڙ ڏئي ٿو. راند ختم ٿئي ٿي جڏهن هڪ ٽيم ٽارگيٽ ڪرڻ لاء ڊسڪ کان ٻاهر هلندو آهي.",
+        "value_translated_automated": "ڪئرم کي ٻين ڊسڪ ۾ ڊسڪ کي ڇڪڻ سان راند ڪيو ويندو آهي انهن کي بورڊ تي سوراخ ۾ ڌڪڻ لاء. ائين ڪرڻ ڪاميابيءَ سان توهان کي هڪ ٻيو موڙ ڏئي ٿو. راند ختم ٿي ويندي آهي جڏهن هڪ ٽيم ٽارگيٽ ڪرڻ لاء ڊسڪ کان ٻاهر هلندو آهي.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1587,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "هتي هڪ منظرنامو آهي. بوٽ جي کيسي کي ڏسو ۽ پوءِ راڻي کي ڍڪيو.",
+        "value_translated_automated": "هتي هڪ منظرنامو آهي. بوٽ جي کيسي کي ڏسو ۽ پوء راڻي کي ڍڪيو.",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1641,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "ڪرم سليم جو مزو وٺو! ~ Dinahsoft ٽيم",
+        "value_translated_automated": "ڪيرم سليم جو مزو وٺو! ~ Dinahsoft ٽيم",
         "value_translated_native": null
       },
       {
@@ -1677,7 +1677,106 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "ڪريم سليم! هڪ ڪئرم سمائيليٽر راند آهي. هي ٽيوٽوريل توهان کي سيکاريندو ڪنٽرول ۽ ڪيئن ڪيرم کيڏڻ.",
+        "value_translated_automated": "ڪريم سليم! هڪ ڪئرم سمائيٽر راند آهي. هي ٽيوٽوريل توهان کي سيکاريندو ڪنٽرول ۽ ڪيئن ڪيرم کيڏڻ.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "ڪئميرا 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "ڪئميرا 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "ڪئميرا 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "ڪئميرا 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "اڳيون صفحو",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "پويون صفحو",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} راند ۾ شامل ٿيو.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} راند کي ڇڏي ڏنو آهي.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "حصو شمار",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "ٽريننگ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "راڻي ڍڪيل",
         "value_translated_native": null
       }
     ]

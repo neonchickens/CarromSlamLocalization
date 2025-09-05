@@ -318,7 +318,7 @@
         "description_text": "Changes the skin of the player's trail",
         "description_location": "A customization option in the general tab of the customization menu",
         "value_english": "Trial Skin",
-        "value_translated_automated": "Muedzo Skin",
+        "value_translated_automated": "Muedzo Ganda",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Mutambo wega wega we carrom unozotanga nezvibodzwa zvese zvakaunganidzwa pakati. Kupfura kwekutanga kweraundi kunonzi break.",
+        "value_translated_automated": "Mutambo wega wega we carrom unozotanga nezvimedu zvese zvibodzwa zvakaunganidzwa pakati. Kupfura kwekutanga kweraundi kunonzi break.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Unogona kushandura makona ekhamera nekudzvanya 0, 1, 2, kana 3. Yakakurudzirwa kutamba kamera ndeye 1. Unogona kufambisa kamera yako chero nguva nekubata kurudyi uye kufambisa mbeva. Wona mamwe macamera anodzora mumenu yezvinodzora.",
+        "value_translated_automated": "Unogona kushandura makona ekhamera nekudzvanya 0, 1, 2, kana 3. Yakakurudzirwa kutamba kamera ndeye 1. Unogona kufambisa kamera yako chero nguva nekubata kurudyi uye kufambisa mbeva. Wona zvimwe zvinodzora zvekamera mumenyu yezvinodzora.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Professional uye disc pool modes ichaita kuti iwe unongoda kuisa muhomwe ruvara rwechikwata chako, nepo mapoinzi modhi ichipa akasiyana mapoinzi chidimbu chimwe nechimwe chakasiyana chine mavara. Kazhinji, chidimbu chine ruvara rutsvuku chakanyanya kukosha, uye chinodaidzwa kuti mambokadzi.",
+        "value_translated_automated": "Professional uye disc pool modes ichaita kuti iwe unongoda kuisa muhomwe ruvara rwechikwata chako, nepo mapoinzi modhi inopa akasiyana mapoinzi mapoinzi echimwe nechimwe chine mavara akasiyana. Kazhinji, chidimbu chine ruvara rutsvuku chakanyanya kukosha, uye chinonzi mambokadzi.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +1668,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Chijana chako. Rova chimedu chichena chiya muhomwe iri padivi pacho sezvakaita bot.",
+        "value_translated_automated": "Chijana chako. Rova chimedu chichena chiya muhomwe iri padivi pacho senge bot.",
         "value_translated_native": null
       },
       {
@@ -1677,7 +1677,106 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Carrom Slam! mutambo we carrom simulator. Ichi chidzidzo chinokudzidzisa kudzora uye kutamba carrom.",
+        "value_translated_automated": "Carrom Slam! mutambo we carrom simulator. Ichi chidzidzo chinokudzidzisa kudzora uye maitiro ekutamba carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Next Page",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Previous Page",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} apinda mumutambo.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} asiya mutambo.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Piece count",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Kudzidzisa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Mambokadzi Akafukidzwa",
         "value_translated_native": null
       }
     ]

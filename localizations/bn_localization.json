@@ -174,7 +174,7 @@
         "description_text": "Exits the current menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Back",
-        "value_translated_automated": "ব্যাক",
+        "value_translated_automated": "ফিরে",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "ক্যারামের প্রতিটি খেলা শুরু হবে সমস্ত স্কোরিং টুকরাগুলিকে কেন্দ্রে গুচ্ছ করে। রাউন্ডের প্রথম শটকে ব্রেক বলা হয়।",
+        "value_translated_automated": "ক্যারামের প্রতিটি খেলা কেন্দ্রে সমস্ত স্কোরিং টুকরা দিয়ে শুরু হবে। রাউন্ডের প্রথম শটকে ব্রেক বলা হয়।",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "আপনি 0, 1, 2, বা 3 টিপে ক্যামেরার কোণ পরিবর্তন করতে পারেন। প্রস্তাবিত প্লেয়ার ক্যামেরা হল 1। আপনি ডান ক্লিক ধরে রেখে এবং মাউস নাড়িয়ে যেকোনো সময় আপনার ক্যামেরা সরাতে পারেন। কন্ট্রোল মেনুতে আরও ক্যামেরা নিয়ন্ত্রণ দেখুন।",
+        "value_translated_automated": "আপনি 0, 1, 2, বা 3 টিপে ক্যামেরার কোণ পরিবর্তন করতে পারেন। ক্যামেরা প্লে করার প্রস্তাবিত হল 1। আপনি ডান ক্লিক ধরে রেখে এবং মাউস নাড়িয়ে যেকোনো সময় আপনার ক্যামেরা সরাতে পারেন। কন্ট্রোল মেনুতে আরও ক্যামেরা নিয়ন্ত্রণ দেখুন।",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "বোর্ডের গর্তে ধাক্কা দেওয়ার জন্য অন্য ডিস্কে ডিস্ক ফ্লিক করে ক্যারাম খেলা হয়। এটি সফলভাবে করা আপনাকে আরেকটি পালা দেয়। একটি দল লক্ষ্য করার জন্য ডিস্ক ফুরিয়ে গেলে খেলা শেষ হয়।",
+        "value_translated_automated": "বোর্ডের গর্তে ঠেলে অন্য ডিস্কে ডিস্ক ফ্লিক করে ক্যারাম খেলা হয়। এটি সফলভাবে করা আপনাকে আরেকটি পালা দেয়। একটি দল লক্ষ্য করার জন্য ডিস্ক ফুরিয়ে গেলে খেলা শেষ হয়।",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1515,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "আপনি টিউটোরিয়াল শেষ করেছেন! আপনি এখন বন্ধু এবং বটদের সাথে ক্যারাম গেম খেলতে প্রস্তুত।",
+        "value_translated_automated": "আপনি টিউটোরিয়াল সম্পন্ন করেছেন! আপনি এখন বন্ধু এবং বটদের সাথে ক্যারাম গেম খেলতে প্রস্তুত।",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1569,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "এই পকেটগুলি যেখানে আপনি ডিস্কগুলি ডুবিয়ে দেওয়ার লক্ষ্য করছেন৷ আমাদের বট খেলা হিসাবে দেখুন.",
+        "value_translated_automated": "এই পকেটগুলি হল যেখানে আপনি ডিস্কগুলি ডুবিয়ে দেওয়ার লক্ষ্য করছেন৷ আমাদের বট খেলা হিসাবে দেখুন.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1587,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "এখানে একটি দৃশ্যকল্প. বট পকেট দেখুন এবং তারপর রানীকে ঢেকে দিন।",
+        "value_translated_automated": "এখানে একটি দৃশ্যকল্প. বট পকেট দেখুন এবং তারপর রানী ঢেকে দিন।",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1641,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "ক্যারাম স্ল্যাম উপভোগ করুন! ~দিনাহসফট টিম",
+        "value_translated_automated": "ক্যারাম স্ল্যাম উপভোগ করুন! ~দিনাহসফ্ট দল",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "ক্যারাম স্লাম! একটি ক্যারাম সিমুলেটর গেম। এই টিউটোরিয়াল আপনাকে কন্ট্রোল এবং কিভাবে ক্যারাম খেলতে হয় তা শেখাবে।",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "ক্যামেরা 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "ক্যামেরা 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "ক্যামেরা 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "ক্যামেরা 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "পরবর্তী পৃষ্ঠা",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "পূর্ববর্তী পৃষ্ঠা",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} গেমটিতে যোগদান করেছে৷",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} গেমটি ছেড়ে গেছে৷",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "টুকরা গণনা",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "প্রশিক্ষণ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "রাণী আচ্ছাদিত",
         "value_translated_native": null
       }
     ]

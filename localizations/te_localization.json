@@ -1371,7 +1371,7 @@
         "description_text": "Describes a page of personal related customizaitons",
         "description_location": "A tab label in the customizations menu",
         "value_english": "Personal",
-        "value_translated_automated": "వ్యక్తిగత",
+        "value_translated_automated": "వ్యక్తిగతం",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "క్యారమ్‌ను బోర్డు మీద రంధ్రాలలోకి నెట్టడానికి డిస్క్‌లను ఇతర డిస్క్‌లలోకి తిప్పడం ద్వారా ఆడతారు. అలా విజయవంతంగా చేయడం వలన మీకు మరో మలుపు లభిస్తుంది. ఒక జట్టు లక్ష్యం చేయడానికి డిస్క్‌లు అయిపోయినప్పుడు ఆట ముగుస్తుంది.",
+        "value_translated_automated": "క్యారమ్‌ను ఇతర డిస్క్‌లలోకి తిప్పడం ద్వారా వాటిని బోర్డ్‌లోని రంధ్రాలలోకి నెట్టడం ద్వారా ఆడతారు. అలా విజయవంతంగా చేయడం వలన మీకు మరో మలుపు లభిస్తుంది. ఒక జట్టు టార్గెట్ చేయడానికి డిస్క్‌లు అయిపోయినప్పుడు ఆట ముగుస్తుంది.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1542,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "మీ స్ట్రైకర్ ప్లేస్‌మెంట్‌ని నిర్ధారించడానికి ఎడమ క్లిక్ చేసి, పట్టుకోండి.",
+        "value_translated_automated": "మీ స్ట్రైకర్ ప్లేస్‌మెంట్‌ని నిర్ధారించడానికి ఎడమ క్లిక్ చేసి పట్టుకోండి.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1569,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "ఈ పాకెట్స్ మీరు డిస్క్‌లను మునిగిపోవాలని లక్ష్యంగా పెట్టుకున్నాయి. మా బోట్ ప్లే చేస్తున్నప్పుడు చూడండి.",
+        "value_translated_automated": "మీరు డిస్క్‌లను మునిగిపోవాలని లక్ష్యంగా పెట్టుకున్న చోట ఈ పాకెట్స్ ఉన్నాయి. మా బోట్ ప్లే చేస్తున్నప్పుడు చూడండి.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1614,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "మీ స్ట్రైకర్‌ను ప్లేలోకి ఫ్లిక్ చేయడానికి ఎడమ క్లిక్‌ని విడుదల చేయండి.",
+        "value_translated_automated": "మీ స్ట్రైకర్‌ని ప్లే చేయడానికి ఎడమ క్లిక్‌ని విడుదల చేయండి.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "వృత్తిపరమైన మరియు డిస్క్ పూల్ మోడ్‌లు మీరు మీ జట్టు రంగును జేబులో పెట్టుకోవడమే లక్ష్యంగా పెట్టుకుంటారు, అయితే పాయింట్ల మోడ్ ప్రతి విభిన్న రంగుల ముక్కకు వేర్వేరు పాయింట్ విలువలను కేటాయిస్తుంది. సాధారణంగా, ఎరుపు రంగు ముక్క అధిక విలువను కలిగి ఉంటుంది మరియు దీనిని రాణిగా సూచిస్తారు.",
+        "value_translated_automated": "వృత్తిపరమైన మరియు డిస్క్ పూల్ మోడ్‌లు మీరు మీ జట్టు రంగును జేబులో పెట్టుకోవడాన్ని మాత్రమే లక్ష్యంగా చేసుకుంటాయి, అయితే పాయింట్ల మోడ్ ప్రతి విభిన్న రంగుల ముక్కకు వేర్వేరు పాయింట్ విలువలను కేటాయిస్తుంది. సాధారణంగా, ఎరుపు రంగు ముక్క అధిక విలువను కలిగి ఉంటుంది మరియు దీనిని రాణిగా సూచిస్తారు.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "క్యారమ్ స్లామ్! క్యారమ్ సిమ్యులేటర్ గేమ్. ఈ ట్యుటోరియల్ మీకు నియంత్రణలు మరియు క్యారమ్ ఎలా ఆడాలో నేర్పుతుంది.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "కెమెరా 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "కెమెరా 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "కెమెరా 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "కెమెరా 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "తదుపరి పేజీ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "మునుపటి పేజీ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} గేమ్‌లో చేరారు.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} గేమ్ నుండి నిష్క్రమించారు.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "ముక్కల లెక్క",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "శిక్షణ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "క్వీన్ కవర్",
         "value_translated_native": null
       }
     ]

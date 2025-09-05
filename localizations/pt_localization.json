@@ -48,7 +48,7 @@
         "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
         "description_location": "A button on the players menu",
         "value_english": "Invite Friends",
-        "value_translated_automated": "Convide amigos",
+        "value_translated_automated": "Convidar amigos",
         "value_translated_native": null
       },
       {
@@ -75,7 +75,7 @@
         "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
         "description_location": "A button on the landing menu",
         "value_english": "Mods",
-        "value_translated_automated": "Modificações",
+        "value_translated_automated": "Mods",
         "value_translated_native": null
       },
       {
@@ -255,7 +255,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "Ação Tercária",
+        "value_translated_automated": "Ação Tertária",
         "value_translated_native": null
       },
       {
@@ -282,7 +282,7 @@
         "description_text": "Changes the primary color of the player's striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Primary Color",
-        "value_translated_automated": "Cor Primária",
+        "value_translated_automated": "Cor primária",
         "value_translated_native": null
       },
       {
@@ -291,7 +291,7 @@
         "description_text": "Changes the secondary color of the player's striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Color",
-        "value_translated_automated": "Cor Secundária",
+        "value_translated_automated": "Cor secundária",
         "value_translated_native": null
       },
       {
@@ -309,7 +309,7 @@
         "description_text": "Changes the skin of the player's carrom striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Striker Skin",
-        "value_translated_automated": "Pele de atacante",
+        "value_translated_automated": "Pele de Atacante",
         "value_translated_native": null
       },
       {
@@ -327,7 +327,7 @@
         "description_text": "Changes the primary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Primary Texture",
-        "value_translated_automated": "Textura Primária",
+        "value_translated_automated": "Textura primária",
         "value_translated_native": null
       },
       {
@@ -489,7 +489,7 @@
         "description_text": "Describes that the scoreboard represents individual player statistics",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Player Scoreboard",
-        "value_translated_automated": "Placar do jogador",
+        "value_translated_automated": "Placar do Jogador",
         "value_translated_native": null
       },
       {
@@ -570,7 +570,7 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "A equipe {0} {1} agora deve completar a cobertura",
+        "value_translated_automated": "A equipe {0} {1} agora deve completar a capa",
         "value_translated_native": null
       },
       {
@@ -597,7 +597,7 @@
         "description_text": "States that the player has sank their striker",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has fouled",
-        "value_translated_automated": "A equipe {0} {1} cometeu uma falta",
+        "value_translated_automated": "A equipe {0} {1} cometeu falta",
         "value_translated_native": null
       },
       {
@@ -615,7 +615,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "A equipe {0} {1} acertou seu arremesso",
+        "value_translated_automated": "A equipe {0} {1} afundou seu chute",
         "value_translated_native": null
       },
       {
@@ -633,7 +633,7 @@
         "description_text": "Describes the ability to choose a variety of options throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Assorted",
-        "value_translated_automated": "Sortido",
+        "value_translated_automated": "Variados",
         "value_translated_native": null
       },
       {
@@ -678,7 +678,7 @@
         "description_text": "Describes the crokinole game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Crokinole",
-        "value_translated_automated": "Croquinol",
+        "value_translated_automated": "Crokinole",
         "value_translated_native": null
       },
       {
@@ -696,7 +696,7 @@
         "description_text": "Describes the disc pool game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Disc Pool",
-        "value_translated_automated": "Conjunto de discos",
+        "value_translated_automated": "Pool de Discos",
         "value_translated_native": null
       },
       {
@@ -813,7 +813,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "Inserção de bolso de parede",
+        "value_translated_automated": "Bolso de parede embutido",
         "value_translated_native": null
       },
       {
@@ -831,7 +831,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Prancha inflável",
+        "value_translated_automated": "Prancha elástica",
         "value_translated_native": null
       },
       {
@@ -840,7 +840,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "Peça saltitante",
+        "value_translated_automated": "Peça de elasticidade",
         "value_translated_native": null
       },
       {
@@ -858,7 +858,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "Parede saltitante",
+        "value_translated_automated": "Parede elástica",
         "value_translated_native": null
       },
       {
@@ -894,7 +894,7 @@
         "description_text": "Choice of how many red pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces red",
-        "value_translated_automated": "Peças vermelhas",
+        "value_translated_automated": "Pedaços vermelhos",
         "value_translated_native": null
       },
       {
@@ -921,7 +921,7 @@
         "description_text": "Choice of how many sides the board will have",
         "description_location": "A rule in the rules menu",
         "value_english": "Spots",
-        "value_translated_automated": "Pontos",
+        "value_translated_automated": "Manchas",
         "value_translated_native": null
       },
       {
@@ -939,7 +939,7 @@
         "description_text": "Choice of how far the baseline is from the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Distance baseline",
-        "value_translated_automated": "Linha de base da distância",
+        "value_translated_automated": "Linha de base de distância",
         "value_translated_native": null
       },
       {
@@ -957,7 +957,7 @@
         "description_text": "Choice of how much friction the board has",
         "description_location": "A rule in the rules menu",
         "value_english": "Board friction",
-        "value_translated_automated": "Fricção da placa",
+        "value_translated_automated": "Atrito da placa",
         "value_translated_native": null
       },
       {
@@ -984,7 +984,7 @@
         "description_text": "Choice of the mass of pieces",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass pieces",
-        "value_translated_automated": "Pedaços de massa",
+        "value_translated_automated": "Peças de massa",
         "value_translated_native": null
       },
       {
@@ -993,7 +993,7 @@
         "description_text": "Choice of the mass of uniform strikers",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass striker",
-        "value_translated_automated": "Atacante em massa",
+        "value_translated_automated": "Greve em massa",
         "value_translated_native": null
       },
       {
@@ -1002,7 +1002,7 @@
         "description_text": "Choice of how inset the pocket is into the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Pocket inset",
-        "value_translated_automated": "Inserção de bolso",
+        "value_translated_automated": "Bolso embutido",
         "value_translated_native": null
       },
       {
@@ -1011,7 +1011,7 @@
         "description_text": "Choice of where a player is allowed to place a striker",
         "description_location": "A rule in the rules menu",
         "value_english": "Striker placement",
-        "value_translated_automated": "Colocação do atacante",
+        "value_translated_automated": "Posicionamento do atacante",
         "value_translated_native": null
       },
       {
@@ -1056,7 +1056,7 @@
         "description_text": "Choice of how many points a white piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for white",
-        "value_translated_automated": "Pontos para branco",
+        "value_translated_automated": "Pontos para o branco",
         "value_translated_native": null
       },
       {
@@ -1074,7 +1074,7 @@
         "description_text": "Choice of how large a board is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Board",
-        "value_translated_automated": "Placa de tamanho",
+        "value_translated_automated": "Tamanho do quadro",
         "value_translated_native": null
       },
       {
@@ -1092,7 +1092,7 @@
         "description_text": "Choice of how large a pocket is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Pocket",
-        "value_translated_automated": "Tamanho Bolso",
+        "value_translated_automated": "Tamanho de bolso",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1101,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "Tamanho do atacante",
+        "value_translated_automated": "Atacante de tamanho",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1110,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "Turn Timer",
+        "value_translated_automated": "Temporizador de giro",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1128,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Máximo de jogadores",
+        "value_translated_automated": "Jogadores Máximos",
         "value_translated_native": null
       },
       {
@@ -1164,7 +1164,7 @@
         "description_text": "Describes the sensitivity of the zoom",
         "description_location": "A setting in the settings menu",
         "value_english": "Zoom sensitivity",
-        "value_translated_automated": "Sensibilidade de zoom",
+        "value_translated_automated": "Sensibilidade do zoom",
         "value_translated_native": null
       },
       {
@@ -1227,7 +1227,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "Volume da IU",
+        "value_translated_automated": "Volume da interface do usuário",
         "value_translated_native": null
       },
       {
@@ -1236,7 +1236,7 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "Preto afundou",
+        "value_translated_automated": "Afundou Preto",
         "value_translated_native": null
       },
       {
@@ -1254,7 +1254,7 @@
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "Rainha afundou",
+        "value_translated_automated": "A rainha afundou",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1434,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "O atacante deve iniciar o jogo na linha de base.",
+        "value_translated_automated": "O atacante deve começar a jogar na linha de fundo.",
         "value_translated_native": null
       },
       {
@@ -1443,7 +1443,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "Aqui vemos um tabuleiro carrom.",
+        "value_translated_automated": "Aqui vemos um tabuleiro de carrom.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Cada jogo de carrom começará com todas as peças de pontuação agrupadas no centro. A primeira tacada do round é chamada de break.",
+        "value_translated_automated": "Cada partida de carrom começa com todas as peças de pontuação agrupadas no centro. O primeiro lance da rodada é chamado de quebra.",
         "value_translated_native": null
       },
       {
@@ -1461,7 +1461,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "Aqui, um bot demonstra uma pausa.",
+        "value_translated_automated": "Aqui um bot demonstra uma pausa.",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1479,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Um golpe bem acertado deve dispersar as peças pelo tabuleiro. Um jogador habilidoso pode conseguir uma vantagem durante toda a rodada com um bom ataque e arremessos subsequentes.",
+        "value_translated_automated": "Uma boa quebra deve dispersar as peças pelo tabuleiro. Um jogador habilidoso pode conseguir uma vantagem durante toda a rodada com uma boa quebra e jogadas subsequentes.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Você pode alterar os ângulos da câmera pressionando 0, 1, 2 ou 3. A câmera de reprodução recomendada é 1. Você pode mover sua câmera a qualquer momento pressionando o botão direito e movendo o mouse. Veja mais controles de câmera no menu de controles.",
+        "value_translated_automated": "Você pode alterar os ângulos da câmera pressionando 0, 1, 2 ou 3. A câmera de jogo recomendada é 1. Você pode mover a câmera a qualquer momento pressionando o botão direito e movendo o mouse. Veja mais controles da câmera no menu de controles.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom é jogado jogando discos em outros discos para empurrá-los em buracos no tabuleiro. Fazer isso com sucesso concede a você outro turno. O jogo termina quando uma equipe fica sem discos para mirar.",
+        "value_translated_automated": "O jogo Carrom consiste em jogar discos em direção a outros discos para empurrá-los para os buracos no tabuleiro. Fazer isso garante mais uma rodada. O jogo termina quando uma equipe fica sem discos para mirar.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1515,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Você concluiu o tutorial! Agora você está pronto para jogar carrom com amigos e bots.",
+        "value_translated_automated": "Você concluiu o tutorial! Agora você está pronto para jogar Carrom com amigos e bots.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1542,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Clique com o botão esquerdo e segure para confirmar a posição do atacante.",
+        "value_translated_automated": "Clique com o botão esquerdo e segure para confirmar o posicionamento do atacante.",
         "value_translated_native": null
       },
       {
@@ -1560,7 +1560,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "As placas carrom padrão vêm com quatro furos, chamados de bolsos, em cada canto.",
+        "value_translated_automated": "As tábuas de carrom padrão vêm com quatro furos, chamados bolsos, em cada canto.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1569,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Esses bolsos são onde você pretende afundar os discos. Veja como nosso bot joga.",
+        "value_translated_automated": "Esses bolsos são onde você deve encaixar os discos. Observe nosso robô jogar.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1578,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "O modo profissional exigirá que a rainha seja encaçapada para completar a rodada. Para marcar a rainha, você deve primeiro encaçapar a rainha e, em seguida, encaçapar com sucesso sua próxima tacada para cobrir a rainha. Caso contrário, a rainha retornará ao tabuleiro.",
+        "value_translated_automated": "No modo profissional, a rainha deve ser encaçapada para completar a rodada. Para conseguir a rainha, você deve primeiro encaçapar a rainha e, em seguida, encaçapar com sucesso sua próxima jogada para cobri-la. Caso contrário, a rainha retornará ao tabuleiro.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1587,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Aqui está um cenário. Observe o bot pocket e depois cubra a rainha.",
+        "value_translated_automated": "Aqui está um cenário. Observe o bolso do bot e então cubra a rainha.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1605,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "O modo de pontos é recomendado para os primeiros jogos. Isso oferece muitas oportunidades de pontuação.",
+        "value_translated_automated": "O modo de pontos é recomendado para as suas primeiras partidas. Isso lhe dá muitas oportunidades de pontuar.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1614,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "Solte o clique esquerdo para colocar seu atacante em jogo.",
+        "value_translated_automated": "Solte o botão esquerdo para colocar seu atacante em jogo.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1632,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Os modos profissional e disc pool farão com que você tenha como objetivo embolsar apenas a cor do seu time, enquanto o modo de pontos atribui valores de pontos diferentes para cada peça de cor diferente. Normalmente, uma peça vermelha tem alto valor e é chamada de rainha.",
+        "value_translated_automated": "Nos modos profissional e de mesa de discos, você terá como objetivo apenas embolsar a cor do seu time, enquanto o modo de pontos atribui valores de pontos diferentes para cada peça de cor diferente. Normalmente, uma peça vermelha tem alto valor e é chamada de rainha.",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1641,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "Aproveite Carrom Slam! ~Equipe Dinahsoft",
+        "value_translated_automated": "Aproveite o Carrom Slam! ~Equipe Dinahsoft",
         "value_translated_native": null
       },
       {
@@ -1650,7 +1650,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "O disco usado para iniciar o jogo é chamado de atacante.",
+        "value_translated_automated": "O disco usado para iniciar o jogo é chamado de striker.",
         "value_translated_native": null
       },
       {
@@ -1659,7 +1659,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Agora vamos tentar acertar nosso primeiro tiro. Observe o bot primeiro.",
+        "value_translated_automated": "Agora vamos tentar acertar o primeiro tiro. Observe o robô primeiro.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +1668,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Agora é sua vez. Acerte aquela peça branca no bolso próximo a ela, assim como o bot.",
+        "value_translated_automated": "Agora é a sua vez. Coloque a peça branca no bolso ao lado, como o robô fez.",
         "value_translated_native": null
       },
       {
@@ -1677,7 +1677,106 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Carrom bate! é um jogo de simulador de carrom. Este tutorial ensinará os controles e como jogar carrom.",
+        "value_translated_automated": "Carrom Slam! é um simulador de carrom. Este tutorial ensinará os controles e como jogar carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Câmera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Câmera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Câmera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Câmera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Próxima página",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Página anterior",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} entrou no jogo.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} saiu do jogo.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Contagem de peças",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Treinamento",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Rainha Coberta",
         "value_translated_native": null
       }
     ]

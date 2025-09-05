@@ -831,7 +831,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Bordi i kërcimit",
+        "value_translated_automated": "Bounciness bord",
         "value_translated_native": null
       },
       {
@@ -858,7 +858,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "Mur bounciness",
+        "value_translated_automated": "Muri i gjallërisë",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1110,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "Ktheje kohëmatësin",
+        "value_translated_automated": "Rrotulloni kohëmatësin",
         "value_translated_native": null
       },
       {
@@ -1236,7 +1236,7 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "Snk i Zi",
+        "value_translated_automated": "Zhytje e zezë",
         "value_translated_native": null
       },
       {
@@ -1272,7 +1272,7 @@
         "description_text": "Describes the amount of pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Sank",
-        "value_translated_automated": "Gjuajtja e fundosur",
+        "value_translated_automated": "E shtënë fundosur",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Çdo lojë e karromit do të fillojë me të gjitha pjesët e shënuara të grumbulluara në qendër. Goditja e parë e raundit quhet pushim.",
+        "value_translated_automated": "Çdo lojë me karromë do të fillojë me të gjitha pjesët e shënuara të grumbulluara në qendër. Goditja e parë e raundit quhet pushim.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1515,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Ju e keni përfunduar tutorialin! Tashmë jeni gati të luani lojëra carrom me miqtë dhe robotët.",
+        "value_translated_automated": "Ju e keni përfunduar tutorialin! Tashmë jeni gati të luani lojëra karromi me miqtë dhe robotët.",
         "value_translated_native": null
       },
       {
@@ -1533,7 +1533,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Tërhiqeni kursorin larg objektivit tuaj ndërsa vazhdoni të mbani klikimin e majtë.",
+        "value_translated_automated": "Tërhiqeni kursorin larg objektivit tuaj ndërsa vazhdoni të mbani klikun e majtë.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1542,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Klikoni majtas dhe mbajeni për të konfirmuar vendosjen e sulmuesit.",
+        "value_translated_automated": "Klikoni majtas dhe mbajeni për të konfirmuar vendosjen tuaj të sulmuesit.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1569,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Këta xhepa janë vendi ku ju synoni të mbytni disqet. Shikoni sesi luan roboti ynë.",
+        "value_translated_automated": "Këta xhepa janë vendi ku synoni të mbytni disqet. Shikoni si luan roboti ynë.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1623,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "Modalitete të ndryshme të lojës kanë rregulla të ndryshme për të shënuar, por rezultati mund të shihet në çdo kohë duke shtypur tastin TAB.",
+        "value_translated_automated": "Modalitete të ndryshme të lojës kanë rregulla të ndryshme për vlerësimin, por rezultati mund të shihet në çdo kohë duke shtypur tastin TAB.",
         "value_translated_native": null
       },
       {
@@ -1677,7 +1677,106 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Carrom Slam! është një lojë simuluese carrom. Ky tutorial do t'ju mësojë kontrollet dhe si të luani carrom.",
+        "value_translated_automated": "Carrom Slam! është një lojë simulator carrom. Ky tutorial do t'ju mësojë kontrollet dhe si të luani carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Faqja tjetër",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Faqja e mëparshme",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} i është bashkuar lojës.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} është larguar nga loja.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Numërimi i pjesëve",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Trajnimi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Mbretëresha e mbuluar",
         "value_translated_native": null
       }
     ]

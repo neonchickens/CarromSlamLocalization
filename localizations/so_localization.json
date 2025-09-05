@@ -21,7 +21,7 @@
         "description_text": "Adds a bot player to the game",
         "description_location": "A button on the players menu",
         "value_english": "Add Bot",
-        "value_translated_automated": "Ku dar Bot",
+        "value_translated_automated": "Kudar Bot",
         "value_translated_native": null
       },
       {
@@ -561,7 +561,7 @@
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
-        "value_translated_automated": "Kooxda {0} {1} ayaa daboolay boqorada",
+        "value_translated_automated": "Kooxda {0} {1} ayaa daboolay boqoradda",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1110,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "Saacadaha leexi",
+        "value_translated_automated": "Daar saacada",
         "value_translated_native": null
       },
       {
@@ -1443,7 +1443,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "Halkan waxaan ku aragnaa looxa carrom ah.",
+        "value_translated_automated": "Halkan waxaan ku aragnaa loox carrom ah.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1452,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Ciyaar kasta oo carrom ah ayaa ku bilaaban doonta iyada oo dhammaan qaybaha gooldhalinta ay ku urursan yihiin bartamaha. Tallaalka ugu horreeya ee wareegga waxaa loo yaqaannaa nasasho.",
+        "value_translated_automated": "Ciyaar kasta oo carrom ah ayaa ku bilaaban doonta iyada oo dhammaan qaybaha dhibcaha lagu soo ururiyey xarunta. Tallaalka ugu horreeya ee wareegga waxaa loo yaqaannaa nasasho.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Waxaad bedeli kartaa xaglaha kamarada adigoo riixaya 0, 1, 2, ama 3. Kamarada lagu talinayo in la ciyaaro waa 1. Waxaad dhaqaajin kartaa kamaradaada wakhti kasta adigoo midigta gujinaya oo dhaqaajinaya jiirka. Fiiri kontaroolada kamaradaha oo badan liiska kontaroolada.",
+        "value_translated_automated": "Waxaad bedeli kartaa xaglaha kamarada adigoo riixaya 0, 1, 2, ama 3. Kamarada lagu talinayo in la ciyaaro waa 1. Waxaad dhaqaajin kartaa kamaradaada wakhti kasta adigoo midigta gujinaya oo dhaqaajinaya jiirka. Fiiri kontaroolada kamaradaha oo badan liiska kontaroolada",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1497,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom waxa lagu ciyaaraa iyada oo saxannada lagu shubo saxanadaha kale si ay ugu riixdo godadka looxa. Samaynta si guul leh waxay ku siinaysaa wareeg kale. Ciyaartu waxay dhammaanaysaa marka kooxdu ka dhamaato saxanadaha ay bartilmaameedsanayaan.",
+        "value_translated_automated": "Carrom waxa lagu ciyaaraa iyada oo saxannada lagu shubo saxanadaha kale si ay ugu riixdo godadka looxa. Samaynta si guul leh waxay ku siinaysaa wareeg kale. Ciyaartu waxay dhammaataa marka kooxdu ka dhamaato saxanadaha bartilmaameedka ah.",
         "value_translated_native": null
       },
       {
@@ -1678,6 +1678,105 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
         "value_translated_automated": "Carrom Slam! waa carrom simulator game. Casharkaan wuxuu ku bari doonaa kontaroolada iyo sida loo ciyaaro carrom.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamarada 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamarada 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamarada 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamarada 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Next Page",
+        "value_translated_automated": "Bogga Xiga",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Previous Page",
+        "value_translated_automated": "Boggii Hore",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} ayaa ku biiray ciyaarta",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} wuu ka baxay ciyaarta",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Piece count",
+        "value_translated_automated": "Tirada qayb",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Training",
+        "value_translated_automated": "Tababarka",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": null,
+        "description_location": null,
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Boqorada Dabooshay",
         "value_translated_native": null
       }
     ]
