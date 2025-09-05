@@ -13,7 +13,7 @@
         "description_location": "A button on the file explorer menu",
         "value_english": "Accept",
         "value_translated_automated": "Принимать",
-        "value_translated_native": null
+        "value_translated_native": "Принять"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -39,8 +39,8 @@
         "description_text": "Views the customization menu, allowing for customization of player items",
         "description_location": "A button on the pause menu",
         "value_english": "Customization",
-        "value_translated_automated": "Настройка",
-        "value_translated_native": null
+        "value_translated_automated": "Кастомизация",
+        "value_translated_native": "Оформление"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -103,7 +103,7 @@
         "description_location": "A button on the landing menu",
         "value_english": "Quit",
         "value_translated_automated": "Покидать",
-        "value_translated_native": null
+        "value_translated_native": "Выйти"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -112,7 +112,7 @@
         "description_location": "A button on the pregame menu",
         "value_english": "Ready",
         "value_translated_automated": "Готовый",
-        "value_translated_native": null
+        "value_translated_native": "Готов"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -121,7 +121,7 @@
         "description_location": "A button on the pause menu",
         "value_english": "Resume",
         "value_translated_automated": "Резюме",
-        "value_translated_native": null
+        "value_translated_native": "Продолжить"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -247,7 +247,7 @@
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Start",
         "value_translated_automated": "Начинать",
-        "value_translated_native": null
+        "value_translated_native": "Начать"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -265,7 +265,7 @@
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
         "value_translated_automated": "Переключить Готово",
-        "value_translated_native": null
+        "value_translated_native": "Переключить готовность"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -301,7 +301,7 @@
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Trail Color",
         "value_translated_automated": "Цвет тропы",
-        "value_translated_native": null
+        "value_translated_native": "Цвет шлейфа"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -309,8 +309,8 @@
         "description_text": "Changes the skin of the player's carrom striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Striker Skin",
-        "value_translated_automated": "Скин Страйкера",
-        "value_translated_native": null
+        "value_translated_automated": "Скин нападающего",
+        "value_translated_native": "Скин страйкера"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -318,8 +318,8 @@
         "description_text": "Changes the skin of the player's trail",
         "description_location": "A customization option in the general tab of the customization menu",
         "value_english": "Trial Skin",
-        "value_translated_automated": "Пробная кожа",
-        "value_translated_native": null
+        "value_translated_automated": "Пробный скин",
+        "value_translated_native": "Скин шлейфа"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -454,7 +454,7 @@
         "description_location": "A label in the players menu",
         "value_english": "Ready",
         "value_translated_automated": "Готовый",
-        "value_translated_native": null
+        "value_translated_native": "Готов"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -535,7 +535,7 @@
         "description_location": "A label in the scoreboard menu",
         "value_english": "Total",
         "value_translated_automated": "Общий",
-        "value_translated_native": null
+        "value_translated_native": "Общий счёт"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -634,7 +634,7 @@
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Assorted",
         "value_translated_automated": "Ассорти",
-        "value_translated_native": null
+        "value_translated_native": "Разное"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -786,8 +786,8 @@
         "description_text": "Describes the tutorial game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Tutorial",
-        "value_translated_automated": "Учебное пособие",
-        "value_translated_native": null
+        "value_translated_automated": "Учебник",
+        "value_translated_native": "Обучение"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -831,8 +831,8 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Доска для прыжков",
-        "value_translated_native": null
+        "value_translated_automated": "Надувная доска",
+        "value_translated_native": "Пружинистость пола"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -840,8 +840,8 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "Кусок упругости",
-        "value_translated_native": null
+        "value_translated_automated": "Надувной кусок",
+        "value_translated_native": "Пружинистость фишки"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -849,8 +849,8 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Нападающий с упругостью",
-        "value_translated_native": null
+        "value_translated_automated": "Упругий нападающий",
+        "value_translated_native": "Пружинистость страйкера"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -858,8 +858,8 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "Стена упругости",
-        "value_translated_native": null
+        "value_translated_automated": "Надувная стена",
+        "value_translated_native": "Пружинистость стены"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -876,8 +876,8 @@
         "description_text": "Choice of max rounds to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Round maximum",
-        "value_translated_automated": "Максимальный округ",
-        "value_translated_native": null
+        "value_translated_automated": "Максимум раунда",
+        "value_translated_native": "Максимум раундов"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -885,8 +885,8 @@
         "description_text": "Choice of how many black pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces black",
-        "value_translated_automated": "Кусочки черного",
-        "value_translated_native": null
+        "value_translated_automated": "Кусочки черные",
+        "value_translated_native": "Фишки черные"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -894,8 +894,8 @@
         "description_text": "Choice of how many red pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces red",
-        "value_translated_automated": "Кусочки красного",
-        "value_translated_native": null
+        "value_translated_automated": "Кусочки красные",
+        "value_translated_native": "Фишки красные"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -903,8 +903,8 @@
         "description_text": "Choice of how many team pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces per team",
-        "value_translated_automated": "Количество штук на команду",
-        "value_translated_native": null
+        "value_translated_automated": "Штук на команду",
+        "value_translated_native": "Число фишек в команде"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -912,8 +912,8 @@
         "description_text": "Choice of how many white pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces white",
-        "value_translated_automated": "Кусочки белого",
-        "value_translated_native": null
+        "value_translated_automated": "Кусочки белые",
+        "value_translated_native": "Фишки белые"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -922,7 +922,7 @@
         "description_location": "A rule in the rules menu",
         "value_english": "Spots",
         "value_translated_automated": "Пятна",
-        "value_translated_native": null
+        "value_translated_native": "Количество граней доски"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -939,8 +939,8 @@
         "description_text": "Choice of how far the baseline is from the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Distance baseline",
-        "value_translated_automated": "Расстояние базовой линии",
-        "value_translated_native": null
+        "value_translated_automated": "Базовая линия расстояния",
+        "value_translated_native": "Расстояне базовой линии"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -949,7 +949,7 @@
         "description_location": "A rule in the rules menu",
         "value_english": "Break",
         "value_translated_automated": "Перерыв",
-        "value_translated_native": null
+        "value_translated_native": "Разбивка"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -984,8 +984,8 @@
         "description_text": "Choice of the mass of pieces",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass pieces",
-        "value_translated_automated": "Массовые части",
-        "value_translated_native": null
+        "value_translated_automated": "Массовые куски",
+        "value_translated_native": "Масса фишек"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -993,8 +993,8 @@
         "description_text": "Choice of the mass of uniform strikers",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass striker",
-        "value_translated_automated": "Массовый забастовщик",
-        "value_translated_native": null
+        "value_translated_automated": "Массовый нападающий",
+        "value_translated_native": "Масса страйкера"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1012,7 +1012,7 @@
         "description_location": "A rule in the rules menu",
         "value_english": "Striker placement",
         "value_translated_automated": "Размещение нападающего",
-        "value_translated_native": null
+        "value_translated_native": "Размещение страйкера"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1047,8 +1047,8 @@
         "description_text": "Choice of how many points a team piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for piece",
-        "value_translated_automated": "Баллы за штуку",
-        "value_translated_native": null
+        "value_translated_automated": "Очки за штуку",
+        "value_translated_native": "Очки за фишку"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1074,8 +1074,8 @@
         "description_text": "Choice of how large a board is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Board",
-        "value_translated_automated": "Размер доски",
-        "value_translated_native": null
+        "value_translated_automated": "Доска размеров",
+        "value_translated_native": "Размер доски"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1084,7 +1084,7 @@
         "description_location": "A rule in the rules menu",
         "value_english": "Size Piece",
         "value_translated_automated": "Размер шт.",
-        "value_translated_native": null
+        "value_translated_native": "Размер фишек"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1102,7 +1102,7 @@
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
         "value_translated_automated": "Размер нападающего",
-        "value_translated_native": null
+        "value_translated_native": "Размер страйкера"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1111,7 +1111,7 @@
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
         "value_translated_automated": "Таймер поворота",
-        "value_translated_native": null
+        "value_translated_native": "Время хода"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1119,8 +1119,8 @@
         "description_text": "Choice of enforcing a uniform striker across all players",
         "description_location": "A rule in the rules menu",
         "value_english": "Uniform Striker",
-        "value_translated_automated": "Униформа Нападающий",
-        "value_translated_native": null
+        "value_translated_automated": "Униформа нападающего",
+        "value_translated_native": "Единая форма страйкера"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1218,8 +1218,8 @@
         "description_text": "Describes the volume scale of all volume types",
         "description_location": "A setting in the settings menu",
         "value_english": "Master volume",
-        "value_translated_automated": "Основная громкость",
-        "value_translated_native": null
+        "value_translated_automated": "Основной объем",
+        "value_translated_native": "Общая громкость"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1236,8 +1236,8 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "Черный затонул",
-        "value_translated_native": null
+        "value_translated_automated": "Блэк Санк",
+        "value_translated_native": "Забито черных"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1254,8 +1254,8 @@
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "Королева затонула",
-        "value_translated_native": null
+        "value_translated_automated": "Королева Санк",
+        "value_translated_native": "Забито королев"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1264,7 +1264,7 @@
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Attempt",
         "value_translated_automated": "Попытка выстрела",
-        "value_translated_native": null
+        "value_translated_native": "Попытка"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1273,7 +1273,7 @@
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Sank",
         "value_translated_automated": "Выстрел затонул",
-        "value_translated_native": null
+        "value_translated_native": "Удар забит"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1281,8 +1281,8 @@
         "description_text": "Describes the amount of white pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
-        "value_translated_automated": "Белый затонул",
-        "value_translated_native": null
+        "value_translated_automated": "Белый Санк",
+        "value_translated_native": "Забито белых"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1309,7 +1309,7 @@
         "description_location": "A tab label in the mods menu",
         "value_english": "Breaks",
         "value_translated_automated": "Перерывы",
-        "value_translated_native": null
+        "value_translated_native": "Разбивки"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1399,7 +1399,7 @@
         "description_location": "A tab label in the customizations menu",
         "value_english": "Skin",
         "value_translated_automated": "Кожа",
-        "value_translated_native": null
+        "value_translated_native": "Скин"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1408,7 +1408,7 @@
         "description_location": "A tab label in the customizations menu",
         "value_english": "Trail",
         "value_translated_automated": "Тащить",
-        "value_translated_native": null
+        "value_translated_native": "Шлейф"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1417,7 +1417,7 @@
         "description_location": "A tab label in the mods menu",
         "value_english": "Trainings",
         "value_translated_automated": "Тренинги",
-        "value_translated_native": null
+        "value_translated_native": "Тренировки"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1452,8 +1452,8 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Каждая игра в карром начинается с того, что все фишки, на которые начисляются очки, собираются в центре. Первый удар раунда называется «разбой».",
-        "value_translated_native": null
+        "value_translated_automated": "Каждая игра в Карром начинается с того, что все результативные фигуры сгруппированы в центре. Первый бросок раунда называется брейк.",
+        "value_translated_native": "Каждая игра в Карром начинается с того, что все фишки сгруппированы в центре. Первый бросок раунда называется разбивка."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1461,8 +1461,8 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "Здесь бот демонстрирует прорыв.",
-        "value_translated_native": null
+        "value_translated_automated": "Здесь бот демонстрирует обрыв.",
+        "value_translated_native": "Здесь бот демонстрирует разбивку."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1479,8 +1479,8 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Удачный разбой должен рассеять фигуры по всей доске. Опытный игрок может обеспечить себе преимущество на весь раунд благодаря удачному разбою и последующим ударам.",
-        "value_translated_native": null
+        "value_translated_automated": "Удачный прорыв должен разогнать фигуры по доске. Опытный игрок может получить преимущество на протяжении всего раунда за счет хорошего прорыва и последующих ударов.",
+        "value_translated_native": "Удачная разбивка должена разогнать фишки по доске. Опытный игрок может получить преимущество на протяжении всего раунда за счет хорошей разбивки и последующих ударов."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1497,8 +1497,8 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "В игре «Карром» нужно бросать диски друг на друга, чтобы задвинуть их в отверстия на игровом поле. Успешное выполнение этой задачи даёт вам ещё один ход. Игра заканчивается, когда у команды заканчиваются диски для удара.",
-        "value_translated_native": null
+        "value_translated_automated": "В Карроме нужно перебрасывать диски в другие диски, чтобы вставить их в отверстия на доске. Если вы сделаете это успешно, вы получите еще один ход. Игра заканчивается, когда у команды заканчиваются диски для мишени.",
+        "value_translated_native": "В Карроме нужно перебрасывать ишки в другие фишки, чтобы забить их в карманы на доске. Если вы сделаете это успешно, вы получите еще один ход. Игра заканчивается, когда у команды заканчиваются фишки."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1524,8 +1524,8 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "Чтобы начать удар, поместите курсор на базовую линию.",
-        "value_translated_native": null
+        "value_translated_automated": "Поместите курсор на базовую линию, чтобы начать съемку.",
+        "value_translated_native": "Поместите курсор на базовую линию, чтобы начать удар."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1569,8 +1569,8 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Именно в эти карманы вам нужно забивать диски. Смотрите, как играет наш бот.",
-        "value_translated_native": null
+        "value_translated_automated": "В эти карманы вы собираетесь утопить диски. Смотрите, как играет наш бот.",
+        "value_translated_native": "В эти карманы вы собираетесь забить фишки. Смотрите, как играет наш бот."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1578,8 +1578,8 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "В профессиональном режиме для завершения раунда необходимо забить ферзя. Чтобы забить ферзя, необходимо сначала забить его, а затем успешно закрыть следующим ударом. В противном случае ферзь вернётся на доску.",
-        "value_translated_native": null
+        "value_translated_automated": "В профессиональном режиме для завершения раунда потребуется забить ферзя. Чтобы забить ферзя, вы должны сначала забить ферзя, а затем успешно забить следующий удар, чтобы прикрыть ферзя. Если этого не сделать, ферзь вернется на доску.",
+        "value_translated_native": "В профессиональном режиме для завершения раунда потребуется забить королеву. Чтобы покрыть королеву, вы должны сначала забить королеву, а затем успешно забить следующий удар, чтобы покрыть. Если этого не сделать, королева вернется на доску."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1587,8 +1587,8 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Вот пример. Следите за нижним карманом, а затем прикрывайте ферзя.",
-        "value_translated_native": null
+        "value_translated_automated": "Вот сценарий. Следите за карманом бота, а затем прикройте королеву.",
+        "value_translated_native": "Вот сценарий. Смотрите как бот забивает и покрывает королеву."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1597,7 +1597,7 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself. First the queen, then the white piece.",
         "value_translated_automated": "Попробуйте сами. Сначала ферзь, затем белая фигура.",
-        "value_translated_native": null
+        "value_translated_native": "Попробуйте сами. Сначала королева, затем белая фишка."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1615,7 +1615,7 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
         "value_translated_automated": "Отпустите левую кнопку мыши, чтобы ввести нападающего в игру.",
-        "value_translated_native": null
+        "value_translated_native": "Отпустите левую кнопку мыши, чтобы ввести страйкера в игру."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1632,8 +1632,8 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "В режимах профессионального пула и диск-пула вам нужно будет забить только фишку цвета вашей команды, а в режиме очков за каждую фишку разного цвета присваивается разная стоимость. Как правило, фишка красного цвета имеет высокую ценность и называется ферзем.",
-        "value_translated_native": null
+        "value_translated_automated": "В профессиональном режиме и режиме пула дисков вы будете стремиться только забить цвет своей команды, а в режиме очков за каждую фигуру разного цвета назначаются разные значения очков. Обычно фигура красного цвета имеет высокую ценность и называется ферзем.",
+        "value_translated_native": "В профессиональном режиме и режиме пула дисков вы будете стремиться только забить цвет своей команды, а в режиме очков за каждую фигуру разного цвета назначаются разные значения очков. Обычно фигура красного цвета имеет высокую ценность и называется королевой."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1650,8 +1650,8 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "Диск, используемый для начала игры, называется ударником.",
-        "value_translated_native": null
+        "value_translated_automated": "Диск, используемый для начала игры, называется нападающим.",
+        "value_translated_native": "Фишка, используемая для начала игры, называется страйкер."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1659,8 +1659,8 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Давайте попробуем сделать первый удар. Сначала понаблюдайте за ботом.",
-        "value_translated_native": null
+        "value_translated_automated": "Теперь попробуем потопить наш первый выстрел. Сначала посмотрите на бота.",
+        "value_translated_native": "Теперь попробуем забить наш первый удар. Сначала посмотрите на бота."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -1668,8 +1668,8 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Теперь твоя очередь. Забей эту белую фишку в соседнюю лузу, как это сделал бот.",
-        "value_translated_native": null
+        "value_translated_automated": "Теперь ваша очередь. Положите эту белую фигуру в карман рядом с ней, как бот.",
+        "value_translated_native": "Теперь ваша очередь. Забейте эту белую фишку в карман рядом с ней, как бот."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
