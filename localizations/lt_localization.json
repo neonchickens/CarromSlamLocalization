@@ -21,7 +21,7 @@
         "description_text": "Adds a bot player to the game",
         "description_location": "A button on the players menu",
         "value_english": "Add Bot",
-        "value_translated_automated": "Pridėti Botą",
+        "value_translated_automated": "Pridėti robotą",
         "value_translated_native": null
       },
       {
@@ -39,7 +39,16 @@
         "description_text": "Views the customization menu, allowing for customization of player items",
         "description_location": "A button on the pause menu",
         "value_english": "Customization",
-        "value_translated_automated": "Tinkinimas",
+        "value_translated_automated": "Pritaikymas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_delete_selected",
+        "description_text": "Deletes all mods that are currently selected",
+        "description_location": "A button on the mods menu",
+        "value_english": "Delete selected",
+        "value_translated_automated": "Ištrinti pasirinktus",
         "value_translated_native": null
       },
       {
@@ -48,7 +57,7 @@
         "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
         "description_location": "A button on the players menu",
         "value_english": "Invite Friends",
-        "value_translated_automated": "Pakvieskite draugus",
+        "value_translated_automated": "Pakviesti draugus",
         "value_translated_native": null
       },
       {
@@ -57,7 +66,7 @@
         "description_text": "Joins the server of the selected lobby",
         "description_location": "A button on the browser menu",
         "value_english": "Join",
-        "value_translated_automated": "Prisijunk",
+        "value_translated_automated": "Prisijungti",
         "value_translated_native": null
       },
       {
@@ -102,7 +111,16 @@
         "description_text": "Quits the server/application",
         "description_location": "A button on the landing menu",
         "value_english": "Quit",
-        "value_translated_automated": "Išeik",
+        "value_translated_automated": "Baigti",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_randomize",
+        "description_text": "Randomizes all customization features",
+        "description_location": "A button on the customization menu",
+        "value_english": "Randomize",
+        "value_translated_automated": "Atsitiktinė atranka",
         "value_translated_native": null
       },
       {
@@ -111,7 +129,16 @@
         "description_text": "Confirms the local player is ready",
         "description_location": "A button on the pregame menu",
         "value_english": "Ready",
-        "value_translated_automated": "Paruošta",
+        "value_translated_automated": "Pasiruošęs",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_reset",
+        "description_text": "Resets the relevant data",
+        "description_location": "A button on the settings menu",
+        "value_english": "Reset",
+        "value_translated_automated": "Atstatyti",
         "value_translated_native": null
       },
       {
@@ -120,7 +147,7 @@
         "description_text": "Removes the pause menu, focusing on the play area",
         "description_location": "A button on the pause menu",
         "value_english": "Resume",
-        "value_translated_automated": "Tęsti",
+        "value_translated_automated": "Gyvenimo aprašymas",
         "value_translated_native": null
       },
       {
@@ -138,7 +165,7 @@
         "description_text": "Views the file explorer menu, allowing the user to save the config to file",
         "description_location": "A button on the customization menu",
         "value_english": "Save File",
-        "value_translated_automated": "Išsaugoti failą",
+        "value_translated_automated": "Įrašyti failą",
         "value_translated_native": null
       },
       {
@@ -179,11 +206,47 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": "Sets the camera view to the overhead preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 1",
+        "value_translated_automated": "1 kamera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": "Sets the camera view to the low preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 2",
+        "value_translated_automated": "2 kamera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": "Sets the camera view to the isometric preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 3",
+        "value_translated_automated": "3 kamera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": "Sets the camera view to the far preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 4",
+        "value_translated_automated": "4 kamera",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "control_action_camera_next",
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Next Camera",
-        "value_translated_automated": "Kitas fotoaparatas",
+        "value_translated_automated": "Kita kamera",
         "value_translated_native": null
       },
       {
@@ -206,11 +269,38 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": "Jumps to the next default menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Page",
+        "value_translated_automated": "Kitas puslapis",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Page",
+        "value_translated_automated": "Ankstesnis puslapis",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_pointer_reset",
+        "description_text": "Resets the pointer to the baseline",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Reset Pointer",
+        "value_translated_automated": "Atstatyti žymeklį",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "control_action_primary",
         "description_text": "Used to confirm shot placement and power",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Primary Action",
-        "value_translated_automated": "Pirminis veiksmas",
+        "value_translated_automated": "Pagrindinis veiksmas",
         "value_translated_native": null
       },
       {
@@ -219,7 +309,7 @@
         "description_text": "Used to reset pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Quaternary Action",
-        "value_translated_automated": "Kvartero veiksmas",
+        "value_translated_automated": "Ketvirtinis veiksmas",
         "value_translated_native": null
       },
       {
@@ -264,7 +354,7 @@
         "description_text": "Toggles the player pregame readiness",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
-        "value_translated_automated": "Perjungti Paruošta",
+        "value_translated_automated": "Perjungti paruoštą",
         "value_translated_native": null
       },
       {
@@ -274,6 +364,15 @@
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Pointer Color",
         "value_translated_automated": "Rodyklės spalva",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_power",
+        "description_text": "Changes the color of the player's power text",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Power Text Color",
+        "value_translated_automated": "Galios teksto spalva",
         "value_translated_native": null
       },
       {
@@ -341,6 +440,33 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_apartment",
+        "description_text": "Represents an enironment representing a nice apartment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Apartment",
+        "value_translated_automated": "Butas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_empty",
+        "description_text": "Represents an enironment representing an empty room",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Empty",
+        "value_translated_automated": "Tuščia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_stadium",
+        "description_text": "Represents an enironment representing stadium environment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Stadium",
+        "value_translated_automated": "Stadionas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_author",
         "description_text": "Describes the creator of the mod",
         "description_location": "A label in the mods menu",
@@ -354,7 +480,7 @@
         "description_text": "Describes that this game is according to the following conditions",
         "description_location": "A label in the intro menu",
         "value_english": "Best of",
-        "value_translated_automated": "Geriausias iš",
+        "value_translated_automated": "Geriausi iš",
         "value_translated_native": null
       },
       {
@@ -372,7 +498,7 @@
         "description_text": "Describes the amount of computer controlled players present in the lobby",
         "description_location": "A label in the pregame menu",
         "value_english": "Bots",
-        "value_translated_automated": "Botai",
+        "value_translated_automated": "Robotai",
         "value_translated_native": null
       },
       {
@@ -390,7 +516,7 @@
         "description_text": "Describes the score debt owed by a particular team",
         "description_location": "A label in the Professional Carrom game mode menu",
         "value_english": "Team {0} owes {1} point(s)",
-        "value_translated_automated": "Komanda {0} skolinga {1} tašk.",
+        "value_translated_automated": "Komanda {0} skolinga {1} tašką(-us)",
         "value_translated_native": null
       },
       {
@@ -404,11 +530,38 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_enable",
+        "description_text": "Enables the mods within the game",
+        "description_location": "A label in the mods menu",
+        "value_english": "Enable",
+        "value_translated_automated": "Įjungti",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_green",
         "description_text": "Describes the value of green used in the RGB color",
         "description_location": "A label in the color customization setting",
         "value_english": "Green",
         "value_translated_automated": "Žalia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_complete",
+        "description_text": "Displays that this language has complete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is complete or almost complete.",
+        "value_translated_automated": "Ši lokalės parinktis yra baigta arba beveik baigta.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_incomplete",
+        "description_text": "Displays that this language has incomplete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
+        "value_translated_automated": "Ši lokalės parinktis yra nepilna, atsiprašome už netikslumus. Būtume labai dėkingi, jei galėtumėte padėti išversti. Daugiau informacijos rasite mūsų „Discord“ paskyroje.",
         "value_translated_native": null
       },
       {
@@ -453,7 +606,7 @@
         "description_text": "Describes a player who is prepared and waiting to play",
         "description_location": "A label in the players menu",
         "value_english": "Ready",
-        "value_translated_automated": "Paruošta",
+        "value_translated_automated": "Pasiruošęs",
         "value_translated_native": null
       },
       {
@@ -463,6 +616,15 @@
         "description_location": "A label in the color customization setting",
         "value_english": "Red",
         "value_translated_automated": "Raudona",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round",
+        "description_text": "Displays what round the current context is",
+        "description_location": "A label on the mini scoreboard",
+        "value_english": "Round {0}",
+        "value_translated_automated": "{0} raundas",
         "value_translated_native": null
       },
       {
@@ -498,7 +660,16 @@
         "description_text": "Describes that the scoreboard represents team scoring",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Team Scoreboard",
-        "value_translated_automated": "Komandos rezultatų lentelė",
+        "value_translated_automated": "Komandos rezultatų suvestinė",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_select",
+        "description_text": "Selects the mods, which may then be deleted",
+        "description_location": "A label in the mods menu",
+        "value_english": "Select",
+        "value_translated_automated": "Pasirinkite",
         "value_translated_native": null
       },
       {
@@ -539,6 +710,24 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_waiting_for_input",
+        "description_text": "Shows the user that we are waiting to capture their input for the new binding",
+        "description_location": "A label that shows when the user is rebinding a control in the settings menu",
+        "value_english": "Waiting for input",
+        "value_translated_automated": "Laukiama įvesties",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_break_setup",
+        "description_text": "States what break file has been used",
+        "description_location": "An event message from the system",
+        "value_english": "Break {0} spawned.",
+        "value_translated_automated": "Sukurtas {0} lūžis.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_game_end",
         "description_text": "States the game has ended",
         "description_location": "An event message from the system",
@@ -557,11 +746,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": "States a player has joined the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} prisijungė prie žaidimo.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": "States a player has left the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} paliko žaidimą.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_queen_covered",
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
-        "value_translated_automated": "Komanda {0} {1} užėmė karalienę",
+        "value_translated_automated": "Komanda {0} {1} uždengė valdovę",
         "value_translated_native": null
       },
       {
@@ -570,7 +777,25 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "Komanda {0} {1} dabar turi užpildyti viršelį",
+        "value_translated_automated": "Komanda {0} {1} dabar turi užbaigti viršelį",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_debt",
+        "description_text": "States that the pieces replaced were from previous debt",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing owed debt to the board",
+        "value_translated_automated": "Skolos valdybai pakeitimas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_foul",
+        "description_text": "States that the pieces replaced were from a foul",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing due to foul",
+        "value_translated_automated": "Pakeitimas dėl pražangos",
         "value_translated_native": null
       },
       {
@@ -579,7 +804,7 @@
         "description_text": "States the round has ended",
         "description_location": "An event message from the system",
         "value_english": "Round {0} has ended",
-        "value_translated_automated": "{0} turas baigėsi",
+        "value_translated_automated": "{0} raundas baigėsi",
         "value_translated_native": null
       },
       {
@@ -588,7 +813,7 @@
         "description_text": "States the round has started",
         "description_location": "An event message from the system",
         "value_english": "Round {0} is starting!",
-        "value_translated_automated": "{0} turas prasideda!",
+        "value_translated_automated": "{0} raundas prasideda!",
         "value_translated_native": null
       },
       {
@@ -611,11 +836,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_round_end",
+        "description_text": "States that the player has ended the round on this turn",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has ended the round",
+        "value_translated_automated": "Komanda {0} {1} baigė raundą",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_turn_single",
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "Komanda {0} {1} paskandino savo šūvį",
+        "value_translated_automated": "Komanda {0} {1} praleido savo metimą",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_all",
+        "description_text": "An option that fulfils all relevant configurations",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "All",
+        "value_translated_automated": "Visi",
         "value_translated_native": null
       },
       {
@@ -629,11 +872,47 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_direction_only",
+        "description_text": "An assist option that only shows the direction",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction only",
+        "value_translated_automated": "Tik kryptis",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_direction",
+        "description_text": "An assist option that only shows the direction and power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction and power",
+        "value_translated_automated": "Kryptis ir galia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_only",
+        "description_text": "An assist option that only shows the power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Power only",
+        "value_translated_automated": "Tik maitinimas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_trajectory_only",
+        "description_text": "An assist option that only shows the trajectory",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Trajectory only",
+        "value_translated_automated": "Tik trajektorija",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "option_assorted",
         "description_text": "Describes the ability to choose a variety of options throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Assorted",
-        "value_translated_automated": "Asorti",
+        "value_translated_automated": "Įvairūs",
         "value_translated_native": null
       },
       {
@@ -660,7 +939,7 @@
         "description_text": "Describes the carrom game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Carrom",
-        "value_translated_automated": "Carrom",
+        "value_translated_automated": "Karomas",
         "value_translated_native": null
       },
       {
@@ -687,16 +966,7 @@
         "description_text": "Describes a default configuration",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Default",
-        "value_translated_automated": "Numatytoji",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "option_disc_pool",
-        "description_text": "Describes the disc pool game mode",
-        "description_location": "An option in a drop down menu in the rules menu",
-        "value_english": "Disc Pool",
-        "value_translated_automated": "Disko baseinas",
+        "value_translated_automated": "Numatytasis",
         "value_translated_native": null
       },
       {
@@ -706,6 +976,15 @@
         "description_location": "An option in a drop down menu in the server menu",
         "value_english": "Friends",
         "value_translated_automated": "Draugai",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_none",
+        "description_text": "Describes an option where none of the option are fulfilled",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "None",
+        "value_translated_automated": "Nėra",
         "value_translated_native": null
       },
       {
@@ -777,7 +1056,7 @@
         "description_text": "Describes the training game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Training",
-        "value_translated_automated": "Treniruotės",
+        "value_translated_automated": "Mokymai",
         "value_translated_native": null
       },
       {
@@ -795,7 +1074,7 @@
         "description_text": "Choice of what board will be used",
         "description_location": "A rule in the rules menu",
         "value_english": "Board",
-        "value_translated_automated": "lenta",
+        "value_translated_automated": "Valdyba",
         "value_translated_native": null
       },
       {
@@ -804,7 +1083,7 @@
         "description_text": "Choice of whether a forward only trajectory rule will be used",
         "description_location": "A rule in the rules menu",
         "value_english": "Forward shot only",
-        "value_translated_automated": "Šūvis tik į priekį",
+        "value_translated_automated": "Tik smūgis į priekį",
         "value_translated_native": null
       },
       {
@@ -813,7 +1092,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "Sieninė kišenė",
+        "value_translated_automated": "Sieninė kišenė įdėkle",
         "value_translated_native": null
       },
       {
@@ -822,7 +1101,7 @@
         "description_text": "Choice of whether to round off the corner around the pocket",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket rounded",
-        "value_translated_automated": "Suapvalinta sieninė kišenė",
+        "value_translated_automated": "Sieninė kišenė suapvalinta",
         "value_translated_native": null
       },
       {
@@ -831,7 +1110,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Atšokimo lenta",
+        "value_translated_automated": "Šokinėjimo lenta",
         "value_translated_native": null
       },
       {
@@ -840,7 +1119,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "Šoninis gabalas",
+        "value_translated_automated": "Šoklio formos detalė",
         "value_translated_native": null
       },
       {
@@ -849,7 +1128,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Atšokantis puolėjas",
+        "value_translated_automated": "Šoklio puolėjas",
         "value_translated_native": null
       },
       {
@@ -858,7 +1137,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "Atšokimo siena",
+        "value_translated_automated": "Šokinėjimo siena",
         "value_translated_native": null
       },
       {
@@ -867,7 +1146,7 @@
         "description_text": "Choice of max points to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Point maximum",
-        "value_translated_automated": "Maksimalus taškas",
+        "value_translated_automated": "Maksimalus taškų skaičius",
         "value_translated_native": null
       },
       {
@@ -881,11 +1160,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": "Choices of how many pieces are present per team",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Piece count",
+        "value_translated_automated": "Vienetų skaičius",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "rule_count_pieces_black",
         "description_text": "Choice of how many black pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces black",
-        "value_translated_automated": "Juodos dalys",
+        "value_translated_automated": "Juodi gabalai",
         "value_translated_native": null
       },
       {
@@ -894,7 +1182,7 @@
         "description_text": "Choice of how many red pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces red",
-        "value_translated_automated": "Raudoni gabalai",
+        "value_translated_automated": "Raudoni gabalėliai",
         "value_translated_native": null
       },
       {
@@ -903,7 +1191,7 @@
         "description_text": "Choice of how many team pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces per team",
-        "value_translated_automated": "Vienetai komandai",
+        "value_translated_automated": "Vienetų komandai",
         "value_translated_native": null
       },
       {
@@ -912,7 +1200,7 @@
         "description_text": "Choice of how many white pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces white",
-        "value_translated_automated": "Pjesės baltos",
+        "value_translated_automated": "Balti gabalėliai",
         "value_translated_native": null
       },
       {
@@ -939,7 +1227,16 @@
         "description_text": "Choice of how far the baseline is from the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Distance baseline",
-        "value_translated_automated": "Atstumo bazinė linija",
+        "value_translated_automated": "Atstumo bazinė vertė",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_environment",
+        "description_text": "Choice of what 3D environment is presented",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Environment",
+        "value_translated_automated": "Aplinka",
         "value_translated_native": null
       },
       {
@@ -949,6 +1246,15 @@
         "description_location": "A rule in the rules menu",
         "value_english": "Break",
         "value_translated_automated": "Pertrauka",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": "Choice of what training file to load",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "Mokymai",
         "value_translated_native": null
       },
       {
@@ -984,7 +1290,7 @@
         "description_text": "Choice of the mass of pieces",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass pieces",
-        "value_translated_automated": "Masės gabaliukai",
+        "value_translated_automated": "Masiniai gabalai",
         "value_translated_native": null
       },
       {
@@ -1002,7 +1308,7 @@
         "description_text": "Choice of how inset the pocket is into the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Pocket inset",
-        "value_translated_automated": "Kišeninis įdėklas",
+        "value_translated_automated": "Kišenės įdėklas",
         "value_translated_native": null
       },
       {
@@ -1020,7 +1326,7 @@
         "description_text": "Choice of where the game caps the queens point contribution",
         "description_location": "A rule in the rules menu",
         "value_english": "Queen points cap",
-        "value_translated_automated": "Karalienės taškų kepurė",
+        "value_translated_automated": "Karalienės taškų riba",
         "value_translated_native": null
       },
       {
@@ -1047,7 +1353,7 @@
         "description_text": "Choice of how many points a team piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for piece",
-        "value_translated_automated": "Taškai už gabalą",
+        "value_translated_automated": "Taškai už kūrinį",
         "value_translated_native": null
       },
       {
@@ -1083,7 +1389,7 @@
         "description_text": "Choice of how large a piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Piece",
-        "value_translated_automated": "Dydis gabalas",
+        "value_translated_automated": "Dydis Vnt.",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1407,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "Dydis puolėjas",
+        "value_translated_automated": "Dydžio puolėjas",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1416,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "Pasukite laikmatį",
+        "value_translated_automated": "Posūkio laikmatis",
         "value_translated_native": null
       },
       {
@@ -1119,7 +1425,7 @@
         "description_text": "Choice of enforcing a uniform striker across all players",
         "description_location": "A rule in the rules menu",
         "value_english": "Uniform Striker",
-        "value_translated_automated": "Uniformos puolėjas",
+        "value_translated_automated": "Uniformuotas puolėjas",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1434,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Max žaidėjai",
+        "value_translated_automated": "Maksimalus žaidėjų skaičius",
         "value_translated_native": null
       },
       {
@@ -1151,8 +1457,35 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_cursor",
-        "description_text": "Describes the sensitivity of the cursor",
+        "key": "setting_application_language",
+        "description_text": "Describes what locale is being used for the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Language",
+        "value_translated_automated": "Kalba",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_mods",
+        "description_text": "Resets all mod files and preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset mods",
+        "value_translated_automated": "Atstatyti modifikacijas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_preferences",
+        "description_text": "Resets all player preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset preferences",
+        "value_translated_automated": "Atstatyti nuostatas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_cursor",
+        "description_text": "Describes the speed at which the cursor is moved",
         "description_location": "A setting in the settings menu",
         "value_english": "Cursor sensitivity",
         "value_translated_automated": "Žymeklio jautrumas",
@@ -1160,11 +1493,38 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_zoom",
-        "description_text": "Describes the sensitivity of the zoom",
+        "key": "setting_application_speed_rotation",
+        "description_text": "Describes the speed at which the camera rotates",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Rotation sensitivitiy",
+        "value_translated_automated": "Sukimosi jautrumas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_zoom",
+        "description_text": "Describes the speed at which the camera zooms",
         "description_location": "A setting in the settings menu",
         "value_english": "Zoom sensitivity",
         "value_translated_automated": "Priartinimo jautrumas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_power",
+        "description_text": "Describes if the power text will be shown",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Power text assist",
+        "value_translated_automated": "Galinga teksto asistentė",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_trajectory",
+        "description_text": "Describes what aim assists will be enabled",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Trajectory assist",
+        "value_translated_automated": "Trajektorijos pagalba",
         "value_translated_native": null
       },
       {
@@ -1200,7 +1560,7 @@
         "description_text": "Describes the volume relating to physical game elements",
         "description_location": "A setting in the settings menu",
         "value_english": "Game volume",
-        "value_translated_automated": "Žaidimo apimtis",
+        "value_translated_automated": "Žaidimo garsumas",
         "value_translated_native": null
       },
       {
@@ -1218,7 +1578,7 @@
         "description_text": "Describes the volume scale of all volume types",
         "description_location": "A setting in the settings menu",
         "value_english": "Master volume",
-        "value_translated_automated": "Pagrindinis tūris",
+        "value_translated_automated": "Pagrindinis garsumas",
         "value_translated_native": null
       },
       {
@@ -1227,7 +1587,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "UI apimtis",
+        "value_translated_automated": "UI garsumas",
         "value_translated_native": null
       },
       {
@@ -1246,6 +1606,15 @@
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Fouls",
         "value_translated_automated": "Pražangos",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": "Describes the amount of queens successfully covered",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Karalienės lova",
         "value_translated_native": null
       },
       {
@@ -1272,7 +1641,7 @@
         "description_text": "Describes the amount of pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Sank",
-        "value_translated_automated": "Nušautas Sankas",
+        "value_translated_automated": "Šūvis nuskendo",
         "value_translated_native": null
       },
       {
@@ -1282,6 +1651,15 @@
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
         "value_translated_automated": "Baltasis Sankas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_application",
+        "description_text": "Describes a page of application related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Application",
+        "value_translated_automated": "Paraiška",
         "value_translated_native": null
       },
       {
@@ -1299,7 +1677,7 @@
         "description_text": "Describes a page of board related rules",
         "description_location": "A tab label in the rules menu",
         "value_english": "Board",
-        "value_translated_automated": "lenta",
+        "value_translated_automated": "Valdyba",
         "value_translated_native": null
       },
       {
@@ -1317,7 +1695,7 @@
         "description_text": "Describes a page of carrom related customizations",
         "description_location": "A tab label in the customizations menu",
         "value_english": "Carrom",
-        "value_translated_automated": "Carrom",
+        "value_translated_automated": "Karomas",
         "value_translated_native": null
       },
       {
@@ -1362,7 +1740,7 @@
         "description_text": "Describes a page of general related rules",
         "description_location": "A tab label in the settings menu",
         "value_english": "General",
-        "value_translated_automated": "Generolas",
+        "value_translated_automated": "Bendra",
         "value_translated_native": null
       },
       {
@@ -1376,15 +1754,6 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_pointer",
-        "description_text": "Describes a page of pointer related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Pointer",
-        "value_translated_automated": "Rodyklė",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "tab_presets",
         "description_text": "Describes a page of ruleset related mods",
         "description_location": "A tab label in the mods menu",
@@ -1394,29 +1763,11 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_skin",
-        "description_text": "Describes a page of carrom skin related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Skin",
-        "value_translated_automated": "Oda",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_trail",
-        "description_text": "Describes a page of trail related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Trail",
-        "value_translated_automated": "Takas",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "tab_trainings",
         "description_text": "Describes a page of training related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Trainings",
-        "value_translated_automated": "Treniruotės",
+        "value_translated_automated": "Mokymai",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1785,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "Puolėjas turi pradėti žaisti nuo pradinės linijos.",
+        "value_translated_automated": "Puolėjas privalo pradėti žaidimą nuo pagrindinės linijos.",
         "value_translated_native": null
       },
       {
@@ -1443,7 +1794,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "Čia matome carrom lentą.",
+        "value_translated_automated": "Čia matome karamelės lentą.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Kiekvienas carrom žaidimas prasidės su visomis įmušamomis figūrėlėmis, sugrupuotomis centre. Pirmasis raundo šūvis vadinamas pertraukimu.",
+        "value_translated_automated": "Kiekvienas karamo žaidimas prasideda sudėjus visas taškų skaičiavimo figūrėles į krūvą centre. Pirmasis raundo smūgis vadinamas pertrauka.",
         "value_translated_native": null
       },
       {
@@ -1461,7 +1812,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "Čia botas demonstruoja pertrauką.",
+        "value_translated_automated": "Čia robotas demonstruoja pertrauką.",
         "value_translated_native": null
       },
       {
@@ -1470,7 +1821,7 @@
         "description_text": "Encourages the user to take a shot at a break",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself!",
-        "value_translated_automated": "Išbandykite patys!",
+        "value_translated_automated": "Išbandyk pats!",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1830,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Gerai pataikyta pertrauka turėtų išsklaidyti figūras visoje lentoje. Įgudęs žaidėjas gali suteikti sau pranašumą visam raundui iš geros pertraukos ir vėlesnių smūgių.",
+        "value_translated_automated": "Gerai atliktas smūgis turėtų išsklaidyti figūras po visą lentą. Įgudęs žaidėjas gali įgyti pranašumą visam raundui po gero smūgio ir vėlesnių smūgių.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Kameros kampus galite pakeisti paspausdami 0, 1, 2 arba 3. Rekomenduojama vaizdo kamera yra 1. Galite bet kada perkelti fotoaparatą, laikydami dešinįjį spustelėjimą ir judindami pelę. Daugiau fotoaparato valdiklių rasite valdiklių meniu.",
+        "value_translated_automated": "Kameros kampą galite keisti paspausdami 0, 1, 2 arba 3. Rekomenduojama žaisti kamera yra 1. Kamerą galite bet kada perkelti laikydami nuspaudę dešinįjį pelės mygtuką ir judindami pelę. Daugiau kameros valdiklių rasite valdiklių meniu.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom žaidžiamas braukiant diskus į kitus diskus, kad jie būtų įstumti į skylutes lentoje. Sėkmingai tai padarę, gausite kitą posūkį. Žaidimas baigiasi, kai komandai pritrūksta diskų, į kuriuos reikia nukreipti.",
+        "value_translated_automated": "Karomas žaidžiamas mušant diskus į kitus, kad šie įstumtųsi į skylutes lentoje. Sėkmingai atlikus šį veiksmą, gaunamas dar vienas ėjimas. Žaidimas baigiasi, kai komandai pritrūksta diskų, į kuriuos galėtų šaudyti.",
         "value_translated_native": null
       },
       {
@@ -1506,7 +1857,7 @@
         "description_text": "Defines how chat can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Turn history and chat can be opened by pressing T.",
-        "value_translated_automated": "Turnyrų istoriją ir pokalbį galima atidaryti paspaudus T.",
+        "value_translated_automated": "Ėjimų istoriją ir pokalbius galima atidaryti paspaudus T.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Jūs baigėte mokymo programą! Dabar esate pasirengę žaisti carrom žaidimus su draugais ir robotais.",
+        "value_translated_automated": "Užbaigėte pamoką! Dabar esate pasiruošę žaisti karamelės žaidimus su draugais ir robotais.",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1875,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "Norėdami pradėti fotografuoti, užveskite žymeklį ant pagrindinės linijos.",
+        "value_translated_automated": "Norėdami pradėti šūvį, užveskite žymeklį ant bazinės linijos.",
         "value_translated_native": null
       },
       {
@@ -1533,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Nuvilkite žymeklį nuo tikslo ir toliau laikykite nuspaudę kairįjį spustelėjimą.",
+        "value_translated_automated": "Nuvilkite žymeklį nuo taikinio, laikydami kairįjį pelės klavišą.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Spustelėkite kairiuoju pelės klavišu ir palaikykite, kad patvirtintumėte puolėjo vietą.",
+        "value_translated_automated": "Spustelėkite kairįjį pelės mygtuką ir palaikykite, kad patvirtintumėte puolėjo poziciją.",
         "value_translated_native": null
       },
       {
@@ -1551,7 +1902,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "Pauzės meniu yra programos nustatymai ir valdikliai, jį galima bet kada pasiekti paspaudus pabėgimo klavišą.",
+        "value_translated_automated": "Pauzės meniu yra programos nustatymai ir valdikliai, kuriuos galima bet kada pasiekti paspaudus klavišą „Escape“.",
         "value_translated_native": null
       },
       {
@@ -1560,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "Standartinėse carrom lentose yra keturios skylės, vadinamos kišenėmis, kiekviename kampe.",
+        "value_translated_automated": "Standartinės „carrom“ lentos kiekviename kampe turi keturias skyles, vadinamas kišenėmis.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1920,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Šiose kišenėse norite paskandinti diskus. Stebėkite, kaip žaidžia mūsų botas.",
+        "value_translated_automated": "Šiose kišenėse taikotės įsmeigti diskus. Stebėkite, kaip žaidžia mūsų robotas.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Profesionalus režimas reikalauja, kad karalienė būtų įdėta į kišenę, kad užbaigtų raundą. Norėdami įmušti karalienę, pirmiausia turite įmušti karalienę, o tada sėkmingai įmušti kitą šūvį, kad padengtumėte karalienę. Jei to nepadarysite, karalienė bus grąžinta į lentą.",
+        "value_translated_automated": "Profesionaliame režime raundui užbaigti reikia įmušti valdovą. Norėdami gauti valdovą, pirmiausia turite įmušti valdovą, o tada sėkmingai įmušti kitą smūgį, kad ją uždengtumėte. Jei to nepadarysite, valdovė grįš į lentą.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Štai scenarijus. Stebėkite roboto kišenę ir uždenkite karalienę.",
+        "value_translated_automated": "Štai scenarijus. Stebėkite roboto kišenę ir tada uždenkite valdovę.",
         "value_translated_native": null
       },
       {
@@ -1596,7 +1947,7 @@
         "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself. First the queen, then the white piece.",
-        "value_translated_automated": "Išbandykite patys. Pirmiausia karalienė, tada balta dalis.",
+        "value_translated_automated": "Išbandyk pats. Pirma valdovė, tada balta figūra.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1956,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "Taškų režimas rekomenduojamas poroms pirmųjų žaidimų. Tai suteikia daug galimybių pelnyti taškus.",
+        "value_translated_automated": "Pirmiesiems poros žaidimų rekomenduojamas taškų režimas. Jis suteikia daug galimybių pelnyti taškų.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1965,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "Atleiskite kairįjį spustelėjimą, kad puolėjas pradėtų žaisti.",
+        "value_translated_automated": "Atleiskite kairįjį pelės klavišą, kad įjungtumėte puolėją.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Profesionalūs ir diskų rinkinio režimai leis jums tik siekti surinkti savo komandos spalvą, o taškų režimas priskiria skirtingas taškų vertes kiekvienam skirtingos spalvos kūriniui. Paprastai raudonos spalvos gabalas yra labai vertingas ir vadinamas karaliene.",
+        "value_translated_automated": "Profesionaliame ir diskų kaupimo režimuose sieksite tik įmušti savo komandos spalvos figūrėlę, o taškų režime kiekvienai skirtingos spalvos figūrėlei priskiriamos skirtingos taškų vertės. Paprastai raudonos spalvos figūrėlė yra didelės vertės ir vadinama valdove.",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1992,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "Mėgaukitės Carrom Slam! ~Dinahsoft komanda",
+        "value_translated_automated": "Mėgaukitės „Carrom Slam“! ~„Dinahsoft“ komanda",
         "value_translated_native": null
       },
       {
@@ -1650,7 +2001,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "Diskas, naudojamas žaidimui pradėti, vadinamas puolėju.",
+        "value_translated_automated": "Diskas, naudojamas žaidimui pradėti, vadinamas mušamuoju.",
         "value_translated_native": null
       },
       {
@@ -1659,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Dabar pabandykime paskandinti savo pirmąjį kadrą. Pirmiausia stebėkite robotą.",
+        "value_translated_automated": "Dabar pabandykime pataikyti į pirmąjį metimą. Pirmiausia stebėkite robotą.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +2019,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Dabar tavo eilė. Pataikykite tą baltą gabalėlį į šalia esančią kišenę, kaip ir botą.",
+        "value_translated_automated": "Dabar tavo eilė. Įmušk tą baltą gabalėlį į šalia esančią kišenę, kaip ir robotą.",
         "value_translated_native": null
       },
       {
@@ -1677,106 +2028,232 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Carrom Slam! yra carrom simuliatoriaus žaidimas. Ši pamoka išmokys jus valdyti ir žaisti „carrom“.",
+        "value_translated_automated": "„Carrom Slam!“ yra karamelės simuliatoriaus žaidimas. Šioje pamokoje sužinosite, kaip valdyti karamelę ir kaip žaisti.",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_1",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 1",
-        "value_translated_automated": "Kamera 1",
+        "key": "button_events",
+        "description_text": "Views the events log and chat",
+        "description_location": "A button on the focused menu",
+        "value_english": "Events",
+        "value_translated_automated": "Renginiai",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_2",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 2",
-        "value_translated_automated": "2 kamera",
+        "key": "button_pause",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the focused menu",
+        "value_english": "Pause",
+        "value_translated_automated": "Pauzė",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_3",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 3",
-        "value_translated_automated": "Kamera 3",
+        "key": "button_return",
+        "description_text": "Returns to the previous menu",
+        "description_location": "A button on many pages, including the settings menu",
+        "value_english": "Return",
+        "value_translated_automated": "Grąžinti",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_4",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 4",
-        "value_translated_automated": "Kamera 4",
+        "key": "button_scoreboard",
+        "description_text": "Views the scoreboard",
+        "description_location": "A button on the focused menu",
+        "value_english": "Scoreboard",
+        "value_translated_automated": "Rezultatų suvestinė",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_next",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Next Page",
-        "value_translated_automated": "Kitas puslapis",
+        "key": "control_action_escape",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Escape",
+        "value_translated_automated": "Pabėgimas",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_prev",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Previous Page",
-        "value_translated_automated": "Ankstesnis puslapis",
+        "key": "control_axis_camera_zoom_negative",
+        "description_text": "Zooms the camera further to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom out",
+        "value_translated_automated": "Atitolinti",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_joined",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has joined the game.",
-        "value_translated_automated": "{0} prisijungė prie žaidimo.",
+        "key": "control_axis_camera_zoom_positive",
+        "description_text": "Zooms the camera closer to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom in",
+        "value_translated_automated": "Priartinti",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_left",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has left the game.",
-        "value_translated_automated": "{0} išėjo iš žaidimo.",
+        "key": "control_vector_camera_move_backward",
+        "description_text": "Moves the camera backward from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera backward",
+        "value_translated_automated": "Perkelkite kamerą atgal",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_count_pieces",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Piece count",
-        "value_translated_automated": "Vienetų skaičius",
+        "key": "control_vector_camera_move_down",
+        "description_text": "Moves the camera down from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera down",
+        "value_translated_automated": "Nuleiskite kamerą žemyn",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_file_training",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Training",
-        "value_translated_automated": "Treniruotės",
+        "key": "control_vector_camera_move_forward",
+        "description_text": "Moves the camera forward towards the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera forward",
+        "value_translated_automated": "Perkelkite kamerą į priekį",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "stat_queen_covered",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Queen Covered",
-        "value_translated_automated": "Padengta karaliene",
+        "key": "control_vector_camera_move_left",
+        "description_text": "Moves the camera left from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera left",
+        "value_translated_automated": "Perkelti kamerą į kairę",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_right",
+        "description_text": "Moves the camera right from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera right",
+        "value_translated_automated": "Perkelti kamerą į dešinę",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_up",
+        "description_text": "Moves the camera up from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera up",
+        "value_translated_automated": "Pakelkite kamerą aukštyn",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_down",
+        "description_text": "Moves the pointer down from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer down",
+        "value_translated_automated": "Perkelti žymeklį žemyn",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_left",
+        "description_text": "Moves the pointer left from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer left",
+        "value_translated_automated": "Perkelti žymeklį į kairę",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_right",
+        "description_text": "Moves the pointer right from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer right",
+        "value_translated_automated": "Perkelti žymeklį į dešinę",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_up",
+        "description_text": "Moves the pointer up from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer up",
+        "value_translated_automated": "Perkelti žymeklį aukštyn",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_pregame",
+        "description_text": "Describes the state of the game as not started yet, before the game",
+        "description_location": "A label in the mini scoreboard",
+        "value_english": "Pregame",
+        "value_translated_automated": "Prieš rungtynes",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_combo",
+        "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has combo covered the queen!",
+        "value_translated_automated": "Komanda {0} {1} atliko kombinaciją, padengusią valdovę!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_discpool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc pool",
+        "value_translated_automated": "Diskų baseinas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_power",
+        "description_text": "Choice of showing exact power on striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power text",
+        "value_translated_automated": "Galios tekstas",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_trajectory",
+        "description_text": "Choice of showing piece trajectory",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Trajectory",
+        "value_translated_automated": "Trajektorija",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_invert_break",
+        "description_text": "Choice of whether to invert the starting break",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Invert break chance",
+        "value_translated_automated": "Apverskite pertraukos tikimybę",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_amount",
+        "description_text": "Describes the amount of bots that spawn by default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default bot amount",
+        "value_translated_automated": "Numatytasis roboto kiekis",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_difficulty",
+        "description_text": "Describes the default new bot difficulty",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default difficulty",
+        "value_translated_automated": "Numatytasis sunkumas",
         "value_translated_native": null
       }
     ]

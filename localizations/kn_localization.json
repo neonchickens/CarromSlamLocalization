@@ -44,6 +44,15 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_delete_selected",
+        "description_text": "Deletes all mods that are currently selected",
+        "description_location": "A button on the mods menu",
+        "value_english": "Delete selected",
+        "value_translated_automated": "ಆಯ್ಕೆ ಮಾಡಿರುವುದನ್ನು ಅಳಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "button_invite",
         "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
         "description_location": "A button on the players menu",
@@ -57,7 +66,7 @@
         "description_text": "Joins the server of the selected lobby",
         "description_location": "A button on the browser menu",
         "value_english": "Join",
-        "value_translated_automated": "ಸೇರಿಕೊಳ್ಳಿ",
+        "value_translated_automated": "ಸೇರಿ",
         "value_translated_native": null
       },
       {
@@ -66,7 +75,7 @@
         "description_text": "Views the file explorer menu, allowing the user to select an available file",
         "description_location": "A button on the customization menu",
         "value_english": "Load File",
-        "value_translated_automated": "ಫೈಲ್ ಅನ್ನು ಲೋಡ್ ಮಾಡಿ",
+        "value_translated_automated": "ಫೈಲ್ ಲೋಡ್ ಮಾಡಿ",
         "value_translated_native": null
       },
       {
@@ -75,7 +84,7 @@
         "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
         "description_location": "A button on the landing menu",
         "value_english": "Mods",
-        "value_translated_automated": "ಮೋಡ್ಸ್",
+        "value_translated_automated": "ಮಾಡ್‌ಗಳು",
         "value_translated_native": null
       },
       {
@@ -102,7 +111,16 @@
         "description_text": "Quits the server/application",
         "description_location": "A button on the landing menu",
         "value_english": "Quit",
-        "value_translated_automated": "ತ್ಯಜಿಸು",
+        "value_translated_automated": "ತ್ಯಜಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_randomize",
+        "description_text": "Randomizes all customization features",
+        "description_location": "A button on the customization menu",
+        "value_english": "Randomize",
+        "value_translated_automated": "ಯಾದೃಚ್ಛಿಕಗೊಳಿಸಿ",
         "value_translated_native": null
       },
       {
@@ -116,11 +134,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_reset",
+        "description_text": "Resets the relevant data",
+        "description_location": "A button on the settings menu",
+        "value_english": "Reset",
+        "value_translated_automated": "ಮರುಹೊಂದಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "button_resume",
         "description_text": "Removes the pause menu, focusing on the play area",
         "description_location": "A button on the pause menu",
         "value_english": "Resume",
-        "value_translated_automated": "ಪುನರಾರಂಭಿಸಿ",
+        "value_translated_automated": "ಪುನರಾರಂಭ",
         "value_translated_native": null
       },
       {
@@ -179,6 +206,42 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": "Sets the camera view to the overhead preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 1",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾ 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": "Sets the camera view to the low preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 2",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾ 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": "Sets the camera view to the isometric preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 3",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾ 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": "Sets the camera view to the far preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 4",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾ 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "control_action_camera_next",
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
@@ -206,6 +269,33 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": "Jumps to the next default menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Page",
+        "value_translated_automated": "ಮುಂದಿನ ಪುಟ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Page",
+        "value_translated_automated": "ಹಿಂದಿನ ಪುಟ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_pointer_reset",
+        "description_text": "Resets the pointer to the baseline",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Reset Pointer",
+        "value_translated_automated": "ಪಾಯಿಂಟರ್ ಅನ್ನು ಮರುಹೊಂದಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "control_action_primary",
         "description_text": "Used to confirm shot placement and power",
         "description_location": "A rebindable action in the controls tab of the settings menu",
@@ -219,7 +309,7 @@
         "description_text": "Used to reset pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Quaternary Action",
-        "value_translated_automated": "ಕ್ವಾಟರ್ನರಿ ಕ್ರಿಯೆ",
+        "value_translated_automated": "ಕ್ವಾಟರ್ನರಿ ಆಕ್ಷನ್",
         "value_translated_native": null
       },
       {
@@ -237,7 +327,7 @@
         "description_text": "Used to cancel shots",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Secondary Action",
-        "value_translated_automated": "ದ್ವಿತೀಯಕ ಕ್ರಿಯೆ",
+        "value_translated_automated": "ದ್ವಿತೀಯ ಕ್ರಿಯೆ",
         "value_translated_native": null
       },
       {
@@ -255,7 +345,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "ತೃತೀಯ ಕ್ರಿಯೆ",
+        "value_translated_automated": "ತೃತೀಯಕ ಕ್ರಿಯೆ",
         "value_translated_native": null
       },
       {
@@ -264,7 +354,7 @@
         "description_text": "Toggles the player pregame readiness",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
-        "value_translated_automated": "ಟಾಗಲ್ ಸಿದ್ಧವಾಗಿದೆ",
+        "value_translated_automated": "ಟಾಗಲ್ ರೆಡಿ",
         "value_translated_native": null
       },
       {
@@ -274,6 +364,15 @@
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Pointer Color",
         "value_translated_automated": "ಪಾಯಿಂಟರ್ ಬಣ್ಣ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_power",
+        "description_text": "Changes the color of the player's power text",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Power Text Color",
+        "value_translated_automated": "ಪವರ್ ಪಠ್ಯ ಬಣ್ಣ",
         "value_translated_native": null
       },
       {
@@ -300,7 +399,7 @@
         "description_text": "Changes the color of the player's trail",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Trail Color",
-        "value_translated_automated": "ಟ್ರಯಲ್ ಬಣ್ಣ",
+        "value_translated_automated": "ಹಾದಿಯ ಬಣ್ಣ",
         "value_translated_native": null
       },
       {
@@ -336,7 +435,34 @@
         "description_text": "Changes the secondary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Texture",
-        "value_translated_automated": "ಸೆಕೆಂಡರಿ ಟೆಕ್ಸ್ಚರ್",
+        "value_translated_automated": "ದ್ವಿತೀಯ ವಿನ್ಯಾಸ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_apartment",
+        "description_text": "Represents an enironment representing a nice apartment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Apartment",
+        "value_translated_automated": "ಅಪಾರ್ಟ್ಮೆಂಟ್",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_empty",
+        "description_text": "Represents an enironment representing an empty room",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Empty",
+        "value_translated_automated": "ಖಾಲಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_stadium",
+        "description_text": "Represents an enironment representing stadium environment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Stadium",
+        "value_translated_automated": "ಕ್ರೀಡಾಂಗಣ",
         "value_translated_native": null
       },
       {
@@ -372,7 +498,7 @@
         "description_text": "Describes the amount of computer controlled players present in the lobby",
         "description_location": "A label in the pregame menu",
         "value_english": "Bots",
-        "value_translated_automated": "ಬಾಟ್ಗಳು",
+        "value_translated_automated": "ಬಾಟ್‌ಗಳು",
         "value_translated_native": null
       },
       {
@@ -390,7 +516,7 @@
         "description_text": "Describes the score debt owed by a particular team",
         "description_location": "A label in the Professional Carrom game mode menu",
         "value_english": "Team {0} owes {1} point(s)",
-        "value_translated_automated": "{0} ತಂಡವು {1} ಪಾಯಿಂಟ್(ಗಳು) ಬದ್ಧವಾಗಿದೆ",
+        "value_translated_automated": "{0} ತಂಡವು {1} ಅಂಕಗಳನ್ನು ಬಾಕಿ ಉಳಿಸಿಕೊಂಡಿದೆ.",
         "value_translated_native": null
       },
       {
@@ -404,11 +530,38 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_enable",
+        "description_text": "Enables the mods within the game",
+        "description_location": "A label in the mods menu",
+        "value_english": "Enable",
+        "value_translated_automated": "ಸಕ್ರಿಯಗೊಳಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_green",
         "description_text": "Describes the value of green used in the RGB color",
         "description_location": "A label in the color customization setting",
         "value_english": "Green",
         "value_translated_automated": "ಹಸಿರು",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_complete",
+        "description_text": "Displays that this language has complete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is complete or almost complete.",
+        "value_translated_automated": "ಈ ಸ್ಥಳ ಆಯ್ಕೆಯು ಪೂರ್ಣಗೊಂಡಿದೆ ಅಥವಾ ಬಹುತೇಕ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_incomplete",
+        "description_text": "Displays that this language has incomplete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
+        "value_translated_automated": "ಈ ಲೊಕೇಲ್ ಆಯ್ಕೆಯು ಅಪೂರ್ಣವಾಗಿದೆ, ತಪ್ಪುಗಳಿಗಾಗಿ ನಾವು ಕ್ಷಮೆಯಾಚಿಸುತ್ತೇವೆ. ನೀವು ಭಾಷಾಂತರಿಸಲು ಸಹಾಯ ಮಾಡಲು ಸಾಧ್ಯವಾದರೆ, ನಾವು ತುಂಬಾ ಕೃತಜ್ಞರಾಗಿರುತ್ತೇವೆ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ದಯವಿಟ್ಟು ನಮ್ಮ ಡಿಸ್ಕಾರ್ಡ್‌ಗೆ ಭೇಟಿ ನೀಡಿ.",
         "value_translated_native": null
       },
       {
@@ -467,6 +620,15 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round",
+        "description_text": "Displays what round the current context is",
+        "description_location": "A label on the mini scoreboard",
+        "value_english": "Round {0}",
+        "value_translated_automated": "ಸುತ್ತು {0}",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_round_count",
         "description_text": "Describes an amount of rounds",
         "description_location": "A label in the intro menu",
@@ -489,7 +651,7 @@
         "description_text": "Describes that the scoreboard represents individual player statistics",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Player Scoreboard",
-        "value_translated_automated": "ಆಟಗಾರ ಸ್ಕೋರ್ಬೋರ್ಡ್",
+        "value_translated_automated": "ಆಟಗಾರರ ಸ್ಕೋರ್‌ಬೋರ್ಡ್",
         "value_translated_native": null
       },
       {
@@ -498,7 +660,16 @@
         "description_text": "Describes that the scoreboard represents team scoring",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Team Scoreboard",
-        "value_translated_automated": "ತಂಡದ ಸ್ಕೋರ್ಬೋರ್ಡ್",
+        "value_translated_automated": "ತಂಡದ ಸ್ಕೋರ್‌ಬೋರ್ಡ್",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_select",
+        "description_text": "Selects the mods, which may then be deleted",
+        "description_location": "A label in the mods menu",
+        "value_english": "Select",
+        "value_translated_automated": "ಆಯ್ಕೆ ಮಾಡಿ",
         "value_translated_native": null
       },
       {
@@ -539,6 +710,24 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_waiting_for_input",
+        "description_text": "Shows the user that we are waiting to capture their input for the new binding",
+        "description_location": "A label that shows when the user is rebinding a control in the settings menu",
+        "value_english": "Waiting for input",
+        "value_translated_automated": "ಇನ್‌ಪುಟ್‌ಗಾಗಿ ಕಾಯಲಾಗುತ್ತಿದೆ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_break_setup",
+        "description_text": "States what break file has been used",
+        "description_location": "An event message from the system",
+        "value_english": "Break {0} spawned.",
+        "value_translated_automated": "ಬ್ರೇಕ್ {0} ಸ್ಪಾನ್ ಆಗಿದೆ.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_game_end",
         "description_text": "States the game has ended",
         "description_location": "An event message from the system",
@@ -557,11 +746,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": "States a player has joined the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} ಆಟಕ್ಕೆ ಸೇರಿದ್ದಾರೆ.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": "States a player has left the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ಆಟವನ್ನು ತೊರೆದಿದ್ದಾರೆ.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_queen_covered",
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
-        "value_translated_automated": "{0} {1} ತಂಡವು ರಾಣಿಯನ್ನು ಆವರಿಸಿದೆ",
+        "value_translated_automated": "{0} {1} ತಂಡವು ರಾಣಿಯನ್ನು ಆವರಿಸಿದೆ.",
         "value_translated_native": null
       },
       {
@@ -570,7 +777,25 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "{0} {1} ತಂಡವು ಈಗ ಕವರ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಬೇಕು",
+        "value_translated_automated": "{0} {1} ತಂಡವು ಈಗ ಕವರ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಬೇಕು.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_debt",
+        "description_text": "States that the pieces replaced were from previous debt",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing owed debt to the board",
+        "value_translated_automated": "ಮಂಡಳಿಗೆ ಬಾಕಿ ಇರುವ ಸಾಲವನ್ನು ಬದಲಾಯಿಸುವುದು",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_foul",
+        "description_text": "States that the pieces replaced were from a foul",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing due to foul",
+        "value_translated_automated": "ದೋಷದಿಂದಾಗಿ ಬದಲಾಯಿಸಲಾಗುತ್ತಿದೆ",
         "value_translated_native": null
       },
       {
@@ -579,7 +804,7 @@
         "description_text": "States the round has ended",
         "description_location": "An event message from the system",
         "value_english": "Round {0} has ended",
-        "value_translated_automated": "ಸುತ್ತು {0} ಕೊನೆಗೊಂಡಿದೆ",
+        "value_translated_automated": "{0} ಸುತ್ತು ಮುಗಿದಿದೆ.",
         "value_translated_native": null
       },
       {
@@ -588,7 +813,7 @@
         "description_text": "States the round has started",
         "description_location": "An event message from the system",
         "value_english": "Round {0} is starting!",
-        "value_translated_automated": "ಸುತ್ತು {0} ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ!",
+        "value_translated_automated": "{0} ನೇ ಸುತ್ತು ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ!",
         "value_translated_native": null
       },
       {
@@ -606,7 +831,16 @@
         "description_text": "States that the player has missed",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has missed",
-        "value_translated_automated": "{0} {1} ತಂಡ ತಪ್ಪಿಸಿಕೊಂಡಿದೆ",
+        "value_translated_automated": "{0} {1} ತಂಡವು ತಪ್ಪಿಸಿಕೊಂಡಿದೆ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_round_end",
+        "description_text": "States that the player has ended the round on this turn",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has ended the round",
+        "value_translated_automated": "{0} {1} ತಂಡವು ಸುತ್ತನ್ನು ಕೊನೆಗೊಳಿಸಿದೆ.",
         "value_translated_native": null
       },
       {
@@ -615,7 +849,16 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "{0} {1} ತಂಡವು ತಮ್ಮ ಹೊಡೆತವನ್ನು ಮುಳುಗಿಸಿದೆ",
+        "value_translated_automated": "{0} {1} ತಂಡವು ತಮ್ಮ ಹೊಡೆತವನ್ನು ಹೊಡೆದಿದೆ.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_all",
+        "description_text": "An option that fulfils all relevant configurations",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "All",
+        "value_translated_automated": "ಎಲ್ಲವೂ",
         "value_translated_native": null
       },
       {
@@ -625,6 +868,42 @@
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Anywhere",
         "value_translated_automated": "ಎಲ್ಲಿಯಾದರೂ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_direction_only",
+        "description_text": "An assist option that only shows the direction",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction only",
+        "value_translated_automated": "ನಿರ್ದೇಶನ ಮಾತ್ರ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_direction",
+        "description_text": "An assist option that only shows the direction and power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction and power",
+        "value_translated_automated": "ನಿರ್ದೇಶನ ಮತ್ತು ಶಕ್ತಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_only",
+        "description_text": "An assist option that only shows the power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Power only",
+        "value_translated_automated": "ವಿದ್ಯುತ್ ಮಾತ್ರ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_trajectory_only",
+        "description_text": "An assist option that only shows the trajectory",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Trajectory only",
+        "value_translated_automated": "ಪಥ ಮಾತ್ರ",
         "value_translated_native": null
       },
       {
@@ -669,7 +948,7 @@
         "description_text": "Describes the ability to place your striker anywhere on the baseline",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Casual",
-        "value_translated_automated": "ಕ್ಯಾಶುಯಲ್",
+        "value_translated_automated": "ಕ್ಯಾಶುವಲ್",
         "value_translated_native": null
       },
       {
@@ -692,20 +971,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "option_disc_pool",
-        "description_text": "Describes the disc pool game mode",
-        "description_location": "An option in a drop down menu in the rules menu",
-        "value_english": "Disc Pool",
-        "value_translated_automated": "ಡಿಸ್ಕ್ ಪೂಲ್",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "option_friends",
         "description_text": "Describes the friends only configuration",
         "description_location": "An option in a drop down menu in the server menu",
         "value_english": "Friends",
         "value_translated_automated": "ಸ್ನೇಹಿತರು",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_none",
+        "description_text": "Describes an option where none of the option are fulfilled",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "None",
+        "value_translated_automated": "ಯಾವುದೂ ಇಲ್ಲ",
         "value_translated_native": null
       },
       {
@@ -759,7 +1038,7 @@
         "description_text": "Describes the sandbox game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Sandbox",
-        "value_translated_automated": "ಸ್ಯಾಂಡ್ಬಾಕ್ಸ್",
+        "value_translated_automated": "ಸ್ಯಾಂಡ್‌ಬಾಕ್ಸ್",
         "value_translated_native": null
       },
       {
@@ -813,7 +1092,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "ವಾಲ್ ಪಾಕೆಟ್ ಇನ್ಸೆಟ್",
+        "value_translated_automated": "ಗೋಡೆಯ ಪಾಕೆಟ್ ಒಳಸೇರಿಸುವಿಕೆ",
         "value_translated_native": null
       },
       {
@@ -822,7 +1101,7 @@
         "description_text": "Choice of whether to round off the corner around the pocket",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket rounded",
-        "value_translated_automated": "ಗೋಡೆಯ ಪಾಕೆಟ್ ದುಂಡಾಗಿರುತ್ತದೆ",
+        "value_translated_automated": "ಗೋಡೆಯ ಪಾಕೆಟ್ ದುಂಡಾದ",
         "value_translated_native": null
       },
       {
@@ -840,7 +1119,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "ನೆಗೆಯುವ ತುಂಡು",
+        "value_translated_automated": "ಪುಟಿಯುವ ತುಣುಕು",
         "value_translated_native": null
       },
       {
@@ -858,7 +1137,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "ನೆಗೆಯುವ ಗೋಡೆ",
+        "value_translated_automated": "ಪುಟಿಯುವ ಗೋಡೆ",
         "value_translated_native": null
       },
       {
@@ -867,7 +1146,7 @@
         "description_text": "Choice of max points to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Point maximum",
-        "value_translated_automated": "ಪಾಯಿಂಟ್ ಗರಿಷ್ಠ",
+        "value_translated_automated": "ಗರಿಷ್ಠ ಅಂಕ",
         "value_translated_native": null
       },
       {
@@ -876,7 +1155,16 @@
         "description_text": "Choice of max rounds to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Round maximum",
-        "value_translated_automated": "ಸುತ್ತಿನಲ್ಲಿ ಗರಿಷ್ಠ",
+        "value_translated_automated": "ಸುತ್ತಿನ ಗರಿಷ್ಠ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": "Choices of how many pieces are present per team",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Piece count",
+        "value_translated_automated": "ತುಣುಕುಗಳ ಸಂಖ್ಯೆ",
         "value_translated_native": null
       },
       {
@@ -885,7 +1173,7 @@
         "description_text": "Choice of how many black pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces black",
-        "value_translated_automated": "ತುಂಡುಗಳು ಕಪ್ಪು",
+        "value_translated_automated": "ಕಪ್ಪು ಬಣ್ಣದ ತುಂಡುಗಳು",
         "value_translated_native": null
       },
       {
@@ -894,7 +1182,7 @@
         "description_text": "Choice of how many red pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces red",
-        "value_translated_automated": "ತುಂಡುಗಳು ಕೆಂಪು",
+        "value_translated_automated": "ಕೆಂಪು ತುಂಡುಗಳು",
         "value_translated_native": null
       },
       {
@@ -912,7 +1200,7 @@
         "description_text": "Choice of how many white pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces white",
-        "value_translated_automated": "ತುಂಡುಗಳು ಬಿಳಿ",
+        "value_translated_automated": "ಬಿಳಿ ಬಣ್ಣದ ತುಂಡುಗಳು",
         "value_translated_native": null
       },
       {
@@ -939,7 +1227,16 @@
         "description_text": "Choice of how far the baseline is from the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Distance baseline",
-        "value_translated_automated": "ದೂರದ ಬೇಸ್ಲೈನ್",
+        "value_translated_automated": "ಅಂತರದ ಮೂಲರೇಖೆ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_environment",
+        "description_text": "Choice of what 3D environment is presented",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Environment",
+        "value_translated_automated": "ಪರಿಸರ",
         "value_translated_native": null
       },
       {
@@ -949,6 +1246,15 @@
         "description_location": "A rule in the rules menu",
         "value_english": "Break",
         "value_translated_automated": "ಬ್ರೇಕ್",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": "Choice of what training file to load",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "ತರಬೇತಿ",
         "value_translated_native": null
       },
       {
@@ -993,7 +1299,7 @@
         "description_text": "Choice of the mass of uniform strikers",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass striker",
-        "value_translated_automated": "ಮಾಸ್ ಸ್ಟ್ರೈಕರ್",
+        "value_translated_automated": "ಸಾಮೂಹಿಕ ಸ್ಟ್ರೈಕರ್",
         "value_translated_native": null
       },
       {
@@ -1047,7 +1353,7 @@
         "description_text": "Choice of how many points a team piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for piece",
-        "value_translated_automated": "ತುಂಡುಗಾಗಿ ಅಂಕಗಳು",
+        "value_translated_automated": "ಒಂದು ತುಣುಕಿಗೆ ಅಂಕಗಳು",
         "value_translated_native": null
       },
       {
@@ -1074,7 +1380,7 @@
         "description_text": "Choice of how large a board is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Board",
-        "value_translated_automated": "ಗಾತ್ರದ ಬೋರ್ಡ್",
+        "value_translated_automated": "ಗಾತ್ರ ಬೋರ್ಡ್",
         "value_translated_native": null
       },
       {
@@ -1083,7 +1389,7 @@
         "description_text": "Choice of how large a piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Piece",
-        "value_translated_automated": "ಗಾತ್ರದ ತುಂಡು",
+        "value_translated_automated": "ಗಾತ್ರದ ತುಣುಕು",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1407,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "ಗಾತ್ರದ ಸ್ಟ್ರೈಕರ್",
+        "value_translated_automated": "ಗಾತ್ರ ಸ್ಟ್ರೈಕರ್",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1416,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "ಟೈಮರ್ ಅನ್ನು ತಿರುಗಿಸಿ",
+        "value_translated_automated": "ಟೈಮರ್ ತಿರುಗಿಸಿ",
         "value_translated_native": null
       },
       {
@@ -1119,7 +1425,7 @@
         "description_text": "Choice of enforcing a uniform striker across all players",
         "description_location": "A rule in the rules menu",
         "value_english": "Uniform Striker",
-        "value_translated_automated": "ಏಕರೂಪದ ಸ್ಟ್ರೈಕರ್",
+        "value_translated_automated": "ಯೂನಿಫಾರ್ಮ್ ಸ್ಟ್ರೈಕರ್",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1434,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "ಗರಿಷ್ಠ ಆಟಗಾರರು",
+        "value_translated_automated": "ಮ್ಯಾಕ್ಸ್ ಪ್ಲೇಯರ್ಸ್",
         "value_translated_native": null
       },
       {
@@ -1151,8 +1457,35 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_cursor",
-        "description_text": "Describes the sensitivity of the cursor",
+        "key": "setting_application_language",
+        "description_text": "Describes what locale is being used for the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Language",
+        "value_translated_automated": "ಭಾಷೆ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_mods",
+        "description_text": "Resets all mod files and preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset mods",
+        "value_translated_automated": "ಮೋಡ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_preferences",
+        "description_text": "Resets all player preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset preferences",
+        "value_translated_automated": "ಆದ್ಯತೆಗಳನ್ನು ಮರುಹೊಂದಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_cursor",
+        "description_text": "Describes the speed at which the cursor is moved",
         "description_location": "A setting in the settings menu",
         "value_english": "Cursor sensitivity",
         "value_translated_automated": "ಕರ್ಸರ್ ಸೂಕ್ಷ್ಮತೆ",
@@ -1160,11 +1493,38 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_zoom",
-        "description_text": "Describes the sensitivity of the zoom",
+        "key": "setting_application_speed_rotation",
+        "description_text": "Describes the speed at which the camera rotates",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Rotation sensitivitiy",
+        "value_translated_automated": "ತಿರುಗುವಿಕೆಯ ಸೂಕ್ಷ್ಮತೆ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_zoom",
+        "description_text": "Describes the speed at which the camera zooms",
         "description_location": "A setting in the settings menu",
         "value_english": "Zoom sensitivity",
         "value_translated_automated": "ಜೂಮ್ ಸೂಕ್ಷ್ಮತೆ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_power",
+        "description_text": "Describes if the power text will be shown",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Power text assist",
+        "value_translated_automated": "ಪವರ್ ಟೆಕ್ಸ್ಟ್ ಅಸಿಸ್ಟ್",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_trajectory",
+        "description_text": "Describes what aim assists will be enabled",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Trajectory assist",
+        "value_translated_automated": "ಪಥ ಸಹಾಯ",
         "value_translated_native": null
       },
       {
@@ -1209,7 +1569,7 @@
         "description_text": "Describes the volume relating to game mode events",
         "description_location": "A setting in the settings menu",
         "value_english": "Game mode volume",
-        "value_translated_automated": "ಆಟದ ಮೋಡ್ ಪರಿಮಾಣ",
+        "value_translated_automated": "ಆಟದ ಮೋಡ್ ವಾಲ್ಯೂಮ್",
         "value_translated_native": null
       },
       {
@@ -1218,7 +1578,7 @@
         "description_text": "Describes the volume scale of all volume types",
         "description_location": "A setting in the settings menu",
         "value_english": "Master volume",
-        "value_translated_automated": "ಮಾಸ್ಟರ್ ಪರಿಮಾಣ",
+        "value_translated_automated": "ಮಾಸ್ಟರ್ ವಾಲ್ಯೂಮ್",
         "value_translated_native": null
       },
       {
@@ -1227,7 +1587,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "UI ಪರಿಮಾಣ",
+        "value_translated_automated": "UI ವಾಲ್ಯೂಮ್",
         "value_translated_native": null
       },
       {
@@ -1236,7 +1596,7 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "ಕಪ್ಪು ಸಂಕ್",
+        "value_translated_automated": "ಬ್ಲ್ಯಾಕ್ ಸ್ಯಾಂಕ್",
         "value_translated_native": null
       },
       {
@@ -1250,11 +1610,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": "Describes the amount of queens successfully covered",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Covered",
+        "value_translated_automated": "ರಾಣಿ ಆವರಿಸಲ್ಪಟ್ಟಿದೆ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "stat_queen_sank",
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "ರಾಣಿ ಸಂಕ್",
+        "value_translated_automated": "ರಾಣಿ ಸ್ಯಾಂಕ್",
         "value_translated_native": null
       },
       {
@@ -1263,7 +1632,7 @@
         "description_text": "Describes the amount of strikers shot by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Attempt",
-        "value_translated_automated": "ಶಾಟ್ ಪ್ರಯತ್ನ",
+        "value_translated_automated": "ಗುಂಡು ಹಾರಿಸುವ ಪ್ರಯತ್ನ",
         "value_translated_native": null
       },
       {
@@ -1281,7 +1650,16 @@
         "description_text": "Describes the amount of white pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
-        "value_translated_automated": "ವೈಟ್ ಸ್ಯಾಂಕ್",
+        "value_translated_automated": "ಬಿಳಿ ಸ್ಯಾಂಕ್",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_application",
+        "description_text": "Describes a page of application related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Application",
+        "value_translated_automated": "ಅಪ್ಲಿಕೇಶನ್",
         "value_translated_native": null
       },
       {
@@ -1362,7 +1740,7 @@
         "description_text": "Describes a page of general related rules",
         "description_location": "A tab label in the settings menu",
         "value_english": "General",
-        "value_translated_automated": "ಸಾಮಾನ್ಯ",
+        "value_translated_automated": "ಜನರಲ್",
         "value_translated_native": null
       },
       {
@@ -1376,38 +1754,11 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_pointer",
-        "description_text": "Describes a page of pointer related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Pointer",
-        "value_translated_automated": "ಪಾಯಿಂಟರ್",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "tab_presets",
         "description_text": "Describes a page of ruleset related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Presets",
         "value_translated_automated": "ಪೂರ್ವನಿಗದಿಗಳು",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_skin",
-        "description_text": "Describes a page of carrom skin related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Skin",
-        "value_translated_automated": "ಚರ್ಮ",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_trail",
-        "description_text": "Describes a page of trail related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Trail",
-        "value_translated_automated": "ಜಾಡು",
         "value_translated_native": null
       },
       {
@@ -1443,7 +1794,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "ಇಲ್ಲಿ ನಾವು ಕೇರಂ ಬೋರ್ಡ್ ನೋಡುತ್ತೇವೆ.",
+        "value_translated_automated": "ಇಲ್ಲಿ ನಾವು ಒಂದು ಕೇರಂ ಬೋರ್ಡ್ ನೋಡುತ್ತೇವೆ.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "ಕೇರಮ್‌ನ ಪ್ರತಿಯೊಂದು ಆಟವು ಎಲ್ಲಾ ಸ್ಕೋರಿಂಗ್ ತುಣುಕುಗಳನ್ನು ಮಧ್ಯದಲ್ಲಿ ಜೋಡಿಸುವುದರೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಸುತ್ತಿನ ಮೊದಲ ಹೊಡೆತವನ್ನು ಬ್ರೇಕ್ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+        "value_translated_automated": "ಪ್ರತಿಯೊಂದು ಕೇರಂ ಆಟವು ಎಲ್ಲಾ ಸ್ಕೋರಿಂಗ್ ಕಾಯಿಗಳು ಮಧ್ಯದಲ್ಲಿ ಜೋಡಿಸಲ್ಪಟ್ಟಿರುವುದರಿಂದ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ. ಸುತ್ತಿನ ಮೊದಲ ಹೊಡೆತವನ್ನು ಬ್ರೇಕ್ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
         "value_translated_native": null
       },
       {
@@ -1461,7 +1812,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "ಇಲ್ಲಿ ಬೋಟ್ ವಿರಾಮವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ.",
+        "value_translated_automated": "ಇಲ್ಲಿ ಒಂದು ಬಾಟ್ ವಿರಾಮವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ.",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1830,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "ಚೆನ್ನಾಗಿ ಹಿಟ್ ಬ್ರೇಕ್ ಬೋರ್ಡ್ ಅಡ್ಡಲಾಗಿ ತುಣುಕುಗಳನ್ನು ಚದುರಿಸಲು ಮಾಡಬೇಕು. ಒಬ್ಬ ನುರಿತ ಆಟಗಾರನು ಉತ್ತಮ ವಿರಾಮ ಮತ್ತು ನಂತರದ ಹೊಡೆತಗಳಿಂದ ಸಂಪೂರ್ಣ ಸುತ್ತಿನಲ್ಲಿ ಪ್ರಯೋಜನವನ್ನು ನೀಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.",
+        "value_translated_automated": "ಚೆನ್ನಾಗಿ ಹೊಡೆದ ಬ್ರೇಕ್ ಕಾಯಿಗಳನ್ನು ಬೋರ್ಡ್‌ನಾದ್ಯಂತ ಹರಡಬೇಕು. ಒಬ್ಬ ನುರಿತ ಆಟಗಾರನು ಉತ್ತಮ ಬ್ರೇಕ್ ಮತ್ತು ನಂತರದ ಹೊಡೆತಗಳಿಂದ ಇಡೀ ಸುತ್ತಿಗೆ ಅನುಕೂಲವನ್ನು ನೀಡಬಹುದು.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "ನೀವು 0, 1, 2, ಅಥವಾ 3 ಅನ್ನು ಒತ್ತುವ ಮೂಲಕ ಕ್ಯಾಮರಾ ಕೋನಗಳನ್ನು ಬದಲಾಯಿಸಬಹುದು. ಶಿಫಾರಸು ಮಾಡಲಾದ ಪ್ಲೇಯಿಂಗ್ ಕ್ಯಾಮರಾ 1 ಆಗಿದೆ. ನೀವು ಬಲ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಮೌಸ್ ಅನ್ನು ಚಲಿಸುವ ಮೂಲಕ ನಿಮ್ಮ ಕ್ಯಾಮರಾವನ್ನು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಚಲಿಸಬಹುದು. ನಿಯಂತ್ರಣಗಳ ಮೆನುವಿನಲ್ಲಿ ಹೆಚ್ಚಿನ ಕ್ಯಾಮರಾ ನಿಯಂತ್ರಣಗಳನ್ನು ನೋಡಿ.",
+        "value_translated_automated": "ನೀವು 0, 1, 2, ಅಥವಾ 3 ಒತ್ತುವ ಮೂಲಕ ಕ್ಯಾಮೆರಾ ಕೋನಗಳನ್ನು ಬದಲಾಯಿಸಬಹುದು. ಶಿಫಾರಸು ಮಾಡಲಾದ ಪ್ಲೇಯಿಂಗ್ ಕ್ಯಾಮೆರಾ 1. ನೀವು ಬಲ ಕ್ಲಿಕ್ ಅನ್ನು ಹಿಡಿದು ಮೌಸ್ ಅನ್ನು ಚಲಿಸುವ ಮೂಲಕ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಕ್ಯಾಮೆರಾವನ್ನು ಚಲಿಸಬಹುದು. ನಿಯಂತ್ರಣಗಳ ಮೆನುವಿನಲ್ಲಿ ಹೆಚ್ಚಿನ ಕ್ಯಾಮೆರಾ ನಿಯಂತ್ರಣಗಳನ್ನು ನೋಡಿ.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "ಕ್ಯಾರಮ್ ಅನ್ನು ಇತರ ಡಿಸ್ಕ್‌ಗಳಿಗೆ ಡಿಸ್ಕ್‌ಗಳನ್ನು ಫ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ಅವುಗಳನ್ನು ಬೋರ್ಡ್‌ನಲ್ಲಿ ರಂಧ್ರಗಳಿಗೆ ತಳ್ಳುವ ಮೂಲಕ ಆಡಲಾಗುತ್ತದೆ. ಹಾಗೆ ಮಾಡುವುದರಿಂದ ನಿಮಗೆ ಮತ್ತೊಂದು ತಿರುವು ಸಿಗುತ್ತದೆ. ಟಾರ್ಗೆಟ್ ಮಾಡಲು ತಂಡವು ಡಿಸ್ಕ್‌ಗಳನ್ನು ಕಳೆದುಕೊಂಡಾಗ ಆಟವು ಕೊನೆಗೊಳ್ಳುತ್ತದೆ.",
+        "value_translated_automated": "ಕೇರಂ ಆಟವನ್ನು ಇತರ ಡಿಸ್ಕ್‌ಗಳ ಒಳಗೆ ಡಿಸ್ಕ್‌ಗಳನ್ನು ಫ್ಲಿಕ್ ಮಾಡಿ ಅವುಗಳನ್ನು ಬೋರ್ಡ್‌ನಲ್ಲಿರುವ ರಂಧ್ರಗಳಿಗೆ ತಳ್ಳುವ ಮೂಲಕ ಆಡಲಾಗುತ್ತದೆ. ಹಾಗೆ ಮಾಡುವುದರಿಂದ ನಿಮಗೆ ಮತ್ತೊಂದು ತಿರುವು ಯಶಸ್ವಿಯಾಗಿ ದೊರೆಯುತ್ತದೆ. ತಂಡವು ಗುರಿಯಿಡಲು ಡಿಸ್ಕ್‌ಗಳು ಖಾಲಿಯಾದಾಗ ಆಟ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ.",
         "value_translated_native": null
       },
       {
@@ -1506,7 +1857,7 @@
         "description_text": "Defines how chat can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Turn history and chat can be opened by pressing T.",
-        "value_translated_automated": "T ಒತ್ತುವ ಮೂಲಕ ಇತಿಹಾಸವನ್ನು ತಿರುಗಿಸಿ ಮತ್ತು ಚಾಟ್ ಅನ್ನು ತೆರೆಯಬಹುದು.",
+        "value_translated_automated": "ಇತಿಹಾಸವನ್ನು ತಿರುಗಿಸಿ ಮತ್ತು T ಒತ್ತುವ ಮೂಲಕ ಚಾಟ್ ತೆರೆಯಬಹುದು.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "ನೀವು ಟ್ಯುಟೋರಿಯಲ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ! ನೀವು ಈಗ ಸ್ನೇಹಿತರು ಮತ್ತು ಬಾಟ್‌ಗಳೊಂದಿಗೆ ಕೇರಂ ಆಟಗಳನ್ನು ಆಡಲು ಸಿದ್ಧರಾಗಿರುವಿರಿ.",
+        "value_translated_automated": "ನೀವು ಟ್ಯುಟೋರಿಯಲ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದೀರಿ! ನೀವು ಈಗ ಸ್ನೇಹಿತರು ಮತ್ತು ಬಾಟ್‌ಗಳೊಂದಿಗೆ ಕೇರಂ ಆಟಗಳನ್ನು ಆಡಲು ಸಿದ್ಧರಿದ್ದೀರಿ.",
         "value_translated_native": null
       },
       {
@@ -1533,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "ಎಡ ಕ್ಲಿಕ್ ಅನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದನ್ನು ಮುಂದುವರಿಸುವಾಗ ನಿಮ್ಮ ಗುರಿಯಿಂದ ನಿಮ್ಮ ಕರ್ಸರ್ ಅನ್ನು ಎಳೆಯಿರಿ.",
+        "value_translated_automated": "ಎಡ ಕ್ಲಿಕ್ ಅನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದನ್ನು ಮುಂದುವರಿಸುತ್ತಾ ನಿಮ್ಮ ಕರ್ಸರ್ ಅನ್ನು ನಿಮ್ಮ ಗುರಿಯಿಂದ ದೂರ ಎಳೆಯಿರಿ.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "ನಿಮ್ಮ ಸ್ಟ್ರೈಕರ್ ನಿಯೋಜನೆಯನ್ನು ಖಚಿತಪಡಿಸಲು ಎಡ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಹಿಡಿದುಕೊಳ್ಳಿ.",
+        "value_translated_automated": "ನಿಮ್ಮ ಸ್ಟ್ರೈಕರ್ ಸ್ಥಾನವನ್ನು ದೃಢೀಕರಿಸಲು ಎಡ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಹಿಡಿದುಕೊಳ್ಳಿ.",
         "value_translated_native": null
       },
       {
@@ -1551,7 +1902,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "ವಿರಾಮ ಮೆನುವು ಅಪ್ಲಿಕೇಶನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ನಿಯಂತ್ರಣಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ಮತ್ತು ಎಸ್ಕೇಪ್ ಕೀಯನ್ನು ಒತ್ತುವ ಮೂಲಕ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಪ್ರವೇಶಿಸಬಹುದು.",
+        "value_translated_automated": "ವಿರಾಮ ಮೆನುವು ಅಪ್ಲಿಕೇಶನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ನಿಯಂತ್ರಣಗಳನ್ನು ಒಳಗೊಂಡಿದೆ, ಮತ್ತು ಎಸ್ಕೇಪ್ ಕೀಲಿಯನ್ನು ಒತ್ತುವ ಮೂಲಕ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಪ್ರವೇಶಿಸಬಹುದು.",
         "value_translated_native": null
       },
       {
@@ -1560,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "ಸ್ಟ್ಯಾಂಡರ್ಡ್ ಕೇರಂ ಬೋರ್ಡ್‌ಗಳು ಪ್ರತಿ ಮೂಲೆಯಲ್ಲಿ ಪಾಕೆಟ್ಸ್ ಎಂದು ಕರೆಯಲ್ಪಡುವ ನಾಲ್ಕು ರಂಧ್ರಗಳೊಂದಿಗೆ ಬರುತ್ತವೆ.",
+        "value_translated_automated": "ಸ್ಟ್ಯಾಂಡರ್ಡ್ ಕೇರಂ ಬೋರ್ಡ್‌ಗಳು ಪ್ರತಿ ಮೂಲೆಯಲ್ಲಿ ಪಾಕೆಟ್ಸ್ ಎಂದು ಕರೆಯಲ್ಪಡುವ ನಾಲ್ಕು ರಂಧ್ರಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1920,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "ಈ ಪಾಕೆಟ್‌ಗಳು ನೀವು ಡಿಸ್ಕ್‌ಗಳನ್ನು ಮುಳುಗಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದೀರಿ. ನಮ್ಮ ಬೋಟ್ ಆಡುತ್ತಿರುವಂತೆ ವೀಕ್ಷಿಸಿ.",
+        "value_translated_automated": "ಈ ಪಾಕೆಟ್‌ಗಳಲ್ಲಿ ನೀವು ಡಿಸ್ಕ್‌ಗಳನ್ನು ಮುಳುಗಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದೀರಿ. ನಮ್ಮ ಬಾಟ್ ಆಡುವುದನ್ನು ವೀಕ್ಷಿಸಿ.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "ವೃತ್ತಿಪರ ಮೋಡ್ ಸುತ್ತನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ರಾಣಿಯನ್ನು ಜೇಬಿಗಿಳಿಸುವ ಅಗತ್ಯವಿದೆ. ರಾಣಿಯನ್ನು ಸ್ಕೋರ್ ಮಾಡಲು, ನೀವು ಮೊದಲು ರಾಣಿಯನ್ನು ಪಾಕೆಟ್ ಮಾಡಬೇಕು ಮತ್ತು ನಂತರ ರಾಣಿಯನ್ನು ಕವರ್ ಮಾಡಲು ನಿಮ್ಮ ಮುಂದಿನ ಶಾಟ್ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಪಾಕೆಟ್ ಮಾಡಬೇಕು. ಹಾಗೆ ಮಾಡಲು ವಿಫಲವಾದರೆ ರಾಣಿಯನ್ನು ಮಂಡಳಿಗೆ ಹಿಂತಿರುಗಿಸಲಾಗುತ್ತದೆ.",
+        "value_translated_automated": "ವೃತ್ತಿಪರ ಮೋಡ್‌ನಲ್ಲಿ ಸುತ್ತನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ರಾಣಿಯನ್ನು ಪಾಕೆಟ್ ಮಾಡಬೇಕಾಗುತ್ತದೆ. ರಾಣಿಯನ್ನು ಸ್ಕೋರ್ ಮಾಡಲು, ನೀವು ಮೊದಲು ರಾಣಿಯನ್ನು ಪಾಕೆಟ್ ಮಾಡಬೇಕು ಮತ್ತು ನಂತರ ರಾಣಿಯನ್ನು ಆವರಿಸಲು ನಿಮ್ಮ ಮುಂದಿನ ಶಾಟ್ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಪಾಕೆಟ್ ಮಾಡಬೇಕು. ಹಾಗೆ ಮಾಡಲು ವಿಫಲವಾದರೆ ರಾಣಿಯನ್ನು ಬೋರ್ಡ್‌ಗೆ ಹಿಂತಿರುಗಿಸಲಾಗುತ್ತದೆ.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "ಒಂದು ಸನ್ನಿವೇಶ ಇಲ್ಲಿದೆ. ಬೋಟ್ ಪಾಕೆಟ್ ಅನ್ನು ವೀಕ್ಷಿಸಿ ಮತ್ತು ನಂತರ ರಾಣಿಯನ್ನು ಕವರ್ ಮಾಡಿ.",
+        "value_translated_automated": "ಒಂದು ಸನ್ನಿವೇಶ ಇಲ್ಲಿದೆ. ಬಾಟ್ ಪಾಕೆಟ್ ನೋಡಿ ನಂತರ ರಾಣಿಯನ್ನು ಮುಚ್ಚಿ.",
         "value_translated_native": null
       },
       {
@@ -1596,7 +1947,7 @@
         "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself. First the queen, then the white piece.",
-        "value_translated_automated": "ನೀವೇ ಪ್ರಯತ್ನಿಸಿ. ಮೊದಲು ರಾಣಿ, ನಂತರ ಬಿಳಿ ತುಂಡು.",
+        "value_translated_automated": "ನೀವೇ ಪ್ರಯತ್ನಿಸಿ ನೋಡಿ. ಮೊದಲು ರಾಣಿ, ನಂತರ ಬಿಳಿ ತುಂಡು.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1956,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "ನಿಮ್ಮ ಮೊದಲ ಎರಡು ಆಟಗಳಿಗೆ ಪಾಯಿಂಟ್‌ಗಳ ಮೋಡ್ ಅನ್ನು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ. ಇದು ನಿಮಗೆ ಸ್ಕೋರಿಂಗ್ ಮಾಡಲು ಸಾಕಷ್ಟು ಅವಕಾಶಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ.",
+        "value_translated_automated": "ನಿಮ್ಮ ಮೊದಲ ಎರಡು ಆಟಗಳಿಗೆ ಪಾಯಿಂಟ್‌ಗಳ ಮೋಡ್ ಅನ್ನು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ. ಇದು ನಿಮಗೆ ಸ್ಕೋರ್ ಮಾಡಲು ಸಾಕಷ್ಟು ಅವಕಾಶಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1965,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "ನಿಮ್ಮ ಸ್ಟ್ರೈಕರ್ ಅನ್ನು ಪ್ಲೇ ಮಾಡಲು ಎಡ ಕ್ಲಿಕ್ ಅನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ.",
+        "value_translated_automated": "ನಿಮ್ಮ ಸ್ಟ್ರೈಕರ್ ಅನ್ನು ಆಟಕ್ಕೆ ಫ್ಲಿಕ್ ಮಾಡಲು ಎಡ ಕ್ಲಿಕ್ ಅನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1974,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "ವಿಭಿನ್ನ ಆಟದ ವಿಧಾನಗಳು ವಿಭಿನ್ನ ಸ್ಕೋರಿಂಗ್ ನಿಯಮಗಳನ್ನು ಹೊಂದಿವೆ, ಆದರೆ TAB ಕೀಯನ್ನು ಒತ್ತುವ ಮೂಲಕ ಸ್ಕೋರ್ ಅನ್ನು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ವೀಕ್ಷಿಸಬಹುದು.",
+        "value_translated_automated": "ವಿಭಿನ್ನ ಆಟದ ವಿಧಾನಗಳು ವಿಭಿನ್ನ ಸ್ಕೋರಿಂಗ್ ನಿಯಮಗಳನ್ನು ಹೊಂದಿವೆ, ಆದರೆ TAB ಕೀಲಿಯನ್ನು ಒತ್ತುವ ಮೂಲಕ ಸ್ಕೋರ್ ಅನ್ನು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ವೀಕ್ಷಿಸಬಹುದು.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "ವೃತ್ತಿಪರ ಮತ್ತು ಡಿಸ್ಕ್ ಪೂಲ್ ಮೋಡ್‌ಗಳು ನಿಮ್ಮ ತಂಡದ ಬಣ್ಣವನ್ನು ಜೇಬಿಗಿಳಿಸುವ ಗುರಿಯನ್ನು ಮಾತ್ರ ಹೊಂದಿರುತ್ತದೆ, ಆದರೆ ಪಾಯಿಂಟ್ ಮೋಡ್ ಪ್ರತಿಯೊಂದು ವಿಭಿನ್ನ ಬಣ್ಣದ ತುಣುಕಿಗೆ ವಿಭಿನ್ನ ಪಾಯಿಂಟ್ ಮೌಲ್ಯಗಳನ್ನು ನಿಯೋಜಿಸುತ್ತದೆ. ವಿಶಿಷ್ಟವಾಗಿ, ಕೆಂಪು ಬಣ್ಣದ ತುಂಡು ಹೆಚ್ಚಿನ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದೆ ಮತ್ತು ಇದನ್ನು ರಾಣಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+        "value_translated_automated": "ವೃತ್ತಿಪರ ಮತ್ತು ಡಿಸ್ಕ್ ಪೂಲ್ ಮೋಡ್‌ಗಳು ನಿಮ್ಮ ತಂಡದ ಬಣ್ಣವನ್ನು ಮಾತ್ರ ಪಡೆಯುವ ಗುರಿಯನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಆದರೆ ಪಾಯಿಂಟ್ ಮೋಡ್ ಪ್ರತಿಯೊಂದು ವಿಭಿನ್ನ ಬಣ್ಣದ ಕಾಯಿಗೆ ವಿಭಿನ್ನ ಪಾಯಿಂಟ್ ಮೌಲ್ಯಗಳನ್ನು ನಿಗದಿಪಡಿಸುತ್ತದೆ. ಸಾಮಾನ್ಯವಾಗಿ, ಕೆಂಪು ಬಣ್ಣದ ಕಾಯಿಯನ್ನು ಹೆಚ್ಚಿನ ಮೌಲ್ಯದಿಂದ ಗುರುತಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಇದನ್ನು ರಾಣಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1992,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "ಕ್ಯಾರಮ್ ಸ್ಲ್ಯಾಮ್ ಅನ್ನು ಆನಂದಿಸಿ! ~Dinahsoft ತಂಡ",
+        "value_translated_automated": "ಕ್ಯಾರಮ್ ಸ್ಲಾಮ್ ಆನಂದಿಸಿ! ~ದಿನಾಸಾಫ್ಟ್ ತಂಡ",
         "value_translated_native": null
       },
       {
@@ -1659,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "ಈಗ ನಮ್ಮ ಮೊದಲ ಶಾಟ್ ಅನ್ನು ಮುಳುಗಿಸಲು ಪ್ರಯತ್ನಿಸೋಣ. ಮೊದಲು ಬೋಟ್ ಅನ್ನು ವೀಕ್ಷಿಸಿ.",
+        "value_translated_automated": "ಈಗ ನಮ್ಮ ಮೊದಲ ಹೊಡೆತವನ್ನು ಹೊಡೆಯಲು ಪ್ರಯತ್ನಿಸೋಣ. ಮೊದಲು ಬಾಟ್ ಅನ್ನು ನೋಡಿ.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +2019,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "ಈಗ ನಿಮ್ಮ ಸರದಿ. ಆ ಬಿಳಿ ತುಂಡನ್ನು ಬೋಟ್‌ನಂತೆಯೇ ಪಕ್ಕದ ಜೇಬಿಗೆ ಹೊಡೆಯಿರಿ.",
+        "value_translated_automated": "ಈಗ ನಿಮ್ಮ ಸರದಿ. ಆ ಬಿಳಿ ತುಂಡನ್ನು ಬಾಟ್‌ನಂತೆಯೇ ಅದರ ಪಕ್ಕದಲ್ಲಿರುವ ಜೇಬಿಗೆ ಹೊಡೆಯಿರಿ.",
         "value_translated_native": null
       },
       {
@@ -1677,106 +2028,232 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "ಕೇರಂ ಸ್ಲಾಮ್! ಒಂದು ಕೇರಂ ಸಿಮ್ಯುಲೇಟರ್ ಆಟವಾಗಿದೆ. ಈ ಟ್ಯುಟೋರಿಯಲ್ ನಿಮಗೆ ನಿಯಂತ್ರಣಗಳು ಮತ್ತು ಕೇರಂ ಅನ್ನು ಹೇಗೆ ಆಡಬೇಕೆಂದು ಕಲಿಸುತ್ತದೆ.",
+        "value_translated_automated": "ಕ್ಯಾರಮ್ ಸ್ಲಾಮ್! ಒಂದು ಕ್ಯಾರಮ್ ಸಿಮ್ಯುಲೇಟರ್ ಆಟ. ಈ ಟ್ಯುಟೋರಿಯಲ್ ನಿಮಗೆ ನಿಯಂತ್ರಣಗಳು ಮತ್ತು ಕ್ಯಾರಮ್ ಅನ್ನು ಹೇಗೆ ಆಡಬೇಕೆಂದು ಕಲಿಸುತ್ತದೆ.",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_1",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 1",
-        "value_translated_automated": "ಕ್ಯಾಮರಾ 1",
+        "key": "button_events",
+        "description_text": "Views the events log and chat",
+        "description_location": "A button on the focused menu",
+        "value_english": "Events",
+        "value_translated_automated": "ಕಾರ್ಯಕ್ರಮಗಳು",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_2",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 2",
-        "value_translated_automated": "ಕ್ಯಾಮರಾ 2",
+        "key": "button_pause",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the focused menu",
+        "value_english": "Pause",
+        "value_translated_automated": "ವಿರಾಮಗೊಳಿಸಿ",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_3",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 3",
-        "value_translated_automated": "ಕ್ಯಾಮರಾ 3",
+        "key": "button_return",
+        "description_text": "Returns to the previous menu",
+        "description_location": "A button on many pages, including the settings menu",
+        "value_english": "Return",
+        "value_translated_automated": "ಹಿಂತಿರುಗಿ",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_4",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 4",
-        "value_translated_automated": "ಕ್ಯಾಮರಾ 4",
+        "key": "button_scoreboard",
+        "description_text": "Views the scoreboard",
+        "description_location": "A button on the focused menu",
+        "value_english": "Scoreboard",
+        "value_translated_automated": "ಅಂಕಪಟ್ಟಿ",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_next",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Next Page",
-        "value_translated_automated": "ಮುಂದಿನ ಪುಟ",
+        "key": "control_action_escape",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Escape",
+        "value_translated_automated": "ಎಸ್ಕೇಪ್",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_prev",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Previous Page",
-        "value_translated_automated": "ಹಿಂದಿನ ಪುಟ",
+        "key": "control_axis_camera_zoom_negative",
+        "description_text": "Zooms the camera further to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom out",
+        "value_translated_automated": "ಜೂಮ್ ಔಟ್ ಮಾಡಿ",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_joined",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has joined the game.",
-        "value_translated_automated": "{0} ಆಟಕ್ಕೆ ಸೇರಿದ್ದಾರೆ.",
+        "key": "control_axis_camera_zoom_positive",
+        "description_text": "Zooms the camera closer to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom in",
+        "value_translated_automated": "ಜೂಮ್ ಇನ್ ಮಾಡಿ",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_left",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has left the game.",
-        "value_translated_automated": "{0} ಅವರು ಆಟವನ್ನು ತೊರೆದಿದ್ದಾರೆ.",
+        "key": "control_vector_camera_move_backward",
+        "description_text": "Moves the camera backward from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera backward",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾವನ್ನು ಹಿಂದಕ್ಕೆ ಸರಿಸಿ",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_count_pieces",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Piece count",
-        "value_translated_automated": "ತುಂಡು ಎಣಿಕೆ",
+        "key": "control_vector_camera_move_down",
+        "description_text": "Moves the camera down from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera down",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾವನ್ನು ಕೆಳಕ್ಕೆ ಸರಿಸಿ",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_file_training",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Training",
-        "value_translated_automated": "ತರಬೇತಿ",
+        "key": "control_vector_camera_move_forward",
+        "description_text": "Moves the camera forward towards the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera forward",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾ ಮುಂದಕ್ಕೆ ಸರಿಸಿ",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "stat_queen_covered",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Queen Covered",
-        "value_translated_automated": "ರಾಣಿ ಆವರಿಸಿದೆ",
+        "key": "control_vector_camera_move_left",
+        "description_text": "Moves the camera left from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera left",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾವನ್ನು ಎಡಕ್ಕೆ ಸರಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_right",
+        "description_text": "Moves the camera right from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera right",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾವನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_up",
+        "description_text": "Moves the camera up from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera up",
+        "value_translated_automated": "ಕ್ಯಾಮೆರಾವನ್ನು ಮೇಲಕ್ಕೆ ಸರಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_down",
+        "description_text": "Moves the pointer down from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer down",
+        "value_translated_automated": "ಪಾಯಿಂಟರ್ ಅನ್ನು ಕೆಳಗೆ ಸರಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_left",
+        "description_text": "Moves the pointer left from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer left",
+        "value_translated_automated": "ಪಾಯಿಂಟರ್ ಅನ್ನು ಎಡಕ್ಕೆ ಸರಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_right",
+        "description_text": "Moves the pointer right from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer right",
+        "value_translated_automated": "ಪಾಯಿಂಟರ್ ಅನ್ನು ಬಲಕ್ಕೆ ಸರಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_up",
+        "description_text": "Moves the pointer up from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer up",
+        "value_translated_automated": "ಪಾಯಿಂಟರ್ ಅನ್ನು ಮೇಲಕ್ಕೆ ಸರಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_pregame",
+        "description_text": "Describes the state of the game as not started yet, before the game",
+        "description_location": "A label in the mini scoreboard",
+        "value_english": "Pregame",
+        "value_translated_automated": "ಪೂರ್ವ-ಆಟ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_combo",
+        "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has combo covered the queen!",
+        "value_translated_automated": "{0} {1} ತಂಡವು ರಾಣಿಯನ್ನು ಕಾಂಬೊ ಮೂಲಕ ಆವರಿಸಿದೆ!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_discpool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc pool",
+        "value_translated_automated": "ಡಿಸ್ಕ್ ಪೂಲ್",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_power",
+        "description_text": "Choice of showing exact power on striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power text",
+        "value_translated_automated": "ಪವರ್ ಪಠ್ಯ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_trajectory",
+        "description_text": "Choice of showing piece trajectory",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Trajectory",
+        "value_translated_automated": "ಪಥ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_invert_break",
+        "description_text": "Choice of whether to invert the starting break",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Invert break chance",
+        "value_translated_automated": "ಬ್ರೇಕ್ ಅವಕಾಶವನ್ನು ತಿರುಗಿಸಿ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_amount",
+        "description_text": "Describes the amount of bots that spawn by default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default bot amount",
+        "value_translated_automated": "ಡೀಫಾಲ್ಟ್ ಬಾಟ್ ಮೊತ್ತ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_difficulty",
+        "description_text": "Describes the default new bot difficulty",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default difficulty",
+        "value_translated_automated": "ಡೀಫಾಲ್ಟ್ ತೊಂದರೆ",
         "value_translated_native": null
       }
     ]

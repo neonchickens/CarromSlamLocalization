@@ -21,7 +21,7 @@
         "description_text": "Adds a bot player to the game",
         "description_location": "A button on the players menu",
         "value_english": "Add Bot",
-        "value_translated_automated": "לייג Bot",
+        "value_translated_automated": "לייג צו באָט",
         "value_translated_native": null
       },
       {
@@ -39,7 +39,16 @@
         "description_text": "Views the customization menu, allowing for customization of player items",
         "description_location": "A button on the pause menu",
         "value_english": "Customization",
-        "value_translated_automated": "קוסטאָמיזאַטיאָן",
+        "value_translated_automated": "קאַסטאַמייזיישאַן",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_delete_selected",
+        "description_text": "Deletes all mods that are currently selected",
+        "description_location": "A button on the mods menu",
+        "value_english": "Delete selected",
+        "value_translated_automated": "אויסמעקן אויסגעקליבענע",
         "value_translated_native": null
       },
       {
@@ -48,7 +57,7 @@
         "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
         "description_location": "A button on the players menu",
         "value_english": "Invite Friends",
-        "value_translated_automated": "לאַדן Friends",
+        "value_translated_automated": "איינלאַדן פריינט",
         "value_translated_native": null
       },
       {
@@ -57,7 +66,7 @@
         "description_text": "Joins the server of the selected lobby",
         "description_location": "A button on the browser menu",
         "value_english": "Join",
-        "value_translated_automated": "פאַרבינדן",
+        "value_translated_automated": "זיך אנשליסן",
         "value_translated_native": null
       },
       {
@@ -84,7 +93,7 @@
         "description_text": "Views the pause menu, allowing the user to setup their game",
         "description_location": "A button on the landing menu",
         "value_english": "Play",
-        "value_translated_automated": "שפּיל",
+        "value_translated_automated": "שפּילן",
         "value_translated_native": null
       },
       {
@@ -93,7 +102,7 @@
         "description_text": "Views the players menu, allowing the user to manage bots and connected users",
         "description_location": "A button on the pause menu",
         "value_english": "Players",
-        "value_translated_automated": "פּלייַערס",
+        "value_translated_automated": "שפּילער",
         "value_translated_native": null
       },
       {
@@ -102,7 +111,16 @@
         "description_text": "Quits the server/application",
         "description_location": "A button on the landing menu",
         "value_english": "Quit",
-        "value_translated_automated": "פאַרלאָזן",
+        "value_translated_automated": "אויפהערן",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_randomize",
+        "description_text": "Randomizes all customization features",
+        "description_location": "A button on the customization menu",
+        "value_english": "Randomize",
+        "value_translated_automated": "ראַנדאָמיזירן",
         "value_translated_native": null
       },
       {
@@ -116,11 +134,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_reset",
+        "description_text": "Resets the relevant data",
+        "description_location": "A button on the settings menu",
+        "value_english": "Reset",
+        "value_translated_automated": "צוריקשטעלן",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "button_resume",
         "description_text": "Removes the pause menu, focusing on the play area",
         "description_location": "A button on the pause menu",
         "value_english": "Resume",
-        "value_translated_automated": "נעמענ זיכ ווידער",
+        "value_translated_automated": "רעזומע",
         "value_translated_native": null
       },
       {
@@ -129,7 +156,7 @@
         "description_text": "Views the rules menu, allowing for managing of game types and rules",
         "description_location": "A button on the pause menu",
         "value_english": "Rules",
-        "value_translated_automated": "כּללים",
+        "value_translated_automated": "רעגולאציעס",
         "value_translated_native": null
       },
       {
@@ -138,7 +165,7 @@
         "description_text": "Views the file explorer menu, allowing the user to save the config to file",
         "description_location": "A button on the customization menu",
         "value_english": "Save File",
-        "value_translated_automated": "היט טעקע",
+        "value_translated_automated": "ראַטעווען טעקע",
         "value_translated_native": null
       },
       {
@@ -147,7 +174,7 @@
         "description_text": "Views the server menu, allowing the user to manage their steam lobby",
         "description_location": "A button on the pause menu",
         "value_english": "Server",
-        "value_translated_automated": "סערווירער",
+        "value_translated_automated": "סערווער",
         "value_translated_native": null
       },
       {
@@ -179,11 +206,47 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": "Sets the camera view to the overhead preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 1",
+        "value_translated_automated": "קאַמעראַ 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": "Sets the camera view to the low preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 2",
+        "value_translated_automated": "קאַמעראַ 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": "Sets the camera view to the isometric preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 3",
+        "value_translated_automated": "קאַמעראַ 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": "Sets the camera view to the far preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 4",
+        "value_translated_automated": "קאַמעראַ 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "control_action_camera_next",
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Next Camera",
-        "value_translated_automated": "ווייַטער אַפּאַראַט",
+        "value_translated_automated": "נעקסטע קאַמעראַ",
         "value_translated_native": null
       },
       {
@@ -192,7 +255,7 @@
         "description_text": "Jumps to the previous camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Previous Camera",
-        "value_translated_automated": "פֿריִערדיקע קאַמעראַ",
+        "value_translated_automated": "פריערדיקע קאַמעראַ",
         "value_translated_native": null
       },
       {
@@ -201,7 +264,34 @@
         "description_text": "Toggles the focus of the chat/event menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Chat",
-        "value_translated_automated": "באַשטימען שמועסן",
+        "value_translated_automated": "טאַגאַל טשאַט",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": "Jumps to the next default menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Page",
+        "value_translated_automated": "נעקסטע בלאַט",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Page",
+        "value_translated_automated": "פריערדיגע בלאַט",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_pointer_reset",
+        "description_text": "Resets the pointer to the baseline",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Reset Pointer",
+        "value_translated_automated": "צוריקשטעלן צייגער",
         "value_translated_native": null
       },
       {
@@ -210,7 +300,7 @@
         "description_text": "Used to confirm shot placement and power",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Primary Action",
-        "value_translated_automated": "ערשטיק קאַמף",
+        "value_translated_automated": "הויפּט קאַמף",
         "value_translated_native": null
       },
       {
@@ -219,7 +309,7 @@
         "description_text": "Used to reset pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Quaternary Action",
-        "value_translated_automated": "קוואַטערנאַרי קאַמף",
+        "value_translated_automated": "קוואַטערנערי אַקציע",
         "value_translated_native": null
       },
       {
@@ -237,7 +327,7 @@
         "description_text": "Used to cancel shots",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Secondary Action",
-        "value_translated_automated": "צווייטיק קאַמף",
+        "value_translated_automated": "צווייטיקע אַקציע",
         "value_translated_native": null
       },
       {
@@ -246,7 +336,7 @@
         "description_text": "Used to confirm the current action",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Start",
-        "value_translated_automated": "אָנהייב",
+        "value_translated_automated": "אָנהייבן",
         "value_translated_native": null
       },
       {
@@ -255,7 +345,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "טעראַרי קאַמף",
+        "value_translated_automated": "טערטערי אַקציע",
         "value_translated_native": null
       },
       {
@@ -264,7 +354,7 @@
         "description_text": "Toggles the player pregame readiness",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
-        "value_translated_automated": "טאַגאַל גרייט",
+        "value_translated_automated": "טאָגל גרייט",
         "value_translated_native": null
       },
       {
@@ -273,7 +363,16 @@
         "description_text": "Changes the color of the player's pointer",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Pointer Color",
-        "value_translated_automated": "טייַטל קאָליר",
+        "value_translated_automated": "צייגער קאָליר",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_power",
+        "description_text": "Changes the color of the player's power text",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Power Text Color",
+        "value_translated_automated": "מאַכט טעקסט קאָליר",
         "value_translated_native": null
       },
       {
@@ -282,7 +381,7 @@
         "description_text": "Changes the primary color of the player's striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Primary Color",
-        "value_translated_automated": "ערשטיק קאָליר",
+        "value_translated_automated": "הויפּט קאָליר",
         "value_translated_native": null
       },
       {
@@ -291,7 +390,7 @@
         "description_text": "Changes the secondary color of the player's striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Color",
-        "value_translated_automated": "צווייטיק קאָליר",
+        "value_translated_automated": "צווייטיקע קאָליר",
         "value_translated_native": null
       },
       {
@@ -300,7 +399,7 @@
         "description_text": "Changes the color of the player's trail",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Trail Color",
-        "value_translated_automated": "טרייל קאָליר",
+        "value_translated_automated": "וועג קאָליר",
         "value_translated_native": null
       },
       {
@@ -309,7 +408,7 @@
         "description_text": "Changes the skin of the player's carrom striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Striker Skin",
-        "value_translated_automated": "סטרייקער סקין",
+        "value_translated_automated": "סטרייקער הויט",
         "value_translated_native": null
       },
       {
@@ -318,7 +417,7 @@
         "description_text": "Changes the skin of the player's trail",
         "description_location": "A customization option in the general tab of the customization menu",
         "value_english": "Trial Skin",
-        "value_translated_automated": "פּראָצעס סקין",
+        "value_translated_automated": "פּראָבע הויט",
         "value_translated_native": null
       },
       {
@@ -327,7 +426,7 @@
         "description_text": "Changes the primary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Primary Texture",
-        "value_translated_automated": "ערשטיק טעקסטורע",
+        "value_translated_automated": "ערשטיקע טעקסטור",
         "value_translated_native": null
       },
       {
@@ -336,7 +435,34 @@
         "description_text": "Changes the secondary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Texture",
-        "value_translated_automated": "צווייטיק טעקסטורע",
+        "value_translated_automated": "צווייטיקע טעקסטור",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_apartment",
+        "description_text": "Represents an enironment representing a nice apartment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Apartment",
+        "value_translated_automated": "וווינונג",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_empty",
+        "description_text": "Represents an enironment representing an empty room",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Empty",
+        "value_translated_automated": "ליידיק",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_stadium",
+        "description_text": "Represents an enironment representing stadium environment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Stadium",
+        "value_translated_automated": "סטאַדיאָן",
         "value_translated_native": null
       },
       {
@@ -354,7 +480,7 @@
         "description_text": "Describes that this game is according to the following conditions",
         "description_location": "A label in the intro menu",
         "value_english": "Best of",
-        "value_translated_automated": "בעסטער פון",
+        "value_translated_automated": "בעסטע פון",
         "value_translated_native": null
       },
       {
@@ -372,7 +498,7 @@
         "description_text": "Describes the amount of computer controlled players present in the lobby",
         "description_location": "A label in the pregame menu",
         "value_english": "Bots",
-        "value_translated_automated": "באָץ",
+        "value_translated_automated": "באָטן",
         "value_translated_native": null
       },
       {
@@ -381,7 +507,7 @@
         "description_text": "Describes the date the mod was last updated",
         "description_location": "A label in the mods menu",
         "value_english": "Date",
-        "value_translated_automated": "טאָג",
+        "value_translated_automated": "דאַטע",
         "value_translated_native": null
       },
       {
@@ -390,7 +516,7 @@
         "description_text": "Describes the score debt owed by a particular team",
         "description_location": "A label in the Professional Carrom game mode menu",
         "value_english": "Team {0} owes {1} point(s)",
-        "value_translated_automated": "מאַנשאַפֿט {0} שולדיק געווען {1} פונט (s)",
+        "value_translated_automated": "מאַנשאַפֿט {0} שולדיק {1} פּונקט(ן)",
         "value_translated_native": null
       },
       {
@@ -404,6 +530,15 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_enable",
+        "description_text": "Enables the mods within the game",
+        "description_location": "A label in the mods menu",
+        "value_english": "Enable",
+        "value_translated_automated": "אַקטיווירן",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_green",
         "description_text": "Describes the value of green used in the RGB color",
         "description_location": "A label in the color customization setting",
@@ -413,11 +548,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_complete",
+        "description_text": "Displays that this language has complete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is complete or almost complete.",
+        "value_translated_automated": "די לאָקאַל אָפּציע איז גאַנץ אָדער כּמעט גאַנץ.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_incomplete",
+        "description_text": "Displays that this language has incomplete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
+        "value_translated_automated": "די לאָקאַל אָפּציע איז נישט פֿולשטענדיק, מיר בעטן אַנטשולדיקונג פֿאַר אומרעכטיקייטן. אויב איר קענט העלפֿן איבערזעצן, וואָלטן מיר זיין זייער דאַנקבאַר. ביטע באַזוכט אונדזער דיסקאָרד פֿאַר מער אינפֿאָרמאַציע.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_not_ready",
         "description_text": "Describes a player who is not yet prepared to play",
         "description_location": "A label in the players menu",
         "value_english": "Not Ready",
-        "value_translated_automated": "ניט גרייט",
+        "value_translated_automated": "נישט גרייט",
         "value_translated_native": null
       },
       {
@@ -435,7 +588,7 @@
         "description_text": "Describes the amount of players waiting to play out of a total amount",
         "description_location": "A label in the pregame menu",
         "value_english": "Players Ready",
-        "value_translated_automated": "פּלייַערס גרייט",
+        "value_translated_automated": "שפּילער גרייט",
         "value_translated_native": null
       },
       {
@@ -467,11 +620,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round",
+        "description_text": "Displays what round the current context is",
+        "description_location": "A label on the mini scoreboard",
+        "value_english": "Round {0}",
+        "value_translated_automated": "רונדע {0}",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_round_count",
         "description_text": "Describes an amount of rounds",
         "description_location": "A label in the intro menu",
         "value_english": "{0} rounds",
-        "value_translated_automated": "{0} ראָונדס",
+        "value_translated_automated": "{0} רונדעס",
         "value_translated_native": null
       },
       {
@@ -480,7 +642,7 @@
         "description_text": "Describes a score value",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Score",
-        "value_translated_automated": "כעזשבן",
+        "value_translated_automated": "סקאָר",
         "value_translated_native": null
       },
       {
@@ -499,6 +661,15 @@
         "description_location": "A label in the scoreboard menu",
         "value_english": "Team Scoreboard",
         "value_translated_automated": "מאַנשאַפֿט סקאָרבאָרד",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_select",
+        "description_text": "Selects the mods, which may then be deleted",
+        "description_location": "A label in the mods menu",
+        "value_english": "Select",
+        "value_translated_automated": "אויסקלייבן",
         "value_translated_native": null
       },
       {
@@ -534,7 +705,25 @@
         "description_text": "Describes a current total score",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Total",
-        "value_translated_automated": "גאַנץ",
+        "value_translated_automated": "טאָטאַל",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_waiting_for_input",
+        "description_text": "Shows the user that we are waiting to capture their input for the new binding",
+        "description_location": "A label that shows when the user is rebinding a control in the settings menu",
+        "value_english": "Waiting for input",
+        "value_translated_automated": "וואַרטן אויף אינפֿאָרמאַציע",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_break_setup",
+        "description_text": "States what break file has been used",
+        "description_location": "An event message from the system",
+        "value_english": "Break {0} spawned.",
+        "value_translated_automated": "ברעכן {0} איז ארויסגעקומען.",
         "value_translated_native": null
       },
       {
@@ -552,7 +741,25 @@
         "description_text": "States the game has started",
         "description_location": "An event message from the system",
         "value_english": "Game is starting!",
-        "value_translated_automated": "שפּיל איז סטאַרטינג!",
+        "value_translated_automated": "שפּיל הייבט זיך אָן!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": "States a player has joined the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} האט זיך איינגעשלאסן אין שפּיל.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": "States a player has left the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} האט פארלאזט דאס שפּיל.",
         "value_translated_native": null
       },
       {
@@ -561,7 +768,7 @@
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
-        "value_translated_automated": "מאַנשאַפֿט {0} {1} האט באדעקט די מלכּה",
+        "value_translated_automated": "מאַנשאַפֿט {0} {1} האָט באַדעקט די קעניגין",
         "value_translated_native": null
       },
       {
@@ -570,7 +777,25 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "מאַנשאַפֿט {0} {1} מוזן איצט פאַרענדיקן די דעקן",
+        "value_translated_automated": "מאַנשאַפֿט {0} {1} מוז איצט פֿאַרענדיקן דעם דעקל",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_debt",
+        "description_text": "States that the pieces replaced were from previous debt",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing owed debt to the board",
+        "value_translated_automated": "פֿאַרבײַטן די חובות וואָס זענען געפֿאַלן צום באָרד",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_foul",
+        "description_text": "States that the pieces replaced were from a foul",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing due to foul",
+        "value_translated_automated": "פארטרעטן צוליב א טעות",
         "value_translated_native": null
       },
       {
@@ -579,7 +804,7 @@
         "description_text": "States the round has ended",
         "description_location": "An event message from the system",
         "value_english": "Round {0} has ended",
-        "value_translated_automated": "ארום {0} האט זיך פארענדיקט",
+        "value_translated_automated": "רונדע {0} איז געענדיקט",
         "value_translated_native": null
       },
       {
@@ -588,7 +813,7 @@
         "description_text": "States the round has started",
         "description_location": "An event message from the system",
         "value_english": "Round {0} is starting!",
-        "value_translated_automated": "ארום {0} הייבט זיך אן!",
+        "value_translated_automated": "רונדע {0} הייבט זיך אן!",
         "value_translated_native": null
       },
       {
@@ -597,7 +822,7 @@
         "description_text": "States that the player has sank their striker",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has fouled",
-        "value_translated_automated": "קאָלעקטיוו {0} {1} האָט זיך אָנגעשלאָסן",
+        "value_translated_automated": "מאַנשאַפֿט {0} {1} האָט געמאַכט אַ פאַול",
         "value_translated_native": null
       },
       {
@@ -606,7 +831,16 @@
         "description_text": "States that the player has missed",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has missed",
-        "value_translated_automated": "קאָלעקטיוו {0} {1} האט מיסט",
+        "value_translated_automated": "מאַנשאַפֿט {0} {1} האָט פֿאַרפעלט",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_round_end",
+        "description_text": "States that the player has ended the round on this turn",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has ended the round",
+        "value_translated_automated": "מאַנשאַפֿט {0} {1} האָט געענדיקט די רונדע",
         "value_translated_native": null
       },
       {
@@ -615,7 +849,16 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "מאַנשאַפֿט {0} {1} האט סאַנגק זייער שאָס",
+        "value_translated_automated": "מאַנשאַפֿט {0} {1} האָט פֿאַרזונקען זייער שאָס",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_all",
+        "description_text": "An option that fulfils all relevant configurations",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "All",
+        "value_translated_automated": "אַלע",
         "value_translated_native": null
       },
       {
@@ -629,11 +872,47 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_direction_only",
+        "description_text": "An assist option that only shows the direction",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction only",
+        "value_translated_automated": "נאָר ריכטונג",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_direction",
+        "description_text": "An assist option that only shows the direction and power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction and power",
+        "value_translated_automated": "ריכטונג און מאַכט",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_only",
+        "description_text": "An assist option that only shows the power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Power only",
+        "value_translated_automated": "נאָר מאַכט",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_trajectory_only",
+        "description_text": "An assist option that only shows the trajectory",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Trajectory only",
+        "value_translated_automated": "נאָר טראַיעקטאָריע",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "option_assorted",
         "description_text": "Describes the ability to choose a variety of options throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Assorted",
-        "value_translated_automated": "אַסאָרטיד",
+        "value_translated_automated": "אַסאָרטירט",
         "value_translated_native": null
       },
       {
@@ -651,7 +930,7 @@
         "description_text": "Describes the bowling game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Bowling",
-        "value_translated_automated": "באָוולינג",
+        "value_translated_automated": "באָולינג",
         "value_translated_native": null
       },
       {
@@ -660,7 +939,7 @@
         "description_text": "Describes the carrom game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Carrom",
-        "value_translated_automated": "קאַרראָם",
+        "value_translated_automated": "קאַראָם",
         "value_translated_native": null
       },
       {
@@ -669,7 +948,7 @@
         "description_text": "Describes the ability to place your striker anywhere on the baseline",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Casual",
-        "value_translated_automated": "גלייַכגילטיק",
+        "value_translated_automated": "לייכט",
         "value_translated_native": null
       },
       {
@@ -678,7 +957,7 @@
         "description_text": "Describes the crokinole game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Crokinole",
-        "value_translated_automated": "קראָקינאָלע",
+        "value_translated_automated": "קראָקינאָל",
         "value_translated_native": null
       },
       {
@@ -687,16 +966,7 @@
         "description_text": "Describes a default configuration",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Default",
-        "value_translated_automated": "פעליקייַט",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "option_disc_pool",
-        "description_text": "Describes the disc pool game mode",
-        "description_location": "An option in a drop down menu in the rules menu",
-        "value_english": "Disc Pool",
-        "value_translated_automated": "דיסק פּול",
+        "value_translated_automated": "פעליקייט",
         "value_translated_native": null
       },
       {
@@ -710,11 +980,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_none",
+        "description_text": "Describes an option where none of the option are fulfilled",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "None",
+        "value_translated_automated": "קיין איינס",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "option_points",
         "description_text": "Describes the points game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Points",
-        "value_translated_automated": "ווייזט",
+        "value_translated_automated": "פונקטן",
         "value_translated_native": null
       },
       {
@@ -732,7 +1011,7 @@
         "description_text": "Describes the professional game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Professional",
-        "value_translated_automated": "פאַכמאַן",
+        "value_translated_automated": "פּראָפעסיאָנעל",
         "value_translated_native": null
       },
       {
@@ -741,7 +1020,7 @@
         "description_text": "Describes the public configuration",
         "description_location": "An option in a drop down menu in the server menu",
         "value_english": "Public",
-        "value_translated_automated": "ציבור",
+        "value_translated_automated": "עפנטלעך",
         "value_translated_native": null
       },
       {
@@ -750,7 +1029,7 @@
         "description_text": "Describes the ability to choose a random option to use throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Random",
-        "value_translated_automated": "טראַפ",
+        "value_translated_automated": "צופֿעליק",
         "value_translated_native": null
       },
       {
@@ -777,7 +1056,7 @@
         "description_text": "Describes the training game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Training",
-        "value_translated_automated": "טראַינינג",
+        "value_translated_automated": "טרענירונג",
         "value_translated_native": null
       },
       {
@@ -813,7 +1092,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "וואַנט קעשענע ינסעט",
+        "value_translated_automated": "וואַנט קעשענע איינגעשטעלט",
         "value_translated_native": null
       },
       {
@@ -831,7 +1110,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "באַונסינעסס ברעט",
+        "value_translated_automated": "שפּרינג־ברעט",
         "value_translated_native": null
       },
       {
@@ -840,7 +1119,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "באַונסינעסס שטיק",
+        "value_translated_automated": "שפּרינגעריש שטיק",
         "value_translated_native": null
       },
       {
@@ -849,7 +1128,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "באַונסינעסס סטרייקער",
+        "value_translated_automated": "שפּרונגס-סטרייקער",
         "value_translated_native": null
       },
       {
@@ -858,7 +1137,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "באַנסינעסס וואַנט",
+        "value_translated_automated": "שפּרינגענדיקע וואַנט",
         "value_translated_native": null
       },
       {
@@ -867,7 +1146,7 @@
         "description_text": "Choice of max points to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Point maximum",
-        "value_translated_automated": "מאַקסימום פונט",
+        "value_translated_automated": "פונקט מאַקסימום",
         "value_translated_native": null
       },
       {
@@ -876,7 +1155,16 @@
         "description_text": "Choice of max rounds to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Round maximum",
-        "value_translated_automated": "מאַקסימום קייַלעכיק",
+        "value_translated_automated": "קייַלעכיק מאַקסימום",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": "Choices of how many pieces are present per team",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Piece count",
+        "value_translated_automated": "שטיק צייל",
         "value_translated_native": null
       },
       {
@@ -885,7 +1173,7 @@
         "description_text": "Choice of how many black pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces black",
-        "value_translated_automated": "שטיקער שווארצע",
+        "value_translated_automated": "שטיקלעך שוואַרץ",
         "value_translated_native": null
       },
       {
@@ -894,7 +1182,7 @@
         "description_text": "Choice of how many red pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces red",
-        "value_translated_automated": "שטיקער רויט",
+        "value_translated_automated": "שטיקלעך רויט",
         "value_translated_native": null
       },
       {
@@ -903,7 +1191,7 @@
         "description_text": "Choice of how many team pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces per team",
-        "value_translated_automated": "ברעקלעך פּער מאַנשאַפֿט",
+        "value_translated_automated": "שטיקלעך פּער מאַנשאַפֿט",
         "value_translated_native": null
       },
       {
@@ -912,7 +1200,7 @@
         "description_text": "Choice of how many white pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces white",
-        "value_translated_automated": "שטיקלעך ווייַס",
+        "value_translated_automated": "שטיקלעך ווייס",
         "value_translated_native": null
       },
       {
@@ -921,7 +1209,7 @@
         "description_text": "Choice of how many sides the board will have",
         "description_location": "A rule in the rules menu",
         "value_english": "Spots",
-        "value_translated_automated": "ספּאַץ",
+        "value_translated_automated": "פלעקן",
         "value_translated_native": null
       },
       {
@@ -930,7 +1218,7 @@
         "description_text": "Choice of how many teams could be in the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Teams",
-        "value_translated_automated": "טימז",
+        "value_translated_automated": "מאַנשאַפֿטן",
         "value_translated_native": null
       },
       {
@@ -939,7 +1227,16 @@
         "description_text": "Choice of how far the baseline is from the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Distance baseline",
-        "value_translated_automated": "דיסטאַנסע באַסעלינע",
+        "value_translated_automated": "דיסטאַנץ באַזעלינע",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_environment",
+        "description_text": "Choice of what 3D environment is presented",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Environment",
+        "value_translated_automated": "סביבה",
         "value_translated_native": null
       },
       {
@@ -953,11 +1250,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": "Choice of what training file to load",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "טרענירונג",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "rule_friction_board",
         "description_text": "Choice of how much friction the board has",
         "description_location": "A rule in the rules menu",
         "value_english": "Board friction",
-        "value_translated_automated": "ברעט רייַבונג",
+        "value_translated_automated": "ברעט רייבונג",
         "value_translated_native": null
       },
       {
@@ -984,7 +1290,7 @@
         "description_text": "Choice of the mass of pieces",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass pieces",
-        "value_translated_automated": "מאַסע ברעקלעך",
+        "value_translated_automated": "מאַסע שטיקלעך",
         "value_translated_native": null
       },
       {
@@ -993,7 +1299,7 @@
         "description_text": "Choice of the mass of uniform strikers",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass striker",
-        "value_translated_automated": "מאסן סטרייקער",
+        "value_translated_automated": "מאַסע סטרייקער",
         "value_translated_native": null
       },
       {
@@ -1002,7 +1308,7 @@
         "description_text": "Choice of how inset the pocket is into the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Pocket inset",
-        "value_translated_automated": "קעשענע ינסעט",
+        "value_translated_automated": "קעשענע איינשטעל",
         "value_translated_native": null
       },
       {
@@ -1020,7 +1326,7 @@
         "description_text": "Choice of where the game caps the queens point contribution",
         "description_location": "A rule in the rules menu",
         "value_english": "Queen points cap",
-        "value_translated_automated": "מלכּה ווייזט היטל",
+        "value_translated_automated": "קווין פונקטן קאַפּ",
         "value_translated_native": null
       },
       {
@@ -1029,7 +1335,7 @@
         "description_text": "Choice of how many points a black piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for black",
-        "value_translated_automated": "ווייזט פֿאַר שוואַרץ",
+        "value_translated_automated": "פונקטן פֿאַר שוואַרץ",
         "value_translated_native": null
       },
       {
@@ -1038,7 +1344,7 @@
         "description_text": "Choice of how many points a red piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for red",
-        "value_translated_automated": "ווייזט פֿאַר רויט",
+        "value_translated_automated": "פונקטן פֿאַר רויט",
         "value_translated_native": null
       },
       {
@@ -1047,7 +1353,7 @@
         "description_text": "Choice of how many points a team piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for piece",
-        "value_translated_automated": "נקודות פֿאַר שטיק",
+        "value_translated_automated": "פונקטן פאר א שטיק",
         "value_translated_native": null
       },
       {
@@ -1056,7 +1362,7 @@
         "description_text": "Choice of how many points a white piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for white",
-        "value_translated_automated": "ווייזט פֿאַר ווייַס",
+        "value_translated_automated": "פונקטן פאר ווייס",
         "value_translated_native": null
       },
       {
@@ -1065,7 +1371,7 @@
         "description_text": "Choice of how high the power cap for strikers is set",
         "description_location": "A rule in the rules menu",
         "value_english": "Power Scale",
-        "value_translated_automated": "מאַכט סקאַלע",
+        "value_translated_automated": "מאַכט וואָג",
         "value_translated_native": null
       },
       {
@@ -1074,7 +1380,7 @@
         "description_text": "Choice of how large a board is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Board",
-        "value_translated_automated": "גרייס באָרד",
+        "value_translated_automated": "גרייס ברעט",
         "value_translated_native": null
       },
       {
@@ -1092,7 +1398,7 @@
         "description_text": "Choice of how large a pocket is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Pocket",
-        "value_translated_automated": "גרייס פּאַקאַט",
+        "value_translated_automated": "גרייס קעשענע",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1416,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "דרייַ טיימער",
+        "value_translated_automated": "דריי טייַמער",
         "value_translated_native": null
       },
       {
@@ -1119,7 +1425,7 @@
         "description_text": "Choice of enforcing a uniform striker across all players",
         "description_location": "A rule in the rules menu",
         "value_english": "Uniform Striker",
-        "value_translated_automated": "וניפאָרם סטרייקער",
+        "value_translated_automated": "יוניפאָרם סטרייקער",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1434,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "מאַקס פּלייַערס",
+        "value_translated_automated": "מאַקסימום שפּילער",
         "value_translated_native": null
       },
       {
@@ -1151,20 +1457,74 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_cursor",
-        "description_text": "Describes the sensitivity of the cursor",
+        "key": "setting_application_language",
+        "description_text": "Describes what locale is being used for the application",
         "description_location": "A setting in the settings menu",
-        "value_english": "Cursor sensitivity",
-        "value_translated_automated": "לויפֿער סענסיטיוויטי",
+        "value_english": "Language",
+        "value_translated_automated": "שפּראַך",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_zoom",
-        "description_text": "Describes the sensitivity of the zoom",
+        "key": "setting_application_reset_mods",
+        "description_text": "Resets all mod files and preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset mods",
+        "value_translated_automated": "צוריקשטעלן מאָדס",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_preferences",
+        "description_text": "Resets all player preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset preferences",
+        "value_translated_automated": "צוריקשטעלן פּרעפֿערענצן",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_cursor",
+        "description_text": "Describes the speed at which the cursor is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Cursor sensitivity",
+        "value_translated_automated": "קורסאָר סענסיטיוויטי",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_rotation",
+        "description_text": "Describes the speed at which the camera rotates",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Rotation sensitivitiy",
+        "value_translated_automated": "ראָטאַציע סענסיטיוויטי",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_zoom",
+        "description_text": "Describes the speed at which the camera zooms",
         "description_location": "A setting in the settings menu",
         "value_english": "Zoom sensitivity",
-        "value_translated_automated": "פארגרעסער סענסיטיוויטי",
+        "value_translated_automated": "זום סענסיטיוויטי",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_power",
+        "description_text": "Describes if the power text will be shown",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Power text assist",
+        "value_translated_automated": "מאַכט טעקסט אַסיסט",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_trajectory",
+        "description_text": "Describes what aim assists will be enabled",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Trajectory assist",
+        "value_translated_automated": "טראַיעקטאָריע אַסיסט",
         "value_translated_native": null
       },
       {
@@ -1173,7 +1533,7 @@
         "description_text": "Describes the fullscreen status of the application",
         "description_location": "A setting in the settings menu",
         "value_english": "Fullscreen",
-        "value_translated_automated": "Fullscreen",
+        "value_translated_automated": "פולסקרין",
         "value_translated_native": null
       },
       {
@@ -1182,7 +1542,7 @@
         "description_text": "Describes the refresh rate of the application",
         "description_location": "A setting in the settings menu",
         "value_english": "Refresh rate",
-        "value_translated_automated": "דערפרישן קורס",
+        "value_translated_automated": "דערפרישונג ראַטע",
         "value_translated_native": null
       },
       {
@@ -1191,7 +1551,7 @@
         "description_text": "Describes the video resolution of the application",
         "description_location": "A setting in the settings menu",
         "value_english": "Resolution",
-        "value_translated_automated": "האַכלאָטע",
+        "value_translated_automated": "רעזאָלוציע",
         "value_translated_native": null
       },
       {
@@ -1218,7 +1578,7 @@
         "description_text": "Describes the volume scale of all volume types",
         "description_location": "A setting in the settings menu",
         "value_english": "Master volume",
-        "value_translated_automated": "בעל באַנד",
+        "value_translated_automated": "הויפּט באַנד",
         "value_translated_native": null
       },
       {
@@ -1227,7 +1587,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "UI באַנד",
+        "value_translated_automated": "באַניצער צובינד באַנד",
         "value_translated_native": null
       },
       {
@@ -1236,7 +1596,7 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "שוואַרץ סאַנק",
+        "value_translated_automated": "שוואַרצע סאַנק",
         "value_translated_native": null
       },
       {
@@ -1245,7 +1605,16 @@
         "description_text": "Describes the amount of strikers sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Fouls",
-        "value_translated_automated": "פאָולס",
+        "value_translated_automated": "פאַולס",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": "Describes the amount of queens successfully covered",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Covered",
+        "value_translated_automated": "קעניגין באדעקט",
         "value_translated_native": null
       },
       {
@@ -1254,7 +1623,7 @@
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "מלכּה סאַנק",
+        "value_translated_automated": "קעניגין סאַנק",
         "value_translated_native": null
       },
       {
@@ -1263,7 +1632,7 @@
         "description_text": "Describes the amount of strikers shot by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Attempt",
-        "value_translated_automated": "שאָס פּרווון",
+        "value_translated_automated": "שאָס פּרוּוו",
         "value_translated_native": null
       },
       {
@@ -1272,7 +1641,7 @@
         "description_text": "Describes the amount of pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Sank",
-        "value_translated_automated": "שאָס סאַנק",
+        "value_translated_automated": "שאָס איז געזונקען",
         "value_translated_native": null
       },
       {
@@ -1281,7 +1650,16 @@
         "description_text": "Describes the amount of white pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
-        "value_translated_automated": "ווייַס סאַנק",
+        "value_translated_automated": "ווייסע סאַנק",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_application",
+        "description_text": "Describes a page of application related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Application",
+        "value_translated_automated": "אַפּליקאַציע",
         "value_translated_native": null
       },
       {
@@ -1308,7 +1686,7 @@
         "description_text": "Describes a page of carrom break related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Breaks",
-        "value_translated_automated": "ברייקס",
+        "value_translated_automated": "פּויזעס",
         "value_translated_native": null
       },
       {
@@ -1317,7 +1695,7 @@
         "description_text": "Describes a page of carrom related customizations",
         "description_location": "A tab label in the customizations menu",
         "value_english": "Carrom",
-        "value_translated_automated": "קאַרראָם",
+        "value_translated_automated": "קאַראָם",
         "value_translated_native": null
       },
       {
@@ -1335,7 +1713,7 @@
         "description_text": "Describes a page of customization related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Customizations",
-        "value_translated_automated": "קוסטאָמיזאַטיאָנס",
+        "value_translated_automated": "קאַסטאַמייזיישאַנז",
         "value_translated_native": null
       },
       {
@@ -1362,7 +1740,7 @@
         "description_text": "Describes a page of general related rules",
         "description_location": "A tab label in the settings menu",
         "value_english": "General",
-        "value_translated_automated": "אַלגעמיינע",
+        "value_translated_automated": "אַלגעמיין",
         "value_translated_native": null
       },
       {
@@ -1371,16 +1749,7 @@
         "description_text": "Describes a page of personal related customizaitons",
         "description_location": "A tab label in the customizations menu",
         "value_english": "Personal",
-        "value_translated_automated": "פערזענליכע",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_pointer",
-        "description_text": "Describes a page of pointer related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Pointer",
-        "value_translated_automated": "טייַטל",
+        "value_translated_automated": "פערזענלעך",
         "value_translated_native": null
       },
       {
@@ -1389,25 +1758,7 @@
         "description_text": "Describes a page of ruleset related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Presets",
-        "value_translated_automated": "פּרעסעץ",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_skin",
-        "description_text": "Describes a page of carrom skin related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Skin",
-        "value_translated_automated": "הויט",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_trail",
-        "description_text": "Describes a page of trail related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Trail",
-        "value_translated_automated": "טרייל",
+        "value_translated_automated": "פאָרסעטס",
         "value_translated_native": null
       },
       {
@@ -1416,7 +1767,7 @@
         "description_text": "Describes a page of training related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Trainings",
-        "value_translated_automated": "טראַינינגס",
+        "value_translated_automated": "טרענירונגען",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1785,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "דער סטרייקער מוזן אָנהייבן שפּילן פֿון די באַסעלינע.",
+        "value_translated_automated": "דער סטרייקער מוז אָנהייבן שפּילן פֿון דער באַזעלינע.",
         "value_translated_native": null
       },
       {
@@ -1443,7 +1794,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "דאָ מיר זען אַ קאַרראָם ברעט.",
+        "value_translated_automated": "דאָ זעען מיר אַ קאַראָם ברעט.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "יעדער שפּיל פון קאַרראָם וועט אָנהייבן מיט אַלע סקאָרינג ברעקלעך בונשט אַרויף אין דעם צענטער. דער ערשטער שאָס פון די קייַלעכיק איז גערופן די ברעכן.",
+        "value_translated_automated": "יעדע שפּיל קאַראָם וועט אָנהייבן מיט אַלע סקאָרינג שטיקלעך צוזאַמענגעבונדן אין צענטער. דער ערשטער שאָס פון דער רונדע ווערט גערופן דער ברעכן.",
         "value_translated_native": null
       },
       {
@@ -1461,7 +1812,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "דאָ אַ באָט דעמאַנסטרייץ אַ ברעכן.",
+        "value_translated_automated": "דאָ ווייזט אַ באָט אַ ברעכן.",
         "value_translated_native": null
       },
       {
@@ -1470,7 +1821,7 @@
         "description_text": "Encourages the user to take a shot at a break",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself!",
-        "value_translated_automated": "פּרוּווט עס זיך!",
+        "value_translated_automated": "פרובירט עס אליין!",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1830,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "א געזונט שלאָגן ברעכן זאָל צעשפּרייטן די ברעקלעך אַריבער די ברעט. א באָקע שפּילער קען זיין ביכולת צו געבן זיך אַ מייַלע פֿאַר די גאנצע קייַלעכיק פון אַ גוט ברעכן און סאַבסאַקוואַנט שאַץ.",
+        "value_translated_automated": "א גוט געטראָפענער ברעיק זאָל צעשפּרייטן די שטיקלעך איבערן ברעט. א באַגאַבטער שפּילער קען זיך געבן אַן אויבערהאנט פארן גאַנצן רונדע פון ​​א גוטן ברעיק און נאכפאלגנדיקע שאָסן.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "איר קענען טוישן אַפּאַראַט אַנגלעס דורך דרינגלעך 0, 1, 2, אָדער 3. די רעקאַמענדיד פּלייינג אַפּאַראַט איז 1. איר קענען מאַך דיין אַפּאַראַט אין עניטיים דורך האלטן רעכט גיט און מאָווינג די מויז. זען מער אַפּאַראַט קאָנטראָלס אין די קאָנטראָלס מעניו.",
+        "value_translated_automated": "איר קענט ענדערן קאַמעראַ ווינקלען דורך דריקן 0, 1, 2, אדער 3. די רעקאָמענדירטע שפּיל קאַמעראַ איז 1. איר קענט רירן אייער קאַמעראַ אין יעדער צייט דורך האַלטן רעכט קליק און רירן די מויז. זען מער קאַמעראַ קאָנטראָלס אין די קאָנטראָלס מעניו.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "קאַרראָם איז פּלייַעד דורך פליקינג דיסקס אין אנדערע דיסקס צו שטופּן זיי אין האָלעס אויף די ברעט. טאן אַזוי הצלחה גראַנץ איר אן אנדער קער. דער שפּיל ענדס ווען אַ מאַנשאַפֿט לויפט אויס פון דיסקס צו ציל.",
+        "value_translated_automated": "קאַראָם ווערט געשפּילט דורך אַריינוואַרפן דיסקס אין אַנדערע דיסקס צו זיי אַרײַנשטויסן אין לעכער אויפן ברעט. דאָס טון גיט אײַך הצלחה נאָך אַ קער. דאָס שפּיל ענדיקט זיך ווען אַ מאַנשאַפֿט לויפט אויס פון דיסקס צו צילן.",
         "value_translated_native": null
       },
       {
@@ -1506,7 +1857,7 @@
         "description_text": "Defines how chat can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Turn history and chat can be opened by pressing T.",
-        "value_translated_automated": "ווענדן געשיכטע און שמועסן קענען זיין עפן דורך דרינגלעך ט.",
+        "value_translated_automated": "מען קען עפענען די געשיכטע פון ​​די דריי און טשעט דורך דריקן אויף \"T\".",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "איר האָט געענדיקט דעם טוטאָריאַל! איר זענט איצט גרייט צו שפּילן קאַרראָם שפּילערייַ מיט פרענדז און באָץ.",
+        "value_translated_automated": "דו האסט געענדיגט דעם טוטאָריאַל! דו ביסט איצט גרייט צו שפּילן קאַראָם שפּילן מיט פֿרײַנד און באָטן.",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1875,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "שטעלן דיין לויפֿער אויף די באַסעלינע צו אָנהייבן דיין שאָס.",
+        "value_translated_automated": "שטעלט אייער קורסאָר אויף דער באַזעלינע צו אָנהייבן אייער שאָס.",
         "value_translated_native": null
       },
       {
@@ -1533,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "שלעפּן דיין לויפֿער אַוועק פון דיין ציל בשעת קאַנטיניוינג צו האַלטן לינקס גיט.",
+        "value_translated_automated": "שלעפּט אייער קורסאָר אַוועק פון אייער ציל בשעת איר האַלט ווייטער די לינקע קליק.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "לינקס גיט און האַלטן צו באַשטעטיקן דיין סטרייקער פּלייסמאַנט.",
+        "value_translated_automated": "לינקס קליק און האלט צו באשטעטיגן אייער סטרייקער פלאצירונג.",
         "value_translated_native": null
       },
       {
@@ -1551,7 +1902,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "די פּויזע מעניו כּולל אַפּלאַקיישאַן סעטטינגס און קאָנטראָלס, און קענען זיין אַקסעסט אין קיין צייט דורך דרינגלעך די אַנטלויפן שליסל.",
+        "value_translated_automated": "די פּויזע מעניו כּולל אַפּליקאַציע סעטטינגס און קאָנטראָלס, און קען צוגעגריפן ווערן אין יעדער צייט דורך דריקן די עסקאַפּ קנעפּל.",
         "value_translated_native": null
       },
       {
@@ -1560,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "נאָרמאַל קאַרראָם באָרדז קומען מיט פיר האָלעס, גערופן פּאַקאַץ, אין יעדער ווינקל.",
+        "value_translated_automated": "נאָרמאַלע קאַראָם ברעטער קומען מיט פיר לעכער, גערופן פּאַקאַץ, אין יעדן ווינקל.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1920,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "די פּאַקאַץ זענען ווו איר זענט יימינג צו זינקען די דיסקס. היטן ווי אונדזער באָט פיעסעס.",
+        "value_translated_automated": "די טאשן זענען וואו איר צילט צו זינקען די דיסקס. קוקט ווי אונדזער באָט שפּילט.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "פאַכמאַן מאָדע וועט דאַרפן די מלכּה צו זיין פּאַקאַט צו פאַרענדיקן די קייַלעכיק. צו כעזשבן די מלכּה, איר מוזן ערשטער קעשענע די מלכּה און דעמאָלט הצלחה קעשענע דיין ווייַטער שאָס צו דעקן די מלכּה. ניט צו טאָן דאָס וועט צוריקקומען די מלכּה צו די ברעט.",
+        "value_translated_automated": "פראפעסיאנעלע מאָדע וועט פארלאנגען אז די קעניגין זאל ווערן אריינגעטאקט אין א פעקעטש צו ענדיגן דעם רונדע. כדי צו באקומען די קעניגין, מוזט איר ערשט אריינטאקן די קעניגין און דערנאך מצליח זיין אין א פעקעטש צו באדעקן די קעניגין. אויב איר טוט דאס נישט וועט די קעניגין צוריקברענגען צום ברעט.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "דאָ ס אַ סצענאַר. היטן די באָט קעשענע און דאַן דעקן די מלכּה.",
+        "value_translated_automated": "דאָ איז אַ סצענאַר. היט דעם באָט קעשענע און דעק צו די קעניגין.",
         "value_translated_native": null
       },
       {
@@ -1596,7 +1947,7 @@
         "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself. First the queen, then the white piece.",
-        "value_translated_automated": "פּרוּווט עס זיך. ערשט די מלכּה, דערנאָך דאָס װײַסע שטיק.",
+        "value_translated_automated": "פרובירט עס אליין. ערשט די קעניגין, דערנאך די ווייסע שטיק.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1956,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "פּאָינץ מאָדע איז רעקאַמענדיד פֿאַר דיין ערשטער פּאָר פון שפּילערייַ. דאָס גיט איר פילע אַפּערטונאַטיז פֿאַר כעזשבן.",
+        "value_translated_automated": "פונקטן מאָדע איז רעקאָמענדירט פֿאַר אייערע ערשטע פּאָר שפּילן. דאָס גיט אייך אַ סך געלעגנהייטן צו סקאָרן פּונקטן.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1965,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "מעלדונג לינקס גיט צו פליקן דיין סטרייקער אין שפּיל.",
+        "value_translated_automated": "לאָזט לאָזט לינקס קליק צו אַריינברענגען אייער סטרייקער אין שפּיל.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1974,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "פאַרשידענע שפּיל מאָדעס האָבן פאַרשידענע סקאָרינג כּללים, אָבער די כעזשבן קענען זיין וויוד אין קיין צייט דורך דרינגלעך די טאַב שליסל.",
+        "value_translated_automated": "פֿאַרשידענע שפּיל מאָדעס האָבן פֿאַרשידענע כעזשבן-רעגולאַציעס, אָבער די כעזשבן קען מען זען ווען איר ווילט דורך דריקן די TAB קנעפּל.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "פּראַפעשאַנאַל און דיסק בעקן מאָדעס וועט האָבן איר בלויז אַימעד צו קעשענע דיין מאַנשאַפֿט ס קאָליר, בשעת ווייזט מאָדע אַסיינז פאַרשידענע פונט וואַלועס פֿאַר יעדער דיפערענטלי בונט שטיק. טיפּיקאַללי, אַ רויט בונט שטיק איז הויך ווערט, און איז ריפערד צו ווי די מלכּה.",
+        "value_translated_automated": "פראפעסיאנעלע און דיסק פּול מאָדעס וועלן אייך נאָר צילן צו כאַפּן אייער מאַנשאַפֿט'ס קאָליר, בשעת פּונקטן מאָדע גיט אַנדערע פּונקט ווערטן פֿאַר יעדן אַנדערש קאָלירטן שטיק. טיפּישערווייַז, אַ רויט קאָלירט שטיק איז הויך ווערט, און ווערט באַצייכנט ווי די מלכּה.",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1992,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "הנאה Carrom Slam! ~ דינאַהסאָפט מאַנשאַפֿט",
+        "value_translated_automated": "הנאה האָבן פון קאַראָם סלאַם! ~דינאַסאָפט מאַנשאַפֿט",
         "value_translated_native": null
       },
       {
@@ -1650,7 +2001,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "דער דיסק געניצט צו אָנהייבן שפּיל איז גערופן די סטרייקער.",
+        "value_translated_automated": "די דיסק וואָס מען ניצט צו אָנהייבן שפּיל ווערט גערופן דער סטרייקער.",
         "value_translated_native": null
       },
       {
@@ -1659,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "איצט לאָמיר פּרובירן צו זינקען אונדזער ערשטער שאָס. היטן די באָט ערשטער.",
+        "value_translated_automated": "איצט לאָמיר פּרובירן צו זינקען אונדזער ערשטן שאָס. קוק ערשט אויף דעם באָט.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +2019,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "איצט דיין קער. שלאָגן דעם ווייַס שטיק אין די קעשענע ווייַטער ווי די באָט.",
+        "value_translated_automated": "איצט דיין רייע. שלאָג יענע ווײַסע שטיקל אין דער קעשענע לעבן אים פּונקט ווי דער באָט.",
         "value_translated_native": null
       },
       {
@@ -1677,106 +2028,232 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "קאַרראָם סלאַם! איז אַ קאַרראָם סימיאַלייטער שפּיל. דער טוטאָריאַל וועט לערנען איר די קאָנטראָלס און ווי צו שפּילן קאַרראָם.",
+        "value_translated_automated": "קאַראָם סלאַם! איז אַ קאַראָם סימולאַטאָר שפּיל. די טוטאָריאַל וועט לערנען איר די קאָנטראָלס און ווי צו שפּילן קאַראָם.",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_1",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 1",
-        "value_translated_automated": "אַפּאַראַט 1",
+        "key": "button_events",
+        "description_text": "Views the events log and chat",
+        "description_location": "A button on the focused menu",
+        "value_english": "Events",
+        "value_translated_automated": "געשעענישן",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_2",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 2",
-        "value_translated_automated": "אַפּאַראַט 2",
+        "key": "button_pause",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the focused menu",
+        "value_english": "Pause",
+        "value_translated_automated": "פּויזע",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_3",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 3",
-        "value_translated_automated": "אַפּאַראַט 3",
+        "key": "button_return",
+        "description_text": "Returns to the previous menu",
+        "description_location": "A button on many pages, including the settings menu",
+        "value_english": "Return",
+        "value_translated_automated": "צוריקקער",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_4",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 4",
-        "value_translated_automated": "אַפּאַראַט 4",
+        "key": "button_scoreboard",
+        "description_text": "Views the scoreboard",
+        "description_location": "A button on the focused menu",
+        "value_english": "Scoreboard",
+        "value_translated_automated": "סקאָרבאָרד",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_next",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Next Page",
-        "value_translated_automated": "ווייַטער בלאַט",
+        "key": "control_action_escape",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Escape",
+        "value_translated_automated": "אַנטלויפֿן",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_prev",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Previous Page",
-        "value_translated_automated": "פֿריִערדיקע בלאַט",
+        "key": "control_axis_camera_zoom_negative",
+        "description_text": "Zooms the camera further to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom out",
+        "value_translated_automated": "אויסזומען",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_joined",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has joined the game.",
-        "value_translated_automated": "{0} האט זיך איינגעשריבן אין דעם שפיל.",
+        "key": "control_axis_camera_zoom_positive",
+        "description_text": "Zooms the camera closer to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom in",
+        "value_translated_automated": "פארגרעסערן",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_left",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has left the game.",
-        "value_translated_automated": "{0} האט פארלאזט דעם שפיל.",
+        "key": "control_vector_camera_move_backward",
+        "description_text": "Moves the camera backward from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera backward",
+        "value_translated_automated": "באַוועגן די קאַמעראַ צוריק",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_count_pieces",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Piece count",
-        "value_translated_automated": "שטיק ציילן",
+        "key": "control_vector_camera_move_down",
+        "description_text": "Moves the camera down from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera down",
+        "value_translated_automated": "באַוועגן די קאַמעראַ אַראָפּ",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_file_training",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Training",
-        "value_translated_automated": "טראַינינג",
+        "key": "control_vector_camera_move_forward",
+        "description_text": "Moves the camera forward towards the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera forward",
+        "value_translated_automated": "רירן די קאַמעראַ פאָרויס",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "stat_queen_covered",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Queen Covered",
-        "value_translated_automated": "מלכּה באדעקט",
+        "key": "control_vector_camera_move_left",
+        "description_text": "Moves the camera left from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera left",
+        "value_translated_automated": "באַוועגן די קאַמעראַ לינקס",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_right",
+        "description_text": "Moves the camera right from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera right",
+        "value_translated_automated": "באַוועגן די קאַמעראַ רעכטס",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_up",
+        "description_text": "Moves the camera up from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera up",
+        "value_translated_automated": "רוקט די קאַמעראַ אַרויף",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_down",
+        "description_text": "Moves the pointer down from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer down",
+        "value_translated_automated": "באַוועגן דעם צייגער אַראָפּ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_left",
+        "description_text": "Moves the pointer left from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer left",
+        "value_translated_automated": "באַוועגן דעם צייגער לינקס",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_right",
+        "description_text": "Moves the pointer right from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer right",
+        "value_translated_automated": "באַוועגן דעם צייגער רעכטס",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_up",
+        "description_text": "Moves the pointer up from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer up",
+        "value_translated_automated": "באַוועגן דעם צייגער אַרויף",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_pregame",
+        "description_text": "Describes the state of the game as not started yet, before the game",
+        "description_location": "A label in the mini scoreboard",
+        "value_english": "Pregame",
+        "value_translated_automated": "פאַרשפּיל",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_combo",
+        "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has combo covered the queen!",
+        "value_translated_automated": "מאַנשאַפֿט {0} {1} האָט קאָמבאָ באַדעקט די קעניגין!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_discpool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc pool",
+        "value_translated_automated": "דיסק בעקן",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_power",
+        "description_text": "Choice of showing exact power on striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power text",
+        "value_translated_automated": "מאַכט טעקסט",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_trajectory",
+        "description_text": "Choice of showing piece trajectory",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Trajectory",
+        "value_translated_automated": "טראַיעקטאָריע",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_invert_break",
+        "description_text": "Choice of whether to invert the starting break",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Invert break chance",
+        "value_translated_automated": "איבערקערן ברעכן געלעגנהייט",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_amount",
+        "description_text": "Describes the amount of bots that spawn by default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default bot amount",
+        "value_translated_automated": "פעליקייט באָט סומע",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_difficulty",
+        "description_text": "Describes the default new bot difficulty",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default difficulty",
+        "value_translated_automated": "פעליקייַט שוועריקייט",
         "value_translated_native": null
       }
     ]

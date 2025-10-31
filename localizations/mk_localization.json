@@ -44,11 +44,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_delete_selected",
+        "description_text": "Deletes all mods that are currently selected",
+        "description_location": "A button on the mods menu",
+        "value_english": "Delete selected",
+        "value_translated_automated": "Избриши го избраното",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "button_invite",
         "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
         "description_location": "A button on the players menu",
         "value_english": "Invite Friends",
-        "value_translated_automated": "Поканете пријатели",
+        "value_translated_automated": "Покани пријатели",
         "value_translated_native": null
       },
       {
@@ -57,7 +66,7 @@
         "description_text": "Joins the server of the selected lobby",
         "description_location": "A button on the browser menu",
         "value_english": "Join",
-        "value_translated_automated": "Приклучи се",
+        "value_translated_automated": "Придружи се",
         "value_translated_native": null
       },
       {
@@ -102,7 +111,16 @@
         "description_text": "Quits the server/application",
         "description_location": "A button on the landing menu",
         "value_english": "Quit",
-        "value_translated_automated": "Откажи",
+        "value_translated_automated": "Напушти",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_randomize",
+        "description_text": "Randomizes all customization features",
+        "description_location": "A button on the customization menu",
+        "value_english": "Randomize",
+        "value_translated_automated": "Рандомизирај",
         "value_translated_native": null
       },
       {
@@ -111,7 +129,16 @@
         "description_text": "Confirms the local player is ready",
         "description_location": "A button on the pregame menu",
         "value_english": "Ready",
-        "value_translated_automated": "Подготвени",
+        "value_translated_automated": "Подготвено",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_reset",
+        "description_text": "Resets the relevant data",
+        "description_location": "A button on the settings menu",
+        "value_english": "Reset",
+        "value_translated_automated": "Ресетирај",
         "value_translated_native": null
       },
       {
@@ -120,7 +147,7 @@
         "description_text": "Removes the pause menu, focusing on the play area",
         "description_location": "A button on the pause menu",
         "value_english": "Resume",
-        "value_translated_automated": "Продолжи",
+        "value_translated_automated": "Резиме",
         "value_translated_native": null
       },
       {
@@ -179,6 +206,42 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": "Sets the camera view to the overhead preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 1",
+        "value_translated_automated": "Камера 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": "Sets the camera view to the low preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 2",
+        "value_translated_automated": "Камера 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": "Sets the camera view to the isometric preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 3",
+        "value_translated_automated": "Камера 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": "Sets the camera view to the far preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 4",
+        "value_translated_automated": "Камера 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "control_action_camera_next",
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
@@ -201,7 +264,34 @@
         "description_text": "Toggles the focus of the chat/event menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Chat",
-        "value_translated_automated": "Вклучете го разговорот",
+        "value_translated_automated": "Вклучи/исклучи разговор",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": "Jumps to the next default menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Page",
+        "value_translated_automated": "Следна страница",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Page",
+        "value_translated_automated": "Претходна страница",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_pointer_reset",
+        "description_text": "Resets the pointer to the baseline",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Reset Pointer",
+        "value_translated_automated": "Ресетирај покажувач",
         "value_translated_native": null
       },
       {
@@ -219,7 +309,7 @@
         "description_text": "Used to reset pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Quaternary Action",
-        "value_translated_automated": "Кватернарна акција",
+        "value_translated_automated": "Квартерна акција",
         "value_translated_native": null
       },
       {
@@ -228,7 +318,7 @@
         "description_text": "Toggles the visibility of the scoreboard menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Scoreboard",
-        "value_translated_automated": "Вклучете ја таблата со резултати",
+        "value_translated_automated": "Вклучи/исклучи табла со резултати",
         "value_translated_native": null
       },
       {
@@ -237,7 +327,7 @@
         "description_text": "Used to cancel shots",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Secondary Action",
-        "value_translated_automated": "Секундарна акција",
+        "value_translated_automated": "Секундарно дејство",
         "value_translated_native": null
       },
       {
@@ -246,7 +336,7 @@
         "description_text": "Used to confirm the current action",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Start",
-        "value_translated_automated": "Започнете",
+        "value_translated_automated": "Почеток",
         "value_translated_native": null
       },
       {
@@ -255,7 +345,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "Тертарно дејство",
+        "value_translated_automated": "Тертарна акција",
         "value_translated_native": null
       },
       {
@@ -264,7 +354,7 @@
         "description_text": "Toggles the player pregame readiness",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
-        "value_translated_automated": "Вклучи Подготвен",
+        "value_translated_automated": "Вклучи/исклучи подготвено",
         "value_translated_native": null
       },
       {
@@ -274,6 +364,15 @@
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Pointer Color",
         "value_translated_automated": "Боја на покажувачот",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_power",
+        "description_text": "Changes the color of the player's power text",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Power Text Color",
+        "value_translated_automated": "Боја на текстот",
         "value_translated_native": null
       },
       {
@@ -309,7 +408,7 @@
         "description_text": "Changes the skin of the player's carrom striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Striker Skin",
-        "value_translated_automated": "Напаѓачка кожа",
+        "value_translated_automated": "Скин на напаѓач",
         "value_translated_native": null
       },
       {
@@ -318,7 +417,7 @@
         "description_text": "Changes the skin of the player's trail",
         "description_location": "A customization option in the general tab of the customization menu",
         "value_english": "Trial Skin",
-        "value_translated_automated": "Пробна кожа",
+        "value_translated_automated": "Пробен скин",
         "value_translated_native": null
       },
       {
@@ -341,6 +440,33 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_apartment",
+        "description_text": "Represents an enironment representing a nice apartment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Apartment",
+        "value_translated_automated": "Апартман",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_empty",
+        "description_text": "Represents an enironment representing an empty room",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Empty",
+        "value_translated_automated": "Празно",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_stadium",
+        "description_text": "Represents an enironment representing stadium environment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Stadium",
+        "value_translated_automated": "Стадион",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_author",
         "description_text": "Describes the creator of the mod",
         "description_location": "A label in the mods menu",
@@ -354,7 +480,7 @@
         "description_text": "Describes that this game is according to the following conditions",
         "description_location": "A label in the intro menu",
         "value_english": "Best of",
-        "value_translated_automated": "Најдоброто од",
+        "value_translated_automated": "Најдобро од",
         "value_translated_native": null
       },
       {
@@ -363,7 +489,7 @@
         "description_text": "Describes the value of blue used in the RGB color",
         "description_location": "A label in the color customization setting",
         "value_english": "Blue",
-        "value_translated_automated": "Сино",
+        "value_translated_automated": "Сина",
         "value_translated_native": null
       },
       {
@@ -390,7 +516,7 @@
         "description_text": "Describes the score debt owed by a particular team",
         "description_location": "A label in the Professional Carrom game mode menu",
         "value_english": "Team {0} owes {1} point(s)",
-        "value_translated_automated": "Тимот {0} должи {1} бод(и)",
+        "value_translated_automated": "Тимот {0} должи {1} бод(ови)",
         "value_translated_native": null
       },
       {
@@ -404,6 +530,15 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_enable",
+        "description_text": "Enables the mods within the game",
+        "description_location": "A label in the mods menu",
+        "value_english": "Enable",
+        "value_translated_automated": "Овозможи",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_green",
         "description_text": "Describes the value of green used in the RGB color",
         "description_location": "A label in the color customization setting",
@@ -413,11 +548,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_complete",
+        "description_text": "Displays that this language has complete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is complete or almost complete.",
+        "value_translated_automated": "Оваа опција за локализација е завршена или речиси завршена.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_incomplete",
+        "description_text": "Displays that this language has incomplete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
+        "value_translated_automated": "Оваа опција за локализација е нецелосна, се извинуваме за неточностите. Доколку можете да помогнете во преводот, ќе ви бидеме многу благодарни. Ве молиме посетете го нашиот Discord за повеќе информации.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_not_ready",
         "description_text": "Describes a player who is not yet prepared to play",
         "description_location": "A label in the players menu",
         "value_english": "Not Ready",
-        "value_translated_automated": "Не е подготвен",
+        "value_translated_automated": "Не е подготвено",
         "value_translated_native": null
       },
       {
@@ -435,7 +588,7 @@
         "description_text": "Describes the amount of players waiting to play out of a total amount",
         "description_location": "A label in the pregame menu",
         "value_english": "Players Ready",
-        "value_translated_automated": "Подготвени играчи",
+        "value_translated_automated": "Играчите се подготвени",
         "value_translated_native": null
       },
       {
@@ -453,7 +606,7 @@
         "description_text": "Describes a player who is prepared and waiting to play",
         "description_location": "A label in the players menu",
         "value_english": "Ready",
-        "value_translated_automated": "Подготвени",
+        "value_translated_automated": "Подготвено",
         "value_translated_native": null
       },
       {
@@ -462,7 +615,16 @@
         "description_text": "Describes the value of red used in the RGB color",
         "description_location": "A label in the color customization setting",
         "value_english": "Red",
-        "value_translated_automated": "Црвено",
+        "value_translated_automated": "Црвена",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round",
+        "description_text": "Displays what round the current context is",
+        "description_location": "A label on the mini scoreboard",
+        "value_english": "Round {0}",
+        "value_translated_automated": "Круг {0}",
         "value_translated_native": null
       },
       {
@@ -471,7 +633,7 @@
         "description_text": "Describes an amount of rounds",
         "description_location": "A label in the intro menu",
         "value_english": "{0} rounds",
-        "value_translated_automated": "{0} круга",
+        "value_translated_automated": "{0} рунди",
         "value_translated_native": null
       },
       {
@@ -489,7 +651,7 @@
         "description_text": "Describes that the scoreboard represents individual player statistics",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Player Scoreboard",
-        "value_translated_automated": "Табла на играчи",
+        "value_translated_automated": "Резултатска табла на играчи",
         "value_translated_native": null
       },
       {
@@ -498,7 +660,16 @@
         "description_text": "Describes that the scoreboard represents team scoring",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Team Scoreboard",
-        "value_translated_automated": "Табла со резултати на тимот",
+        "value_translated_automated": "Резултатска табла на тимот",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_select",
+        "description_text": "Selects the mods, which may then be deleted",
+        "description_location": "A label in the mods menu",
+        "value_english": "Select",
+        "value_translated_automated": "Изберете",
         "value_translated_native": null
       },
       {
@@ -525,7 +696,7 @@
         "description_text": "Describes a specific team",
         "description_location": "A label in the intro menu",
         "value_english": "Team {0}",
-        "value_translated_automated": "Тимот {0}",
+        "value_translated_automated": "Тим {0}",
         "value_translated_native": null
       },
       {
@@ -535,6 +706,24 @@
         "description_location": "A label in the scoreboard menu",
         "value_english": "Total",
         "value_translated_automated": "Вкупно",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_waiting_for_input",
+        "description_text": "Shows the user that we are waiting to capture their input for the new binding",
+        "description_location": "A label that shows when the user is rebinding a control in the settings menu",
+        "value_english": "Waiting for input",
+        "value_translated_automated": "Чекам влез",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_break_setup",
+        "description_text": "States what break file has been used",
+        "description_location": "An event message from the system",
+        "value_english": "Break {0} spawned.",
+        "value_translated_automated": "Се појави прекин {0}.",
         "value_translated_native": null
       },
       {
@@ -557,6 +746,24 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": "States a player has joined the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} се придружи на играта.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": "States a player has left the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} ја напушти играта.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_queen_covered",
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
@@ -575,11 +782,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_debt",
+        "description_text": "States that the pieces replaced were from previous debt",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing owed debt to the board",
+        "value_translated_automated": "Замена на долгот кон одборот",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_foul",
+        "description_text": "States that the pieces replaced were from a foul",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing due to foul",
+        "value_translated_automated": "Замена поради прекршок",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_round_end",
         "description_text": "States the round has ended",
         "description_location": "An event message from the system",
         "value_english": "Round {0} has ended",
-        "value_translated_automated": "Коло {0} заврши",
+        "value_translated_automated": "Рундата {0} заврши",
         "value_translated_native": null
       },
       {
@@ -588,7 +813,7 @@
         "description_text": "States the round has started",
         "description_location": "An event message from the system",
         "value_english": "Round {0} is starting!",
-        "value_translated_automated": "Коло {0} започнува!",
+        "value_translated_automated": "Рундата {0} започнува!",
         "value_translated_native": null
       },
       {
@@ -606,7 +831,16 @@
         "description_text": "States that the player has missed",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has missed",
-        "value_translated_automated": "Тимот {0} {1} пропушти",
+        "value_translated_automated": "Тимот {0} {1} промаши",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_round_end",
+        "description_text": "States that the player has ended the round on this turn",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has ended the round",
+        "value_translated_automated": "Тимот {0} {1} ја заврши рундата",
         "value_translated_native": null
       },
       {
@@ -615,7 +849,16 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "Тимот {0} {1} го потопи својот удар",
+        "value_translated_automated": "Тимот {0} {1} го поништи својот удар",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_all",
+        "description_text": "An option that fulfils all relevant configurations",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "All",
+        "value_translated_automated": "Сите",
         "value_translated_native": null
       },
       {
@@ -624,7 +867,43 @@
         "description_text": "Describes the ability to place your striker anywhere on the board",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Anywhere",
-        "value_translated_automated": "Секаде",
+        "value_translated_automated": "Каде било",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_direction_only",
+        "description_text": "An assist option that only shows the direction",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction only",
+        "value_translated_automated": "Само насока",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_direction",
+        "description_text": "An assist option that only shows the direction and power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction and power",
+        "value_translated_automated": "Насока и моќ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_only",
+        "description_text": "An assist option that only shows the power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Power only",
+        "value_translated_automated": "Само напојување",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_trajectory_only",
+        "description_text": "An assist option that only shows the trajectory",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Trajectory only",
+        "value_translated_automated": "Само траекторија",
         "value_translated_native": null
       },
       {
@@ -633,7 +912,7 @@
         "description_text": "Describes the ability to choose a variety of options throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Assorted",
-        "value_translated_automated": "Избрани",
+        "value_translated_automated": "Разновиден",
         "value_translated_native": null
       },
       {
@@ -651,7 +930,7 @@
         "description_text": "Describes the bowling game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Bowling",
-        "value_translated_automated": "Куглање",
+        "value_translated_automated": "Боулинг",
         "value_translated_native": null
       },
       {
@@ -669,7 +948,7 @@
         "description_text": "Describes the ability to place your striker anywhere on the baseline",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Casual",
-        "value_translated_automated": "Случаен",
+        "value_translated_automated": "Неформален",
         "value_translated_native": null
       },
       {
@@ -678,7 +957,7 @@
         "description_text": "Describes the crokinole game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Crokinole",
-        "value_translated_automated": "Крокинола",
+        "value_translated_automated": "Крокиноле",
         "value_translated_native": null
       },
       {
@@ -692,20 +971,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "option_disc_pool",
-        "description_text": "Describes the disc pool game mode",
-        "description_location": "An option in a drop down menu in the rules menu",
-        "value_english": "Disc Pool",
-        "value_translated_automated": "Диск базен",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "option_friends",
         "description_text": "Describes the friends only configuration",
         "description_location": "An option in a drop down menu in the server menu",
         "value_english": "Friends",
         "value_translated_automated": "Пријатели",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_none",
+        "description_text": "Describes an option where none of the option are fulfilled",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "None",
+        "value_translated_automated": "Ништо",
         "value_translated_native": null
       },
       {
@@ -723,7 +1002,7 @@
         "description_text": "Describes the private configuration",
         "description_location": "An option in a drop down menu in the server menu",
         "value_english": "Private",
-        "value_translated_automated": "Приватен",
+        "value_translated_automated": "Приватно",
         "value_translated_native": null
       },
       {
@@ -768,7 +1047,7 @@
         "description_text": "Describes the ability to place your striker only where the rules allow",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Strict",
-        "value_translated_automated": "Строго",
+        "value_translated_automated": "Строг",
         "value_translated_native": null
       },
       {
@@ -795,7 +1074,7 @@
         "description_text": "Choice of what board will be used",
         "description_location": "A rule in the rules menu",
         "value_english": "Board",
-        "value_translated_automated": "Одбор",
+        "value_translated_automated": "Табла",
         "value_translated_native": null
       },
       {
@@ -804,7 +1083,7 @@
         "description_text": "Choice of whether a forward only trajectory rule will be used",
         "description_location": "A rule in the rules menu",
         "value_english": "Forward shot only",
-        "value_translated_automated": "Само шут напред",
+        "value_translated_automated": "Само удар напред",
         "value_translated_native": null
       },
       {
@@ -813,7 +1092,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "Влошка во ѕиден џеб",
+        "value_translated_automated": "Вметнат џеб во ѕид",
         "value_translated_native": null
       },
       {
@@ -831,7 +1110,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Табла за отскокнување",
+        "value_translated_automated": "Даска за одскокнување",
         "value_translated_native": null
       },
       {
@@ -840,7 +1119,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "Парче за отскокнување",
+        "value_translated_automated": "Парче за подигање",
         "value_translated_native": null
       },
       {
@@ -849,7 +1128,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Напаѓач со отскокнување",
+        "value_translated_automated": "Напаѓач со скокачки удар",
         "value_translated_native": null
       },
       {
@@ -858,7 +1137,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "Ѕид за отскокнување",
+        "value_translated_automated": "Ѕид за одскокнување",
         "value_translated_native": null
       },
       {
@@ -867,7 +1146,7 @@
         "description_text": "Choice of max points to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Point maximum",
-        "value_translated_automated": "Точка максимум",
+        "value_translated_automated": "Максимална точка",
         "value_translated_native": null
       },
       {
@@ -876,7 +1155,16 @@
         "description_text": "Choice of max rounds to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Round maximum",
-        "value_translated_automated": "Заоблен максимум",
+        "value_translated_automated": "Заокружете го максимумот",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": "Choices of how many pieces are present per team",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Piece count",
+        "value_translated_automated": "Број на парчиња",
         "value_translated_native": null
       },
       {
@@ -894,7 +1182,7 @@
         "description_text": "Choice of how many red pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces red",
-        "value_translated_automated": "Црвени парчиња",
+        "value_translated_automated": "Парчиња црвени",
         "value_translated_native": null
       },
       {
@@ -939,7 +1227,16 @@
         "description_text": "Choice of how far the baseline is from the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Distance baseline",
-        "value_translated_automated": "Основна линија за растојание",
+        "value_translated_automated": "Основно растојание",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_environment",
+        "description_text": "Choice of what 3D environment is presented",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Environment",
+        "value_translated_automated": "Животна средина",
         "value_translated_native": null
       },
       {
@@ -953,11 +1250,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": "Choice of what training file to load",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "Обука",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "rule_friction_board",
         "description_text": "Choice of how much friction the board has",
         "description_location": "A rule in the rules menu",
         "value_english": "Board friction",
-        "value_translated_automated": "Триење на табла",
+        "value_translated_automated": "Триење на плочата",
         "value_translated_native": null
       },
       {
@@ -1002,7 +1308,7 @@
         "description_text": "Choice of how inset the pocket is into the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Pocket inset",
-        "value_translated_automated": "Влошка во џеб",
+        "value_translated_automated": "Вметнат џеб",
         "value_translated_native": null
       },
       {
@@ -1011,7 +1317,7 @@
         "description_text": "Choice of where a player is allowed to place a striker",
         "description_location": "A rule in the rules menu",
         "value_english": "Striker placement",
-        "value_translated_automated": "Пласман на напаѓач",
+        "value_translated_automated": "Поставување на напаѓачот",
         "value_translated_native": null
       },
       {
@@ -1020,7 +1326,7 @@
         "description_text": "Choice of where the game caps the queens point contribution",
         "description_location": "A rule in the rules menu",
         "value_english": "Queen points cap",
-        "value_translated_automated": "Кралица поени капа",
+        "value_translated_automated": "Капак на поени за кралицата",
         "value_translated_native": null
       },
       {
@@ -1029,7 +1335,7 @@
         "description_text": "Choice of how many points a black piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for black",
-        "value_translated_automated": "Поени за црно",
+        "value_translated_automated": "Поени за црнци",
         "value_translated_native": null
       },
       {
@@ -1056,7 +1362,7 @@
         "description_text": "Choice of how many points a white piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for white",
-        "value_translated_automated": "Поени за бело",
+        "value_translated_automated": "Поени за белиот",
         "value_translated_native": null
       },
       {
@@ -1065,7 +1371,7 @@
         "description_text": "Choice of how high the power cap for strikers is set",
         "description_location": "A rule in the rules menu",
         "value_english": "Power Scale",
-        "value_translated_automated": "Скала за моќност",
+        "value_translated_automated": "Скала на моќност",
         "value_translated_native": null
       },
       {
@@ -1074,7 +1380,7 @@
         "description_text": "Choice of how large a board is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Board",
-        "value_translated_automated": "Табла за големина",
+        "value_translated_automated": "Табла со големини",
         "value_translated_native": null
       },
       {
@@ -1092,7 +1398,7 @@
         "description_text": "Choice of how large a pocket is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Pocket",
-        "value_translated_automated": "Џеб со големина",
+        "value_translated_automated": "Големина на џеб",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1407,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "Напаѓач на големина",
+        "value_translated_automated": "Големина на напаѓач",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1416,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "Свртете го тајмерот",
+        "value_translated_automated": "Тајмер за вртење",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1434,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Макс играчи",
+        "value_translated_automated": "Максимален број на играчи",
         "value_translated_native": null
       },
       {
@@ -1151,8 +1457,35 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_cursor",
-        "description_text": "Describes the sensitivity of the cursor",
+        "key": "setting_application_language",
+        "description_text": "Describes what locale is being used for the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Language",
+        "value_translated_automated": "Јазик",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_mods",
+        "description_text": "Resets all mod files and preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset mods",
+        "value_translated_automated": "Ресетирај модови",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_preferences",
+        "description_text": "Resets all player preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset preferences",
+        "value_translated_automated": "Ресетирај ги поставките",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_cursor",
+        "description_text": "Describes the speed at which the cursor is moved",
         "description_location": "A setting in the settings menu",
         "value_english": "Cursor sensitivity",
         "value_translated_automated": "Чувствителност на курсорот",
@@ -1160,11 +1493,38 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_zoom",
-        "description_text": "Describes the sensitivity of the zoom",
+        "key": "setting_application_speed_rotation",
+        "description_text": "Describes the speed at which the camera rotates",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Rotation sensitivitiy",
+        "value_translated_automated": "Чувствителност на ротација",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_zoom",
+        "description_text": "Describes the speed at which the camera zooms",
         "description_location": "A setting in the settings menu",
         "value_english": "Zoom sensitivity",
         "value_translated_automated": "Чувствителност на зумирање",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_power",
+        "description_text": "Describes if the power text will be shown",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Power text assist",
+        "value_translated_automated": "Моќна помош за текст",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_trajectory",
+        "description_text": "Describes what aim assists will be enabled",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Trajectory assist",
+        "value_translated_automated": "Помош при траекторија",
         "value_translated_native": null
       },
       {
@@ -1182,7 +1542,7 @@
         "description_text": "Describes the refresh rate of the application",
         "description_location": "A setting in the settings menu",
         "value_english": "Refresh rate",
-        "value_translated_automated": "Стапка на освежување",
+        "value_translated_automated": "Брзина на освежување",
         "value_translated_native": null
       },
       {
@@ -1200,7 +1560,7 @@
         "description_text": "Describes the volume relating to physical game elements",
         "description_location": "A setting in the settings menu",
         "value_english": "Game volume",
-        "value_translated_automated": "Јачината на играта",
+        "value_translated_automated": "Јачина на звук во играта",
         "value_translated_native": null
       },
       {
@@ -1209,7 +1569,7 @@
         "description_text": "Describes the volume relating to game mode events",
         "description_location": "A setting in the settings menu",
         "value_english": "Game mode volume",
-        "value_translated_automated": "Јачина на звук на режим на игра",
+        "value_translated_automated": "Јачина на звук во режим на игра",
         "value_translated_native": null
       },
       {
@@ -1218,7 +1578,7 @@
         "description_text": "Describes the volume scale of all volume types",
         "description_location": "A setting in the settings menu",
         "value_english": "Master volume",
-        "value_translated_automated": "Главен волумен",
+        "value_translated_automated": "Главен тон",
         "value_translated_native": null
       },
       {
@@ -1227,7 +1587,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "Јачина на интерфејс",
+        "value_translated_automated": "Јачина на звук на корисничкиот интерфејс",
         "value_translated_native": null
       },
       {
@@ -1236,7 +1596,7 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "Црното потоне",
+        "value_translated_automated": "Блек Санк",
         "value_translated_native": null
       },
       {
@@ -1250,11 +1610,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": "Describes the amount of queens successfully covered",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Покриена со кралица",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "stat_queen_sank",
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "Кралицата потона",
+        "value_translated_automated": "Кралицата Санк",
         "value_translated_native": null
       },
       {
@@ -1263,7 +1632,7 @@
         "description_text": "Describes the amount of strikers shot by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Attempt",
-        "value_translated_automated": "Застрелан обид",
+        "value_translated_automated": "Обид за истрел",
         "value_translated_native": null
       },
       {
@@ -1272,7 +1641,7 @@
         "description_text": "Describes the amount of pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Sank",
-        "value_translated_automated": "Шут потона",
+        "value_translated_automated": "Шот Санк",
         "value_translated_native": null
       },
       {
@@ -1281,7 +1650,16 @@
         "description_text": "Describes the amount of white pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
-        "value_translated_automated": "Бело потона",
+        "value_translated_automated": "Вајт Санк",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_application",
+        "description_text": "Describes a page of application related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Application",
+        "value_translated_automated": "Апликација",
         "value_translated_native": null
       },
       {
@@ -1299,7 +1677,7 @@
         "description_text": "Describes a page of board related rules",
         "description_location": "A tab label in the rules menu",
         "value_english": "Board",
-        "value_translated_automated": "Одбор",
+        "value_translated_automated": "Табла",
         "value_translated_native": null
       },
       {
@@ -1371,16 +1749,7 @@
         "description_text": "Describes a page of personal related customizaitons",
         "description_location": "A tab label in the customizations menu",
         "value_english": "Personal",
-        "value_translated_automated": "Лични",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_pointer",
-        "description_text": "Describes a page of pointer related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Pointer",
-        "value_translated_automated": "Покажувач",
+        "value_translated_automated": "Лично",
         "value_translated_native": null
       },
       {
@@ -1389,25 +1758,7 @@
         "description_text": "Describes a page of ruleset related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Presets",
-        "value_translated_automated": "Поставки",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_skin",
-        "description_text": "Describes a page of carrom skin related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Skin",
-        "value_translated_automated": "Кожата",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_trail",
-        "description_text": "Describes a page of trail related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Trail",
-        "value_translated_automated": "Патека",
+        "value_translated_automated": "Претходно поставени поставки",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1785,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "Напаѓачот мора да почне да игра од основната линија.",
+        "value_translated_automated": "Напаѓачот мора да ја започне играта од основната линија.",
         "value_translated_native": null
       },
       {
@@ -1443,7 +1794,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "Овде гледаме табла од морков.",
+        "value_translated_automated": "Тука гледаме табла од каром.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Секоја игра на каром ќе започне со сите фигури за бодување наредени во центарот. Првиот удар од рундата се нарекува пауза.",
+        "value_translated_automated": "Секоја игра на каром ќе започне со сите фигури за бодување групирани во центарот. Првиот удар во рундата се нарекува пауза.",
         "value_translated_native": null
       },
       {
@@ -1461,7 +1812,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "Овде бот демонстрира пауза.",
+        "value_translated_automated": "Тука бот демонстрира пауза.",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1830,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Добро погоден прекин треба да ги растера парчињата низ таблата. Вештиот играч може да си даде предност во текот на целата рунда од добар брејк и последователни удари.",
+        "value_translated_automated": "Добро погодениот пробив треба да ги распрсне фигурите низ целата табла. Вешт играч би можел да си обезбеди предност во текот на целата рунда од добар пробив и последователните удари.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Можете да ги менувате аглите на камерата со притискање на 0, 1, 2 или 3. Препорачаната камера за репродукција е 1. Можете да ја движите камерата во секое време со држење на десен клик и движење на глувчето. Погледнете повеќе контроли на камерата во менито за контроли.",
+        "value_translated_automated": "Можете да ги менувате аглите на камерата со притискање на 0, 1, 2 или 3. Препорачаната камера за репродукција е 1. Можете да ја поместувате камерата во секое време со држење на десното копче и движење на глувчето. Погледнете повеќе контроли на камерата во менито за контроли.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom се репродуцира со превртување на дискови во други дискови за да се втурнат во дупки на таблата. Со тоа успешно ви овозможува уште еден пресврт. Играта завршува кога на тимот му снема дискови за цел.",
+        "value_translated_automated": "Каром се игра со туркање на дискови во други дискови за да се турнат во дупките на таблата. Со тоа успешно добивате уште еден ред. Играта завршува кога на еден тим ќе му снема дискови за таргетирање.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Го завршивте упатството! Сега сте подготвени да играте carrom игри со пријателите и ботови.",
+        "value_translated_automated": "Го завршивте упатството! Сега сте подготвени да играте игри со каром со пријатели и ботови.",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1875,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "Поставете го курсорот на основната линија за да ја започнете вашата снимка.",
+        "value_translated_automated": "Поставете го курсорот на основната линија за да започнете со снимањето.",
         "value_translated_native": null
       },
       {
@@ -1533,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Повлечете го курсорот подалеку од вашата цел додека продолжувате да држите лев клик.",
+        "value_translated_automated": "Повлечете го курсорот подалеку од целта додека продолжувате да кликнувате со левиот клик.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Лев клик и задржете за да го потврдите пласманот на напаѓачот.",
+        "value_translated_automated": "Кликнете со левото копче и задржете за да ја потврдите поставеноста на напаѓачот.",
         "value_translated_native": null
       },
       {
@@ -1551,7 +1902,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "Менито за пауза содржи поставки и контроли на апликацијата и може да се пристапи во секое време со притискање на копчето за бегство.",
+        "value_translated_automated": "Менито за пауза содржи поставки и контроли за апликацијата и може да се пристапи до него во секое време со притискање на копчето Escape.",
         "value_translated_native": null
       },
       {
@@ -1560,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "Стандардните табли од карром доаѓаат со четири дупки, наречени џебови, во секој агол.",
+        "value_translated_automated": "Стандардните каромски табли доаѓаат со четири дупки, наречени џебови, во секој агол.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1920,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Овие џебови се местото каде што сакате да ги потонете дисковите. Гледајте како игра нашиот бот.",
+        "value_translated_automated": "Овие џебови се местото каде што се стремите да ги потопите дисковите. Гледајте како игра нашиот бот.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Професионалниот режим ќе бара кралицата да биде ставена во џеб за да го заврши кругот. За да ја постигнете кралицата, прво мора да ја ставите кралицата во џеб, а потоа успешно да ја ставите во џеб следниот удар за да ја покриете кралицата. Ако не го стори тоа, кралицата ќе се врати на таблата.",
+        "value_translated_automated": "Професионалниот режим ќе бара дамата да биде ставена во џеб за да се заврши рундата. За да ја освоите дамата, прво мора да ја ставите дамата во џеб, а потоа успешно да го ставите вашиот следен удар за да ја покриете дамата. Во спротивно, дамата ќе се врати на таблата.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Еве едно сценарио. Гледајте го џебот на ботот и потоа покријте ја кралицата.",
+        "value_translated_automated": "Еве еден сценарио. Внимавајте на џебот на ботот, а потоа покријте ја кралицата.",
         "value_translated_native": null
       },
       {
@@ -1596,7 +1947,7 @@
         "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself. First the queen, then the white piece.",
-        "value_translated_automated": "Пробајте сами. Прво кралицата, па белото парче.",
+        "value_translated_automated": "Пробајте го сами. Прво кралицата, потоа белото парче.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1956,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "Режимот за поени се препорачува за вашите први две игри. Ова ви дава многу можности за гол.",
+        "value_translated_automated": "Режимот на поени се препорачува за вашите први неколку игри. Ова ви дава многу можности за постигнување поени.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1965,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "Ослободете го левиот клик за да го вклучите вашиот напаѓач во игра.",
+        "value_translated_automated": "Отпуштете го левиот клик за да го вклучите напаѓачот во игра.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1974,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "Различни режими на игра имаат различни правила за бодување, но резултатот може да се види во секое време со притискање на копчето TAB.",
+        "value_translated_automated": "Различните режими на игра имаат различни правила за бодување, но резултатот може да се види во секое време со притискање на копчето TAB.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Професионалните режими и режимите на базен со диск ќе имаат за цел само да ја прикачите бојата на вашиот тим, додека режимот за поени доделува различни вредности на точки за секое различно обоено парче. Вообичаено, црвеното парче има висока вредност и се нарекува кралица.",
+        "value_translated_automated": "Професионалниот режим и режимот со диск-бајл ќе ве тераат да се стремите само да ја соберете бојата на вашиот тим, додека режимот на поени доделува различни вредности на поени за секоја фигура со различна боја. Типично, црвената фигура е со висока вредност и се нарекува кралица.",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1992,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "Уживајте во Карром Слем! ~Динахсофт тим",
+        "value_translated_automated": "Уживајте во Carrom Slam! ~Тимот на Dinahsoft",
         "value_translated_native": null
       },
       {
@@ -1650,7 +2001,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "Дискот што се користи за започнување на репродукцијата се нарекува напаѓач.",
+        "value_translated_automated": "Дискот што се користи за започнување на свирењето се нарекува штрајкер.",
         "value_translated_native": null
       },
       {
@@ -1659,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Сега да се обидеме да го потонеме нашиот прв истрел. Гледајте го прво ботот.",
+        "value_translated_automated": "Сега да се обидеме да го изведеме нашиот прв удар. Прво погледнете го ботот.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +2019,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Сега ти е редот. Удри го белото парче во џебот до него исто како ботот.",
+        "value_translated_automated": "Сега е твој ред. Удри го тоа бело парче во џебот до него, исто како роботот.",
         "value_translated_native": null
       },
       {
@@ -1677,106 +2028,232 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Каром Слем! е игра со симулатор на карром. Овој туторијал ќе ве научи на контролите и како да играте carrom.",
+        "value_translated_automated": "Carrom Slam! е игра симулатор на Carrom. Ова упатство ќе ве научи на контролите и како да играте Carrom.",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_1",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 1",
-        "value_translated_automated": "Камера 1",
+        "key": "button_events",
+        "description_text": "Views the events log and chat",
+        "description_location": "A button on the focused menu",
+        "value_english": "Events",
+        "value_translated_automated": "Настани",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_2",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 2",
-        "value_translated_automated": "Камера 2",
+        "key": "button_pause",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the focused menu",
+        "value_english": "Pause",
+        "value_translated_automated": "Пауза",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_3",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 3",
-        "value_translated_automated": "Камера 3",
+        "key": "button_return",
+        "description_text": "Returns to the previous menu",
+        "description_location": "A button on many pages, including the settings menu",
+        "value_english": "Return",
+        "value_translated_automated": "Врати",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_4",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 4",
-        "value_translated_automated": "Камера 4",
+        "key": "button_scoreboard",
+        "description_text": "Views the scoreboard",
+        "description_location": "A button on the focused menu",
+        "value_english": "Scoreboard",
+        "value_translated_automated": "Резултатска табла",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_next",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Next Page",
-        "value_translated_automated": "Следна страница",
+        "key": "control_action_escape",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Escape",
+        "value_translated_automated": "Бегство",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_prev",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Previous Page",
-        "value_translated_automated": "Претходна страница",
+        "key": "control_axis_camera_zoom_negative",
+        "description_text": "Zooms the camera further to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom out",
+        "value_translated_automated": "Одзумирај",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_joined",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has joined the game.",
-        "value_translated_automated": "{0} се приклучи на играта.",
+        "key": "control_axis_camera_zoom_positive",
+        "description_text": "Zooms the camera closer to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom in",
+        "value_translated_automated": "Зголеми",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_left",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has left the game.",
-        "value_translated_automated": "{0} ја напушти играта.",
+        "key": "control_vector_camera_move_backward",
+        "description_text": "Moves the camera backward from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera backward",
+        "value_translated_automated": "Помести ја камерата наназад",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_count_pieces",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Piece count",
-        "value_translated_automated": "Број на парчиња",
+        "key": "control_vector_camera_move_down",
+        "description_text": "Moves the camera down from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera down",
+        "value_translated_automated": "Помести ја камерата надолу",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_file_training",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Training",
-        "value_translated_automated": "Обука",
+        "key": "control_vector_camera_move_forward",
+        "description_text": "Moves the camera forward towards the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera forward",
+        "value_translated_automated": "Помести ја камерата напред",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "stat_queen_covered",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Queen Covered",
-        "value_translated_automated": "Покриена кралица",
+        "key": "control_vector_camera_move_left",
+        "description_text": "Moves the camera left from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera left",
+        "value_translated_automated": "Помести ја камерата налево",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_right",
+        "description_text": "Moves the camera right from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera right",
+        "value_translated_automated": "Помести ја камерата надесно",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_up",
+        "description_text": "Moves the camera up from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera up",
+        "value_translated_automated": "Помести ја камерата нагоре",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_down",
+        "description_text": "Moves the pointer down from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer down",
+        "value_translated_automated": "Помести го покажувачот надолу",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_left",
+        "description_text": "Moves the pointer left from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer left",
+        "value_translated_automated": "Помести го покажувачот налево",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_right",
+        "description_text": "Moves the pointer right from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer right",
+        "value_translated_automated": "Помести го покажувачот надесно",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_up",
+        "description_text": "Moves the pointer up from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer up",
+        "value_translated_automated": "Помести го покажувачот нагоре",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_pregame",
+        "description_text": "Describes the state of the game as not started yet, before the game",
+        "description_location": "A label in the mini scoreboard",
+        "value_english": "Pregame",
+        "value_translated_automated": "Предигра",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_combo",
+        "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has combo covered the queen!",
+        "value_translated_automated": "Тимот {0} {1} ја опфати кралицата со комбо!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_discpool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc pool",
+        "value_translated_automated": "Диск базен",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_power",
+        "description_text": "Choice of showing exact power on striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power text",
+        "value_translated_automated": "Моќен текст",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_trajectory",
+        "description_text": "Choice of showing piece trajectory",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Trajectory",
+        "value_translated_automated": "Траекторија",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_invert_break",
+        "description_text": "Choice of whether to invert the starting break",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Invert break chance",
+        "value_translated_automated": "Инвертирај ја шансата за прекин",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_amount",
+        "description_text": "Describes the amount of bots that spawn by default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default bot amount",
+        "value_translated_automated": "Стандарден број на бот",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_difficulty",
+        "description_text": "Describes the default new bot difficulty",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default difficulty",
+        "value_translated_automated": "Стандардна тежина",
         "value_translated_native": null
       }
     ]

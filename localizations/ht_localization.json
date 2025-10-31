@@ -44,11 +44,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_delete_selected",
+        "description_text": "Deletes all mods that are currently selected",
+        "description_location": "A button on the mods menu",
+        "value_english": "Delete selected",
+        "value_translated_automated": "Efase sa ou chwazi a",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "button_invite",
         "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
         "description_location": "A button on the players menu",
         "value_english": "Invite Friends",
-        "value_translated_automated": "Envite Zanmi yo",
+        "value_translated_automated": "Envite Zanmi",
         "value_translated_native": null
       },
       {
@@ -57,7 +66,7 @@
         "description_text": "Joins the server of the selected lobby",
         "description_location": "A button on the browser menu",
         "value_english": "Join",
-        "value_translated_automated": "Antre nan",
+        "value_translated_automated": "Antre",
         "value_translated_native": null
       },
       {
@@ -66,7 +75,7 @@
         "description_text": "Views the file explorer menu, allowing the user to select an available file",
         "description_location": "A button on the customization menu",
         "value_english": "Load File",
-        "value_translated_automated": "Chaje File",
+        "value_translated_automated": "Chaje Fichye a",
         "value_translated_native": null
       },
       {
@@ -75,7 +84,7 @@
         "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
         "description_location": "A button on the landing menu",
         "value_english": "Mods",
-        "value_translated_automated": "Mods",
+        "value_translated_automated": "Modifikasyon",
         "value_translated_native": null
       },
       {
@@ -107,11 +116,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_randomize",
+        "description_text": "Randomizes all customization features",
+        "description_location": "A button on the customization menu",
+        "value_english": "Randomize",
+        "value_translated_automated": "Randomize",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "button_ready",
         "description_text": "Confirms the local player is ready",
         "description_location": "A button on the pregame menu",
         "value_english": "Ready",
         "value_translated_automated": "Pare",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_reset",
+        "description_text": "Resets the relevant data",
+        "description_location": "A button on the settings menu",
+        "value_english": "Reset",
+        "value_translated_automated": "Reyajiste",
         "value_translated_native": null
       },
       {
@@ -129,7 +156,7 @@
         "description_text": "Views the rules menu, allowing for managing of game types and rules",
         "description_location": "A button on the pause menu",
         "value_english": "Rules",
-        "value_translated_automated": "Règ",
+        "value_translated_automated": "Règ yo",
         "value_translated_native": null
       },
       {
@@ -138,7 +165,7 @@
         "description_text": "Views the file explorer menu, allowing the user to save the config to file",
         "description_location": "A button on the customization menu",
         "value_english": "Save File",
-        "value_translated_automated": "Sove File",
+        "value_translated_automated": "Sove Fichye a",
         "value_translated_native": null
       },
       {
@@ -179,11 +206,47 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": "Sets the camera view to the overhead preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 1",
+        "value_translated_automated": "Kamera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": "Sets the camera view to the low preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 2",
+        "value_translated_automated": "Kamera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": "Sets the camera view to the isometric preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 3",
+        "value_translated_automated": "Kamera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": "Sets the camera view to the far preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 4",
+        "value_translated_automated": "Kamera 4",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "control_action_camera_next",
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Next Camera",
-        "value_translated_automated": "Next Kamera",
+        "value_translated_automated": "Pwochen Kamera",
         "value_translated_native": null
       },
       {
@@ -192,7 +255,7 @@
         "description_text": "Jumps to the previous camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Previous Camera",
-        "value_translated_automated": "Kamera Previous",
+        "value_translated_automated": "Kamera anvan an",
         "value_translated_native": null
       },
       {
@@ -201,7 +264,34 @@
         "description_text": "Toggles the focus of the chat/event menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Chat",
-        "value_translated_automated": "Aktive Chat",
+        "value_translated_automated": "Aktive/dezaktive Chat",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": "Jumps to the next default menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Page",
+        "value_translated_automated": "Pwochen Paj",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Page",
+        "value_translated_automated": "Paj anvan an",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_pointer_reset",
+        "description_text": "Resets the pointer to the baseline",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Reset Pointer",
+        "value_translated_automated": "Reyajiste pwentè",
         "value_translated_native": null
       },
       {
@@ -219,7 +309,7 @@
         "description_text": "Used to reset pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Quaternary Action",
-        "value_translated_automated": "Aksyon Quaternary",
+        "value_translated_automated": "Aksyon Katènè",
         "value_translated_native": null
       },
       {
@@ -228,7 +318,7 @@
         "description_text": "Toggles the visibility of the scoreboard menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Scoreboard",
-        "value_translated_automated": "Aktivite tablo nòt",
+        "value_translated_automated": "Aktive/dezaktive tablo nòt yo",
         "value_translated_native": null
       },
       {
@@ -255,7 +345,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "Aksyon Tertary",
+        "value_translated_automated": "Aksyon Tèsyè",
         "value_translated_native": null
       },
       {
@@ -264,7 +354,7 @@
         "description_text": "Toggles the player pregame readiness",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
-        "value_translated_automated": "Aktivite pare",
+        "value_translated_automated": "Pare pou chanje",
         "value_translated_native": null
       },
       {
@@ -273,7 +363,16 @@
         "description_text": "Changes the color of the player's pointer",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Pointer Color",
-        "value_translated_automated": "Koulè Pointer",
+        "value_translated_automated": "Koulè Pwentè a",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_power",
+        "description_text": "Changes the color of the player's power text",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Power Text Color",
+        "value_translated_automated": "Koulè tèks pwisan",
         "value_translated_native": null
       },
       {
@@ -300,7 +399,7 @@
         "description_text": "Changes the color of the player's trail",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Trail Color",
-        "value_translated_automated": "Koulè Trail",
+        "value_translated_automated": "Koulè Santye a",
         "value_translated_native": null
       },
       {
@@ -318,7 +417,7 @@
         "description_text": "Changes the skin of the player's trail",
         "description_location": "A customization option in the general tab of the customization menu",
         "value_english": "Trial Skin",
-        "value_translated_automated": "Po jijman",
+        "value_translated_automated": "Po Esè",
         "value_translated_native": null
       },
       {
@@ -336,7 +435,34 @@
         "description_text": "Changes the secondary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Texture",
-        "value_translated_automated": "Segondè teksti",
+        "value_translated_automated": "Teksti Segondè",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_apartment",
+        "description_text": "Represents an enironment representing a nice apartment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Apartment",
+        "value_translated_automated": "Apatman",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_empty",
+        "description_text": "Represents an enironment representing an empty room",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Empty",
+        "value_translated_automated": "Vid",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_stadium",
+        "description_text": "Represents an enironment representing stadium environment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Stadium",
+        "value_translated_automated": "Estad",
         "value_translated_native": null
       },
       {
@@ -372,7 +498,7 @@
         "description_text": "Describes the amount of computer controlled players present in the lobby",
         "description_location": "A label in the pregame menu",
         "value_english": "Bots",
-        "value_translated_automated": "Bots",
+        "value_translated_automated": "Bot",
         "value_translated_native": null
       },
       {
@@ -390,7 +516,7 @@
         "description_text": "Describes the score debt owed by a particular team",
         "description_location": "A label in the Professional Carrom game mode menu",
         "value_english": "Team {0} owes {1} point(s)",
-        "value_translated_automated": "Ekip {0} dwe {1} pwen (yo)",
+        "value_translated_automated": "Ekip {0} dwe {1} pwen(yo)",
         "value_translated_native": null
       },
       {
@@ -404,11 +530,38 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_enable",
+        "description_text": "Enables the mods within the game",
+        "description_location": "A label in the mods menu",
+        "value_english": "Enable",
+        "value_translated_automated": "Aktive",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_green",
         "description_text": "Describes the value of green used in the RGB color",
         "description_location": "A label in the color customization setting",
         "value_english": "Green",
         "value_translated_automated": "Vèt",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_complete",
+        "description_text": "Displays that this language has complete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is complete or almost complete.",
+        "value_translated_automated": "Opsyon lokal sa a fini oswa prèske fini.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_incomplete",
+        "description_text": "Displays that this language has incomplete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
+        "value_translated_automated": "Opsyon lokal sa a pa konplè, nou eskize nou pou enpresizyon yo. Si ou kapab ede tradui, nou ta apresye sa anpil. Tanpri vizite Discord nou an pou plis enfòmasyon.",
         "value_translated_native": null
       },
       {
@@ -467,11 +620,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round",
+        "description_text": "Displays what round the current context is",
+        "description_location": "A label on the mini scoreboard",
+        "value_english": "Round {0}",
+        "value_translated_automated": "Wonn {0}",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_round_count",
         "description_text": "Describes an amount of rounds",
         "description_location": "A label in the intro menu",
         "value_english": "{0} rounds",
-        "value_translated_automated": "{0} jij",
+        "value_translated_automated": "{0} wonn",
         "value_translated_native": null
       },
       {
@@ -489,7 +651,7 @@
         "description_text": "Describes that the scoreboard represents individual player statistics",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Player Scoreboard",
-        "value_translated_automated": "Jwè Scoreboard",
+        "value_translated_automated": "Tablo nòt jwè yo",
         "value_translated_native": null
       },
       {
@@ -498,7 +660,16 @@
         "description_text": "Describes that the scoreboard represents team scoring",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Team Scoreboard",
-        "value_translated_automated": "Ekip Scoreboard",
+        "value_translated_automated": "Tablo Nòt Ekip la",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_select",
+        "description_text": "Selects the mods, which may then be deleted",
+        "description_location": "A label in the mods menu",
+        "value_english": "Select",
+        "value_translated_automated": "Chwazi",
         "value_translated_native": null
       },
       {
@@ -507,7 +678,7 @@
         "description_text": "Describes the amount of players who are set to spectate mode",
         "description_location": "A label in the pregame menu",
         "value_english": "Spectators",
-        "value_translated_automated": "Espektatè",
+        "value_translated_automated": "Espektatè yo",
         "value_translated_native": null
       },
       {
@@ -539,11 +710,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_waiting_for_input",
+        "description_text": "Shows the user that we are waiting to capture their input for the new binding",
+        "description_location": "A label that shows when the user is rebinding a control in the settings menu",
+        "value_english": "Waiting for input",
+        "value_translated_automated": "Ap tann opinyon",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_break_setup",
+        "description_text": "States what break file has been used",
+        "description_location": "An event message from the system",
+        "value_english": "Break {0} spawned.",
+        "value_translated_automated": "Kraze {0} la parèt.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_game_end",
         "description_text": "States the game has ended",
         "description_location": "An event message from the system",
         "value_english": "Game has ended",
-        "value_translated_automated": "Jwèt la te fini",
+        "value_translated_automated": "Jwèt la fini",
         "value_translated_native": null
       },
       {
@@ -557,11 +746,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": "States a player has joined the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} rantre nan jwèt la.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": "States a player has left the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} kite jwèt la.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_queen_covered",
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
-        "value_translated_automated": "Ekip {0} {1} te kouvri larenn lan",
+        "value_translated_automated": "Ekip {0} {1} kouvri larenn lan",
         "value_translated_native": null
       },
       {
@@ -570,7 +777,25 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "Ekip {0} {1} dwe kounye a ranpli kouvèti a",
+        "value_translated_automated": "Ekip {0} {1} dwe kounye a konplete kouvèti a.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_debt",
+        "description_text": "States that the pieces replaced were from previous debt",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing owed debt to the board",
+        "value_translated_automated": "Ranplase dèt ki dwe konsèy la",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_foul",
+        "description_text": "States that the pieces replaced were from a foul",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing due to foul",
+        "value_translated_automated": "Ranplasman akòz fot",
         "value_translated_native": null
       },
       {
@@ -579,7 +804,7 @@
         "description_text": "States the round has ended",
         "description_location": "An event message from the system",
         "value_english": "Round {0} has ended",
-        "value_translated_automated": "Round {0} te fini",
+        "value_translated_automated": "Wonn {0} la fini",
         "value_translated_native": null
       },
       {
@@ -588,7 +813,7 @@
         "description_text": "States the round has started",
         "description_location": "An event message from the system",
         "value_english": "Round {0} is starting!",
-        "value_translated_automated": "Round {0} ap kòmanse!",
+        "value_translated_automated": "Wonn {0} la ap kòmanse!",
         "value_translated_native": null
       },
       {
@@ -597,7 +822,7 @@
         "description_text": "States that the player has sank their striker",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has fouled",
-        "value_translated_automated": "Ekip {0} {1} te fache",
+        "value_translated_automated": "Ekip {0} {1} la fè yon fot",
         "value_translated_native": null
       },
       {
@@ -606,7 +831,16 @@
         "description_text": "States that the player has missed",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has missed",
-        "value_translated_automated": "Ekip {0} {1} rate",
+        "value_translated_automated": "Ekip {0} {1} la rate",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_round_end",
+        "description_text": "States that the player has ended the round on this turn",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has ended the round",
+        "value_translated_automated": "Ekip {0} {1} fini wonn nan",
         "value_translated_native": null
       },
       {
@@ -615,7 +849,16 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "Ekip {0} {1} te plonje piki yo",
+        "value_translated_automated": "Ekip {0} {1} la tire boul yo a.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_all",
+        "description_text": "An option that fulfils all relevant configurations",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "All",
+        "value_translated_automated": "Tout",
         "value_translated_native": null
       },
       {
@@ -625,6 +868,42 @@
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Anywhere",
         "value_translated_automated": "Nenpòt kote",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_direction_only",
+        "description_text": "An assist option that only shows the direction",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction only",
+        "value_translated_automated": "Direksyon sèlman",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_direction",
+        "description_text": "An assist option that only shows the direction and power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction and power",
+        "value_translated_automated": "Direksyon ak pouvwa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_only",
+        "description_text": "An assist option that only shows the power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Power only",
+        "value_translated_automated": "Pouvwa sèlman",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_trajectory_only",
+        "description_text": "An assist option that only shows the trajectory",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Trajectory only",
+        "value_translated_automated": "Trajektwa sèlman",
         "value_translated_native": null
       },
       {
@@ -660,7 +939,7 @@
         "description_text": "Describes the carrom game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Carrom",
-        "value_translated_automated": "Carrom",
+        "value_translated_automated": "Karom",
         "value_translated_native": null
       },
       {
@@ -669,7 +948,7 @@
         "description_text": "Describes the ability to place your striker anywhere on the baseline",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Casual",
-        "value_translated_automated": "Pou Plezi",
+        "value_translated_automated": "aksidantèl",
         "value_translated_native": null
       },
       {
@@ -678,7 +957,7 @@
         "description_text": "Describes the crokinole game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Crokinole",
-        "value_translated_automated": "Crokinole",
+        "value_translated_automated": "Kwokinòl",
         "value_translated_native": null
       },
       {
@@ -687,16 +966,7 @@
         "description_text": "Describes a default configuration",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Default",
-        "value_translated_automated": "Default",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "option_disc_pool",
-        "description_text": "Describes the disc pool game mode",
-        "description_location": "An option in a drop down menu in the rules menu",
-        "value_english": "Disc Pool",
-        "value_translated_automated": "Pisin disk",
+        "value_translated_automated": "Defo",
         "value_translated_native": null
       },
       {
@@ -705,7 +975,16 @@
         "description_text": "Describes the friends only configuration",
         "description_location": "An option in a drop down menu in the server menu",
         "value_english": "Friends",
-        "value_translated_automated": "Zanmim yo",
+        "value_translated_automated": "Zanmi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_none",
+        "description_text": "Describes an option where none of the option are fulfilled",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "None",
+        "value_translated_automated": "Okenn",
         "value_translated_native": null
       },
       {
@@ -759,7 +1038,7 @@
         "description_text": "Describes the sandbox game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Sandbox",
-        "value_translated_automated": "Sandbox",
+        "value_translated_automated": "Bwat sab",
         "value_translated_native": null
       },
       {
@@ -786,7 +1065,7 @@
         "description_text": "Describes the tutorial game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Tutorial",
-        "value_translated_automated": "Tutorial",
+        "value_translated_automated": "Leson patikilye",
         "value_translated_native": null
       },
       {
@@ -795,7 +1074,7 @@
         "description_text": "Choice of what board will be used",
         "description_location": "A rule in the rules menu",
         "value_english": "Board",
-        "value_translated_automated": "Komisyon Konsèy",
+        "value_translated_automated": "Konsèy",
         "value_translated_native": null
       },
       {
@@ -804,7 +1083,7 @@
         "description_text": "Choice of whether a forward only trajectory rule will be used",
         "description_location": "A rule in the rules menu",
         "value_english": "Forward shot only",
-        "value_translated_automated": "Piki devan sèlman",
+        "value_translated_automated": "Tire pi devan sèlman",
         "value_translated_native": null
       },
       {
@@ -813,7 +1092,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "Mi pòch inset",
+        "value_translated_automated": "Pòch miray anvlòp",
         "value_translated_native": null
       },
       {
@@ -822,7 +1101,7 @@
         "description_text": "Choice of whether to round off the corner around the pocket",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket rounded",
-        "value_translated_automated": "Pòch miray ranpa awondi",
+        "value_translated_automated": "Pòch miray awondi",
         "value_translated_native": null
       },
       {
@@ -831,7 +1110,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Bounciness tablo",
+        "value_translated_automated": "Planch rebondisman",
         "value_translated_native": null
       },
       {
@@ -840,7 +1119,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "Bounciness moso",
+        "value_translated_automated": "Moso rebondisman",
         "value_translated_native": null
       },
       {
@@ -849,7 +1128,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Bounciness atakan",
+        "value_translated_automated": "Atakan ki gen rebondisman",
         "value_translated_native": null
       },
       {
@@ -858,7 +1137,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "Bounciness miray",
+        "value_translated_automated": "Miray rebondisman",
         "value_translated_native": null
       },
       {
@@ -876,7 +1155,16 @@
         "description_text": "Choice of max rounds to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Round maximum",
-        "value_translated_automated": "Wonn maksimòm",
+        "value_translated_automated": "Maksimòm wonn",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": "Choices of how many pieces are present per team",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Piece count",
+        "value_translated_automated": "Kantite pyès",
         "value_translated_native": null
       },
       {
@@ -903,7 +1191,7 @@
         "description_text": "Choice of how many team pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces per team",
-        "value_translated_automated": "Moso pou chak ekip",
+        "value_translated_automated": "Moso pa ekip",
         "value_translated_native": null
       },
       {
@@ -944,11 +1232,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_environment",
+        "description_text": "Choice of what 3D environment is presented",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Environment",
+        "value_translated_automated": "Anviwònman",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "rule_file_break",
         "description_text": "Choice of break configuration",
         "description_location": "A rule in the rules menu",
         "value_english": "Break",
-        "value_translated_automated": "Kraze",
+        "value_translated_automated": "Pran yon poz",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": "Choice of what training file to load",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "Fòmasyon",
         "value_translated_native": null
       },
       {
@@ -957,7 +1263,7 @@
         "description_text": "Choice of how much friction the board has",
         "description_location": "A rule in the rules menu",
         "value_english": "Board friction",
-        "value_translated_automated": "Komisyon Konsèy friksyon",
+        "value_translated_automated": "Friksyon tablo a",
         "value_translated_native": null
       },
       {
@@ -993,7 +1299,7 @@
         "description_text": "Choice of the mass of uniform strikers",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass striker",
-        "value_translated_automated": "Mass atakan",
+        "value_translated_automated": "Grevis mas",
         "value_translated_native": null
       },
       {
@@ -1002,7 +1308,7 @@
         "description_text": "Choice of how inset the pocket is into the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Pocket inset",
-        "value_translated_automated": "Inset pòch",
+        "value_translated_automated": "Antre pòch",
         "value_translated_native": null
       },
       {
@@ -1020,7 +1326,7 @@
         "description_text": "Choice of where the game caps the queens point contribution",
         "description_location": "A rule in the rules menu",
         "value_english": "Queen points cap",
-        "value_translated_automated": "Rèn pwen bouchon",
+        "value_translated_automated": "Chapo pwen larenn",
         "value_translated_native": null
       },
       {
@@ -1047,7 +1353,7 @@
         "description_text": "Choice of how many points a team piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for piece",
-        "value_translated_automated": "Pwen pou pyès",
+        "value_translated_automated": "Pwen pou chak moso",
         "value_translated_native": null
       },
       {
@@ -1074,7 +1380,7 @@
         "description_text": "Choice of how large a board is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Board",
-        "value_translated_automated": "Gwosè Komisyon Konsèy",
+        "value_translated_automated": "Gwosè tablo",
         "value_translated_native": null
       },
       {
@@ -1083,7 +1389,7 @@
         "description_text": "Choice of how large a piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Piece",
-        "value_translated_automated": "Gwosè moso",
+        "value_translated_automated": "Gwosè Moso",
         "value_translated_native": null
       },
       {
@@ -1092,7 +1398,7 @@
         "description_text": "Choice of how large a pocket is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Pocket",
-        "value_translated_automated": "Gwosè pòch",
+        "value_translated_automated": "Pòch gwosè",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1407,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "Gwosè atakan",
+        "value_translated_automated": "Gwosè Striker",
         "value_translated_native": null
       },
       {
@@ -1119,7 +1425,7 @@
         "description_text": "Choice of enforcing a uniform striker across all players",
         "description_location": "A rule in the rules menu",
         "value_english": "Uniform Striker",
-        "value_translated_automated": "Inifòm atakan",
+        "value_translated_automated": "Atakan Inifòm",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1434,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Max jwè yo",
+        "value_translated_automated": "Maksimòm Jwè yo",
         "value_translated_native": null
       },
       {
@@ -1151,8 +1457,35 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_cursor",
-        "description_text": "Describes the sensitivity of the cursor",
+        "key": "setting_application_language",
+        "description_text": "Describes what locale is being used for the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Language",
+        "value_translated_automated": "Lang",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_mods",
+        "description_text": "Resets all mod files and preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset mods",
+        "value_translated_automated": "Reyajiste mod yo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_preferences",
+        "description_text": "Resets all player preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset preferences",
+        "value_translated_automated": "Reyajiste preferans yo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_cursor",
+        "description_text": "Describes the speed at which the cursor is moved",
         "description_location": "A setting in the settings menu",
         "value_english": "Cursor sensitivity",
         "value_translated_automated": "Sansiblite kurseur",
@@ -1160,11 +1493,38 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_zoom",
-        "description_text": "Describes the sensitivity of the zoom",
+        "key": "setting_application_speed_rotation",
+        "description_text": "Describes the speed at which the camera rotates",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Rotation sensitivitiy",
+        "value_translated_automated": "Sansiblite wotasyon",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_zoom",
+        "description_text": "Describes the speed at which the camera zooms",
         "description_location": "A setting in the settings menu",
         "value_english": "Zoom sensitivity",
-        "value_translated_automated": "Zoom sansiblite",
+        "value_translated_automated": "Sansiblite zoom",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_power",
+        "description_text": "Describes if the power text will be shown",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Power text assist",
+        "value_translated_automated": "Asistans tèks pwisan",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_trajectory",
+        "description_text": "Describes what aim assists will be enabled",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Trajectory assist",
+        "value_translated_automated": "Asistans trajektwa",
         "value_translated_native": null
       },
       {
@@ -1173,7 +1533,7 @@
         "description_text": "Describes the fullscreen status of the application",
         "description_location": "A setting in the settings menu",
         "value_english": "Fullscreen",
-        "value_translated_automated": "Tout ekran",
+        "value_translated_automated": "Plen ekran",
         "value_translated_native": null
       },
       {
@@ -1182,7 +1542,7 @@
         "description_text": "Describes the refresh rate of the application",
         "description_location": "A setting in the settings menu",
         "value_english": "Refresh rate",
-        "value_translated_automated": "Pousantaj rafrechir",
+        "value_translated_automated": "To rafrechisman",
         "value_translated_native": null
       },
       {
@@ -1200,7 +1560,7 @@
         "description_text": "Describes the volume relating to physical game elements",
         "description_location": "A setting in the settings menu",
         "value_english": "Game volume",
-        "value_translated_automated": "Volim jwèt",
+        "value_translated_automated": "Volim jwèt la",
         "value_translated_native": null
       },
       {
@@ -1209,7 +1569,7 @@
         "description_text": "Describes the volume relating to game mode events",
         "description_location": "A setting in the settings menu",
         "value_english": "Game mode volume",
-        "value_translated_automated": "Volim mòd jwèt",
+        "value_translated_automated": "Volim mòd jwèt la",
         "value_translated_native": null
       },
       {
@@ -1218,7 +1578,7 @@
         "description_text": "Describes the volume scale of all volume types",
         "description_location": "A setting in the settings menu",
         "value_english": "Master volume",
-        "value_translated_automated": "Mèt volim",
+        "value_translated_automated": "Volim prensipal la",
         "value_translated_native": null
       },
       {
@@ -1227,7 +1587,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "volim UI",
+        "value_translated_automated": "Volim koòdone itilizatè a",
         "value_translated_native": null
       },
       {
@@ -1236,7 +1596,7 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "Black Sank",
+        "value_translated_automated": "Nwa Sank",
         "value_translated_native": null
       },
       {
@@ -1245,7 +1605,16 @@
         "description_text": "Describes the amount of strikers sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Fouls",
-        "value_translated_automated": "Faute",
+        "value_translated_automated": "Fòt",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": "Describes the amount of queens successfully covered",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Rèn Kouvri",
         "value_translated_native": null
       },
       {
@@ -1254,7 +1623,7 @@
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "Rèn koule",
+        "value_translated_automated": "Rèn Sank",
         "value_translated_native": null
       },
       {
@@ -1263,7 +1632,7 @@
         "description_text": "Describes the amount of strikers shot by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Attempt",
-        "value_translated_automated": "Tantativ piki",
+        "value_translated_automated": "Tantativ tire",
         "value_translated_native": null
       },
       {
@@ -1272,7 +1641,7 @@
         "description_text": "Describes the amount of pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Shot Sank",
-        "value_translated_automated": "Piki Sank",
+        "value_translated_automated": "Tire Sank",
         "value_translated_native": null
       },
       {
@@ -1281,7 +1650,16 @@
         "description_text": "Describes the amount of white pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
-        "value_translated_automated": "Blan koule",
+        "value_translated_automated": "Blan Sank",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_application",
+        "description_text": "Describes a page of application related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Application",
+        "value_translated_automated": "Aplikasyon",
         "value_translated_native": null
       },
       {
@@ -1299,7 +1677,7 @@
         "description_text": "Describes a page of board related rules",
         "description_location": "A tab label in the rules menu",
         "value_english": "Board",
-        "value_translated_automated": "Komisyon Konsèy",
+        "value_translated_automated": "Konsèy",
         "value_translated_native": null
       },
       {
@@ -1308,7 +1686,7 @@
         "description_text": "Describes a page of carrom break related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Breaks",
-        "value_translated_automated": "Kraze",
+        "value_translated_automated": "Pòz",
         "value_translated_native": null
       },
       {
@@ -1317,7 +1695,7 @@
         "description_text": "Describes a page of carrom related customizations",
         "description_location": "A tab label in the customizations menu",
         "value_english": "Carrom",
-        "value_translated_automated": "Carrom",
+        "value_translated_automated": "Karom",
         "value_translated_native": null
       },
       {
@@ -1326,7 +1704,7 @@
         "description_text": "Describes a page of rebind related settings",
         "description_location": "A tab label in the settings menu",
         "value_english": "Controls",
-        "value_translated_automated": "Kontwòl",
+        "value_translated_automated": "Kontwòl yo",
         "value_translated_native": null
       },
       {
@@ -1353,7 +1731,7 @@
         "description_text": "Describes a page of game mode related rules",
         "description_location": "A tab label in the rules menu",
         "value_english": "Game Mode",
-        "value_translated_automated": "Mòd jwèt",
+        "value_translated_automated": "Mòd Jwèt",
         "value_translated_native": null
       },
       {
@@ -1376,38 +1754,11 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_pointer",
-        "description_text": "Describes a page of pointer related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Pointer",
-        "value_translated_automated": "Pointer",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "tab_presets",
         "description_text": "Describes a page of ruleset related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Presets",
         "value_translated_automated": "Prereglaj",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_skin",
-        "description_text": "Describes a page of carrom skin related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Skin",
-        "value_translated_automated": "Po",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_trail",
-        "description_text": "Describes a page of trail related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Trail",
-        "value_translated_automated": "Trail",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1785,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "Atakan an dwe kòmanse jwe apati de baz la.",
+        "value_translated_automated": "Atakan an dwe kòmanse jwe apati liy baz la.",
         "value_translated_native": null
       },
       {
@@ -1443,7 +1794,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "Isit la nou wè yon tablo carom.",
+        "value_translated_automated": "Isit la nou wè yon planch carom.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Chak jwèt nan carrom pral kòmanse ak tout moso ki fè nòt yo rasanble moute nan sant la. Premye piki wonn lan rele repo a.",
+        "value_translated_automated": "Chak jwèt karom ap kòmanse ak tout pyès ki make pwen yo rasanble nan sant la. Premye kou wonn nan rele repo a.",
         "value_translated_native": null
       },
       {
@@ -1461,7 +1812,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "Isit la yon bot demontre yon ti repo.",
+        "value_translated_automated": "Isit la yon bot demontre yon poz.",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1830,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Yon repo byen frape ta dwe dispèse moso yo atravè tablo a. Yon jwè kalifye ta ka bay tèt yo yon avantaj pou tout wonn nan yon ti repo bon ak piki ki vin apre.",
+        "value_translated_automated": "Yon bon kou ta dwe gaye pyès yo sou tout tablo a. Yon jwè ki gen ladrès ta ka ba li yon avantaj pou tout wonn nan grasa yon bon kou ak kou ki vin apre yo.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Ou ka chanje ang kamera lè w peze 0, 1, 2, oswa 3. Kamera pou jwe yo rekòmande a se 1. Ou ka deplase kamera w nenpòt kilè lè w kenbe klike sou dwa epi deplase sourit la. Gade plis kontwòl kamera nan meni kontwòl la.",
+        "value_translated_automated": "Ou ka chanje ang kamera a lè w peze 0, 1, 2, oubyen 3. Kamera ki rekòmande pou jwe a se 1. Ou ka deplase kamera w la nenpòt ki lè lè w kenbe klike dwat epi deplase sourit la. Gade plis kontwòl kamera nan meni kontwòl la.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom se jwe pa flicking disk nan lòt disk pou pouse yo nan twou sou tablo a. Si w fè sa avèk siksè, ba w yon lòt vire. Jwèt la fini lè yon ekip kouri soti nan disk yo vize.",
+        "value_translated_automated": "Yo jwe Carrom lè yo fè disk yo glise sou lòt disk pou pouse yo nan twou sou tablo a. Lè w fè sa, ou jwenn yon lòt tou. Jwèt la fini lè yon ekip pa gen disk pou vize ankò.",
         "value_translated_native": null
       },
       {
@@ -1506,7 +1857,7 @@
         "description_text": "Defines how chat can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Turn history and chat can be opened by pressing T.",
-        "value_translated_automated": "Vire istwa ak chat ka louvri lè w peze T.",
+        "value_translated_automated": "Ou ka ouvri istwa vire ak chat la lè w peze T.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Ou fin ranpli leson patikilye a! Kounye a ou pare pou jwe jwèt carrom ak zanmi ak bots.",
+        "value_translated_automated": "Ou fin fè leson patikilye a! Kounye a ou pare pou jwe jwèt carrom ak zanmi ak robo.",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1875,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "Mete kurseur ou sou liy debaz la pou kòmanse piki ou a.",
+        "value_translated_automated": "Mete kurseur ou a sou liy debaz la pou kòmanse tire ou a.",
         "value_translated_native": null
       },
       {
@@ -1533,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Trennen kurseur ou lwen sib ou pandan w ap kontinye kenbe klike sou bò gòch la.",
+        "value_translated_automated": "Trennen kurseur ou lwen sib ou a pandan w ap kontinye kenbe klike gòch la.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Klike sou bò gòch epi kenbe pou konfime plasman atakan ou a.",
+        "value_translated_automated": "Klike agoch ​​epi kenbe bouton an pou konfime plasman atakan ou an.",
         "value_translated_native": null
       },
       {
@@ -1551,7 +1902,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "Meni an poz gen paramèt aplikasyon ak kontwòl, epi yo ka jwenn aksè nan nenpòt ki lè lè w peze kle chape a.",
+        "value_translated_automated": "Meni poz la gen ladan l paramèt ak kontwòl aplikasyon an, epi ou ka aksese l nenpòt ki lè lè w peze kle echap la.",
         "value_translated_native": null
       },
       {
@@ -1560,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "Planch carom estanda vini ak kat twou, yo rele pòch, nan chak kwen.",
+        "value_translated_automated": "Planch carrom estanda yo vini ak kat twou, yo rele pòch, nan chak kwen.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1920,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Pòch sa yo se kote w ap vize koule disk yo. Gade jan bot nou an ap jwe.",
+        "value_translated_automated": "Pòch sa yo se kote w ap vize pou w plonje disk yo. Gade kijan robo nou an ap jwe.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Mòd pwofesyonèl yo pral mande pou larenn nan pòch ranpli wonn nan. Pou fè nòt larenn lan, ou dwe premye pòch larenn lan ak Lè sa a, avèk siksè pòch pwochen piki ou a pou kouvri larenn lan. Si w pa fè sa, larenn lan ap retounen sou tablo a.",
+        "value_translated_automated": "Mòd pwofesyonèl la ap mande pou ou mete dam nan nan pòch ou pou ou ka fini wonn nan. Pou ou ka jwenn dam nan, ou dwe mete dam nan nan pòch ou anvan, epi answit mete pwochen kou ou a nan pòch ou pou kouvri dam nan. Si ou pa fè sa, dam nan ap retounen sou tablo a.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Men yon senaryo. Gade pòch bot la epi kouvri larenn lan.",
+        "value_translated_automated": "Men yon senaryo. Gade pòch bòt la epi kouvri larenn lan.",
         "value_translated_native": null
       },
       {
@@ -1596,7 +1947,7 @@
         "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself. First the queen, then the white piece.",
-        "value_translated_automated": "Eseye li tèt ou. Premye larenn lan, answit moso blan an.",
+        "value_translated_automated": "Eseye li tèt ou. Premye larenn lan, answit pyès blan an.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1956,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "Mòd pwen yo rekòmande pou premye koup ou nan jwèt. Sa a bay ou anpil opòtinite pou fè nòt.",
+        "value_translated_automated": "Mòd Pwen yo rekòmande pou premye de match ou yo. Sa ba ou anpil opòtinite pou make pwen.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1965,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "Lage klike sou gòch la pou repwoche atakan ou a nan jwèt.",
+        "value_translated_automated": "Lage klike gòch la pou mete atakan ou an nan jwèt la.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1974,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "Diferan mòd jwèt yo gen règ diferan pou fè nòt, men nòt la ka wè nenpòt lè lè w peze bouton TAB la.",
+        "value_translated_automated": "Diferan mòd jwèt yo gen diferan règ pou bay nòt, men ou ka wè nòt la nenpòt ki lè lè w peze kle TAB la.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Pwofesyonèl ak mòd pisin disk pral fè ou sèlman vize nan pòch koulè ekip ou a, pandan y ap mòd pwen asiyen valè pwen diferan pou chak moso ki gen koulè diferan. Tipikman, yon moso koulè wouj se gwo valè, epi yo refere yo kòm larenn lan.",
+        "value_translated_automated": "Mòd pwofesyonèl ak mòd pisin disk yo ap fè w sèlman vize pou w pran koulè ekip ou a nan pòch, alòske mòd pwen yo bay diferan valè pwen pou chak pyès koulè diferan. Tipikman, yon pyès ki gen koulè wouj gen anpil valè, epi yo rele l dam.",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1992,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "Jwi Carrom Slam! ~Ekip Dinahsoft",
+        "value_translated_automated": "Pran plezi nan Carrom Slam! ~Ekip Dinahsoft la!",
         "value_translated_native": null
       },
       {
@@ -1650,7 +2001,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "Disk yo itilize pou kòmanse jwe yo rele atakan an.",
+        "value_translated_automated": "Disk yo itilize pou kòmanse jwe a rele striker a.",
         "value_translated_native": null
       },
       {
@@ -1659,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Koulye a, an n eseye koule premye piki nou an. Gade bot la an premye.",
+        "value_translated_automated": "Kounye a, ann eseye tire premye bal nou an. Gade robo a anvan.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +2019,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Koulye a, vire ou. Frape moso blan sa a nan pòch akote li menm jan ak bot la.",
+        "value_translated_automated": "Kounye a se tou pa ou. Frape pyès blan an nan pòch ki bò kote l la menm jan ak robo a.",
         "value_translated_native": null
       },
       {
@@ -1677,106 +2028,232 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Carrom Slam! se yon jwèt similatè carrom. Tutorial sa a pral anseye w kontwòl yo ak kouman yo jwe carrom.",
+        "value_translated_automated": "Carrom Slam! se yon jwèt similatè carrom. Leson patikilye sa a pral anseye w kontwòl yo ak kijan pou w jwe carrom.",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_1",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 1",
-        "value_translated_automated": "Kamera 1",
+        "key": "button_events",
+        "description_text": "Views the events log and chat",
+        "description_location": "A button on the focused menu",
+        "value_english": "Events",
+        "value_translated_automated": "Evènman yo",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_2",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 2",
-        "value_translated_automated": "Kamera 2",
+        "key": "button_pause",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the focused menu",
+        "value_english": "Pause",
+        "value_translated_automated": "Poze",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_3",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 3",
-        "value_translated_automated": "Kamera 3",
+        "key": "button_return",
+        "description_text": "Returns to the previous menu",
+        "description_location": "A button on many pages, including the settings menu",
+        "value_english": "Return",
+        "value_translated_automated": "Retounen",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_4",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 4",
-        "value_translated_automated": "Kamera 4",
+        "key": "button_scoreboard",
+        "description_text": "Views the scoreboard",
+        "description_location": "A button on the focused menu",
+        "value_english": "Scoreboard",
+        "value_translated_automated": "Tablo nòt",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_next",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Next Page",
-        "value_translated_automated": "Pwochen Paj",
+        "key": "control_action_escape",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Escape",
+        "value_translated_automated": "Chape",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_prev",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Previous Page",
-        "value_translated_automated": "Paj Previous",
+        "key": "control_axis_camera_zoom_negative",
+        "description_text": "Zooms the camera further to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom out",
+        "value_translated_automated": "Zoom deyò",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_joined",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has joined the game.",
-        "value_translated_automated": "{0} te rantre nan jwèt la.",
+        "key": "control_axis_camera_zoom_positive",
+        "description_text": "Zooms the camera closer to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom in",
+        "value_translated_automated": "Agrandi",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_left",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has left the game.",
-        "value_translated_automated": "{0} te kite jwèt la.",
+        "key": "control_vector_camera_move_backward",
+        "description_text": "Moves the camera backward from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera backward",
+        "value_translated_automated": "Deplase kamera a dèyè",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_count_pieces",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Piece count",
-        "value_translated_automated": "Konte moso",
+        "key": "control_vector_camera_move_down",
+        "description_text": "Moves the camera down from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera down",
+        "value_translated_automated": "Deplase kamera a anba",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_file_training",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Training",
-        "value_translated_automated": "Fòmasyon",
+        "key": "control_vector_camera_move_forward",
+        "description_text": "Moves the camera forward towards the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera forward",
+        "value_translated_automated": "Deplase kamera a pi devan",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "stat_queen_covered",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Queen Covered",
-        "value_translated_automated": "Rèn kouvri",
+        "key": "control_vector_camera_move_left",
+        "description_text": "Moves the camera left from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera left",
+        "value_translated_automated": "Deplase kamera a agoch",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_right",
+        "description_text": "Moves the camera right from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera right",
+        "value_translated_automated": "Deplase kamera a adwat",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_up",
+        "description_text": "Moves the camera up from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera up",
+        "value_translated_automated": "Deplase kamera a anlè",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_down",
+        "description_text": "Moves the pointer down from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer down",
+        "value_translated_automated": "Deplase pwent lan anba",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_left",
+        "description_text": "Moves the pointer left from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer left",
+        "value_translated_automated": "Deplase pwentè a agoch",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_right",
+        "description_text": "Moves the pointer right from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer right",
+        "value_translated_automated": "Deplase pwent lan adwat",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_up",
+        "description_text": "Moves the pointer up from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer up",
+        "value_translated_automated": "Deplase pwent lan anlè",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_pregame",
+        "description_text": "Describes the state of the game as not started yet, before the game",
+        "description_location": "A label in the mini scoreboard",
+        "value_english": "Pregame",
+        "value_translated_automated": "Anvan match la",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_combo",
+        "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has combo covered the queen!",
+        "value_translated_automated": "Ekip {0} {1} gen yon konbo ki kouvri dam nan!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_discpool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc pool",
+        "value_translated_automated": "Pisin disk",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_power",
+        "description_text": "Choice of showing exact power on striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power text",
+        "value_translated_automated": "Tèks pouvwa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_trajectory",
+        "description_text": "Choice of showing piece trajectory",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Trajectory",
+        "value_translated_automated": "Trajektwa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_invert_break",
+        "description_text": "Choice of whether to invert the starting break",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Invert break chance",
+        "value_translated_automated": "Chans pou kraze an envèse",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_amount",
+        "description_text": "Describes the amount of bots that spawn by default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default bot amount",
+        "value_translated_automated": "Kantite bot pa defo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_difficulty",
+        "description_text": "Describes the default new bot difficulty",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default difficulty",
+        "value_translated_automated": "Difikilte pa defo",
         "value_translated_native": null
       }
     ]

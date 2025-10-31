@@ -21,7 +21,7 @@
         "description_text": "Adds a bot player to the game",
         "description_location": "A button on the players menu",
         "value_english": "Add Bot",
-        "value_translated_automated": "Aghjunghjite Bot",
+        "value_translated_automated": "Aghjunghje Bot",
         "value_translated_native": null
       },
       {
@@ -30,7 +30,7 @@
         "description_text": "Views the browser menu, displaying other public games",
         "description_location": "A button on the landing menu",
         "value_english": "Browser",
-        "value_translated_automated": "Browser",
+        "value_translated_automated": "Navigatore",
         "value_translated_native": null
       },
       {
@@ -44,11 +44,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_delete_selected",
+        "description_text": "Deletes all mods that are currently selected",
+        "description_location": "A button on the mods menu",
+        "value_english": "Delete selected",
+        "value_translated_automated": "Sguassà a selezzione",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "button_invite",
         "description_text": "Views the steam overlay, allowing players to send invites to selected friends",
         "description_location": "A button on the players menu",
         "value_english": "Invite Friends",
-        "value_translated_automated": "Invita Amici",
+        "value_translated_automated": "Invità l'amichi",
         "value_translated_native": null
       },
       {
@@ -57,7 +66,7 @@
         "description_text": "Joins the server of the selected lobby",
         "description_location": "A button on the browser menu",
         "value_english": "Join",
-        "value_translated_automated": "Unisci",
+        "value_translated_automated": "Unisciti",
         "value_translated_native": null
       },
       {
@@ -66,7 +75,7 @@
         "description_text": "Views the file explorer menu, allowing the user to select an available file",
         "description_location": "A button on the customization menu",
         "value_english": "Load File",
-        "value_translated_automated": "Load File",
+        "value_translated_automated": "Caricà u schedariu",
         "value_translated_native": null
       },
       {
@@ -75,7 +84,7 @@
         "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
         "description_location": "A button on the landing menu",
         "value_english": "Mods",
-        "value_translated_automated": "Modi",
+        "value_translated_automated": "Mods",
         "value_translated_native": null
       },
       {
@@ -93,7 +102,7 @@
         "description_text": "Views the players menu, allowing the user to manage bots and connected users",
         "description_location": "A button on the pause menu",
         "value_english": "Players",
-        "value_translated_automated": "I ghjucatori",
+        "value_translated_automated": "Ghjucatori",
         "value_translated_native": null
       },
       {
@@ -102,7 +111,16 @@
         "description_text": "Quits the server/application",
         "description_location": "A button on the landing menu",
         "value_english": "Quit",
-        "value_translated_automated": "Lascia",
+        "value_translated_automated": "Esci",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_randomize",
+        "description_text": "Randomizes all customization features",
+        "description_location": "A button on the customization menu",
+        "value_english": "Randomize",
+        "value_translated_automated": "Randomizà",
         "value_translated_native": null
       },
       {
@@ -111,7 +129,16 @@
         "description_text": "Confirms the local player is ready",
         "description_location": "A button on the pregame menu",
         "value_english": "Ready",
-        "value_translated_automated": "Pronti",
+        "value_translated_automated": "Prontu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "button_reset",
+        "description_text": "Resets the relevant data",
+        "description_location": "A button on the settings menu",
+        "value_english": "Reset",
+        "value_translated_automated": "Resettà",
         "value_translated_native": null
       },
       {
@@ -129,7 +156,7 @@
         "description_text": "Views the rules menu, allowing for managing of game types and rules",
         "description_location": "A button on the pause menu",
         "value_english": "Rules",
-        "value_translated_automated": "Reguli",
+        "value_translated_automated": "Regole",
         "value_translated_native": null
       },
       {
@@ -138,7 +165,7 @@
         "description_text": "Views the file explorer menu, allowing the user to save the config to file",
         "description_location": "A button on the customization menu",
         "value_english": "Save File",
-        "value_translated_automated": "Salvà u File",
+        "value_translated_automated": "Salvà u schedariu",
         "value_translated_native": null
       },
       {
@@ -156,7 +183,7 @@
         "description_text": "Views the settings menu, allowing the user to manage their application settings",
         "description_location": "A button on the landing and pause menu",
         "value_english": "Settings",
-        "value_translated_automated": "Settings",
+        "value_translated_automated": "Impostazioni",
         "value_translated_native": null
       },
       {
@@ -174,7 +201,43 @@
         "description_text": "Exits the current menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Back",
-        "value_translated_automated": "Torna",
+        "value_translated_automated": "Indietro",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_1",
+        "description_text": "Sets the camera view to the overhead preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 1",
+        "value_translated_automated": "Camera 1",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_2",
+        "description_text": "Sets the camera view to the low preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 2",
+        "value_translated_automated": "Camera 2",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_3",
+        "description_text": "Sets the camera view to the isometric preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 3",
+        "value_translated_automated": "Camera 3",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_camera_4",
+        "description_text": "Sets the camera view to the far preset",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Camera 4",
+        "value_translated_automated": "Camera 4",
         "value_translated_native": null
       },
       {
@@ -183,7 +246,7 @@
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Next Camera",
-        "value_translated_automated": "Next Camera",
+        "value_translated_automated": "Prossima Camera",
         "value_translated_native": null
       },
       {
@@ -192,7 +255,7 @@
         "description_text": "Jumps to the previous camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Previous Camera",
-        "value_translated_automated": "Camera Precedente",
+        "value_translated_automated": "Camera precedente",
         "value_translated_native": null
       },
       {
@@ -201,7 +264,34 @@
         "description_text": "Toggles the focus of the chat/event menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Chat",
-        "value_translated_automated": "Toggle Chat",
+        "value_translated_automated": "Attivà/Disattivà a Chat",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_next",
+        "description_text": "Jumps to the next default menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Next Page",
+        "value_translated_automated": "Pagina dopu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_page_prev",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Previous Page",
+        "value_translated_automated": "Pagina precedente",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_action_pointer_reset",
+        "description_text": "Resets the pointer to the baseline",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Reset Pointer",
+        "value_translated_automated": "Reset di u puntatore",
         "value_translated_native": null
       },
       {
@@ -210,7 +300,7 @@
         "description_text": "Used to confirm shot placement and power",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Primary Action",
-        "value_translated_automated": "Azzione primaria",
+        "value_translated_automated": "Azione Primaria",
         "value_translated_native": null
       },
       {
@@ -219,7 +309,7 @@
         "description_text": "Used to reset pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Quaternary Action",
-        "value_translated_automated": "Azzione quaternaria",
+        "value_translated_automated": "Azione Quaternaria",
         "value_translated_native": null
       },
       {
@@ -228,7 +318,7 @@
         "description_text": "Toggles the visibility of the scoreboard menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Scoreboard",
-        "value_translated_automated": "Toggle Scoreboard",
+        "value_translated_automated": "Attivà/disattivà u tabellone di punteggi",
         "value_translated_native": null
       },
       {
@@ -237,7 +327,7 @@
         "description_text": "Used to cancel shots",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Secondary Action",
-        "value_translated_automated": "Azzione Sicundaria",
+        "value_translated_automated": "Azione Secundaria",
         "value_translated_native": null
       },
       {
@@ -255,7 +345,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "Azzione Tertaria",
+        "value_translated_automated": "Azione Terziaria",
         "value_translated_native": null
       },
       {
@@ -264,7 +354,7 @@
         "description_text": "Toggles the player pregame readiness",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
-        "value_translated_automated": "Toggle Ready",
+        "value_translated_automated": "Attivà/Disattivà Prontu",
         "value_translated_native": null
       },
       {
@@ -273,7 +363,16 @@
         "description_text": "Changes the color of the player's pointer",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Pointer Color",
-        "value_translated_automated": "Colore di puntatore",
+        "value_translated_automated": "Culore di u puntatore",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "custom_color_power",
+        "description_text": "Changes the color of the player's power text",
+        "description_location": "A customization option in the personal tab of the customization menu",
+        "value_english": "Power Text Color",
+        "value_translated_automated": "Culore di u testu putente",
         "value_translated_native": null
       },
       {
@@ -282,7 +381,7 @@
         "description_text": "Changes the primary color of the player's striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Primary Color",
-        "value_translated_automated": "Culore primariu",
+        "value_translated_automated": "Culore Primariu",
         "value_translated_native": null
       },
       {
@@ -291,7 +390,7 @@
         "description_text": "Changes the secondary color of the player's striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Color",
-        "value_translated_automated": "Culore secundariu",
+        "value_translated_automated": "Culore Secundariu",
         "value_translated_native": null
       },
       {
@@ -300,7 +399,7 @@
         "description_text": "Changes the color of the player's trail",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Trail Color",
-        "value_translated_automated": "Trail Color",
+        "value_translated_automated": "Culore di u percorsu",
         "value_translated_native": null
       },
       {
@@ -309,7 +408,7 @@
         "description_text": "Changes the skin of the player's carrom striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Striker Skin",
-        "value_translated_automated": "A pelle di striker",
+        "value_translated_automated": "Pelle di l'attaccante",
         "value_translated_native": null
       },
       {
@@ -318,7 +417,7 @@
         "description_text": "Changes the skin of the player's trail",
         "description_location": "A customization option in the general tab of the customization menu",
         "value_english": "Trial Skin",
-        "value_translated_automated": "Pelle d'essai",
+        "value_translated_automated": "Pelle di prova",
         "value_translated_native": null
       },
       {
@@ -327,7 +426,7 @@
         "description_text": "Changes the primary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Primary Texture",
-        "value_translated_automated": "Texture primariu",
+        "value_translated_automated": "Tessitura primaria",
         "value_translated_native": null
       },
       {
@@ -336,7 +435,34 @@
         "description_text": "Changes the secondary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Texture",
-        "value_translated_automated": "Texture secundaria",
+        "value_translated_automated": "Tessitura Secundaria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_apartment",
+        "description_text": "Represents an enironment representing a nice apartment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Apartment",
+        "value_translated_automated": "Appartamentu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_empty",
+        "description_text": "Represents an enironment representing an empty room",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Empty",
+        "value_translated_automated": "Viotu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "environment_stadium",
+        "description_text": "Represents an enironment representing stadium environment",
+        "description_location": "An environment option in the rules menu",
+        "value_english": "Stadium",
+        "value_translated_automated": "Stadiu",
         "value_translated_native": null
       },
       {
@@ -390,7 +516,7 @@
         "description_text": "Describes the score debt owed by a particular team",
         "description_location": "A label in the Professional Carrom game mode menu",
         "value_english": "Team {0} owes {1} point(s)",
-        "value_translated_automated": "A squadra {0} deve {1} punti",
+        "value_translated_automated": "A squadra {0} deve {1} puntu(i)",
         "value_translated_native": null
       },
       {
@@ -404,6 +530,15 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_enable",
+        "description_text": "Enables the mods within the game",
+        "description_location": "A label in the mods menu",
+        "value_english": "Enable",
+        "value_translated_automated": "Attivà",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_green",
         "description_text": "Describes the value of green used in the RGB color",
         "description_location": "A label in the color customization setting",
@@ -413,11 +548,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_complete",
+        "description_text": "Displays that this language has complete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is complete or almost complete.",
+        "value_translated_automated": "Questa opzione di locu hè cumpleta o guasi cumpleta.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_localization_incomplete",
+        "description_text": "Displays that this language has incomplete localization",
+        "description_location": "A label in the settings menu",
+        "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
+        "value_translated_automated": "Questa opzione lucale hè incompleta, ci scusemu per l'inesattezze. Sè vo pudete aiutà à traduce, vi sariamu assai grati. Per piacè visitate u nostru Discord per più infurmazioni.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_not_ready",
         "description_text": "Describes a player who is not yet prepared to play",
         "description_location": "A label in the players menu",
         "value_english": "Not Ready",
-        "value_translated_automated": "Micca pronta",
+        "value_translated_automated": "Micca prontu",
         "value_translated_native": null
       },
       {
@@ -426,7 +579,7 @@
         "description_text": "Describes a player name",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Player",
-        "value_translated_automated": "Ghjucatore",
+        "value_translated_automated": "Ghjucadore",
         "value_translated_native": null
       },
       {
@@ -435,7 +588,7 @@
         "description_text": "Describes the amount of players waiting to play out of a total amount",
         "description_location": "A label in the pregame menu",
         "value_english": "Players Ready",
-        "value_translated_automated": "I ghjucatori pronti",
+        "value_translated_automated": "Ghjucatori Pronti",
         "value_translated_native": null
       },
       {
@@ -453,7 +606,7 @@
         "description_text": "Describes a player who is prepared and waiting to play",
         "description_location": "A label in the players menu",
         "value_english": "Ready",
-        "value_translated_automated": "Pronti",
+        "value_translated_automated": "Prontu",
         "value_translated_native": null
       },
       {
@@ -467,11 +620,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_round",
+        "description_text": "Displays what round the current context is",
+        "description_location": "A label on the mini scoreboard",
+        "value_english": "Round {0}",
+        "value_translated_automated": "Giru {0}",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "label_round_count",
         "description_text": "Describes an amount of rounds",
         "description_location": "A label in the intro menu",
         "value_english": "{0} rounds",
-        "value_translated_automated": "{0} giru",
+        "value_translated_automated": "{0} giri",
         "value_translated_native": null
       },
       {
@@ -480,7 +642,7 @@
         "description_text": "Describes a score value",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Score",
-        "value_translated_automated": "Score",
+        "value_translated_automated": "Puntuazione",
         "value_translated_native": null
       },
       {
@@ -489,7 +651,7 @@
         "description_text": "Describes that the scoreboard represents individual player statistics",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Player Scoreboard",
-        "value_translated_automated": "Scoreboard di u ghjucatore",
+        "value_translated_automated": "Tabellone di i ghjucatori",
         "value_translated_native": null
       },
       {
@@ -498,7 +660,16 @@
         "description_text": "Describes that the scoreboard represents team scoring",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Team Scoreboard",
-        "value_translated_automated": "Scoreboard di a squadra",
+        "value_translated_automated": "Tabellone di Squadra",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_select",
+        "description_text": "Selects the mods, which may then be deleted",
+        "description_location": "A label in the mods menu",
+        "value_english": "Select",
+        "value_translated_automated": "Selezziunà",
         "value_translated_native": null
       },
       {
@@ -507,7 +678,7 @@
         "description_text": "Describes the amount of players who are set to spectate mode",
         "description_location": "A label in the pregame menu",
         "value_english": "Spectators",
-        "value_translated_automated": "Spectatori",
+        "value_translated_automated": "Spettatori",
         "value_translated_native": null
       },
       {
@@ -516,7 +687,7 @@
         "description_text": "Describes a team association",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Team",
-        "value_translated_automated": "squadra",
+        "value_translated_automated": "Squadra",
         "value_translated_native": null
       },
       {
@@ -525,7 +696,7 @@
         "description_text": "Describes a specific team",
         "description_location": "A label in the intro menu",
         "value_english": "Team {0}",
-        "value_translated_automated": "squadra {0}",
+        "value_translated_automated": "Squadra {0}",
         "value_translated_native": null
       },
       {
@@ -534,7 +705,25 @@
         "description_text": "Describes a current total score",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Total",
-        "value_translated_automated": "Totale",
+        "value_translated_automated": "Tutale",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_waiting_for_input",
+        "description_text": "Shows the user that we are waiting to capture their input for the new binding",
+        "description_location": "A label that shows when the user is rebinding a control in the settings menu",
+        "value_english": "Waiting for input",
+        "value_translated_automated": "Aspittendu l'input",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_break_setup",
+        "description_text": "States what break file has been used",
+        "description_location": "An event message from the system",
+        "value_english": "Break {0} spawned.",
+        "value_translated_automated": "A pausa {0} hè stata generata.",
         "value_translated_native": null
       },
       {
@@ -557,6 +746,24 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_joined",
+        "description_text": "States a player has joined the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has joined the game.",
+        "value_translated_automated": "{0} s'hè unitu à u ghjocu.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_player_left",
+        "description_text": "States a player has left the game",
+        "description_location": "An event message from the system",
+        "value_english": "{0} has left the game.",
+        "value_translated_automated": "{0} hà lasciatu u ghjocu.",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_queen_covered",
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
@@ -570,7 +777,25 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "A squadra {0} {1} deve avà compie a copertina",
+        "value_translated_automated": "A squadra {0} {1} deve avà compie a cupertura",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_debt",
+        "description_text": "States that the pieces replaced were from previous debt",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing owed debt to the board",
+        "value_translated_automated": "Rimpiazzà u debitu duvutu à u cunsigliu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_replace_foul",
+        "description_text": "States that the pieces replaced were from a foul",
+        "description_location": "An event message from the system",
+        "value_english": "Replacing due to foul",
+        "value_translated_automated": "Rimpiazzamentu per via di fallu",
         "value_translated_native": null
       },
       {
@@ -579,7 +804,7 @@
         "description_text": "States the round has ended",
         "description_location": "An event message from the system",
         "value_english": "Round {0} has ended",
-        "value_translated_automated": "U turnu {0} hè finitu",
+        "value_translated_automated": "U giru {0} hè finitu",
         "value_translated_native": null
       },
       {
@@ -588,7 +813,7 @@
         "description_text": "States the round has started",
         "description_location": "An event message from the system",
         "value_english": "Round {0} is starting!",
-        "value_translated_automated": "U giru {0} principia !",
+        "value_translated_automated": "U giru {0} principia!",
         "value_translated_native": null
       },
       {
@@ -597,7 +822,7 @@
         "description_text": "States that the player has sank their striker",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has fouled",
-        "value_translated_automated": "A squadra {0} {1} hà fallutu",
+        "value_translated_automated": "A squadra {0} {1} hà fattu falli",
         "value_translated_native": null
       },
       {
@@ -611,11 +836,29 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_turn_round_end",
+        "description_text": "States that the player has ended the round on this turn",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has ended the round",
+        "value_translated_automated": "A squadra {0} {1} hà finitu u giru",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "message_turn_single",
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
         "value_translated_automated": "A squadra {0} {1} hà affundatu u so tiru",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_all",
+        "description_text": "An option that fulfils all relevant configurations",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "All",
+        "value_translated_automated": "Tuttu",
         "value_translated_native": null
       },
       {
@@ -629,11 +872,47 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_direction_only",
+        "description_text": "An assist option that only shows the direction",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction only",
+        "value_translated_automated": "Solu direzzione",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_direction",
+        "description_text": "An assist option that only shows the direction and power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Direction and power",
+        "value_translated_automated": "Direzzione è putenza",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_power_only",
+        "description_text": "An assist option that only shows the power",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Power only",
+        "value_translated_automated": "Solu putenza",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_assist_trajectory_only",
+        "description_text": "An assist option that only shows the trajectory",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Trajectory only",
+        "value_translated_automated": "Solu traiettoria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "option_assorted",
         "description_text": "Describes the ability to choose a variety of options throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Assorted",
-        "value_translated_automated": "Assortitu",
+        "value_translated_automated": "Assortiti",
         "value_translated_native": null
       },
       {
@@ -687,16 +966,7 @@
         "description_text": "Describes a default configuration",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Default",
-        "value_translated_automated": "Default",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "option_disc_pool",
-        "description_text": "Describes the disc pool game mode",
-        "description_location": "An option in a drop down menu in the rules menu",
-        "value_english": "Disc Pool",
-        "value_translated_automated": "Piscina di discu",
+        "value_translated_automated": "Predefinitu",
         "value_translated_native": null
       },
       {
@@ -706,6 +976,15 @@
         "description_location": "An option in a drop down menu in the server menu",
         "value_english": "Friends",
         "value_translated_automated": "Amici",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_none",
+        "description_text": "Describes an option where none of the option are fulfilled",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "None",
+        "value_translated_automated": "Nimu",
         "value_translated_native": null
       },
       {
@@ -750,7 +1029,7 @@
         "description_text": "Describes the ability to choose a random option to use throughout your game",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Random",
-        "value_translated_automated": "casuale",
+        "value_translated_automated": "Aleatoriu",
         "value_translated_native": null
       },
       {
@@ -759,7 +1038,7 @@
         "description_text": "Describes the sandbox game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Sandbox",
-        "value_translated_automated": "Sandbox",
+        "value_translated_automated": "Bacinu di sabbia",
         "value_translated_native": null
       },
       {
@@ -768,7 +1047,7 @@
         "description_text": "Describes the ability to place your striker only where the rules allow",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Strict",
-        "value_translated_automated": "Strittu",
+        "value_translated_automated": "Strettu",
         "value_translated_native": null
       },
       {
@@ -777,7 +1056,7 @@
         "description_text": "Describes the training game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Training",
-        "value_translated_automated": "A furmazione",
+        "value_translated_automated": "Furmazione",
         "value_translated_native": null
       },
       {
@@ -786,7 +1065,7 @@
         "description_text": "Describes the tutorial game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Tutorial",
-        "value_translated_automated": "Tutorial",
+        "value_translated_automated": "Tutoriale",
         "value_translated_native": null
       },
       {
@@ -804,7 +1083,7 @@
         "description_text": "Choice of whether a forward only trajectory rule will be used",
         "description_location": "A rule in the rules menu",
         "value_english": "Forward shot only",
-        "value_translated_automated": "Tirò avanti solu",
+        "value_translated_automated": "Solu tiru in avanti",
         "value_translated_native": null
       },
       {
@@ -813,7 +1092,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "Insert di tasca à u muru",
+        "value_translated_automated": "Inserimentu di tasca murale",
         "value_translated_native": null
       },
       {
@@ -831,7 +1110,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Tavola di rimbalzi",
+        "value_translated_automated": "Tavola di rimbalzu",
         "value_translated_native": null
       },
       {
@@ -840,7 +1119,7 @@
         "description_text": "Choice of how bouncy the piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness piece",
-        "value_translated_automated": "Pezzo di rimbalzi",
+        "value_translated_automated": "Pezzu di rimbalzu",
         "value_translated_native": null
       },
       {
@@ -849,7 +1128,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Attaccante di Bounciness",
+        "value_translated_automated": "Attaccante di rimbalzu",
         "value_translated_native": null
       },
       {
@@ -858,7 +1137,7 @@
         "description_text": "Choice of how bouncy the wall is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness wall",
-        "value_translated_automated": "Muru di rimbalza",
+        "value_translated_automated": "Muru di rimbalzu",
         "value_translated_native": null
       },
       {
@@ -876,7 +1155,16 @@
         "description_text": "Choice of max rounds to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Round maximum",
-        "value_translated_automated": "Massimu tonda",
+        "value_translated_automated": "Massimu tondu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_count_pieces",
+        "description_text": "Choices of how many pieces are present per team",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Piece count",
+        "value_translated_automated": "Numeru di pezzi",
         "value_translated_native": null
       },
       {
@@ -921,7 +1209,7 @@
         "description_text": "Choice of how many sides the board will have",
         "description_location": "A rule in the rules menu",
         "value_english": "Spots",
-        "value_translated_automated": "Spots",
+        "value_translated_automated": "Macchie",
         "value_translated_native": null
       },
       {
@@ -939,7 +1227,16 @@
         "description_text": "Choice of how far the baseline is from the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Distance baseline",
-        "value_translated_automated": "Distanza di basa",
+        "value_translated_automated": "Linea di basa di distanza",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_environment",
+        "description_text": "Choice of what 3D environment is presented",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Environment",
+        "value_translated_automated": "Ambiente",
         "value_translated_native": null
       },
       {
@@ -948,7 +1245,16 @@
         "description_text": "Choice of break configuration",
         "description_location": "A rule in the rules menu",
         "value_english": "Break",
-        "value_translated_automated": "Break",
+        "value_translated_automated": "Pausa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_file_training",
+        "description_text": "Choice of what training file to load",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Training",
+        "value_translated_automated": "Furmazione",
         "value_translated_native": null
       },
       {
@@ -957,7 +1263,7 @@
         "description_text": "Choice of how much friction the board has",
         "description_location": "A rule in the rules menu",
         "value_english": "Board friction",
-        "value_translated_automated": "Friction di bordu",
+        "value_translated_automated": "Attritu di u cunsigliu",
         "value_translated_native": null
       },
       {
@@ -1002,7 +1308,7 @@
         "description_text": "Choice of how inset the pocket is into the wall",
         "description_location": "A rule in the rules menu",
         "value_english": "Pocket inset",
-        "value_translated_automated": "Insert di tasca",
+        "value_translated_automated": "Insertu di tasca",
         "value_translated_native": null
       },
       {
@@ -1011,7 +1317,7 @@
         "description_text": "Choice of where a player is allowed to place a striker",
         "description_location": "A rule in the rules menu",
         "value_english": "Striker placement",
-        "value_translated_automated": "U piazzamentu di u striker",
+        "value_translated_automated": "Piazzamentu di l'attaccante",
         "value_translated_native": null
       },
       {
@@ -1020,7 +1326,7 @@
         "description_text": "Choice of where the game caps the queens point contribution",
         "description_location": "A rule in the rules menu",
         "value_english": "Queen points cap",
-        "value_translated_automated": "Capu di punti Queen",
+        "value_translated_automated": "Cappellu di punti di a regina",
         "value_translated_native": null
       },
       {
@@ -1074,7 +1380,7 @@
         "description_text": "Choice of how large a board is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Board",
-        "value_translated_automated": "Cunsigliu di taglia",
+        "value_translated_automated": "Tavola di taglia",
         "value_translated_native": null
       },
       {
@@ -1083,7 +1389,7 @@
         "description_text": "Choice of how large a piece is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Piece",
-        "value_translated_automated": "Size Piece",
+        "value_translated_automated": "Dimensione Pezzu",
         "value_translated_native": null
       },
       {
@@ -1092,7 +1398,7 @@
         "description_text": "Choice of how large a pocket is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Pocket",
-        "value_translated_automated": "Taglia Pocket",
+        "value_translated_automated": "Dimensione di a tasca",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1407,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "Striker di taglia",
+        "value_translated_automated": "Attaccante di taglia",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1416,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "Turn Timer",
+        "value_translated_automated": "Timer di girata",
         "value_translated_native": null
       },
       {
@@ -1119,7 +1425,7 @@
         "description_text": "Choice of enforcing a uniform striker across all players",
         "description_location": "A rule in the rules menu",
         "value_english": "Uniform Striker",
-        "value_translated_automated": "Striker uniforme",
+        "value_translated_automated": "Attaccante Uniforme",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1434,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Max Players",
+        "value_translated_automated": "Ghjucatori Massimi",
         "value_translated_native": null
       },
       {
@@ -1146,13 +1452,40 @@
         "description_text": "Describes the server visibility",
         "description_location": "A setting in the server menu",
         "value_english": "Privacy",
-        "value_translated_automated": "Privacy",
+        "value_translated_automated": "Cunfidenzialità",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_cursor",
-        "description_text": "Describes the sensitivity of the cursor",
+        "key": "setting_application_language",
+        "description_text": "Describes what locale is being used for the application",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Language",
+        "value_translated_automated": "Lingua",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_mods",
+        "description_text": "Resets all mod files and preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset mods",
+        "value_translated_automated": "Resettà i mods",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_preferences",
+        "description_text": "Resets all player preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset preferences",
+        "value_translated_automated": "Resettate e preferenze",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_cursor",
+        "description_text": "Describes the speed at which the cursor is moved",
         "description_location": "A setting in the settings menu",
         "value_english": "Cursor sensitivity",
         "value_translated_automated": "Sensibilità di u cursore",
@@ -1160,11 +1493,38 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "setting_game_speed_zoom",
-        "description_text": "Describes the sensitivity of the zoom",
+        "key": "setting_application_speed_rotation",
+        "description_text": "Describes the speed at which the camera rotates",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Rotation sensitivitiy",
+        "value_translated_automated": "Sensibilità à a rotazione",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_zoom",
+        "description_text": "Describes the speed at which the camera zooms",
         "description_location": "A setting in the settings menu",
         "value_english": "Zoom sensitivity",
-        "value_translated_automated": "Sensibilità di u zoom",
+        "value_translated_automated": "Sensibilità di zoom",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_power",
+        "description_text": "Describes if the power text will be shown",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Power text assist",
+        "value_translated_automated": "Assistenza di testu putente",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_assist_trajectory",
+        "description_text": "Describes what aim assists will be enabled",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Trajectory assist",
+        "value_translated_automated": "Assistenza di traiettoria",
         "value_translated_native": null
       },
       {
@@ -1173,7 +1533,7 @@
         "description_text": "Describes the fullscreen status of the application",
         "description_location": "A setting in the settings menu",
         "value_english": "Fullscreen",
-        "value_translated_automated": "Fullscreen",
+        "value_translated_automated": "Schermu pienu",
         "value_translated_native": null
       },
       {
@@ -1200,7 +1560,7 @@
         "description_text": "Describes the volume relating to physical game elements",
         "description_location": "A setting in the settings menu",
         "value_english": "Game volume",
-        "value_translated_automated": "Volumi di ghjocu",
+        "value_translated_automated": "Volume di ghjocu",
         "value_translated_native": null
       },
       {
@@ -1209,7 +1569,7 @@
         "description_text": "Describes the volume relating to game mode events",
         "description_location": "A setting in the settings menu",
         "value_english": "Game mode volume",
-        "value_translated_automated": "U voluminu di u modu di ghjocu",
+        "value_translated_automated": "Volume di u modu di ghjocu",
         "value_translated_native": null
       },
       {
@@ -1227,7 +1587,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "volume UI",
+        "value_translated_automated": "Volume di l'interfaccia utente",
         "value_translated_native": null
       },
       {
@@ -1250,11 +1610,20 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "stat_queen_covered",
+        "description_text": "Describes the amount of queens successfully covered",
+        "description_location": "A statistic recorded in the scoreboard menu",
+        "value_english": "Queen Covered",
+        "value_translated_automated": "Regina cuperta",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "stat_queen_sank",
         "description_text": "Describes the amount of red pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Sank",
-        "value_translated_automated": "A regina s'affonda",
+        "value_translated_automated": "A regina affundava",
         "value_translated_native": null
       },
       {
@@ -1281,7 +1650,16 @@
         "description_text": "Describes the amount of white pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
-        "value_translated_automated": "White Sank",
+        "value_translated_automated": "Biancu affundatu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "tab_application",
+        "description_text": "Describes a page of application related settings",
+        "description_location": "A tab label in the settings menu",
+        "value_english": "Application",
+        "value_translated_automated": "Applicazione",
         "value_translated_native": null
       },
       {
@@ -1371,16 +1749,7 @@
         "description_text": "Describes a page of personal related customizaitons",
         "description_location": "A tab label in the customizations menu",
         "value_english": "Personal",
-        "value_translated_automated": "Personale",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_pointer",
-        "description_text": "Describes a page of pointer related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Pointer",
-        "value_translated_automated": "Puntatore",
+        "value_translated_automated": "Persunale",
         "value_translated_native": null
       },
       {
@@ -1394,29 +1763,11 @@
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_skin",
-        "description_text": "Describes a page of carrom skin related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Skin",
-        "value_translated_automated": "A pelle",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "tab_trail",
-        "description_text": "Describes a page of trail related customizations",
-        "description_location": "A tab label in the customizations menu",
-        "value_english": "Trail",
-        "value_translated_automated": "Trail",
-        "value_translated_native": null
-      },
-      {
-        "$type": "Translation, Assembly-CSharp-Editor",
         "key": "tab_trainings",
         "description_text": "Describes a page of training related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Trainings",
-        "value_translated_automated": "Trainings",
+        "value_translated_automated": "Furmazioni",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1785,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "U striker deve principià à ghjucà da a basa.",
+        "value_translated_automated": "L'attaccante deve cumincià à ghjucà da a linea di fondu.",
         "value_translated_native": null
       },
       {
@@ -1452,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Ogni ghjocu di carrom cumminciarà cù tutti i pezzi di scoring raggruppati in u centru. U primu colpu di a tonda hè chjamatu u break.",
+        "value_translated_automated": "Ogni partita di carrom cumincerà cù tutte e pedine di puntuazione raggruppate in u centru. U primu colpu di u giru hè chjamatu a pausa.",
         "value_translated_native": null
       },
       {
@@ -1461,7 +1812,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "Quì un bot mostra una pausa.",
+        "value_translated_automated": "Quì un bot dimostra una pausa.",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1830,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Una pausa bè colpi deve disperse i pezzi nantu à u bordu. Un ghjucatore espertu puderia esse capaci di dà un vantaghju per tutta a volta da una bona pausa è i colpi successivi.",
+        "value_translated_automated": "Una bona pausa duveria sparghje i pezzi nantu à u tavulinu. Un ghjucadore espertu puderia esse capace di dà si un vantaghju per tuttu u giru da una bona pausa è i colpi successivi.",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Pudete cambià l'anguli di a camera pressu 0, 1, 2, o 3. A camera di ghjocu cunsigliata hè 1. Pudete move a vostra camera in ogni mumentu tenendu clic right è movendu u mouse. Vede più cuntrolli di càmera in u menù di cuntrolli.",
+        "value_translated_automated": "Pudete cambià l'anguli di a camera premendu 0, 1, 2, o 3. A camera di ghjocu cunsigliata hè 1. Pudete spustà a vostra camera in ogni mumentu tenendu premutu u dirittu è muvendu u mouse. Vede più cuntrolli di a camera in u menu di cuntrolli.",
         "value_translated_native": null
       },
       {
@@ -1497,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom hè ghjucatu flicking discs in altri dischi per spinghje in i buchi nantu à u tavulinu. Fendu cusì cun successu vi dà un altru turnu. U ghjocu finisci quandu una squadra esce di dischi per mira.",
+        "value_translated_automated": "U Carrom si ghjoca cù dischi chì lancianu altri dischi per spinghjeli in i buchi di u tavulinu. Fendu cusì, si ottiene un altru giru. U ghjocu finisce quandu una squadra ùn hà più dischi da puntà.",
         "value_translated_native": null
       },
       {
@@ -1506,7 +1857,7 @@
         "description_text": "Defines how chat can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Turn history and chat can be opened by pressing T.",
-        "value_translated_automated": "Turnate a storia è u chat pò esse apertu pressendu T.",
+        "value_translated_automated": "A storia di i turni è a chat ponu esse aperte premendu T.",
         "value_translated_native": null
       },
       {
@@ -1515,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Avete finitu u tutoriale! Avà site prontu à ghjucà à i ghjochi di carrom cù l'amichi è i bots.",
+        "value_translated_automated": "Avete finitu u tutoriale! Avà site prontu à ghjucà à ghjochi di carrom cù amichi è bots.",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1875,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "Pone u cursore nantu à a linea di basa per inizià u vostru colpu.",
+        "value_translated_automated": "Pone u cursore nantu à a linea di basa per cumincià u vostru colpu.",
         "value_translated_native": null
       },
       {
@@ -1533,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Trascinate u cursore luntanu da u vostru scopu mentre cuntinuendu à mantene u clicu left.",
+        "value_translated_automated": "Trascinate u cursore luntanu da u vostru bersagliu mentre cuntinuate à tene premutu u cliccà sinistro.",
         "value_translated_native": null
       },
       {
@@ -1542,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Cliccate à manca è tene premutu per cunfirmà u vostru piazzamentu di u striker.",
+        "value_translated_automated": "Cliccate è tene premutu u buttone sinistro per cunfirmà u piazzamentu di u vostru attaccante.",
         "value_translated_native": null
       },
       {
@@ -1551,7 +1902,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "U menù di pausa cuntene i paràmetri di l'applicazione è i cuntrolli, è pò esse accessu in ogni mumentu premendu a chjave di escape.",
+        "value_translated_automated": "U menu di pausa cuntene i paràmetri è i cuntrolli di l'applicazione, è pò esse accessu in ogni mumentu premendu u tastu escape.",
         "value_translated_native": null
       },
       {
@@ -1560,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "I bordi di carrom standard venenu cù quattru buchi, chjamati sacchetti, in ogni angulu.",
+        "value_translated_automated": "I tavulini di carrom standard venenu cù quattru buchi, chjamati tasche, in ogni angulu.",
         "value_translated_native": null
       },
       {
@@ -1569,7 +1920,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Queste sacchetti sò induve vo vulete affundà i dischi. Fighjate cum'è u nostru bot ghjoca.",
+        "value_translated_automated": "Queste tasche sò induve avete u scopu di affundà i dischi. Guardate cum'è u nostru bot ghjoca.",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "U modu prufessiunali richiederà chì a regina sia intaccata per compie a volta. Per puntuà a regina, duvete prima intascà a regina è poi intascà u vostru prossimu colpu per copre a regina. In casu di fà cusì, a regina torna à u tribunale.",
+        "value_translated_automated": "U modu prufessiunale richiederà chì a regina sia imbucata per compie u giru. Per ottene a regina, duvete prima imbucà a regina è dopu imbucà cù successu u vostru prossimu colpu per copre a regina. Se ùn fate micca cusì, a regina tornerà à u tavulinu.",
         "value_translated_native": null
       },
       {
@@ -1587,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Eccu un scenariu. Fighjate a sacchetta di u bot è poi copre a regina.",
+        "value_translated_automated": "Eccu un scenariu. Fighjate a sacchetta di u bot è dopu coprite a regina.",
         "value_translated_native": null
       },
       {
@@ -1596,7 +1947,7 @@
         "description_text": "Encourages the user to try pocketing the queen, then cover it the next turn",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself. First the queen, then the white piece.",
-        "value_translated_automated": "Pruvate sè stessu. Prima a regina, dopu u pezzu biancu.",
+        "value_translated_automated": "Pruvate voi stessu. Prima a regina, dopu u pezzu biancu.",
         "value_translated_native": null
       },
       {
@@ -1605,7 +1956,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "U modu di punti hè cunsigliatu per i vostri primi partiti. Questu vi furnisce assai opportunità per puntuà.",
+        "value_translated_automated": "A modalità punti hè cunsigliata per i vostri primi dui ghjochi. Questu vi dà assai opportunità per marcà punti.",
         "value_translated_native": null
       },
       {
@@ -1614,7 +1965,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "Rilasciate u clicu di manca per scaccià u vostru striker in ghjocu.",
+        "value_translated_automated": "Rilasciate u cliccà sinistro per mette in ghjocu u vostru attaccante.",
         "value_translated_native": null
       },
       {
@@ -1623,7 +1974,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "Diversi modi di ghjocu anu diverse regule di puntuazione, ma a partitura pò esse vista in ogni mumentu premendu a chjave TAB.",
+        "value_translated_automated": "Diversi modi di ghjocu anu diverse regule di puntuazione, ma u puntuatu pò esse vistu in ogni mumentu premendu u tastu TAB.",
         "value_translated_native": null
       },
       {
@@ -1632,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "I modi prufessiunali è di pool di discu vi feranu solu per intascà u culore di a vostra squadra, mentre chì u modu di punti assigna diversi valori di punti per ogni pezzu di culore diversu. Di genere, un pezzu di culore rossu hè altu valore, è hè chjamatu a regina.",
+        "value_translated_automated": "I modi prufessiunali è di discu vi feranu solu pruvà à imbuscà u culore di a vostra squadra, mentre chì u modu di punti attribuisce valori di punti diversi per ogni pezzu di culore diversu. Tipicamente, un pezzu di culore rossu hè di altu valore, è hè chjamatu regina.",
         "value_translated_native": null
       },
       {
@@ -1641,7 +1992,7 @@
         "description_text": "Well wishes from our development team",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Enjoy Carrom Slam! ~Dinahsoft team",
-        "value_translated_automated": "Prufittate Carrom Slam! ~ squadra Dinahsoft",
+        "value_translated_automated": "Prufittate di Carrom Slam! ~A squadra di Dinahsoft",
         "value_translated_native": null
       },
       {
@@ -1650,7 +2001,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "U discu utilizatu per inizià u ghjocu hè chjamatu striker.",
+        "value_translated_automated": "U discu adupratu per inizià u ghjocu si chjama u striker.",
         "value_translated_native": null
       },
       {
@@ -1659,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Avà pruvemu à affundà u nostru primu colpu. Fighjate u bot prima.",
+        "value_translated_automated": "Avà pruvemu à affundà u nostru primu colpu. Fighjate prima u bot.",
         "value_translated_native": null
       },
       {
@@ -1668,7 +2019,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Avà u to turnu. Colpite quellu pezzu biancu in a sacchetta vicinu à ellu cum'è u bot.",
+        "value_translated_automated": "Avà hè u to turnu. Metti quellu pezzu biancu in a sacchetta accantu cum'è u bot.",
         "value_translated_native": null
       },
       {
@@ -1677,106 +2028,232 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Carrom Slam! hè un ghjocu di simulatore di carrom. Stu tutoriale vi insegnerà i cuntrolli è cumu ghjucà à carrom.",
+        "value_translated_automated": "Carrom Slam! hè un ghjocu di simulatore di carrom. Stu tutoriale vi insignarà i cuntrolli è cumu ghjucà à carrom.",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_1",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 1",
-        "value_translated_automated": "Camera 1",
+        "key": "button_events",
+        "description_text": "Views the events log and chat",
+        "description_location": "A button on the focused menu",
+        "value_english": "Events",
+        "value_translated_automated": "Eventi",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_2",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 2",
-        "value_translated_automated": "Camera 2",
+        "key": "button_pause",
+        "description_text": "Views the pause menu, allowing the user to setup their game",
+        "description_location": "A button on the focused menu",
+        "value_english": "Pause",
+        "value_translated_automated": "Pausa",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_3",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 3",
-        "value_translated_automated": "Camera 3",
+        "key": "button_return",
+        "description_text": "Returns to the previous menu",
+        "description_location": "A button on many pages, including the settings menu",
+        "value_english": "Return",
+        "value_translated_automated": "Ritornu",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_camera_4",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Camera 4",
-        "value_translated_automated": "Camera 4",
+        "key": "button_scoreboard",
+        "description_text": "Views the scoreboard",
+        "description_location": "A button on the focused menu",
+        "value_english": "Scoreboard",
+        "value_translated_automated": "Tabellu di puntuazione",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_next",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Next Page",
-        "value_translated_automated": "Pagina successiva",
+        "key": "control_action_escape",
+        "description_text": "Jumps to the previous menu",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Escape",
+        "value_translated_automated": "Fuga",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "control_action_page_prev",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Previous Page",
-        "value_translated_automated": "Pagina precedente",
+        "key": "control_axis_camera_zoom_negative",
+        "description_text": "Zooms the camera further to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom out",
+        "value_translated_automated": "Zoom out",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_joined",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has joined the game.",
-        "value_translated_automated": "{0} hà unitu à u ghjocu.",
+        "key": "control_axis_camera_zoom_positive",
+        "description_text": "Zooms the camera closer to the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Zoom in",
+        "value_translated_automated": "Zoom avanti",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "message_player_left",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "{0} has left the game.",
-        "value_translated_automated": "{0} hà lasciatu u ghjocu.",
+        "key": "control_vector_camera_move_backward",
+        "description_text": "Moves the camera backward from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera backward",
+        "value_translated_automated": "Move a camera in daretu",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_count_pieces",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Piece count",
-        "value_translated_automated": "Conte di pezzi",
+        "key": "control_vector_camera_move_down",
+        "description_text": "Moves the camera down from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera down",
+        "value_translated_automated": "Move a camera in giù",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "rule_file_training",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Training",
-        "value_translated_automated": "A furmazione",
+        "key": "control_vector_camera_move_forward",
+        "description_text": "Moves the camera forward towards the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera forward",
+        "value_translated_automated": "Spostà a camera in avanti",
         "value_translated_native": null
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
-        "key": "stat_queen_covered",
-        "description_text": null,
-        "description_location": null,
-        "value_english": "Queen Covered",
-        "value_translated_automated": "Queen Covered",
+        "key": "control_vector_camera_move_left",
+        "description_text": "Moves the camera left from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera left",
+        "value_translated_automated": "Move a camera à manca",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_right",
+        "description_text": "Moves the camera right from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera right",
+        "value_translated_automated": "Move a camera à diritta",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_camera_move_up",
+        "description_text": "Moves the camera up from the focus point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move camera up",
+        "value_translated_automated": "Move a camera in sù",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_down",
+        "description_text": "Moves the pointer down from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer down",
+        "value_translated_automated": "Move u puntatore in giù",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_left",
+        "description_text": "Moves the pointer left from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer left",
+        "value_translated_automated": "Move u puntatore à manca",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_right",
+        "description_text": "Moves the pointer right from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer right",
+        "value_translated_automated": "Move u puntatore à diritta",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "control_vector_pointer_move_up",
+        "description_text": "Moves the pointer up from the current point",
+        "description_location": "A rebindable action in the controls tab of the settings menu",
+        "value_english": "Move pointer up",
+        "value_translated_automated": "Move u puntatore in sù",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "label_pregame",
+        "description_text": "Describes the state of the game as not started yet, before the game",
+        "description_location": "A label in the mini scoreboard",
+        "value_english": "Pregame",
+        "value_translated_automated": "Prima di a partita",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "message_queen_combo",
+        "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
+        "description_location": "An event message from the system",
+        "value_english": "Team {0} {1} has combo covered the queen!",
+        "value_translated_automated": "A squadra {0} {1} hà cupertu a regina in combo!",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "option_discpool",
+        "description_text": "Describes the disc pool game mode",
+        "description_location": "An option in a drop down menu in the rules menu",
+        "value_english": "Disc pool",
+        "value_translated_automated": "Piscina di dischi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_power",
+        "description_text": "Choice of showing exact power on striker",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Power text",
+        "value_translated_automated": "Testu di putenza",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_assist_trajectory",
+        "description_text": "Choice of showing piece trajectory",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Trajectory",
+        "value_translated_automated": "Traiettoria",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "rule_invert_break",
+        "description_text": "Choice of whether to invert the starting break",
+        "description_location": "A rule in the rules menu",
+        "value_english": "Invert break chance",
+        "value_translated_automated": "Inverte a pussibilità di pausa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_amount",
+        "description_text": "Describes the amount of bots that spawn by default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default bot amount",
+        "value_translated_automated": "Quantità di bot predefinita",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_bot_difficulty",
+        "description_text": "Describes the default new bot difficulty",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Default difficulty",
+        "value_translated_automated": "Difficultà predefinita",
         "value_translated_native": null
       }
     ]
