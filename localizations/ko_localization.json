@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "회전 감도",
         "value_translated_native": null
       },
@@ -1929,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "프로페셔널 모드에서는 퀸을 포켓에 넣어야 라운드가 완료됩니다. 퀸을 획득하려면 먼저 퀸을 포켓에 넣은 후, 다음 샷을 포켓에 넣어 퀸을 커버해야 합니다. 그렇지 않으면 퀸은 보드로 돌아갑니다.",
+        "value_translated_automated": "프로페셔널 모드에서는 라운드를 완료하기 위해 퀸을 포켓에 넣어야 합니다. 퀸을 획득하려면 먼저 퀸을 포켓에 넣은 후, 다음 샷을 포켓에 넣어 퀸을 커버해야 합니다. 그렇지 않으면 퀸은 보드로 돌아갑니다.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "프로페셔널 모드와 디스크 풀 모드에서는 팀 색깔의 말을 포켓에 넣는 것이 목표인 반면, 포인트 모드에서는 색깔이 다른 각 말에 다른 점수가 부여됩니다. 일반적으로 빨간색 말은 높은 점수를 받으며, 퀸이라고 불립니다.",
+        "value_translated_automated": "프로페셔널 모드와 디스크 풀 모드에서는 팀 색깔의 말만 포켓에 넣는 것이 목표인 반면, 포인트 모드에서는 각 색깔의 말에 다른 점수가 부여됩니다. 일반적으로 빨간색 말은 높은 점수를 받으며, 퀸이라고 불립니다.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "기본 난이도",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "움직임 민감도",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "대체 샷 진행",
         "value_translated_native": null
       }
     ]

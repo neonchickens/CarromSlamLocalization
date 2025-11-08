@@ -786,7 +786,7 @@
         "description_text": "States that the pieces replaced were from previous debt",
         "description_location": "An event message from the system",
         "value_english": "Replacing owed debt to the board",
-        "value_translated_automated": "Að skipta út skuld við stjórnina",
+        "value_translated_automated": "Að skipta út skuldum við stjórnina",
         "value_translated_native": null
       },
       {
@@ -849,7 +849,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "Lið {0} {1} hefur skorið niður skotið",
+        "value_translated_automated": "Lið {0} {1} hefur skorið niður skotið sitt",
         "value_translated_native": null
       },
       {
@@ -1263,7 +1263,7 @@
         "description_text": "Choice of how much friction the board has",
         "description_location": "A rule in the rules menu",
         "value_english": "Board friction",
-        "value_translated_automated": "Núningur borðs",
+        "value_translated_automated": "núningur borðs",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Snúningsnæmi",
         "value_translated_native": null
       },
@@ -1839,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Þú getur breytt myndavélarhornum með því að ýta á 0, 1, 2 eða 3. Mælt er með að spila myndavél 1. Þú getur fært myndavélina hvenær sem er með því að halda hægrismelltu inni og færa músina. Sjáðu fleiri stjórntæki fyrir myndavélina í stjórnvalmyndinni.",
+        "value_translated_automated": "Þú getur breytt myndavélarhornum með því að ýta á 0, 1, 2 eða 3. Mælt er með að spila myndavél 1. Þú getur fært myndavélina hvenær sem er með því að halda hægrismelli inni og færa músina. Sjáðu fleiri stjórntæki fyrir myndavélina í stjórntækisvalmyndinni.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Sjálfgefin erfiðleikastig",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Hreyfingarnæmi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Vara skotframvindu",
         "value_translated_native": null
       }
     ]

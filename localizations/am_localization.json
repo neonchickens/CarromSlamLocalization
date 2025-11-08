@@ -1496,8 +1496,8 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
-        "value_translated_automated": "የማዞር ስሜት",
+        "value_english": "Rotation sensitivity",
+        "value_translated_automated": "የማሽከርከር ስሜት",
         "value_translated_native": null
       },
       {
@@ -1884,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "የግራ ጠቅ ማድረግን በመቀጠል ጠቋሚዎን ከዒላማዎ ያርቁ።",
+        "value_translated_automated": "የግራ ጠቅታ በመያዝ በመቀጠል ጠቋሚዎን ከዒላማዎ ያርቁ።",
         "value_translated_native": null
       },
       {
@@ -1920,7 +1920,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "እነዚህ ኪሶች ዲስኮችን የመስጠም ዓላማ ያደረጉበት ነው። የእኛ ቦት ሲጫወት ይመልከቱ።",
+        "value_translated_automated": "እነዚህ ኪሶች ዲስኮችን የመስጠም አላማ ያላችሁበት ነው። የእኛ ቦት ሲጫወት ይመልከቱ።",
         "value_translated_native": null
       },
       {
@@ -1965,7 +1965,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "አጥቂዎን ወደ ጨዋታ ለማዞር በግራ ጠቅ ያድርጉ።",
+        "value_translated_automated": "አጥቂህን ወደ ጨዋታ ለመጠቅለል በግራ ጠቅ አድርግ።",
         "value_translated_native": null
       },
       {
@@ -2028,7 +2028,7 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "ካሮም ስላም! የካርሮም ሲሙሌተር ጨዋታ ነው። ይህ መማሪያ መቆጣጠሪያዎቹን እና ካሮምን እንዴት መጫወት እንደሚችሉ ያስተምርዎታል።",
+        "value_translated_automated": "ካሮም ስላም! የካርሮም ሲሙሌተር ጨዋታ ነው። ይህ መማሪያ መቆጣጠሪያዎቹን እና ካሮምን እንዴት እንደሚጫወቱ ያስተምርዎታል።",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "ነባሪ ችግር",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "የእንቅስቃሴ ስሜታዊነት",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "ተለዋጭ የተኩስ እድገት",
         "value_translated_native": null
       }
     ]

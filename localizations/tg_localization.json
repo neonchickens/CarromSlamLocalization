@@ -318,7 +318,7 @@
         "description_text": "Toggles the visibility of the scoreboard menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Scoreboard",
-        "value_translated_automated": "Тағйир додани нишондиҳандаҳо",
+        "value_translated_automated": "Табдили нишондодҳоро иваз кунед",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Ҳассосияти гардиш",
         "value_translated_native": null
       },
@@ -1614,7 +1614,7 @@
         "description_text": "Describes the amount of queens successfully covered",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Covered",
-        "value_translated_automated": "Маликаи пӯшида",
+        "value_translated_automated": "Малика пӯшида",
         "value_translated_native": null
       },
       {
@@ -1848,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Карром бо пахш кардани дискҳо ба дигар дискҳо бозӣ карда мешавад, то онҳоро ба сӯрохиҳои тахта тела диҳад. Ин бомуваффақият ба шумо навбати дигар медиҳад. Бозӣ вақте ба итмом мерасад, ки даста аз дискҳо барои ҳадаф тамом мешавад.",
+        "value_translated_automated": "Карром бо пахш кардани дискҳо ба дискҳои дигар бозӣ карда мешавад, то онҳоро ба сӯрохиҳои тахта тела диҳад. Ин бомуваффақият ба шумо навбати дигар медиҳад. Бозӣ вақте ба итмом мерасад, ки даста аз дискҳо барои ҳадаф тамом мешавад.",
         "value_translated_native": null
       },
       {
@@ -1857,7 +1857,7 @@
         "description_text": "Defines how chat can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Turn history and chat can be opened by pressing T.",
-        "value_translated_automated": "Таърихи гардиш ва чатро тавассути пахшкунии Т кушодан мумкин аст.",
+        "value_translated_automated": "Таърихи гардиш ва сӯҳбатро тавассути пахшкунии T кушодан мумкин аст.",
         "value_translated_native": null
       },
       {
@@ -1920,7 +1920,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "Ин ҷайбҳо дар он ҷое ҳастанд, ки шумо мехоҳед дискҳоро ғарқ кунед. Вақте ки боти мо бозӣ мекунад, тамошо кунед.",
+        "value_translated_automated": "Ин ҷайбҳо дар он ҷое ҳастанд, ки шумо ният доред, ки дискҳоро ғарқ кунед. Вақте ки боти мо бозӣ мекунад, тамошо кунед.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Усулҳои ҳавзи касбӣ ва дискӣ шуморо танҳо ҳадафи ба ҷайб задани ранги дастаи худ доранд, дар ҳоле ки режими нуқтаҳо барои ҳар як порчаи рангоранг арзишҳои гуногуни нуқтаҳоро таъин мекунад. Одатан, порчаи ранги сурх арзиши баланд дорад ва ҳамчун малика номида мешавад.",
+        "value_translated_automated": "Усулҳои ҳавзи касбӣ ва дискӣ шуморо танҳо ҳадафи ба ҷайби ҷайб задани ранги дастаи худ доранд, дар ҳоле ки режими нуқтаҳо барои ҳар як порчаи гуногунранг арзишҳои гуногуни нуқтаҳоро таъин мекунад. Одатан, порчаи ранги сурх арзиши баланд дорад ва ҳамчун малика номида мешавад.",
         "value_translated_native": null
       },
       {
@@ -2244,7 +2244,7 @@
         "description_text": "Describes the amount of bots that spawn by default",
         "description_location": "A setting in the settings menu",
         "value_english": "Default bot amount",
-        "value_translated_automated": "Маблағи бот пешфарз",
+        "value_translated_automated": "Маблағи ботҳои пешфарз",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Мушкилоти пешфарз",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Ҳассосияти ҳаракат",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Пешравии алтернативии тир",
         "value_translated_native": null
       }
     ]

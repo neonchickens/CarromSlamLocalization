@@ -345,7 +345,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "Hatua ya Juu",
+        "value_translated_automated": "Hatua ya Kitaifa",
         "value_translated_native": null
       },
       {
@@ -732,7 +732,7 @@
         "description_text": "States the game has ended",
         "description_location": "An event message from the system",
         "value_english": "Game has ended",
-        "value_translated_automated": "Mchezo umekwisha",
+        "value_translated_automated": "Mchezo umeisha",
         "value_translated_native": null
       },
       {
@@ -1416,7 +1416,7 @@
         "description_text": "Choice of how long a turn can be",
         "description_location": "A rule in the rules menu",
         "value_english": "Turn Timer",
-        "value_translated_automated": "Washa Kipima saa",
+        "value_translated_automated": "Washa Kipima muda",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1434,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Wachezaji wa Max",
+        "value_translated_automated": "Wachezaji wa Juu",
         "value_translated_native": null
       },
       {
@@ -1496,8 +1496,8 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
-        "value_translated_automated": "Usikivu wa mzunguko",
+        "value_english": "Rotation sensitivity",
+        "value_translated_automated": "Unyeti wa mzunguko",
         "value_translated_native": null
       },
       {
@@ -1812,7 +1812,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "Hapa boti inaonyesha mapumziko.",
+        "value_translated_automated": "Hapa bot inaonyesha mapumziko.",
         "value_translated_native": null
       },
       {
@@ -2172,7 +2172,7 @@
         "description_text": "Moves the pointer right from the current point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move pointer right",
-        "value_translated_automated": "Sogeza kiashiria kulia",
+        "value_translated_automated": "Sogeza kielekezi kulia",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Ugumu chaguo-msingi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Unyeti wa harakati",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Mwendelezo wa risasi mbadala",
         "value_translated_native": null
       }
     ]

@@ -588,7 +588,7 @@
         "description_text": "Describes the amount of players waiting to play out of a total amount",
         "description_location": "A label in the pregame menu",
         "value_english": "Players Ready",
-        "value_translated_automated": "Pemain Bersedia",
+        "value_translated_automated": "Pemain Sedia",
         "value_translated_native": null
       },
       {
@@ -849,7 +849,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "Pasukan {0} {1} telah menenggelamkan pukulan mereka",
+        "value_translated_automated": "Pasukan {0} {1} telah melakukan pukulan mereka",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Kepekaan putaran",
         "value_translated_native": null
       },
@@ -1605,7 +1605,7 @@
         "description_text": "Describes the amount of strikers sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Fouls",
-        "value_translated_automated": "Fals",
+        "value_translated_automated": "Kesalahan",
         "value_translated_native": null
       },
       {
@@ -1830,7 +1830,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Rehat pukulan yang baik harus menyebarkan kepingan di seluruh papan. Pemain yang mahir mungkin boleh memberi kelebihan kepada diri mereka untuk keseluruhan pusingan daripada rehat yang baik dan pukulan seterusnya.",
+        "value_translated_automated": "Rehat pukulan yang baik harus menyebarkan kepingan di seluruh papan. Seorang pemain yang mahir mungkin boleh memberi kelebihan kepada diri mereka untuk keseluruhan pusingan daripada rehat yang baik dan pukulan seterusnya.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Kesukaran lalai",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Sensitiviti pergerakan",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Perkembangan pukulan bergantian",
         "value_translated_native": null
       }
     ]

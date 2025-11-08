@@ -120,7 +120,7 @@
         "description_text": "Randomizes all customization features",
         "description_location": "A button on the customization menu",
         "value_english": "Randomize",
-        "value_translated_automated": "Randomisieren",
+        "value_translated_automated": "Zufällig",
         "value_translated_native": null
       },
       {
@@ -894,7 +894,7 @@
         "description_text": "An assist option that only shows the power",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Power only",
-        "value_translated_automated": "Strom",
+        "value_translated_automated": "Strom nur",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Rotationsempfindlichkeit",
         "value_translated_native": null
       },
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Im Profi- und Disc-Pool-Modus geht es nur darum, die Kugeln in der Farbe des eigenen Teams einzulochen, während im Punktemodus jeder andersfarbigen Kugel ein anderer Punktwert zugewiesen wird. Normalerweise hat eine rote Kugel den höchsten Punktwert und wird als Dame bezeichnet.",
+        "value_translated_automated": "Im Profi- und Disc-Pool-Modus geht es nur darum, die Kugeln in der Farbe des eigenen Teams einzulochen, während im Punktemodus jede andersfarbige Kugel unterschiedliche Punktwerte hat. Normalerweise hat eine rote Kugel den höchsten Punktwert und wird als Dame bezeichnet.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Standard-Schwierigkeitsgrad",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Bewegungssensibilität",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Abwechselnde Schussfolge",
         "value_translated_native": null
       }
     ]

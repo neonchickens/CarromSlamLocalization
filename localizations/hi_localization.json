@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "घूर्णन संवेदनशीलता",
         "value_translated_native": null
       },
@@ -2010,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "अब चलिए अपना पहला शॉट लगाने की कोशिश करते हैं। पहले बॉट पर नज़र डालिए।",
+        "value_translated_automated": "अब चलिए अपना पहला शॉट मारने की कोशिश करते हैं। पहले बॉट पर नज़र डालिए।",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "डिफ़ॉल्ट कठिनाई",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "गति संवेदनशीलता",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "वैकल्पिक शॉट प्रगति",
         "value_translated_native": null
       }
     ]

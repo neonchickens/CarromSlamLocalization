@@ -777,7 +777,7 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "ଦଳ {0} {1}ଙ୍କୁ ଏବେ କଭର ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ପଡିବ",
+        "value_translated_automated": "ଦଳ {0} {1}କୁ ଏବେ କଭର ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ପଡିବ",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "ଘୂର୍ଣ୍ଣନ ସମ୍ବେଦନଶୀଳତା",
         "value_translated_native": null
       },
@@ -1839,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "ଆପଣ 0, 1, 2, କିମ୍ବା 3 ଦବାଇ କ୍ୟାମେରା ଆଙ୍ଗଲ୍ ପରିବର୍ତ୍ତନ କରିପାରିବେ। ସୁପାରିଶ କରାଯାଇଥିବା ଚଲାଇବା କ୍ୟାମେରା ହେଉଛି 1। ଆପଣ ଯେକୌଣସି ସମୟରେ ଡାହାଣ କ୍ଲିକ୍ ଧରି ଏବଂ ମାଉସ୍ ଘୁଞ୍ଚାଇ ଆପଣଙ୍କ କ୍ୟାମେରାକୁ ଘୁଞ୍ଚାଇ ପାରିବେ। ନିୟନ୍ତ୍ରଣ ମେନୁରେ ଅଧିକ କ୍ୟାମେରା ନିୟନ୍ତ୍ରଣ ଦେଖନ୍ତୁ।",
+        "value_translated_automated": "ଆପଣ 0, 1, 2, କିମ୍ବା 3 ଦବାଇ କ୍ୟାମେରା ଆଙ୍ଗଲ୍ ପରିବର୍ତ୍ତନ କରିପାରିବେ। ସୁପାରିଶ କରାଯାଇଥିବା ଚଲାଇବା କ୍ୟାମେରା ହେଉଛି 1। ଆପଣ ଯେକୌଣସି ସମୟରେ ଡାହାଣ କ୍ଲିକ୍ ଧରି ଏବଂ ମାଉସ୍ ଘୁଞ୍ଚାଇ ଆପଣଙ୍କର କ୍ୟାମେରାକୁ ଘୁଞ୍ଚାଇ ପାରିବେ। ନିୟନ୍ତ୍ରଣ ମେନୁରେ ଅଧିକ କ୍ୟାମେରା ନିୟନ୍ତ୍ରଣ ଦେଖନ୍ତୁ।",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "ଡିଫଲ୍ଟ କଷ୍ଟକରତା",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "ଗତିବିଧି ସମ୍ବେଦନଶୀଳତା",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "ବିକଳ୍ପ ସଟ୍ ଅଗ୍ରଗତି",
         "value_translated_native": null
       }
     ]

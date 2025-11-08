@@ -651,7 +651,7 @@
         "description_text": "Describes that the scoreboard represents individual player statistics",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Player Scoreboard",
-        "value_translated_automated": "Tabela rezultatov igralcev",
+        "value_translated_automated": "Rezultati igralcev",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Občutljivost vrtenja",
         "value_translated_native": null
       },
@@ -1533,7 +1533,7 @@
         "description_text": "Describes the fullscreen status of the application",
         "description_location": "A setting in the settings menu",
         "value_english": "Fullscreen",
-        "value_translated_automated": "Celozaslonski način",
+        "value_translated_automated": "Celoten zaslon",
         "value_translated_native": null
       },
       {
@@ -1848,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom se igra tako, da se diski mečejo v druge diske, da se ti zabijejo v luknje na plošči. Če to storite, imate pravico do še ene poteze. Igra se konča, ko ekipi zmanjka diskov za ciljanje.",
+        "value_translated_automated": "Carrom se igra tako, da se diski mečejo v druge diske, da se ti zabijejo v luknje na plošči. Če to storite, imate pravico do še enega kroga. Igra se konča, ko ekipi zmanjka diskov za ciljanje.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Privzeta težavnost",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Občutljivost na gibanje",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Nadomestno napredovanje strelov",
         "value_translated_native": null
       }
     ]

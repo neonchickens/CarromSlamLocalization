@@ -489,7 +489,7 @@
         "description_text": "Describes the value of blue used in the RGB color",
         "description_location": "A label in the color customization setting",
         "value_english": "Blue",
-        "value_translated_automated": "Putsoa",
+        "value_translated_automated": "Boputsoa",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Boikutlo ba ho potoloha",
         "value_translated_native": null
       },
@@ -1929,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Mokhoa oa profeshenale o tla hloka hore mofumahali a kenngoe pokothong ho qeta ho potoloha. E le hore u fumane mofumahali, u tlameha ho qala ka ho kenya mofumahali ka pokothong, 'me u be u atlehile ho kenya letsoho la hao le hlahlamang ho koahela mofumahali. Ho hloleha ho etsa joalo ho tla khutlisetsa mofumahali botong.",
+        "value_translated_automated": "Mokhoa oa profeshenale o tla hloka hore mofumahali a kenngoe pokothong ho qeta ho potoloha. E le hore u fumane mofumahali, u tlameha ho qala ka ho kenya mofumahali ka pokothong ebe u atleha ho kenya sekheo sa hau se latelang ho koahela mofumahali. Ho hloleha ho etsa joalo ho tla khutlisetsa mofumahali botong.",
         "value_translated_native": null
       },
       {
@@ -1938,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Boemo ke bona. Sheba mokotla oa bot ebe u koahela mofumahali.",
+        "value_translated_automated": "Mohlala ke ona. Sheba mokotla oa bot ebe u koahela mofumahali.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Bothata ba kamehla",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Boikutlo ba ho sisinyeha",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Mokhoa o mong oa ho thunya",
         "value_translated_native": null
       }
     ]

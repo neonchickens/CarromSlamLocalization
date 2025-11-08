@@ -777,7 +777,7 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "Rhaid i dîm {0} {1} gwblhau'r clawr nawr",
+        "value_translated_automated": "Rhaid i dîm {0} {1} nawr gwblhau'r clawr",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1110,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Bwrdd bownsio",
+        "value_translated_automated": "Bwrdd neidio",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Sensitifrwydd cylchdro",
         "value_translated_native": null
       },
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Anhawster diofyn",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Sensitifrwydd symudiad",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Dilyniant ergydion amgen",
         "value_translated_native": null
       }
     ]

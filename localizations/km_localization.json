@@ -849,7 +849,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "ក្រុម {0} {1} បាន​បាញ់​គ្រាប់​បាល់​របស់​ពួកគេ។",
+        "value_translated_automated": "ក្រុម {0} {1} បាន​បរាជ័យ​ការ​បាញ់​របស់​ពួកគេ។",
         "value_translated_native": null
       },
       {
@@ -1407,7 +1407,7 @@
         "description_text": "Choice of how large a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Striker",
-        "value_translated_automated": "ទំហំខ្សែប្រយុទ្ធ",
+        "value_translated_automated": "ខ្សែប្រយុទ្ធទំហំ",
         "value_translated_native": null
       },
       {
@@ -1496,8 +1496,8 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
-        "value_translated_automated": "អារម្មណ៍នៃការបង្វិល",
+        "value_english": "Rotation sensitivity",
+        "value_translated_automated": "ភាពប្រែប្រួលនៃការបង្វិល",
         "value_translated_native": null
       },
       {
@@ -1803,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "ហ្គេម Carrom នីមួយៗនឹងចាប់ផ្តើមជាមួយនឹងពិន្ទុទាំងអស់ដែលដាក់នៅចំកណ្តាល។ ការបាញ់ដំបូងនៃជុំត្រូវបានគេហៅថាការសម្រាក។",
+        "value_translated_automated": "ហ្គេម Carrom នីមួយៗនឹងចាប់ផ្តើមជាមួយនឹងបំណែកពិន្ទុទាំងអស់ដែលដាក់នៅចំកណ្តាល។ ការបាញ់ដំបូងនៃជុំត្រូវបានគេហៅថាការសម្រាក។",
         "value_translated_native": null
       },
       {
@@ -1902,7 +1902,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "ម៉ឺនុយផ្អាកមានការកំណត់កម្មវិធី និងការគ្រប់គ្រង ហើយអាចចូលប្រើបានគ្រប់ពេលដោយចុចគ្រាប់ចុចគេច។",
+        "value_translated_automated": "ម៉ឺនុយផ្អាកមានការកំណត់ និងការគ្រប់គ្រងកម្មវិធី ហើយអាចចូលប្រើបានគ្រប់ពេលដោយចុចគ្រាប់ចុចគេច។",
         "value_translated_native": null
       },
       {
@@ -1911,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "ក្តារបន្ទះស្ដង់ដារមានរន្ធចំនួនបួនដែលហៅថាហោប៉ៅនៅជ្រុងនីមួយៗ។",
+        "value_translated_automated": "ក្តារបន្ទះស្ដង់ដារមានរន្ធចំនួនបួន ហៅថាហោប៉ៅ នៅជ្រុងនីមួយៗ។",
         "value_translated_native": null
       },
       {
@@ -1929,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "របៀបវិជ្ជាជីវៈនឹងតម្រូវឱ្យម្ចាស់ក្សត្រីត្រូវបានហោប៉ៅដើម្បីបញ្ចប់ជុំ។ ដើម្បីស៊ុតបញ្ចូលទីព្រះមហាក្សត្រិយានី អ្នកត្រូវតែដាក់ហោប៉ៅរបស់ព្រះមហាក្សត្រិយានីជាមុនសិន ហើយបន្ទាប់មកដាក់ហោប៉ៅបន្ទាប់របស់អ្នកដោយជោគជ័យដើម្បីគ្របដណ្តប់ព្រះមហាក្សត្រិយានី។ ការ​មិន​ធ្វើ​ដូច្នេះ​នឹង​ប្រគល់​មហាក្សត្រី​ទៅ​កាន់​ក្រុមប្រឹក្សាភិបាល​វិញ។",
+        "value_translated_automated": "របៀប​អាជីព​នឹង​តម្រូវ​ឱ្យ​ម្ចាស់​ក្សត្រី​ត្រូវ​បាន​ហោប៉ៅ​ដើម្បី​បញ្ចប់​ការ​ប្រកួត​ជុំ។ ដើម្បីស៊ុតបញ្ចូលទីព្រះមហាក្សត្រិយានី អ្នកត្រូវតែដាក់ហោប៉ៅព្រះមហាក្សត្រិយានីជាមុនសិន ហើយបន្ទាប់មកដាក់ហោប៉ៅបន្ទាប់របស់អ្នកដោយជោគជ័យ ដើម្បីគ្របដណ្តប់ព្រះមហាក្សត្រិយានី។ ការ​មិន​ធ្វើ​ដូច្នេះ​នឹង​ប្រគល់​មហាក្សត្រី​ទៅ​កាន់​ក្រុមប្រឹក្សាភិបាល​វិញ។",
         "value_translated_native": null
       },
       {
@@ -1938,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "នេះជាសេណារីយ៉ូមួយ។ មើលហោប៉ៅ bot ហើយបន្ទាប់មកគ្របដណ្តប់ព្រះមហាក្សត្រិយានី។",
+        "value_translated_automated": "នេះគឺជាសេណារីយ៉ូមួយ។ មើលហោប៉ៅ bot ហើយបន្ទាប់មកគ្របដណ្តប់ព្រះមហាក្សត្រិយានី។",
         "value_translated_native": null
       },
       {
@@ -1965,7 +1965,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "លែង​ចុច​កណ្ដុរ​ខាង​ឆ្វេង​ដើម្បី​បាញ់​ខ្សែ​ប្រយុទ្ធ​របស់​អ្នក​ចូល​លេង។",
+        "value_translated_automated": "លែង​ចុច​កណ្ដុរ​ឆ្វេង​ដើម្បី​វាយ​ខ្សែ​ប្រយុទ្ធ​របស់​អ្នក​ចូល​លេង។",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "របៀប​ក្រុម​អាជីព និង​ឌីស​នឹង​មាន​បំណង​ឱ្យ​អ្នក​ដាក់​ពណ៌​ក្រុម​របស់​អ្នក​តែ​ប៉ុណ្ណោះ ខណៈ​ដែល​ទម្រង់​ពិន្ទុ​កំណត់​តម្លៃ​ចំណុច​ខុសៗ​គ្នា​សម្រាប់​ដុំ​ពណ៌​ខុសៗ​គ្នា។ ជា​ធម្មតា ដុំ​ពណ៌​ក្រហម​មាន​តម្លៃ​ខ្ពស់ ហើយ​ត្រូវ​បាន​គេ​ហៅ​ថា​ជា​មហាក្សត្រី។",
+        "value_translated_automated": "របៀប​ក្រុម​អាជីព និង​ឌីស​នឹង​មាន​បំណង​ឱ្យ​អ្នក​ដាក់​ពណ៌​ក្រុម​របស់​អ្នក​តែ​ប៉ុណ្ណោះ ខណៈ​ដែល​ទម្រង់​ពិន្ទុ​កំណត់​តម្លៃ​ចំណុច​ខុសៗ​គ្នា​សម្រាប់​ដុំ​ពណ៌​ខុសៗ​គ្នា។ ជាធម្មតា ដុំពណ៌ក្រហមមានតម្លៃខ្ពស់ ហើយត្រូវបានគេសំដៅថាជាមហាក្សត្រី។",
         "value_translated_native": null
       },
       {
@@ -2010,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "ឥឡូវ​នេះ​យើង​ព្យាយាម​ទម្លាក់​ការ​បាញ់​ដំបូង​របស់​យើង។ មើល bot ជាមុនសិន។",
+        "value_translated_automated": "ឥឡូវនេះសូមព្យាយាមលិចការបាញ់ដំបូងរបស់យើង។ មើល bot ជាមុនសិន។",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "ការលំបាកលំនាំដើម",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "ភាពប្រែប្រួលនៃចលនា",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "ដំណើរការបាញ់ជំនួស",
         "value_translated_native": null
       }
     ]

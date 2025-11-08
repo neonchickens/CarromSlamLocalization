@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Чувствителност на ротација",
         "value_translated_native": null
       },
@@ -1830,7 +1830,7 @@
         "description_text": "Defines the strategy behind a break scenario",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "A well hit break should disperse the pieces across the board. A skilled player might be able to give themselves an advantage for the entire round from a good break and subsequent shots.",
-        "value_translated_automated": "Добро погодениот пробив треба да ги распрсне фигурите низ целата табла. Вешт играч би можел да си обезбеди предност во текот на целата рунда од добар пробив и последователните удари.",
+        "value_translated_automated": "Добро погодениот пробив треба да ги распрсне фигурите низ целата табла. Вешт играч би можел да си даде предност во текот на целата рунда од добар пробив и последователните удари.",
         "value_translated_native": null
       },
       {
@@ -2199,7 +2199,7 @@
         "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has combo covered the queen!",
-        "value_translated_automated": "Тимот {0} {1} ја опфати кралицата со комбо!",
+        "value_translated_automated": "Тимот {0} {1} ја опфати кралицата со комбинација!",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Стандардна тежина",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Чувствителност на движење",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Алтернативна прогресија на ударот",
         "value_translated_native": null
       }
     ]

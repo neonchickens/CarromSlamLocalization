@@ -246,7 +246,7 @@
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Next Camera",
-        "value_translated_automated": "Кийинки Камера",
+        "value_translated_automated": "Кийинки камера",
         "value_translated_native": null
       },
       {
@@ -399,7 +399,7 @@
         "description_text": "Changes the color of the player's trail",
         "description_location": "A customization option in the personal tab of the customization menu",
         "value_english": "Trail Color",
-        "value_translated_automated": "Из түсү",
+        "value_translated_automated": "Trail Color",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1434,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Макс оюнчулар",
+        "value_translated_automated": "Max Players",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Айлануу сезгичтиги",
         "value_translated_native": null
       },
@@ -1911,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "Стандарттык карам такталары ар бир бурчта чөнтөк деп аталган төрт тешик менен келет.",
+        "value_translated_automated": "Стандарттык карам такталарынын ар бир бурчунда чөнтөктөр деп аталган төрт тешик бар.",
         "value_translated_native": null
       },
       {
@@ -1929,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Профессионалдык режим раундду бүтүрүү үчүн ханышаны чөнтөккө салууну талап кылат. Ханышага упай берүү үчүн, адегенде ханышаны чөнтөккө салып, андан кийин ханышаны жабуу үчүн кийинки окту ийгиликтүү чөнтөккө салуу керек. Антпесе, ханышаны тактага кайтарат.",
+        "value_translated_automated": "Профессионалдык режим раундду бүтүрүү үчүн ханышаны чөнтөккө салууну талап кылат. Ханышага упай алуу үчүн, адегенде ханышаны чөнтөгүнө салып, андан кийин ханышаны жабуу үчүн кийинки окту ийгиликтүү чөнтөккө салуу керек. Антпесе, ханышаны тактага кайтарат.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Профессионалдуу жана дисктик бассейн режимдери сизди командаңыздын түсүн чөнтөккө салууга гана умтулат, ал эми упай режими ар бир түстөгү бөлүк үчүн ар кандай чекиттерди дайындайт. Адатта, кызыл түстөгү бөлүгү жогорку баалуу болуп саналат жана ханыша деп аталат.",
+        "value_translated_automated": "Профессионалдык жана дисктик бассейн режимдери сизди командаңыздын түсүн чөнтөккө түшүрүүнү гана максат кылат, ал эми упай режими ар бир түстөгү бөлүгү үчүн ар кандай чекиттик маанилерди дайындайт. Адатта, кызыл түстөгү бөлүгү жогорку баалуу болуп саналат жана ханыша деп аталат.",
         "value_translated_native": null
       },
       {
@@ -2163,7 +2163,7 @@
         "description_text": "Moves the pointer left from the current point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move pointer left",
-        "value_translated_automated": "Көрсөткүчтү солго жылдырыңыз",
+        "value_translated_automated": "Көрсөткүчтү солго жылдыруу",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Демейки кыйынчылык",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Кыймыл сезгичтиги",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Альтернативдик атуу прогресси",
         "value_translated_native": null
       }
     ]

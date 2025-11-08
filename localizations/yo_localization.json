@@ -408,7 +408,7 @@
         "description_text": "Changes the skin of the player's carrom striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Striker Skin",
-        "value_translated_automated": "Awọ Striker",
+        "value_translated_automated": "Striker Awọ",
         "value_translated_native": null
       },
       {
@@ -516,7 +516,7 @@
         "description_text": "Describes the score debt owed by a particular team",
         "description_location": "A label in the Professional Carrom game mode menu",
         "value_english": "Team {0} owes {1} point(s)",
-        "value_translated_automated": "Egbe {0} ni gbese {1}(s)",
+        "value_translated_automated": "Egbe {0} ni gbese {1}",
         "value_translated_native": null
       },
       {
@@ -1496,8 +1496,8 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
-        "value_translated_automated": "Sensitivitiy iyipo",
+        "value_english": "Rotation sensitivity",
+        "value_translated_automated": "Yiyi ifamọ",
         "value_translated_native": null
       },
       {
@@ -1893,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Tẹ ni apa osi ki o dimu lati jẹrisi ifisilẹ ikọlu rẹ.",
+        "value_translated_automated": "Tẹ ni apa osi ki o dimu lati jẹrisi ipo ikọlu rẹ.",
         "value_translated_native": null
       },
       {
@@ -1902,7 +1902,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "Akojọ aṣayan idaduro ni awọn eto ohun elo ati awọn idari ninu, o le wọle si nigbakugba nipa titẹ bọtini ona abayo.",
+        "value_translated_automated": "Akojọ aṣayan idaduro ni awọn eto ohun elo ati awọn idari ninu, ati pe o le wọle si nigbakugba nipa titẹ bọtini ona abayo.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Ọjọgbọn ati awọn ipo adagun disiki yoo jẹ ki o ni ifọkansi lati apo awọ ẹgbẹ rẹ nikan, lakoko ti ipo awọn aaye ṣe ipinnu awọn iye aaye oriṣiriṣi fun nkan awọ oriṣiriṣi kọọkan. Ni deede, nkan awọ pupa kan jẹ iye ti o ga, ati pe a tọka si bi ayaba.",
+        "value_translated_automated": "Ọjọgbọn ati awọn ipo adagun disiki yoo jẹ ki o ni ifọkansi lati apo awọ ẹgbẹ rẹ nikan, lakoko ti ipo awọn aaye ṣe ipinnu awọn iye aaye oriṣiriṣi fun nkan awọ oriṣiriṣi kọọkan. Ni deede, nkan awọ pupa jẹ iye ti o ga, ati pe a tọka si bi ayaba.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Isoro aiyipada",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Ifamọ gbigbe",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Idakeji shot lilọsiwaju",
         "value_translated_native": null
       }
     ]

@@ -561,7 +561,7 @@
         "description_text": "Displays that this language has incomplete localization",
         "description_location": "A label in the settings menu",
         "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
-        "value_translated_automated": "این گزینه زبان‌شناسی ناقص است، از بابت اشتباهات عذرخواهی می‌کنیم. اگر بتوانید در ترجمه کمک کنید، بسیار سپاسگزار خواهیم بود. لطفاً برای اطلاعات بیشتر به Discord ما مراجعه کنید.",
+        "value_translated_automated": "این گزینه زبان‌شناسی ناقص است، از بابت اشتباهات عذرخواهی می‌کنیم. اگر بتوانید در ترجمه کمک کنید، بسیار سپاسگزار خواهیم بود. برای اطلاعات بیشتر لطفاً به Discord ما مراجعه کنید.",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1128,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "مهاجم فنری",
+        "value_translated_automated": "مهاجم تندرست",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "حساسیت چرخش",
         "value_translated_native": null
       },
@@ -1794,7 +1794,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "در اینجا ما یک تخته بازی کاروم را می‌بینیم.",
+        "value_translated_automated": "در اینجا یک تخته بازی کاروم می‌بینیم.",
         "value_translated_native": null
       },
       {
@@ -1929,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "در حالت حرفه‌ای، برای تکمیل راند، باید ملکه در جیب قرار گیرد. برای امتیازگیری از ملکه، ابتدا باید ملکه را در جیب قرار دهید و سپس ضربه بعدی خود را با موفقیت در جیب قرار دهید تا ملکه را پوشش دهید. در غیر این صورت، ملکه به صفحه بازی بازگردانده می‌شود.",
+        "value_translated_automated": "در حالت حرفه‌ای، برای تکمیل راند، باید مهره ملکه در حفره قرار گیرد. برای امتیازگیری از ملکه، ابتدا باید ملکه را در حفره قرار دهید و سپس ضربه بعدی خود را با موفقیت در حفره قرار دهید تا ملکه را پوشش دهید. در غیر این صورت، ملکه به صفحه بازی بازگردانده می‌شود.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "حالت‌های حرفه‌ای و دیسکی شما را مجبور می‌کنند که فقط به دنبال گرفتن رنگ تیم خود باشید، در حالی که حالت امتیازی برای هر مهره با رنگ متفاوت، امتیازهای متفاوتی تعیین می‌کند. معمولاً مهره قرمز رنگ ارزش بالایی دارد و به آن ملکه می‌گویند.",
+        "value_translated_automated": "حالت‌های حرفه‌ای و دیسکی شما را مجبور می‌کنند که فقط رنگ تیم خود را به جیب بزنید، در حالی که حالت امتیازی برای هر مهره با رنگ متفاوت، مقادیر امتیازی متفاوتی تعیین می‌کند. معمولاً، مهره قرمز رنگ ارزش بالایی دارد و به آن ملکه می‌گویند.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "سختی پیش‌فرض",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "حساسیت حرکتی",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "پیشرفت شوت جایگزین",
         "value_translated_native": null
       }
     ]

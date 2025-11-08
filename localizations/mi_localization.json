@@ -462,7 +462,7 @@
         "description_text": "Represents an enironment representing stadium environment",
         "description_location": "An environment option in the rules menu",
         "value_english": "Stadium",
-        "value_translated_automated": "Te whare tapere",
+        "value_translated_automated": "Whare tapere",
         "value_translated_native": null
       },
       {
@@ -561,7 +561,7 @@
         "description_text": "Displays that this language has incomplete localization",
         "description_location": "A label in the settings menu",
         "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
-        "value_translated_automated": "Kare i oti tenei whiringa rohe, ka whakaparahako matou mo nga he. Mena ka taea e koe te awhina i te whakamaori, ka nui to matou mihi. Tena koa tirohia ta maatau Discord mo etahi atu korero.",
+        "value_translated_automated": "Ko tenei whiringa rohe kaore i oti, ka whakaparahako matou mo nga he. Mena ka taea e koe te awhina i te whakamaori, ka nui to matou mihi. Tena koa tirohia ta maatau Discord mo etahi atu korero.",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1110,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Te papa puhoi",
+        "value_translated_automated": "Te papa paoho",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Te tairongo hurihuri",
         "value_translated_native": null
       },
@@ -1785,7 +1785,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "Me timata te kaitukino ki te takaro mai i te rarangi turanga.",
+        "value_translated_automated": "Me timata te kaitukino ki te purei mai i te turanga.",
         "value_translated_native": null
       },
       {
@@ -1794,7 +1794,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "I konei ka kite tatou i tetahi papa karoti.",
+        "value_translated_automated": "I konei ka kite tatou i te papa karomo.",
         "value_translated_native": null
       },
       {
@@ -1812,7 +1812,7 @@
         "description_text": "Shows the user what a break may look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here a bot demonstrates a break.",
-        "value_translated_automated": "I konei ka whakaatuhia e te karetao he okiokinga.",
+        "value_translated_automated": "I konei ka whakaatuhia e te karetao he wehenga.",
         "value_translated_native": null
       },
       {
@@ -1866,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Kua oti ia koe te akoranga! Kua reri koe inaianei ki te takaro keemu carrom me o hoa me nga potae.",
+        "value_translated_automated": "Kua oti i a koe te akoranga! Kua reri koe inaianei ki te takaro keemu carrom me o hoa me nga potae.",
         "value_translated_native": null
       },
       {
@@ -1902,7 +1902,7 @@
         "description_text": "Defines the pause menu functionality",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The pause menu contains application settings and controls, and can be accessed at any time by pressing the escape key.",
-        "value_translated_automated": "Kei roto i te tahua okioki nga tautuhinga tono me nga mana whakahaere, a ka taea te uru atu i nga wa katoa ma te pehi i te ki mawhiti.",
+        "value_translated_automated": "Kei roto i te tahua okioki nga tautuhinga tono me nga mana whakahaere, ka taea te uru atu i nga wa katoa ma te pehi i te ki mawhiti.",
         "value_translated_native": null
       },
       {
@@ -1911,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "E wha nga kohao e kiia ana ko nga pukoro, kei ia kokonga.",
+        "value_translated_automated": "E wha nga kohao e kiia nei ko nga pukoro, kei ia kokonga.",
         "value_translated_native": null
       },
       {
@@ -2037,7 +2037,7 @@
         "description_text": "Views the events log and chat",
         "description_location": "A button on the focused menu",
         "value_english": "Events",
-        "value_translated_automated": "Nga Takahanga",
+        "value_translated_automated": "Nga huihuinga",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Te uaua taunoa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Te tairongo nekehanga",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Te ahunga whakamua o te pupuhi",
         "value_translated_native": null
       }
     ]

@@ -1155,7 +1155,7 @@
         "description_text": "Choice of max rounds to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Round maximum",
-        "value_translated_automated": "Хамгийн их дугуй",
+        "value_translated_automated": "Дугуй дээд",
         "value_translated_native": null
       },
       {
@@ -1173,7 +1173,7 @@
         "description_text": "Choice of how many black pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces black",
-        "value_translated_automated": "Хар хэсгүүд",
+        "value_translated_automated": "Хэсэг хар",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Эргэлтийн мэдрэмж",
         "value_translated_native": null
       },
@@ -1848,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Карромыг самбар дээрх нүх рүү түлхэхийн тулд дискийг бусад диск рүү гүйлгэн тоглуулдаг. Үүнийг амжилттай хийснээр танд дахин нэг эргэлт өгөх болно. Багийн зорилтот диск дуусмагц тоглоом дуусна.",
+        "value_translated_automated": "Карромыг бусад дискнүүд рүү дискийг гүйлгэж, самбар дээрх нүх рүү түлхэж тоглодог. Үүнийг амжилттай хийснээр танд дахин нэг эргэлт өгөх болно. Багийн зорилтот диск дуусмагц тоглоом дуусна.",
         "value_translated_native": null
       },
       {
@@ -1866,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Та хичээлээ дуусгалаа! Та одоо найзууд болон боттойгоо carrom тоглоом тоглоход бэлэн боллоо.",
+        "value_translated_automated": "Та хичээлээ дуусгалаа! Та одоо найз нөхөд, боттойгоо carrom тоглоом тоглоход бэлэн боллоо.",
         "value_translated_native": null
       },
       {
@@ -1875,7 +1875,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "Зураг авалтаа эхлүүлэхийн тулд курсороо үндсэн шугам дээр байрлуул.",
+        "value_translated_automated": "Зураг авалтаа эхлүүлэхийн тулд курсороо үндсэн шугам дээр тавь.",
         "value_translated_native": null
       },
       {
@@ -1884,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Зүүн товшилтыг үргэлжлүүлэн барихын зэрэгцээ курсороо байнаасаа холдуул.",
+        "value_translated_automated": "Зүүн товшилтыг үргэлжлүүлэн барихын зэрэгцээ курсороо зорилтот хүрээнээсээ холдуул.",
         "value_translated_native": null
       },
       {
@@ -1929,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Мэргэжлийн горимд хатан хааныг халааслах шаардлагатай болно. Хатан гоол оруулахын тулд та эхлээд хатныг халааслаад дараа нь дараагийн цохилтоо амжилттай халааслаад хатныг хаах хэрэгтэй. Ингэж чадахгүй бол хатан хааныг удирдах зөвлөлд буцаана.",
+        "value_translated_automated": "Мэргэжлийн горимд хатан хааныг халааслах шаардлагатай болно. Хатан гоол оруулахын тулд та эхлээд хатныг халааслаад дараа нь дараагийн цохилтоо амжилттай халааслаад хатныг таглах хэрэгтэй. Ингэж чадахгүй бол хатан хааныг удирдах зөвлөлд буцаана.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Мэргэжлийн болон дискний усан сангийн горимууд нь зөвхөн багийнхаа өнгийг халааслахыг зорьдог бол онооны горим нь өөр өөр өнгөтэй хэсэг бүрт өөр онооны утгыг оноодог. Ихэвчлэн улаан өнгийн хэсэг нь өндөр үнэ цэнэтэй бөгөөд хатан хаан гэж нэрлэгддэг.",
+        "value_translated_automated": "Мэргэжлийн болон дискний усан сангийн горимууд нь зөвхөн багийнхаа өнгийг халааслахыг зорьдог бол онооны горим нь өөр өөр өнгөтэй хэсэг бүрт өөр онооны утгыг оноодог. Ихэвчлэн улаан өнгийн хэсэг нь өндөр үнэ цэнэтэй бөгөөд үүнийг хатан хаан гэж нэрлэдэг.",
         "value_translated_native": null
       },
       {
@@ -2010,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Одоо анхны цохилтоо живүүлэхийг хичээцгээе. Эхлээд роботыг ажигла.",
+        "value_translated_automated": "Одоо анхны цохилтоо живүүлэхийг хичээцгээе. Эхлээд ботыг ажигла.",
         "value_translated_native": null
       },
       {
@@ -2199,7 +2199,7 @@
         "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has combo covered the queen!",
-        "value_translated_automated": "{0} {1} баг хатан хааныг хослуулсан!",
+        "value_translated_automated": "{0} {1} баг хатан хааныг хамарсан!",
         "value_translated_native": null
       },
       {
@@ -2235,7 +2235,7 @@
         "description_text": "Choice of whether to invert the starting break",
         "description_location": "A rule in the rules menu",
         "value_english": "Invert break chance",
-        "value_translated_automated": "Хагарлын боломжийг урвуулна",
+        "value_translated_automated": "Хагарах боломжийг урвуулна",
         "value_translated_native": null
       },
       {
@@ -2244,7 +2244,7 @@
         "description_text": "Describes the amount of bots that spawn by default",
         "description_location": "A setting in the settings menu",
         "value_english": "Default bot amount",
-        "value_translated_automated": "Үндсэн ботын хэмжээ",
+        "value_translated_automated": "Өгөгдмөл ботын хэмжээ",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Өгөгдмөл хүндрэл",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Хөдөлгөөний мэдрэмж",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Буудлагын ээлжийн явц",
         "value_translated_native": null
       }
     ]

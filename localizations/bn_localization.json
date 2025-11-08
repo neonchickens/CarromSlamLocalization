@@ -804,7 +804,7 @@
         "description_text": "States the round has ended",
         "description_location": "An event message from the system",
         "value_english": "Round {0} has ended",
-        "value_translated_automated": "{0} রাউন্ড শেষ হয়ে গেছে",
+        "value_translated_automated": "{0} রাউন্ড শেষ হয়েছে।",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "ঘূর্ণন সংবেদনশীলতা",
         "value_translated_native": null
       },
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "ডিফল্ট অসুবিধা",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "নড়াচড়ার সংবেদনশীলতা",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "বিকল্প শট অগ্রগতি",
         "value_translated_native": null
       }
     ]

@@ -426,7 +426,7 @@
         "description_text": "Changes the primary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Primary Texture",
-        "value_translated_automated": "Tékstur primér",
+        "value_translated_automated": "Tekstur primér",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Sensitipitas rotasi",
         "value_translated_native": null
       },
@@ -1803,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Tiap kaulinan carrom bakal dimimitian ku sakabéh potongan skor bunched up di tengah. Pukulan kahiji tina babak disebut istirahat.",
+        "value_translated_automated": "Tiap kaulinan carrom bakal dimimitian ku sakabéh potongan skor bunched up di tengah. The shot mimiti babak disebut putus.",
         "value_translated_native": null
       },
       {
@@ -1848,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom dimaénkeun ku nyintreuk cakram kana cakram séjén pikeun nyorong kana liang dina papan. Lakukeun kitu suksés masihan anjeun péngkolan anu sanés. Kaulinan ends nalika hiji tim béak tina cakram pikeun sasaran.",
+        "value_translated_automated": "Carrom dimaénkeun ku nyintreuk cakram kana cakram séjén pikeun nyorong kana liang dina papan. Lakukeun kitu suksés masihan anjeun giliran anu sanés. Kaulinan ends nalika hiji tim béak tina cakram pikeun sasaran.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Modeu kolam renang profésional sareng disk bakal anjeun ngan ukur narékahan pikeun saku warna tim anjeun, sedengkeun mode titik masihan nilai titik anu béda pikeun tiap potongan warna anu béda. Ilaharna, sapotong berwarna beureum mangrupa nilai luhur, sarta disebut salaku ratu.",
+        "value_translated_automated": "Modeu kolam renang profésional sareng disk bakal anjeun ngan ukur narékahan pikeun saku warna tim anjeun, sedengkeun mode titik masihan nilai titik anu béda pikeun tiap potongan warna anu béda. Ilaharna, sapotong warna beureum mangrupa nilai luhur, sarta disebut salaku ratu.",
         "value_translated_native": null
       },
       {
@@ -2019,7 +2019,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Ayeuna giliran anjeun. Pencét éta sapotong bodas kana saku gigireunana sapertos bot.",
+        "value_translated_automated": "Ayeuna giliran anjeun. Pencét éta sapotong bodas kana saku di gigireunana sapertos bot.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Kasusah standar",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Sensitipitas gerakan",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "progression shot Silih",
         "value_translated_native": null
       }
     ]

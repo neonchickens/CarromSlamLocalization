@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Hestiyariya zivirînê",
         "value_translated_native": null
       },
@@ -1884,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Dema ku klîka çepê ya tikandinê didomînin, kursorê xwe ji hedefa xwe dûr bixin.",
+        "value_translated_automated": "Dema ku klîka çepê digirt, kursorê xwe ji hedefa xwe dûr dixîne.",
         "value_translated_native": null
       },
       {
@@ -2154,7 +2154,7 @@
         "description_text": "Moves the pointer down from the current point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move pointer down",
-        "value_translated_automated": "Nîşankerê ber bi jêr ve bigerîne",
+        "value_translated_automated": "Nîşanderê ber bi jêr ve bigerîne",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Zehmetiya xwerû",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Hestiyariya tevgerê",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Pêşveçûna gulebarana alternatîf",
         "value_translated_native": null
       }
     ]

@@ -777,7 +777,7 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "Tým {0} {1} nyní musí dokončit krytí",
+        "value_translated_automated": "Tým {0} {1} musí nyní dokončit krytí",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Citlivost rotace",
         "value_translated_native": null
       },
@@ -1839,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Úhly kamery můžete změnit stisknutím kláves 0, 1, 2 nebo 3. Doporučená hodnota kamery pro přehrávání je 1. Kameru můžete kdykoli přesunout podržením pravého tlačítka myši a pohybem myši. Další ovládací prvky kamery naleznete v nabídce ovládacích prvků.",
+        "value_translated_automated": "Úhly kamery můžete změnit stisknutím kláves 0, 1, 2 nebo 3. Doporučená hrací kamera je 1. Kameru můžete kdykoli přesunout podržením pravého tlačítka myši a pohybem myši. Další ovládací prvky kamery naleznete v nabídce ovládacích prvků.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "V profesionálním a disc pool režimu se budete snažit získat pouze barvu svého týmu, zatímco v bodovém režimu se různě barevné figurky hodnotí. Červená figurka má obvykle vysokou hodnotu a označuje se jako královna.",
+        "value_translated_automated": "V profesionálním a disc pool režimu se budete snažit získat pouze barvu svého týmu, zatímco v bodovém režimu se různě barevné figurky přiřazují různé bodové hodnoty. Červená figurka má obvykle vysokou hodnotu a označuje se jako královna.",
         "value_translated_native": null
       },
       {
@@ -2199,7 +2199,7 @@
         "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has combo covered the queen!",
-        "value_translated_automated": "Tým {0} {1} má kombinované pokrytí dámy!",
+        "value_translated_automated": "Tým {0} {1} má kombinované pokrytí královny!",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Výchozí obtížnost",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Citlivost na pohyb",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Alternativní postup střel",
         "value_translated_native": null
       }
     ]

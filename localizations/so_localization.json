@@ -21,7 +21,7 @@
         "description_text": "Adds a bot player to the game",
         "description_location": "A button on the players menu",
         "value_english": "Add Bot",
-        "value_translated_automated": "Ku dar Bot",
+        "value_translated_automated": "Kudar Bot",
         "value_translated_native": null
       },
       {
@@ -1496,8 +1496,8 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
-        "value_translated_automated": "Dareen-wareejin",
+        "value_english": "Rotation sensitivity",
+        "value_translated_automated": "Dareenka wareegtada",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1578,7 @@
         "description_text": "Describes the volume scale of all volume types",
         "description_location": "A setting in the settings menu",
         "value_english": "Master volume",
-        "value_translated_automated": "Mugga Masterka",
+        "value_translated_automated": "Mugga sare",
         "value_translated_native": null
       },
       {
@@ -1794,7 +1794,7 @@
         "description_text": "Defines the carrom board",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here we see a carrom board.",
-        "value_translated_automated": "Halkan waxaan ku aragnaa loox carrom ah.",
+        "value_translated_automated": "Halkan waxaan ku aragnaa looxa carrom ah.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Dhibka caadiga ah",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Dareenka dhaqdhaqaaqa",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Horumarka toogashada beddelka ah",
         "value_translated_native": null
       }
     ]

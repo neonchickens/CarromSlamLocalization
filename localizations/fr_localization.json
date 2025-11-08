@@ -84,7 +84,7 @@
         "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
         "description_location": "A button on the landing menu",
         "value_english": "Mods",
-        "value_translated_automated": "Mods",
+        "value_translated_automated": "Modérateurs",
         "value_translated_native": null
       },
       {
@@ -1496,8 +1496,8 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
-        "value_translated_automated": "sensibilité à la rotation",
+        "value_english": "Rotation sensitivity",
+        "value_translated_automated": "Sensibilité à la rotation",
         "value_translated_native": null
       },
       {
@@ -1686,7 +1686,7 @@
         "description_text": "Describes a page of carrom break related mods",
         "description_location": "A tab label in the mods menu",
         "value_english": "Breaks",
-        "value_translated_automated": "pauses",
+        "value_translated_automated": "Pauses",
         "value_translated_native": null
       },
       {
@@ -2091,7 +2091,7 @@
         "description_text": "Zooms the camera closer to the focus point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Zoom in",
-        "value_translated_automated": "Zoom avant",
+        "value_translated_automated": "Zoomer",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Difficulté par défaut",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Sensibilité au mouvement",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "progression de tir alternative",
         "value_translated_native": null
       }
     ]

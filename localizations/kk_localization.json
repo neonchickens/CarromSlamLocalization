@@ -1128,7 +1128,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Боунсистенс шабуылшысы",
+        "value_translated_automated": "Боунсис шабуылшысы",
         "value_translated_native": null
       },
       {
@@ -1398,7 +1398,7 @@
         "description_text": "Choice of how large a pocket is",
         "description_location": "A rule in the rules menu",
         "value_english": "Size Pocket",
-        "value_translated_automated": "Өлшемді қалта",
+        "value_translated_automated": "Қалта өлшемі",
         "value_translated_native": null
       },
       {
@@ -1434,7 +1434,7 @@
         "description_text": "Describes the maximum player server count",
         "description_location": "A setting in the server menu",
         "value_english": "Max Players",
-        "value_translated_automated": "Максималды ойыншылар",
+        "value_translated_automated": "Ең көп ойыншылар",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Айналу сезімталдығы",
         "value_translated_native": null
       },
@@ -1614,7 +1614,7 @@
         "description_text": "Describes the amount of queens successfully covered",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Queen Covered",
-        "value_translated_automated": "Королева жабылған",
+        "value_translated_automated": "Queen Covered",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Кәсіби және диск пулының режимдері тек сіздің командаңыздың түсін қалтаға салуды мақсат етеді, ал ұпайлар режимі әр түрлі түсті бөлік үшін әртүрлі нүкте мәндерін тағайындайды. Әдетте, қызыл түсті бөлік жоғары құндылық болып табылады және патшайым деп аталады.",
+        "value_translated_automated": "Кәсіби және диск пулының режимдері тек сіздің командаңыздың түсін қалтаға салуды мақсат етеді, ал ұпайлар режимі әр түрлі түсті бөлік үшін әртүрлі нүкте мәндерін тағайындайды. Әдетте қызыл түсті бөлік жоғары құндылық болып табылады және патшайым деп аталады.",
         "value_translated_native": null
       },
       {
@@ -2010,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "Енді бірінші оқымызды суға батырып көрейік. Алдымен ботты қараңыз.",
+        "value_translated_automated": "Енді бірінші атуды батып көрейік. Алдымен ботты қараңыз.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Әдепкі қиындық",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Қозғалыс сезімталдығы",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Баламалы ату прогрессі",
         "value_translated_native": null
       }
     ]

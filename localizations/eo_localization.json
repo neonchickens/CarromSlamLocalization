@@ -1092,7 +1092,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "Enmetita poŝo en la muron",
+        "value_translated_automated": "Enmetita poŝo en la muro",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Rotacia sentiveco",
         "value_translated_native": null
       },
@@ -1938,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Jen scenaro. Rigardu la poŝon de la unua karto kaj poste kovru la damon.",
+        "value_translated_automated": "Jen scenaro. Rigardu la poŝon de la roboto kaj poste kovru la damon.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Defaŭlta malfacileco",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Movada sentemo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Alternativa pafprogresado",
         "value_translated_native": null
       }
     ]

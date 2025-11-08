@@ -345,7 +345,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "الفعل الثالث",
+        "value_translated_automated": "الفعل الثالثي",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "حساسية الدوران",
         "value_translated_native": null
       },
@@ -1965,7 +1965,7 @@
         "description_text": "Encourages the user to perform an action to release the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Release left click to flick your striker into play.",
-        "value_translated_automated": "أطلق زر الماوس الأيسر لتشغيل المهاجم الخاص بك.",
+        "value_translated_automated": "أطلق زر الماوس الأيسر لتحريك المهاجم إلى اللعب.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "الصعوبة الافتراضية",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "حساسية الحركة",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "تقدم اللقطة البديلة",
         "value_translated_native": null
       }
     ]

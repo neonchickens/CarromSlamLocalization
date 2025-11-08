@@ -345,7 +345,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "Fa'atonuga Tulaga",
+        "value_translated_automated": "Gaioiga Tulaga",
         "value_translated_native": null
       },
       {
@@ -552,7 +552,7 @@
         "description_text": "Displays that this language has complete localization",
         "description_location": "A label in the settings menu",
         "value_english": "This locale option is complete or almost complete.",
-        "value_translated_automated": "O lenei filifiliga fa'apitonu'u ua mae'a pe toeititi lava mae'a.",
+        "value_translated_automated": "O lenei filifiliga fa'apitonu'u ua mae'a pe toetoe a mae'a.",
         "value_translated_native": null
       },
       {
@@ -723,7 +723,7 @@
         "description_text": "States what break file has been used",
         "description_location": "An event message from the system",
         "value_english": "Break {0} spawned.",
-        "value_translated_automated": "Vaeluaga {0} fanau.",
+        "value_translated_automated": "Vaelua {0} fua.",
         "value_translated_native": null
       },
       {
@@ -948,7 +948,7 @@
         "description_text": "Describes the ability to place your striker anywhere on the baseline",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Casual",
-        "value_translated_automated": "Fa'atalanoa",
+        "value_translated_automated": "Fa'asa'oloto",
         "value_translated_native": null
       },
       {
@@ -1200,7 +1200,7 @@
         "description_text": "Choice of how many white pieces are on the board",
         "description_location": "A rule in the rules menu",
         "value_english": "Pieces white",
-        "value_translated_automated": "O fasi mea papa'e",
+        "value_translated_automated": "Pa'epa'e fasi",
         "value_translated_native": null
       },
       {
@@ -1290,7 +1290,7 @@
         "description_text": "Choice of the mass of pieces",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass pieces",
-        "value_translated_automated": "Fa'aliga tetele",
+        "value_translated_automated": "fasi fa'alatele",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Ma'ale'ale suiga",
         "value_translated_native": null
       },
@@ -1659,7 +1659,7 @@
         "description_text": "Describes a page of application related settings",
         "description_location": "A tab label in the settings menu",
         "value_english": "Application",
-        "value_translated_automated": "Fa'aaogāga",
+        "value_translated_automated": "Fa'atatauga",
         "value_translated_native": null
       },
       {
@@ -1785,7 +1785,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "E tatau ona amata ta'alo le ta'alo mai le laina fa'avae.",
+        "value_translated_automated": "E tatau ona amata taalo le tagata taia mai le laina faavae.",
         "value_translated_native": null
       },
       {
@@ -1821,7 +1821,7 @@
         "description_text": "Encourages the user to take a shot at a break",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Try it yourself!",
-        "value_translated_automated": "Taumafai oe lava ia!",
+        "value_translated_automated": "Taumafai oe lava!",
         "value_translated_native": null
       },
       {
@@ -1839,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "E mafai ona e suia tulimanu o le meapueata e ala i le oomiina o le 0, 1, 2, po o le 3. O le meapueata fautuaina e ta o le 1. E mafai ona e faagaioi lau meapueata i soo se taimi e ala i le uu o le kiliki taumatau ma faagaioi le isumu. Va'ai nisi fa'atonuga meapueata i le lisi fa'atonu.",
+        "value_translated_automated": "E mafai ona e suia tulimanu o le meapueata e ala i le oomiina o le 0, 1, 2, poo le 3. O le meapueata fautuaina e ta o le 1. E mafai ona e gaoioi lau meapueata i soo se taimi e ala i le uuina o le kiliki taumatau ma faagaioi le isumu. Va'ai nisi fa'atonuga meapueata i le lisi fa'atonu.",
         "value_translated_native": null
       },
       {
@@ -1893,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Kiliki i le agavale ma taofi e fa'amaonia ai le tu'uina o lou tagata ta.",
+        "value_translated_automated": "Kiliki agavale ma taofi e fa'amaonia le tu'uina o lou tagata ta.",
         "value_translated_native": null
       },
       {
@@ -1956,7 +1956,7 @@
         "description_text": "Recommends the user try an easy game mode",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Points mode is recommended for your first couple of games. This provides you lots of opportunities for scoring.",
-        "value_translated_automated": "Ua fautuaina le faiga o togi mo au ta'aloga muamua. E maua ai e oe le tele o avanoa mo sikoa.",
+        "value_translated_automated": "Ua fautuaina le faiga o togi mo au ta'aloga muamua e lua. E maua ai e oe le tele o avanoa mo sikoa.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "O faiga fa'apolofesa ma ta'aloga tisiketi o le a na'o lou fa'amoemoe e taga le lanu o lau 'au, a'o fa'ailoga e tu'uina atu ai fa'ailoga eseese mo fasi lanu eseese ta'itasi. E masani lava, o se fasi lanu mumu e maualuga lona tau, ma e taʻua o le masiofo.",
+        "value_translated_automated": "O faiga fa'apolofesa ma ta'aloga tisiketi o le a na'o lou fa'amoemoe e taga le lanu o lau 'au, a'o fa'ailoga e tu'uina atu ai fa'atauga 'ese'ese mo fasi lanu eseese ta'itasi. E masani lava, o se fasi lanu mumu e maualuga lona tau, ma e taʻua o le masiofo.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Faigata fa'aletonu",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Ma'ale'ale gaioi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Fa'asolosolo fa'asologa fana",
         "value_translated_native": null
       }
     ]

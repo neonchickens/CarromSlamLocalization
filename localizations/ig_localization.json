@@ -93,7 +93,7 @@
         "description_text": "Views the pause menu, allowing the user to setup their game",
         "description_location": "A button on the landing menu",
         "value_english": "Play",
-        "value_translated_automated": "Gwuo egwu",
+        "value_translated_automated": "Gwuo",
         "value_translated_native": null
       },
       {
@@ -768,7 +768,7 @@
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
-        "value_translated_automated": "Otu {0} {1} ekpuchiela eze nwanyị",
+        "value_translated_automated": "Otu {0} {1} ekpuchila eze nwanyị",
         "value_translated_native": null
       },
       {
@@ -1317,7 +1317,7 @@
         "description_text": "Choice of where a player is allowed to place a striker",
         "description_location": "A rule in the rules menu",
         "value_english": "Striker placement",
-        "value_translated_automated": "Ndobe onye ọkpọ",
+        "value_translated_automated": "Ndokwa onye ọkpọ",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Mmetụta ntụgharị ntụgharị",
         "value_translated_native": null
       },
@@ -1587,7 +1587,7 @@
         "description_text": "Describes the volume relating to menu events",
         "description_location": "A setting in the settings menu",
         "value_english": "UI volume",
-        "value_translated_automated": "Olu UI",
+        "value_translated_automated": "UI olu",
         "value_translated_native": null
       },
       {
@@ -2091,7 +2091,7 @@
         "description_text": "Zooms the camera closer to the focus point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Zoom in",
-        "value_translated_automated": "Bubata",
+        "value_translated_automated": "Bugharịa",
         "value_translated_native": null
       },
       {
@@ -2154,7 +2154,7 @@
         "description_text": "Moves the pointer down from the current point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move pointer down",
-        "value_translated_automated": "Bugharịa pointer ala",
+        "value_translated_automated": "Bugharịa pointer gbadaa",
         "value_translated_native": null
       },
       {
@@ -2172,7 +2172,7 @@
         "description_text": "Moves the pointer right from the current point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move pointer right",
-        "value_translated_automated": "Bugharịa nrịbama aka nri",
+        "value_translated_automated": "Bugharịa ntụnye aka nri",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Ihe isi ike",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Mmetụta mmegharị",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Ọganihu ogbunigwe ọzọ",
         "value_translated_native": null
       }
     ]

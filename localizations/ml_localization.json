@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "ഭ്രമണ സംവേദനക്ഷമത",
         "value_translated_native": null
       },
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "പ്രൊഫഷണൽ, ഡിസ്ക് പൂൾ മോഡുകളിൽ നിങ്ങളുടെ ടീമിന്റെ നിറം പോക്കറ്റ് ചെയ്യുക എന്ന ലക്ഷ്യം മാത്രമേ നിങ്ങൾക്കുള്ളൂ, അതേസമയം പോയിന്റ് മോഡ് വ്യത്യസ്ത നിറങ്ങളിലുള്ള ഓരോ പീസിനും വ്യത്യസ്ത പോയിന്റ് മൂല്യങ്ങൾ നൽകുന്നു. സാധാരണയായി, ചുവന്ന നിറമുള്ള ഒരു പീസ് ഉയർന്ന മൂല്യമുള്ളതാണ്, അതിനെ ക്വീൻ എന്ന് വിളിക്കുന്നു.",
+        "value_translated_automated": "പ്രൊഫഷണൽ, ഡിസ്ക് പൂൾ മോഡുകളിൽ നിങ്ങളുടെ ടീമിന്റെ നിറം പോക്കറ്റ് ചെയ്യുക എന്ന ലക്ഷ്യം മാത്രമേ ഉണ്ടാകൂ, അതേസമയം പോയിന്റ് മോഡ് വ്യത്യസ്ത നിറങ്ങളിലുള്ള ഓരോ പീസിനും വ്യത്യസ്ത പോയിന്റ് മൂല്യങ്ങൾ നൽകുന്നു. സാധാരണയായി, ചുവന്ന നിറമുള്ള ഒരു പീസ് ഉയർന്ന മൂല്യമുള്ളതാണ്, അതിനെ ക്വീൻ എന്ന് വിളിക്കുന്നു.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "ഡിഫോൾട്ട് ബുദ്ധിമുട്ട്",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "ചലന സംവേദനക്ഷമത",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "ആൾട്ടർനേറ്റ് ഷോട്ട് പുരോഗതി",
         "value_translated_native": null
       }
     ]

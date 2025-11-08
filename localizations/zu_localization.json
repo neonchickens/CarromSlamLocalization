@@ -705,7 +705,7 @@
         "description_text": "Describes a current total score",
         "description_location": "A label in the scoreboard menu",
         "value_english": "Total",
-        "value_translated_automated": "Ingqikithi",
+        "value_translated_automated": "Isamba",
         "value_translated_native": null
       },
       {
@@ -840,7 +840,7 @@
         "description_text": "States that the player has ended the round on this turn",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has ended the round",
-        "value_translated_automated": "Iqembu {0} {1} liqede umzuliswano",
+        "value_translated_automated": "Iqembu {0} {1} liqede umjikelezo",
         "value_translated_native": null
       },
       {
@@ -849,7 +849,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "Ithimba {0} {1} licwile isibhamu salo",
+        "value_translated_automated": "Ithimba {0} {1} licwile phansi ishothi yalo",
         "value_translated_native": null
       },
       {
@@ -1155,7 +1155,7 @@
         "description_text": "Choice of max rounds to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Round maximum",
-        "value_translated_automated": "Ubuningi obuyindilinga",
+        "value_translated_automated": "Ubukhulu obuyindilinga",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Ukuzwela kokujikeleza",
         "value_translated_native": null
       },
@@ -1866,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Uqedile okokufundisa! Manje usukulungele ukudlala imidlalo ye-carrom nabangani nama-bots.",
+        "value_translated_automated": "Uqedile okokufundisa! Manje usulungele ukudlala imidlalo ye-carrom nabangani nama-bots.",
         "value_translated_native": null
       },
       {
@@ -1974,7 +1974,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "Amamodi egeyimu ahlukene anemithetho ehlukene yokushaya amaphuzu, kodwa umphumela ungabukwa noma nini ngokucindezela ukhiye we-TAB.",
+        "value_translated_automated": "Amamodi egeyimu ahlukene anemithetho ehlukene yokushaya, kodwa umphumela ungabukwa noma nini ngokucindezela ukhiye we-TAB.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Amamodi ochwepheshe nawe-disc pool azokwenza ukuthi uhlose kuphela ukufaka ephaketheni umbala weqembu lakho, kuyilapho imodi yamaphoyinti inikezela amanani ahlukene wamaphuzu esiqeshana ngasinye esinemibala ehlukile. Ngokuvamile, ucezu olunombala obomvu luyinani eliphezulu, futhi lubizwa ngokuthi indlovukazi.",
+        "value_translated_automated": "Amamodi ochwepheshe nawe-disc pool azokwenza ukuthi uhlose kuphela ukufaka umbala weqembu lakho ephaketheni, kuyilapho imodi yamaphoyinti yabela amanani ahlukene wamaphuzu esiqeshana ngasinye esinemibala ehlukene. Ngokuvamile, ucezu olunombala obomvu luyinani eliphezulu, futhi lubizwa ngokuthi indlovukazi.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Ubunzima obuzenzakalelayo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Ukuzwela kokunyakaza",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Okunye ukuqhubeka kwesibhamu",
         "value_translated_native": null
       }
     ]

@@ -48,7 +48,7 @@
         "description_text": "Deletes all mods that are currently selected",
         "description_location": "A button on the mods menu",
         "value_english": "Delete selected",
-        "value_translated_automated": "Cima ekhethiweyo",
+        "value_translated_automated": "Cima okukhethiweyo",
         "value_translated_native": null
       },
       {
@@ -354,7 +354,7 @@
         "description_text": "Toggles the player pregame readiness",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Toggle Ready",
-        "value_translated_automated": "Toggle Ready",
+        "value_translated_automated": "NONE",
         "value_translated_native": null
       },
       {
@@ -1083,7 +1083,7 @@
         "description_text": "Choice of whether a forward only trajectory rule will be used",
         "description_location": "A rule in the rules menu",
         "value_english": "Forward shot only",
-        "value_translated_automated": "Ukudubula phambili kuphela",
+        "value_translated_automated": "Ukudutyulwa phambili kuphela",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1128,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "Umdlali we-Bounciness",
+        "value_translated_automated": "Umdlali weBounceness",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Uvakalelo lokujikeleza",
         "value_translated_native": null
       },
@@ -1866,7 +1866,7 @@
         "description_text": "Encourages the user that they are prepared for carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You have completed the tutorial! You are now ready to play carrom games with friends and bots.",
-        "value_translated_automated": "Usigqibile isifundo! Ngoku ukulungele ukudlala imidlalo ye-carrom nabahlobo kunye ne-bots.",
+        "value_translated_automated": "Usigqibile isifundo! Ngoku ukulungele ukudlala imidlalo ye-carrom kunye nabahlobo kunye ne-bots.",
         "value_translated_native": null
       },
       {
@@ -1911,7 +1911,7 @@
         "description_text": "Defines the pockets",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Standard carrom boards come with four holes, called pockets, in each corner.",
-        "value_translated_automated": "Iibhodi ze-carrom eziqhelekileyo ziza nemingxuma emine, ebizwa ngokuba ziipokotho, kwikona nganye.",
+        "value_translated_automated": "Iibhodi ze-carrom eziqhelekileyo ziza nemingxuma emine, ebizwa ngokuba yipokotho, kwikona nganye.",
         "value_translated_native": null
       },
       {
@@ -1929,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Imowudi yobungcali iya kufuna ukuba ukumkanikazi afakwe epokothweni ukuze agqibezele umjikelo. Ukuze ufumane inqaku ukumkanikazi, kufuneka uqale uyifake epokothweni ukumkanikazi kwaye emva koko uyifake ngempumelelo ifoto yakho elandelayo ukuze ugqume ukumkanikazi. Ukungaphumeleli ukwenza oko kuya kubuyisela ukumkanikazi ebhodini.",
+        "value_translated_automated": "Imowudi yobungcali iya kufuna ukuba ukumkanikazi afakwe epokothweni ukuze agqibezele umjikelo. Ukufumana inqaku ukumkanikazi, kufuneka uqale uyifake epokothweni ukumkanikazi kwaye emva koko uyifake ngempumelelo ifoto yakho elandelayo ukuze ugqume ukumkanikazi. Ukungaphumeleli ukwenza oko kuya kubuyisela ukumkanikazi ebhodini.",
         "value_translated_native": null
       },
       {
@@ -2001,7 +2001,7 @@
         "description_text": "Defines the striker",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The disc used to start play is called the striker.",
-        "value_translated_automated": "Icwecwe elisetyenziselwa ukuqalisa umdlalo libizwa ngokuba ngumgadli.",
+        "value_translated_automated": "Icwecwe elisetyenziselwa ukuqalisa umdlalo libizwa ngokuba ngumshayi.",
         "value_translated_native": null
       },
       {
@@ -2019,7 +2019,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "Ngoku lithuba lakho. Betha eso siqwenga simhlophe epokothweni esecaleni kwayo kanye njengebhothi.",
+        "value_translated_automated": "Ngoku lithuba lakho. Betha eso siqwenga simhlophe epokothweni ecaleni kwayo njengebhothi.",
         "value_translated_native": null
       },
       {
@@ -2181,7 +2181,7 @@
         "description_text": "Moves the pointer up from the current point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move pointer up",
-        "value_translated_automated": "Hambisa isalathisi phezulu",
+        "value_translated_automated": "Shenxisa isalathisi phezulu",
         "value_translated_native": null
       },
       {
@@ -2235,7 +2235,7 @@
         "description_text": "Choice of whether to invert the starting break",
         "description_location": "A rule in the rules menu",
         "value_english": "Invert break chance",
-        "value_translated_automated": "Guqula ithuba lekhefu",
+        "value_translated_automated": "Ngenisa ithuba lekhefu",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Ubunzima obumiselweyo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Uvakalelo lwentshukumo",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Ukuqhubela phambili kokudubula",
         "value_translated_native": null
       }
     ]

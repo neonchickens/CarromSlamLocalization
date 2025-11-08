@@ -129,7 +129,7 @@
         "description_text": "Confirms the local player is ready",
         "description_location": "A button on the pregame menu",
         "value_english": "Ready",
-        "value_translated_automated": "Shirye",
+        "value_translated_automated": "Shirya",
         "value_translated_native": null
       },
       {
@@ -138,7 +138,7 @@
         "description_text": "Resets the relevant data",
         "description_location": "A button on the settings menu",
         "value_english": "Reset",
-        "value_translated_automated": "Sake saiti",
+        "value_translated_automated": "Sake saitin",
         "value_translated_native": null
       },
       {
@@ -606,7 +606,7 @@
         "description_text": "Describes a player who is prepared and waiting to play",
         "description_location": "A label in the players menu",
         "value_english": "Ready",
-        "value_translated_automated": "Shirye",
+        "value_translated_automated": "Shirya",
         "value_translated_native": null
       },
       {
@@ -903,7 +903,7 @@
         "description_text": "An assist option that only shows the trajectory",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Trajectory only",
-        "value_translated_automated": "Hankali kawai",
+        "value_translated_automated": "Hanya kawai",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Juyawa hankali",
         "value_translated_native": null
       },
@@ -1731,7 +1731,7 @@
         "description_text": "Describes a page of game mode related rules",
         "description_location": "A tab label in the rules menu",
         "value_english": "Game Mode",
-        "value_translated_automated": "Yanayin Wasan",
+        "value_translated_automated": "Yanayin Wasa",
         "value_translated_native": null
       },
       {
@@ -1803,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Kowane wasa na carrom zai fara tare da duk abubuwan da aka zura a raga a tsakiya. Harbin farko na zagaye ana kiransa hutu.",
+        "value_translated_automated": "Kowane wasa na carrom zai fara tare da dukan zura kwallo a dunkule a tsakiya. Harbin farko na zagaye ana kiransa hutu.",
         "value_translated_native": null
       },
       {
@@ -1884,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "Jawo siginanku daga abin da kuke hari yayin da kuke ci gaba da riƙe maɓallin hagu.",
+        "value_translated_automated": "Jawo siginanku daga abin da kuke hari yayin da kuke ci gaba da riƙe danna hagu.",
         "value_translated_native": null
       },
       {
@@ -2145,7 +2145,7 @@
         "description_text": "Moves the camera up from the focus point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move camera up",
-        "value_translated_automated": "Matsar da kyamara sama",
+        "value_translated_automated": "Matsar kamara sama",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Matsala ta asali",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Hankalin motsi",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Madadin ci gaban harbi",
         "value_translated_native": null
       }
     ]

@@ -237,7 +237,7 @@
         "description_text": "Sets the camera view to the far preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Camera 4",
-        "value_translated_automated": "Kamera 4",
+        "value_translated_automated": "Camera 4",
         "value_translated_native": null
       },
       {
@@ -327,7 +327,7 @@
         "description_text": "Used to cancel shots",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Secondary Action",
-        "value_translated_automated": "Ikaduhang Aksyon",
+        "value_translated_automated": "Ikaduha nga Aksyon",
         "value_translated_native": null
       },
       {
@@ -588,7 +588,7 @@
         "description_text": "Describes the amount of players waiting to play out of a total amount",
         "description_location": "A label in the pregame menu",
         "value_english": "Players Ready",
-        "value_translated_automated": "Andam ang mga magdudula",
+        "value_translated_automated": "Andam na ang mga magdudula",
         "value_translated_native": null
       },
       {
@@ -822,7 +822,7 @@
         "description_text": "States that the player has sank their striker",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has fouled",
-        "value_translated_automated": "Na-foul ang team {0} {1}.",
+        "value_translated_automated": "Ang team {0} {1} na-foul",
         "value_translated_native": null
       },
       {
@@ -1101,7 +1101,7 @@
         "description_text": "Choice of whether to round off the corner around the pocket",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket rounded",
-        "value_translated_automated": "Gibilog ang bulsa sa dingding",
+        "value_translated_automated": "Ang bulsa sa dingding gilibutan",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Pagkasensitibo sa rotation",
         "value_translated_native": null
       },
@@ -1803,7 +1803,7 @@
         "description_text": "Defines the break at the start of a round",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Each game of carrom will start with all scoring pieces bunched up in the center. The first shot of the round is called the break.",
-        "value_translated_automated": "Ang matag dula sa carrom magsugod sa tanang mga piraso sa pag-iskor nga gibutang sa tunga. Ang unang shot sa round gitawag nga break.",
+        "value_translated_automated": "Ang matag dula sa carrom magsugod sa tanan nga mga piraso sa pag-iskor nga gibutang sa sentro. Ang unang shot sa round gitawag nga break.",
         "value_translated_native": null
       },
       {
@@ -1848,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Ang Carrom gidula pinaagi sa pag-flick sa mga disc ngadto sa ubang mga disc aron itulod kini ngadto sa mga lungag sa pisara. Ang pagbuhat niini nga malampuson makahatag kanimo og laing turno. Ang dula matapos kung ang usa ka team nahutdan sa mga disc nga target.",
+        "value_translated_automated": "Ang Carrom gipatokar pinaagi sa pag-flick sa mga disc ngadto sa ubang mga disc aron itulod kini ngadto sa mga lungag sa pisara. Ang pagbuhat niini nga malampuson makahatag kanimo og laing turno. Ang dula matapos kung ang usa ka team nahutdan sa mga disc nga target.",
         "value_translated_native": null
       },
       {
@@ -1929,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "Ang propesyonal nga mode magkinahanglan nga ang rayna ibulsa aron makompleto ang hugna. Aron maka-iskor sa rayna, kinahanglan nimo nga ibulsa una ang rayna ug dayon malampuson nga ibulsa ang imong sunod nga shot aron matabonan ang rayna. Ang pagkapakyas sa pagbuhat sa ingon ibalik ang rayna sa board.",
+        "value_translated_automated": "Ang propesyonal nga mode magkinahanglan nga ang rayna ibulsa aron makompleto ang hugna. Aron maka-iskor sa rayna, kinahanglan nimo nga ibulsa una ang rayna ug dayon malampuson nga ibulsa ang imong sunod nga shot aron matabonan ang rayna. Ang pagkapakyas sa pagbuhat niini ibalik ang rayna sa board.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Ang mga mode sa propesyonal ug disc pool magtinguha lang nga ibulsa ang kolor sa imong team, samtang ang mode sa mga puntos nag-assign sa lainlaing mga kantidad sa punto alang sa matag lahi nga kolor nga piraso. Kasagaran, ang usa ka pula nga kolor nga piraso adunay taas nga kantidad, ug gitawag nga rayna.",
+        "value_translated_automated": "Ang mga mode sa propesyonal ug disc pool magtinguha lang nga ibulsa ang kolor sa imong team, samtang ang mode sa mga punto nag-assign sa lainlaing mga kantidad sa punto alang sa matag lahi nga kolor nga piraso. Kasagaran, ang usa ka pula nga kolor nga piraso adunay taas nga kantidad, ug gitawag nga rayna.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Default nga kalisud",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Pagkasensitibo sa paglihok",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Alternatibo nga pag-uswag sa shot",
         "value_translated_native": null
       }
     ]

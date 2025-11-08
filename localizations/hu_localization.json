@@ -786,7 +786,7 @@
         "description_text": "States that the pieces replaced were from previous debt",
         "description_location": "An event message from the system",
         "value_english": "Replacing owed debt to the board",
-        "value_translated_automated": "A testülettel szemben fennálló tartozás megtérítése",
+        "value_translated_automated": "Tartozás pótlása az igazgatótanács felé",
         "value_translated_native": null
       },
       {
@@ -831,7 +831,7 @@
         "description_text": "States that the player has missed",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has missed",
-        "value_translated_automated": "A(z) {0} {1} csapat kihagyta a támadást",
+        "value_translated_automated": "{0} {1} csapat kihagyta",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Forgásérzékenység",
         "value_translated_native": null
       },
@@ -1839,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "A kameraszöget a 0, 1, 2 vagy 3 billentyűkombinációval válthatod. Az ajánlott lejátszási kamera az 1. A kamerát bármikor mozgathatod a jobb gombbal kattintva és az egér mozgatásával. További kameravezérlőket a vezérlők menüben találsz.",
+        "value_translated_automated": "A kameraszöget a 0, 1, 2 vagy 3 billentyűkombináció megnyomásával válthatod. Az ajánlott lejátszási kamera az 1. A kamerát bármikor mozgathatod a jobb gombbal kattintva és az egér mozgatásával. További kameravezérlőket a vezérlők menüben találsz.",
         "value_translated_native": null
       },
       {
@@ -1848,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "A Carrom játékban korongokat pöckölsz egymásba, hogy azok a tábla lyukaiba kerüljenek. Ha ezt sikeresen megteszed, újabb kört kapsz. A játék akkor ér véget, amikor egy csapatnak elfogynak a célba vehető korongjai.",
+        "value_translated_automated": "A Carrom játékban korongokat pöckölünk egymásba, hogy azok a tábla lyukaiba kerüljenek. Ha ezt sikeresen megteszed, újabb kört kapsz. A játék akkor ér véget, amikor egy csapatnak elfogynak a célba vehető korongjai.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Alapértelmezett nehézség",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Mozgásérzékenység",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Alternatív lövési folyamat",
         "value_translated_native": null
       }
     ]

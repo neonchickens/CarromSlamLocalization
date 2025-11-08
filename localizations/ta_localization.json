@@ -48,7 +48,7 @@
         "description_text": "Deletes all mods that are currently selected",
         "description_location": "A button on the mods menu",
         "value_english": "Delete selected",
-        "value_translated_automated": "தேர்ந்தெடுத்தவற்றை நீக்கு",
+        "value_translated_automated": "தேர்ந்தெடுத்ததை நீக்கு",
         "value_translated_native": null
       },
       {
@@ -291,7 +291,7 @@
         "description_text": "Resets the pointer to the baseline",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Reset Pointer",
-        "value_translated_automated": "பாயிண்டரை மீட்டமை",
+        "value_translated_automated": "சுட்டிக்காட்டியை மீட்டமை",
         "value_translated_native": null
       },
       {
@@ -561,7 +561,7 @@
         "description_text": "Displays that this language has incomplete localization",
         "description_location": "A label in the settings menu",
         "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
-        "value_translated_automated": "இந்த மொழி விருப்பம் முழுமையடையவில்லை, தவறுகளுக்கு நாங்கள் மன்னிப்பு கேட்டுக்கொள்கிறோம். நீங்கள் மொழிபெயர்க்க உதவ முடிந்தால், நாங்கள் மிகவும் நன்றியுள்ளவர்களாக இருப்போம். மேலும் தகவலுக்கு எங்கள் Discord ஐப் பார்வையிடவும்.",
+        "value_translated_automated": "இந்த மொழி விருப்பம் முழுமையடையவில்லை, தவறுகளுக்கு நாங்கள் மன்னிப்பு கேட்டுக்கொள்கிறோம். நீங்கள் மொழிபெயர்க்க உதவ முடிந்தால், நாங்கள் மிகவும் நன்றியுள்ளவர்களாக இருப்போம். மேலும் தகவலுக்கு எங்கள் டிஸ்கார்டைப் பார்வையிடவும்.",
         "value_translated_native": null
       },
       {
@@ -813,7 +813,7 @@
         "description_text": "States the round has started",
         "description_location": "An event message from the system",
         "value_english": "Round {0} is starting!",
-        "value_translated_automated": "சுற்று {0} தொடங்குகிறது!",
+        "value_translated_automated": "{0}வது சுற்று தொடங்குகிறது!",
         "value_translated_native": null
       },
       {
@@ -1128,7 +1128,7 @@
         "description_text": "Choice of how bouncy a uniform striker is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness striker",
-        "value_translated_automated": "துள்ளல் ஸ்ட்ரைக்கர்",
+        "value_translated_automated": "பவுன்சினஸ் ஸ்ட்ரைக்கர்",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "சுழற்சி உணர்திறன்",
         "value_translated_native": null
       },
@@ -1929,7 +1929,7 @@
         "description_text": "Defines the queen",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional mode will require the queen to be pocketed to complete the round. To score the queen, you must first pocket the queen and then successfully pocket your next shot to cover the queen. Failing to do so will return the queen to the board.",
-        "value_translated_automated": "தொழில்முறை பயன்முறையில், சுற்றை முடிக்க ராணியை பாக்கெட்டில் வைக்க வேண்டும். ராணியை ஸ்கோர் செய்ய, நீங்கள் முதலில் ராணியை பாக்கெட்டில் வைக்க வேண்டும், பின்னர் ராணியை மறைக்க உங்கள் அடுத்த ஷாட்டை வெற்றிகரமாக பாக்கெட்டில் வைக்க வேண்டும். அவ்வாறு செய்யத் தவறினால் ராணி பலகைக்குத் திரும்புவார்.",
+        "value_translated_automated": "தொழில்முறை பயன்முறையில், சுற்றை முடிக்க ராணியை பாக்கெட்டில் வைத்திருக்க வேண்டும். ராணியை ஸ்கோர் செய்ய, நீங்கள் முதலில் ராணியை பாக்கெட்டில் வைக்க வேண்டும், பின்னர் ராணியை மறைக்க உங்கள் அடுத்த ஷாட்டை வெற்றிகரமாக பாக்கெட்டில் வைக்க வேண்டும். அவ்வாறு செய்யத் தவறினால் ராணி பலகைக்குத் திரும்புவார்.",
         "value_translated_native": null
       },
       {
@@ -2073,7 +2073,7 @@
         "description_text": "Jumps to the previous menu",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Escape",
-        "value_translated_automated": "எஸ்கேப்",
+        "value_translated_automated": "தப்பிக்க",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "இயல்புநிலை சிரமம்",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "இயக்க உணர்திறன்",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "மாற்று ஷாட் முன்னேற்றம்",
         "value_translated_native": null
       }
     ]

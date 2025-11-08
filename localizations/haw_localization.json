@@ -84,7 +84,7 @@
         "description_text": "Views the mods menu, allowing the user to enable/disable/delete files",
         "description_location": "A button on the landing menu",
         "value_english": "Mods",
-        "value_translated_automated": "Mods",
+        "value_translated_automated": "Nā mods",
         "value_translated_native": null
       },
       {
@@ -435,7 +435,7 @@
         "description_text": "Changes the secondary paint texture of the player's striker skin",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Secondary Texture",
-        "value_translated_automated": "Kino ʻelua",
+        "value_translated_automated": "Kino lua",
         "value_translated_native": null
       },
       {
@@ -1092,7 +1092,7 @@
         "description_text": "Choice of whether to cutout the space over a pocket, if the pocket is inset",
         "description_location": "A rule in the rules menu",
         "value_english": "Wall pocket inset",
-        "value_translated_automated": "Hoʻokomo ʻeke pā",
+        "value_translated_automated": "Hoʻokomo i ka ʻeke pā",
         "value_translated_native": null
       },
       {
@@ -1164,7 +1164,7 @@
         "description_text": "Choices of how many pieces are present per team",
         "description_location": "A rule in the rules menu",
         "value_english": "Piece count",
-        "value_translated_automated": "helu ʻāpana",
+        "value_translated_automated": "Helu ʻāpana",
         "value_translated_native": null
       },
       {
@@ -1263,7 +1263,7 @@
         "description_text": "Choice of how much friction the board has",
         "description_location": "A rule in the rules menu",
         "value_english": "Board friction",
-        "value_translated_automated": "ʻO ka paio papa",
+        "value_translated_automated": "Paʻa ʻana o ka papa",
         "value_translated_native": null
       },
       {
@@ -1443,7 +1443,7 @@
         "description_text": "Describes the public server name",
         "description_location": "A setting in the server menu",
         "value_english": "Name",
-        "value_translated_automated": "inoa",
+        "value_translated_automated": "Inoa",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "ʻO ka hoʻololi ʻana",
         "value_translated_native": null
       },
@@ -1506,7 +1506,7 @@
         "description_text": "Describes the speed at which the camera zooms",
         "description_location": "A setting in the settings menu",
         "value_english": "Zoom sensitivity",
-        "value_translated_automated": "ʻO ka ʻike zoom",
+        "value_translated_automated": "Hoʻonui ʻike",
         "value_translated_native": null
       },
       {
@@ -1839,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Hiki iā ʻoe ke hoʻololi i nā kihi pahupaʻikiʻi ma ke kaomi ʻana i ka 0, 1, 2, a i ʻole 3. ʻO ka pahupaʻikiʻi hoʻokani ʻia ʻo 1. Hiki iā ʻoe ke hoʻoneʻe i kāu pahupaʻikiʻi i kēlā me kēia manawa ma ka paʻa ʻana i ke kaomi ʻākau a hoʻoneʻe i ka ʻiole. E ʻike i nā mana pahupaʻikiʻi hou aʻe ma ka papa kuhikuhi.",
+        "value_translated_automated": "Hiki iā ʻoe ke hoʻololi i nā kihi pahupaʻikiʻi ma ke kaomi ʻana i ka 0, 1, 2, a i ʻole 3. ʻO ka pahupaʻikiʻi hoʻokani ʻia ʻo 1. Hiki iā ʻoe ke hoʻoneʻe i kāu pahupaʻikiʻi i kēlā me kēia manawa ma ka paʻa ʻana i ke kaomi ʻākau a hoʻoneʻe i ka ʻiole. E ʻike i nā mana pahupaʻikiʻi hou aʻe ma ka papa hoʻomalu.",
         "value_translated_native": null
       },
       {
@@ -1848,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Hoʻokani ʻia ʻo Carrom ma ke kīkī ʻana i nā diski i loko o nā diski ʻē aʻe e hoʻolei iā lākou i loko o nā lua o ka papa. Hāʻawi ka hana ʻana pēlā iā ʻoe i kahi huli hou. Hoʻopau ka pāʻani i ka pau ʻana o nā disks i kahi hui e hoʻoholo ai.",
+        "value_translated_automated": "Hoʻokani ʻia ʻo Carrom ma ke kīkī ʻana i nā diski i loko o nā diski ʻē aʻe e hoʻolei iā lākou i loko o nā lua o ka papa. ʻO ka hana ʻana pēlā e hāʻawi iā ʻoe i kahi huli hou. Hoʻopau ka pāʻani i ka pau ʻana o nā diski i kahi hui e hoʻoholo ai.",
         "value_translated_native": null
       },
       {
@@ -1857,7 +1857,7 @@
         "description_text": "Defines how chat can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Turn history and chat can be opened by pressing T.",
-        "value_translated_automated": "Hiki ke wehe ʻia ke kamaʻilio ʻana ma ke kaomi ʻana iā T.",
+        "value_translated_automated": "Hiki ke wehe ʻia ka mōʻaukala a me ke kamaʻilio ʻana ma ke kaomi ʻana iā T.",
         "value_translated_native": null
       },
       {
@@ -1884,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "E kauo aku i kou piko mai kāu pahu hopu ʻoiai e hoʻomau ana i ke kaomi hema.",
+        "value_translated_automated": "E kauo i kāu cursor mai kāu pahu hopu me ka hoʻomau ʻana i ke kaomi hema.",
         "value_translated_native": null
       },
       {
@@ -1893,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Kaomi hema a paʻa e hōʻoia i kāu hoʻokomo ʻana i ka mea hoʻomake.",
+        "value_translated_automated": "Kaomi hema a paʻa no ka hōʻoia ʻana i kāu kau ʻana i ka mea hoʻokūkū.",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "ʻO ke ʻano ʻoihana ʻauʻau ʻauʻau a me ka disc e makemake wale ʻoe e ʻeke i ka waihoʻoluʻu o kāu hui, aʻo ke ʻano kikoʻī e hāʻawi i nā waiwai kikoʻī no kēlā me kēia ʻāpana kala ʻokoʻa. ʻO ka mea maʻamau, he kiʻekiʻe ka waiwai o kahi ʻāpana ʻulaʻula, a kapa ʻia ʻo ia ʻo ke mōʻī wahine.",
+        "value_translated_automated": "ʻO ke ʻano ʻoihana ʻauʻau ʻauʻau a me ka disc e makemake wale ʻoe e ʻeke i ka waihoʻoluʻu o kāu hui, aʻo ke ʻano kikoʻī e hāʻawi i nā waiwai kikoʻī no kēlā me kēia ʻāpana kala ʻokoʻa. ʻO ka mea maʻamau, ʻo kahi ʻāpana kala ʻulaʻula he waiwai kiʻekiʻe, a ua kapa ʻia ʻo ia ʻo ke aliʻi wahine.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Paʻakikī paʻamau",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Ka neʻe ʻana",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "ʻO ka holomua pana ʻē aʻe",
         "value_translated_native": null
       }
     ]

@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Pöörlemistundlikkus",
         "value_translated_native": null
       },
@@ -2199,7 +2199,7 @@
         "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has combo covered the queen!",
-        "value_translated_automated": "Meeskonnal {0} {1} on kombo kuninganna katnud!",
+        "value_translated_automated": "Meeskonnal {0} {1} on kombo, mis kattis kuninganna!",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Vaikimisi raskusaste",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Liikumistundlikkus",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Alternatiivne löögi progresseerumine",
         "value_translated_native": null
       }
     ]

@@ -309,7 +309,7 @@
         "description_text": "Used to reset pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Quaternary Action",
-        "value_translated_automated": "Quaternary ایکشن",
+        "value_translated_automated": "کواٹرنری ایکشن",
         "value_translated_native": null
       },
       {
@@ -768,7 +768,7 @@
         "description_text": "States the queen has been covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has covered the queen",
-        "value_translated_automated": "ٹیم {0} {1} نے ملکہ کا احاطہ کیا ہے۔",
+        "value_translated_automated": "ٹیم {0} {1} نے ملکہ کو کور کیا ہے۔",
         "value_translated_native": null
       },
       {
@@ -930,7 +930,7 @@
         "description_text": "Describes the bowling game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Bowling",
-        "value_translated_automated": "بولنگ",
+        "value_translated_automated": "باؤلنگ",
         "value_translated_native": null
       },
       {
@@ -1317,7 +1317,7 @@
         "description_text": "Choice of where a player is allowed to place a striker",
         "description_location": "A rule in the rules menu",
         "value_english": "Striker placement",
-        "value_translated_automated": "سٹرائیکر پلیسمنٹ",
+        "value_translated_automated": "اسٹرائیکر کی جگہ کا تعین",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "گردش کی حساسیت",
         "value_translated_native": null
       },
@@ -1848,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "کیرم کو دوسری ڈسکس میں فلک کرکے بورڈ پر سوراخوں میں دھکیل کر کھیلا جاتا ہے۔ کامیابی سے ایسا کرنا آپ کو ایک اور موڑ دیتا ہے۔ کھیل اس وقت ختم ہوتا ہے جب ایک ٹیم ہدف کے لیے ڈسکس ختم کر دیتی ہے۔",
+        "value_translated_automated": "کیرم کو دوسری ڈسکس میں فلک کرکے بورڈ پر سوراخوں میں دھکیل کر کھیلا جاتا ہے۔ کامیابی کے ساتھ ایسا کرنا آپ کو ایک اور موڑ دیتا ہے۔ کھیل اس وقت ختم ہوتا ہے جب ایک ٹیم ہدف کے لیے ڈسکس ختم کر دیتی ہے۔",
         "value_translated_native": null
       },
       {
@@ -1893,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "اپنے اسٹرائیکر کی جگہ کی تصدیق کرنے کے لیے بائیں جانب کلک کریں اور دبائے رکھیں۔",
+        "value_translated_automated": "اپنے اسٹرائیکر کی تعیناتی کی تصدیق کرنے کے لیے بائیں کلک کریں اور دبائے رکھیں۔",
         "value_translated_native": null
       },
       {
@@ -1974,7 +1974,7 @@
         "description_text": "Defines how the scoreboard can be used",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Different game modes have different scoring rules, but the score can be viewed at anytime by pressing the TAB key.",
-        "value_translated_automated": "مختلف گیم موڈز میں اسکورنگ کے مختلف اصول ہوتے ہیں، لیکن اسکور کو کسی بھی وقت TAB کلید دبا کر دیکھا جا سکتا ہے۔",
+        "value_translated_automated": "مختلف گیم موڈز میں اسکورنگ کے مختلف اصول ہوتے ہیں، لیکن اسکور کو کسی بھی وقت TAB کی کو دبا کر دیکھا جا سکتا ہے۔",
         "value_translated_native": null
       },
       {
@@ -2010,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "اب ہم اپنے پہلے شاٹ کو ڈوبنے کی کوشش کرتے ہیں۔ پہلے بوٹ کو دیکھیں۔",
+        "value_translated_automated": "اب ہم اپنے پہلے شاٹ کو ڈوبنے کی کوشش کرتے ہیں۔ پہلے بوٹ دیکھیں۔",
         "value_translated_native": null
       },
       {
@@ -2118,7 +2118,7 @@
         "description_text": "Moves the camera forward towards the focus point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move camera forward",
-        "value_translated_automated": "کیمرے کو آگے بڑھائیں۔",
+        "value_translated_automated": "کیمرہ آگے بڑھائیں۔",
         "value_translated_native": null
       },
       {
@@ -2235,7 +2235,7 @@
         "description_text": "Choice of whether to invert the starting break",
         "description_location": "A rule in the rules menu",
         "value_english": "Invert break chance",
-        "value_translated_automated": "الٹا وقفے کا موقع",
+        "value_translated_automated": "وقفے کا موقع الٹا",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "پہلے سے طے شدہ مشکل",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "تحریک کی حساسیت",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "متبادل شاٹ کی ترقی",
         "value_translated_native": null
       }
     ]

@@ -120,7 +120,7 @@
         "description_text": "Randomizes all customization features",
         "description_location": "A button on the customization menu",
         "value_english": "Randomize",
-        "value_translated_automated": "Nejauši",
+        "value_translated_automated": "Nejauši atlasīt",
         "value_translated_native": null
       },
       {
@@ -894,7 +894,7 @@
         "description_text": "An assist option that only shows the power",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Power only",
-        "value_translated_automated": "Tikai strāva",
+        "value_translated_automated": "Tikai strāvas padeve",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Rotācijas jutība",
         "value_translated_native": null
       },
@@ -1938,7 +1938,7 @@
         "description_text": "Shows the user professional mode's queen pocketing sequence",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Here's a scenario. Watch the bot pocket and then cover the queen.",
-        "value_translated_automated": "Lūk, scenārijs. Vērojiet robota kabatu un pēc tam nosedziet dāmu.",
+        "value_translated_automated": "Lūk, scenārijs. Vērojiet robota kabatu un tad piesedziet dāmu.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Noklusējuma grūtības pakāpe",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Kustību jutība",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Alternatīva šāviena progresija",
         "value_translated_native": null
       }
     ]

@@ -291,7 +291,7 @@
         "description_text": "Resets the pointer to the baseline",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Reset Pointer",
-        "value_translated_automated": "Nollaa osoitin",
+        "value_translated_automated": "Palauta osoitin",
         "value_translated_native": null
       },
       {
@@ -849,7 +849,7 @@
         "description_text": "States that the player has hit one or more pieces",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has sank their shot",
-        "value_translated_automated": "Joukkue {0} {1} upotti heittonsa",
+        "value_translated_automated": "Joukkue {0} {1} on uponnut heittonsa",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Pyörimisherkkyys",
         "value_translated_native": null
       },
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Oletusvaikeusaste",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Liikeherkkyys",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Vaihtoehtoinen laukauksen eteneminen",
         "value_translated_native": null
       }
     ]

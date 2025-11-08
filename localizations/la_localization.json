@@ -561,7 +561,7 @@
         "description_text": "Displays that this language has incomplete localization",
         "description_location": "A label in the settings menu",
         "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
-        "value_translated_automated": "Haec optio regionalis imperfecta est; propter errores veniam petimus. Si interpretationem adiuvare potes, tibi gratias maximas agimus. Plura discere velim, nostrum Discord visita.",
+        "value_translated_automated": "Haec optio regionalis imperfecta est; propter errores veniam petimus. Si interpretationem adiuvare potes, tibi gratias agimus. Plura discere velim, nostrum Discord visita.",
         "value_translated_native": null
       },
       {
@@ -1110,7 +1110,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "Tabula saltationis",
+        "value_translated_automated": "Tabula saliendi",
         "value_translated_native": null
       },
       {
@@ -1299,7 +1299,7 @@
         "description_text": "Choice of the mass of uniform strikers",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass striker",
-        "value_translated_automated": "Impetrator maximus",
+        "value_translated_automated": "Impetrator massae",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Sensibilitatem rotationis",
         "value_translated_native": null
       },
@@ -2172,7 +2172,7 @@
         "description_text": "Moves the pointer right from the current point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move pointer right",
-        "value_translated_automated": "Indicem dextrorsum movere",
+        "value_translated_automated": "Indicem dextra move",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Difficultas implicita",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Sensibilitatem motus",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Progressio iactus alterna",
         "value_translated_native": null
       }
     ]

@@ -1110,7 +1110,7 @@
         "description_text": "Choice of how bouncy the floor is",
         "description_location": "A rule in the rules menu",
         "value_english": "Bounciness board",
-        "value_translated_automated": "బౌన్సినెస్ బోర్డు",
+        "value_translated_automated": "బౌన్సీనెస్ బోర్డు",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Describes the speed at which the cursor is moved",
         "description_location": "A setting in the settings menu",
         "value_english": "Cursor sensitivity",
-        "value_translated_automated": "కర్సర్ సున్నితత్వం",
+        "value_translated_automated": "కర్సర్ సెన్సిటివిటీ",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "భ్రమణ సున్నితత్వం",
         "value_translated_native": null
       },
@@ -1785,7 +1785,7 @@
         "description_text": "Defines the location where each turn starts",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "The striker must start play from the baseline.",
-        "value_translated_automated": "స్ట్రైకర్ బేస్‌లైన్ నుండి ఆటను ప్రారంభించాలి.",
+        "value_translated_automated": "స్ట్రైకర్ బేస్‌లైన్ నుండి ఆట ప్రారంభించాలి.",
         "value_translated_native": null
       },
       {
@@ -2100,7 +2100,7 @@
         "description_text": "Moves the camera backward from the focus point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Move camera backward",
-        "value_translated_automated": "కెమెరాను వెనక్కి తరలించు",
+        "value_translated_automated": "కెమెరాను వెనుకకు తరలించు",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "డిఫాల్ట్ కష్టం",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "కదలిక సున్నితత్వం",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "ప్రత్యామ్నాయ షాట్ పురోగతి",
         "value_translated_native": null
       }
     ]

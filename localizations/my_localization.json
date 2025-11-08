@@ -552,7 +552,7 @@
         "description_text": "Displays that this language has complete localization",
         "description_location": "A label in the settings menu",
         "value_english": "This locale option is complete or almost complete.",
-        "value_translated_automated": "ဤနေရာရွေးချယ်မှု ပြီးမြောက်သည် သို့မဟုတ် ပြီးလုနီးပါးဖြစ်သည်။",
+        "value_translated_automated": "ဤဒေသန္တရရွေးချယ်မှုသည် ပြီးပြည့်စုံသည် သို့မဟုတ် ပြီးလုနီးပါးဖြစ်သည်။",
         "value_translated_native": null
       },
       {
@@ -561,7 +561,7 @@
         "description_text": "Displays that this language has incomplete localization",
         "description_location": "A label in the settings menu",
         "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
-        "value_translated_automated": "ဤနေရာရွေးချယ်မှု မပြည့်စုံပါ၊ မှားယွင်းမှုများအတွက် ကျွန်ုပ်တို့ တောင်းပန်ပါသည်။ ဘာသာပြန်ဆိုရာတွင် ကူညီနိုင်လျှင် ကျွန်ုပ်တို့ အလွန်ကျေးဇူးတင်ပါသည်။ နောက်ထပ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ Discord သို့ ဝင်ရောက်ကြည့်ရှုပါ။",
+        "value_translated_automated": "ဤနေရာရွေးချယ်မှု မပြည့်စုံပါ၊ မှားယွင်းမှုများအတွက် ကျွန်ုပ်တို့ တောင်းပန်ပါသည်။ ဘာသာပြန်ဆိုရာတွင် ကူညီနိုင်လျှင် ကျွန်ုပ်တို့ အလွန်ကျေးဇူးတင်မိပါသည်။ နောက်ထပ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ Discord သို့ ဝင်ရောက်ကြည့်ရှုပါ။",
         "value_translated_native": null
       },
       {
@@ -669,7 +669,7 @@
         "description_text": "Selects the mods, which may then be deleted",
         "description_location": "A label in the mods menu",
         "value_english": "Select",
-        "value_translated_automated": "ရွေးပါ။",
+        "value_translated_automated": "ရွေးချယ်ပါ။",
         "value_translated_native": null
       },
       {
@@ -1362,7 +1362,7 @@
         "description_text": "Choice of how many points a white piece is worth",
         "description_location": "A rule in the rules menu",
         "value_english": "Points for white",
-        "value_translated_automated": "အဖြူအတွက်အမှတ်များ",
+        "value_translated_automated": "အဖြူအတွက်အချက်များ",
         "value_translated_native": null
       },
       {
@@ -1479,7 +1479,7 @@
         "description_text": "Resets all player preferences back to default",
         "description_location": "A setting in the settings menu",
         "value_english": "Reset preferences",
-        "value_translated_automated": "ဦးစားပေးများကို ပြန်လည်သတ်မှတ်ပါ။",
+        "value_translated_automated": "စိတ်ကြိုက်များကို ပြန်လည်သတ်မှတ်ပါ။",
         "value_translated_native": null
       },
       {
@@ -1496,8 +1496,8 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
-        "value_translated_automated": "လှည့်ခြင်းအာရုံခံစားမှု",
+        "value_english": "Rotation sensitivity",
+        "value_translated_automated": "လှည့်ခြင်း sensitivity",
         "value_translated_native": null
       },
       {
@@ -1524,7 +1524,7 @@
         "description_text": "Describes what aim assists will be enabled",
         "description_location": "A setting in the settings menu",
         "value_english": "Trajectory assist",
-        "value_translated_automated": "လမ်းကြောင်းထောက်ကူ",
+        "value_translated_automated": "ပစ်မှတ်ကို အထောက်အကူပြုသည်။",
         "value_translated_native": null
       },
       {
@@ -1578,7 +1578,7 @@
         "description_text": "Describes the volume scale of all volume types",
         "description_location": "A setting in the settings menu",
         "value_english": "Master volume",
-        "value_translated_automated": "မာစတာအသံအတိုးအကျယ်",
+        "value_translated_automated": "မာစတာထုထည်",
         "value_translated_native": null
       },
       {
@@ -1848,7 +1848,7 @@
         "description_text": "Defines the game of carrom",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom is played by flicking discs into other discs to push them into holes on the board. Doing so successfully grants you another turn. The game ends when a team runs out of discs to target.",
-        "value_translated_automated": "Carrom သည် ၎င်းတို့အား ဘုတ်ပေါ်ရှိ အပေါက်များထဲသို့ တွန်းပို့ရန် အခြားအပြားများထဲသို့ လစ်နှိပ်ခြင်းဖြင့် ကစားသည်။ ထိုသို့အောင်မြင်စွာလုပ်ဆောင်ခြင်းက သင့်အား နောက်ထပ်အလှည့်အပြောင်းဖြစ်စေသည်။ အဖွဲ့တစ်ဖွဲ့သည် ပစ်မှတ်ထားရန် discs များပြည့်သွားသောအခါ ဂိမ်းပြီးဆုံးသည်။",
+        "value_translated_automated": "Carrom သည် ၎င်းတို့အား ဘုတ်ပေါ်ရှိ အပေါက်များထဲသို့ တွန်းပို့ရန် အခြားအပြားများထဲသို့ အကွက်များကို လှန်ခြင်းဖြင့် ကစားသည်။ ထိုသို့အောင်မြင်စွာလုပ်ဆောင်ခြင်းက သင့်အား နောက်ထပ်အလှည့်အပြောင်းဖြစ်စေသည်။ အဖွဲ့တစ်ဖွဲ့သည် ပစ်မှတ်ထားရန် discs များပြည့်သွားသောအခါ ဂိမ်းသည် ပြီးဆုံးသည်။",
         "value_translated_native": null
       },
       {
@@ -1884,7 +1884,7 @@
         "description_text": "Encourages the user to perform an action to add power to the shot",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Drag your cursor away from your target while continuing to hold left click.",
-        "value_translated_automated": "ဘယ်ဘက်ကလစ်ကို ဆက်ကိုင်ထားစဉ်တွင် သင်၏ကာဆာကို ပစ်မှတ်မှ အဝေးသို့ ဆွဲယူပါ။",
+        "value_translated_automated": "ဘယ်ဘက်ကလစ်ကို ဆက်လက်ကိုင်ထားစဉ်တွင် သင်၏ကာဆာကို ပစ်မှတ်မှ အဝေးသို့ ဆွဲယူပါ။",
         "value_translated_native": null
       },
       {
@@ -1920,7 +1920,7 @@
         "description_text": "Shows the user their first carrom shot example",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "These pockets are where you are aiming to sink the discs. Watch as our bot plays.",
-        "value_translated_automated": "ဤအိတ်ဆောင်များသည် သင် discs များကို နစ်မြုပ်စေရန် ရည်ရွယ်သည့်နေရာဖြစ်သည်။ ကျွန်ုပ်တို့၏ ဘော့တ်ကစားနည်းကို ကြည့်ရှုပါ။",
+        "value_translated_automated": "ဤအိတ်ကပ်များသည် သင် discs များကို နစ်မြုပ်စေရန် ရည်ရွယ်သည့်နေရာဖြစ်သည်။ ကျွန်ုပ်တို့၏ ဘော့တ်ကစားနည်းကို ကြည့်ရှုပါ။",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "ပရော်ဖက်ရှင်နယ်နှင့် disc pool မုဒ်များသည် သင့်အဖွဲ့၏အရောင်ကို အိတ်ထဲထည့်ရန်သာ ရည်မှန်းထားမည်ဖြစ်ပြီး အမှတ်မုဒ်သည် မတူညီသောအရောင်အသွေးအပိုင်းတစ်ခုစီအတွက် မတူညီသောအမှတ်တန်ဖိုးများကို သတ်မှတ်ပေးပါသည်။ ယေဘူယျအားဖြင့်၊ အနီရောင်ရှိသော အပိုင်းအစသည် တန်ဖိုးမြင့်ပြီး ဘုရင်မအဖြစ် ရည်ညွှန်းသည်။",
+        "value_translated_automated": "ပရော်ဖက်ရှင်နယ်နှင့် disc pool မုဒ်များသည် သင့်အဖွဲ့၏အရောင်ကို အိတ်ထဲထည့်ရန်သာ ရည်မှန်းထားမည်ဖြစ်ပြီး အမှတ်မုဒ်သည် မတူညီသောအရောင်အသွေးအပိုင်းတစ်ခုစီအတွက် မတူညီသောအမှတ်တန်ဖိုးများကို သတ်မှတ်ပေးပါသည်။ ယေဘူယျအားဖြင့်၊ အနီရောင်သည် တန်ဖိုးကြီးပြီး ဘုရင်မအဖြစ် ရည်ညွှန်းသည်။",
         "value_translated_native": null
       },
       {
@@ -2010,7 +2010,7 @@
         "description_text": "Shows the user what a turn might look like",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now let's try to sink our first shot. Watch the bot first.",
-        "value_translated_automated": "အခု ငါတို့ရဲ့ ပထမဆုံး ရိုက်ချက်တွေကို နစ်မြုပ်ဖို့ ကြိုးစားကြည့်ရအောင်။ bot ကိုအရင်ကြည့်ပါ။",
+        "value_translated_automated": "အခု ငါတို့ရဲ့ ပထမဆုံးရိုက်ချက်တွေကို နစ်မြုပ်ဖို့ ကြိုးစားကြည့်ရအောင်။ bot ကိုအရင်ကြည့်ပါ။",
         "value_translated_native": null
       },
       {
@@ -2019,7 +2019,7 @@
         "description_text": "Encourages the user to try pocketing the white piece",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Now your turn. Hit that white piece into the pocket next to it just like the bot.",
-        "value_translated_automated": "အခု မင်းအလှည့်။ ဘော့တ်လိုပါပဲ အဲဒီအဖြူရောင်အပိုင်းကို အိတ်ကပ်ဘေးက အိတ်ထဲကို ရိုက်ထည့်လိုက်ပါ။",
+        "value_translated_automated": "အခု မင်းအလှည့်။ ဘော့တ်လိုပါပဲ အဲဒီအဖြူရောင်အပိုင်းကို အိတ်ကပ်ဘေးက အိတ်ကပ်ထဲကို ရိုက်ထည့်လိုက်ပါ။",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "ပုံသေအခက်အခဲ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "လှုပ်ရှားမှု sensitivity",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "အလှည့်ကျ ပစ်ခတ်မှု တိုးတက်မှု",
         "value_translated_native": null
       }
     ]

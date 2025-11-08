@@ -750,7 +750,7 @@
         "description_text": "States a player has joined the game",
         "description_location": "An event message from the system",
         "value_english": "{0} has joined the game.",
-        "value_translated_automated": "{0} huet sech beim Spill ugeschloss.",
+        "value_translated_automated": "{0} ass beim Spill bäigetrueden.",
         "value_translated_native": null
       },
       {
@@ -1299,7 +1299,7 @@
         "description_text": "Choice of the mass of uniform strikers",
         "description_location": "A rule in the rules menu",
         "value_english": "Mass striker",
-        "value_translated_automated": "Masse-Stürmer",
+        "value_translated_automated": "Massespiller",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Rotatiounsempfindlechkeet",
         "value_translated_native": null
       },
@@ -1596,7 +1596,7 @@
         "description_text": "Describes the amount of black pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "Black Sank",
-        "value_translated_automated": "Schwaarze Sank",
+        "value_translated_automated": "Schwaarz Sank",
         "value_translated_native": null
       },
       {
@@ -1983,7 +1983,7 @@
         "description_text": "Defines how different game modes handle scoring",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
-        "value_translated_automated": "Am professionelle Modus a beim Disc-Pool-Modus zielt et nëmmen drop of, d'Faarf vun Ärer Equipe ze verdéngen, während am Punktemodus fir all aner faarwegt Stéck verschidde Punktewäerter zougewise ginn. Typesch ass e rout Stéck mat engem héije Wäert a gëtt als Damm bezeechent.",
+        "value_translated_automated": "Am professionelle Modus a beim Disc-Pool-Modus zielt et nëmmen drop of, d'Faarf vun Ärer Equipe ze verdéngen, während am Punktemodus fir all Stéck mat verschiddene Faarwen ënnerschiddlech Punktewäerter zougewise ginn. Typesch ass e rout Stéck mat héijem Wäert a gëtt als Damm bezeechent.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Standard Schwieregkeet",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Bewegungsempfindlechkeet",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Alternativ Schéissprogressioun",
         "value_translated_native": null
       }
     ]

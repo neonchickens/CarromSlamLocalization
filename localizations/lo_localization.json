@@ -246,7 +246,7 @@
         "description_text": "Jumps to the next camera preset",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Next Camera",
-        "value_translated_automated": "ກ້ອງຖ່າຍຮູບຕໍ່ໄປ",
+        "value_translated_automated": "ກ້ອງຕໍ່ໄປ",
         "value_translated_native": null
       },
       {
@@ -417,7 +417,7 @@
         "description_text": "Changes the skin of the player's trail",
         "description_location": "A customization option in the general tab of the customization menu",
         "value_english": "Trial Skin",
-        "value_translated_automated": "ຜິວໜັງທົດລອງ",
+        "value_translated_automated": "ຜິວ​ຫນັງ​ທົດ​ລອງ​",
         "value_translated_native": null
       },
       {
@@ -903,7 +903,7 @@
         "description_text": "An assist option that only shows the trajectory",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Trajectory only",
-        "value_translated_automated": "Trajectory ເທົ່ານັ້ນ",
+        "value_translated_automated": "ເສັ້ນທາງເທົ່ານັ້ນ",
         "value_translated_native": null
       },
       {
@@ -1038,7 +1038,7 @@
         "description_text": "Describes the sandbox game mode",
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Sandbox",
-        "value_translated_automated": "ກ່ອງຊາຍ",
+        "value_translated_automated": "Sandbox",
         "value_translated_native": null
       },
       {
@@ -1488,7 +1488,7 @@
         "description_text": "Describes the speed at which the cursor is moved",
         "description_location": "A setting in the settings menu",
         "value_english": "Cursor sensitivity",
-        "value_translated_automated": "ຄວາມອ່ອນໄຫວຂອງຕົວກະພິບ",
+        "value_translated_automated": "ຄວາມອ່ອນໄຫວຕົວກະພິບ",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "ຄວາມອ່ອນໄຫວຂອງການຫມຸນ",
         "value_translated_native": null
       },
@@ -2199,7 +2199,7 @@
         "description_text": "States the queen and another piece have been sunk on the same turn, a special message",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} has combo covered the queen!",
-        "value_translated_automated": "ທີມ {0} {1} ມີ combo ກວມເອົາ Queen!",
+        "value_translated_automated": "ທີມ {0} {1} ໄດ້ combo ກວມເອົາ Queen!",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "ຄວາມຫຍຸ້ງຍາກໃນຕອນຕົ້ນ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "ຄວາມອ່ອນໄຫວຂອງການເຄື່ອນໄຫວ",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "ຄວາມຄືບໜ້າຂອງການສັກຢາສຳຮອງ",
         "value_translated_native": null
       }
     ]

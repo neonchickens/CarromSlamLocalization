@@ -300,7 +300,7 @@
         "description_text": "Used to confirm shot placement and power",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Primary Action",
-        "value_translated_automated": "Ekintza Nagusia",
+        "value_translated_automated": "Lehen mailako ekintza",
         "value_translated_native": null
       },
       {
@@ -345,7 +345,7 @@
         "description_text": "Used to spawn individual pieces in the sandbox gamemode",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Tertary Action",
-        "value_translated_automated": "Hirugarren Ekintza",
+        "value_translated_automated": "Hirugarren mailako ekintza",
         "value_translated_native": null
       },
       {
@@ -561,7 +561,7 @@
         "description_text": "Displays that this language has incomplete localization",
         "description_location": "A label in the settings menu",
         "value_english": "This locale option is incomplete, we apoligize for innaccuracies. If you are able to help translate, we would be very appreciative. Please visit our Discord for more information.",
-        "value_translated_automated": "Eskualdeko aukera hau osatu gabe dago, barkamena eskatzen dizugu zehaztasun ezagatik. Itzultzen laguntzeko gai bazara, oso eskertuko genizuke. Mesedez, bisitatu gure Discord informazio gehiago lortzeko.",
+        "value_translated_automated": "Eskualdeko aukera hau osatu gabe dago, barkamena eskatzen dizugu zehaztasun ezagatik. Itzultzen laguntzeko gai bazara, oso eskertuko genizuke. Informazio gehiago lortzeko, bisitatu gure Discord.",
         "value_translated_native": null
       },
       {
@@ -1155,7 +1155,7 @@
         "description_text": "Choice of max rounds to end the game",
         "description_location": "A rule in the rules menu",
         "value_english": "Round maximum",
-        "value_translated_automated": "Gehienezko biribildua",
+        "value_translated_automated": "Gehienezko biribildura",
         "value_translated_native": null
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Errotazio-sentsibilitatea",
         "value_translated_native": null
       },
@@ -1839,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Kameraren angeluak alda ditzakezu 0, 1, 2 edo 3 sakatuz. Gomendatutako erreproduzitzeko kamera 1 da. Kamera edozein unetan mugi dezakezu eskuineko botoia sakatuta eta sagua mugituz. Ikusi kamera kontrol gehiago kontrolen menuan.",
+        "value_translated_automated": "Kameraren angeluak alda ditzakezu 0, 1, 2 edo 3 sakatuz. Gomendatutako erreproduzitzeko kamera 1 da. Kamera edozein unetan mugi dezakezu eskuineko botoia sakatuta eta sagua mugituz. Ikusi kamera kontrol gehiago kontrol menuan.",
         "value_translated_native": null
       },
       {
@@ -1875,7 +1875,7 @@
         "description_text": "Encourages the user to move their cursor to the correct location",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Place your cursor on the baseline to start your shot.",
-        "value_translated_automated": "Jarri kurtsorea oinarri-lerroan planoa hasteko.",
+        "value_translated_automated": "Jarri kurtsorea oinarri-lerroan tiroa hasteko.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Zailtasun lehenetsia",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Mugimendu-sentsibilitatea",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Jaurtiketa progresio alternatiboa",
         "value_translated_native": null
       }
     ]

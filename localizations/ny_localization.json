@@ -759,7 +759,7 @@
         "description_text": "States a player has left the game",
         "description_location": "An event message from the system",
         "value_english": "{0} has left the game.",
-        "value_translated_automated": "{0} wasiya masewera.",
+        "value_translated_automated": "{0} wachoka pamasewera.",
         "value_translated_native": null
       },
       {
@@ -777,7 +777,7 @@
         "description_text": "States that the queen has been sank, but needs covered",
         "description_location": "An event message from the system",
         "value_english": "Team {0} {1} must now complete the cover",
-        "value_translated_automated": "Gulu {0} {1} liyenera kumaliza chivundikirocho",
+        "value_translated_automated": "Gulu {0} {1} tsopano liyenera kumaliza chivundikirocho",
         "value_translated_native": null
       },
       {
@@ -1496,8 +1496,8 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
-        "value_translated_automated": "Kuzindikira kozungulira",
+        "value_english": "Rotation sensitivity",
+        "value_translated_automated": "Kasinthasintha tcheru",
         "value_translated_native": null
       },
       {
@@ -1839,7 +1839,7 @@
         "description_text": "Defines the camera controls",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "You can change camera angles by pressing 0, 1, 2, or 3. The recommended playing camera is 1. You can move your camera at anytime by holding right click and moving the mouse. See more camera controls in the controls menu.",
-        "value_translated_automated": "Mukhoza kusintha ma angles a kamera mwa kukanikiza 0, 1, 2, kapena 3. Kamera yomwe ikulimbikitsidwa kusewera ndi 1. Mukhoza kusuntha kamera yanu nthawi iliyonse pogwira kumanja ndikusuntha mbewa. Onani zowongolera zambiri za makamera pazosankha zowongolera.",
+        "value_translated_automated": "Mukhoza kusintha ma angles a kamera mwa kukanikiza 0, 1, 2, kapena 3. Kamera yomwe ikulimbikitsidwa kusewera ndi 1. Mukhoza kusuntha kamera yanu nthawi iliyonse pogwira kumanja ndikusuntha mbewa. Onani zowongolera zambiri za kamera pazosankha zowongolera.",
         "value_translated_native": null
       },
       {
@@ -1893,7 +1893,7 @@
         "description_text": "Encourages the user to perform an action to confirm their striker placement",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Left click and hold to confirm your striker placement.",
-        "value_translated_automated": "Dinani kumanzere ndikugwiritsitsa kuti mutsimikizire kuti wowombera wanu wayiyika.",
+        "value_translated_automated": "Dinani kumanzere ndikugwiritsitsa kuti mutsimikizire kuti wowombera wanu wayika.",
         "value_translated_native": null
       },
       {
@@ -2028,7 +2028,7 @@
         "description_text": "Defines Carrom Slam! and the tutorial",
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Carrom Slam! is a carrom simulator game. This tutorial will teach you the controls and how to play carrom.",
-        "value_translated_automated": "Carrom Slam! ndi masewera a carrom simulator. Phunziroli likuphunzitsani zowongolera komanso momwe mungasewere carrom.",
+        "value_translated_automated": "Carrom Slam! ndi masewera oyeserera a carrom. Phunziroli likuphunzitsani zowongolera komanso momwe mungasewere carrom.",
         "value_translated_native": null
       },
       {
@@ -2254,6 +2254,24 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Default difficulty",
         "value_translated_automated": "Vuto lofikira",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Kukhudzidwa kwa kayendedwe",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Kupitilira kuwombera kwina",
         "value_translated_native": null
       }
     ]

@@ -408,7 +408,7 @@
         "description_text": "Changes the skin of the player's carrom striker",
         "description_location": "A customization option in the carrom tab of the customization menu",
         "value_english": "Striker Skin",
-        "value_translated_automated": "Скин Страйкера",
+        "value_translated_automated": "Скин Striker",
         "value_translated_native": "Скин биты"
       },
       {
@@ -1496,7 +1496,7 @@
         "key": "setting_application_speed_rotation",
         "description_text": "Describes the speed at which the camera rotates",
         "description_location": "A setting in the settings menu",
-        "value_english": "Rotation sensitivitiy",
+        "value_english": "Rotation sensitivity",
         "value_translated_automated": "Чувствительность к вращению",
         "value_translated_native": "Чувствительность к вращению"
       },
@@ -1650,7 +1650,7 @@
         "description_text": "Describes the amount of white pieces sank by a player",
         "description_location": "A statistic recorded in the scoreboard menu",
         "value_english": "White Sank",
-        "value_translated_automated": "Белый затонувший",
+        "value_translated_automated": "Белый затонул",
         "value_translated_native": "Белые"
       },
       {
@@ -1984,7 +1984,7 @@
         "description_location": "An instruction in the carrom tutorial menu",
         "value_english": "Professional and disc pool modes will have you only aiming to pocket your team's color, while points mode assigns different point values for each differently colored piece. Typically, a red colored piece is high value, and is referred to as the queen.",
         "value_translated_automated": "В режимах профессионального пула и диск-пула вам нужно будет забить только фишку цвета вашей команды, а в режиме очков за каждую фишку разного цвета присваивается разная стоимость. Как правило, фишка красного цвета имеет высокую ценность и называется ферзем.",
-        "value_translated_native":  "В профессиональном режиме и режиме диск-пул вы будете целиться только в фишки своего цвета, тогда как режим очков назначает разные значения очков для фишек разных цветов. Обычно красная фишка имеет высокую ценность и называется королевой."
+        "value_translated_native": "В профессиональном режиме и режиме диск-пул вы будете целиться только в фишки своего цвета, тогда как режим очков назначает разные значения очков для фишек разных цветов. Обычно красная фишка имеет высокую ценность и называется королевой."
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -2091,7 +2091,7 @@
         "description_text": "Zooms the camera closer to the focus point",
         "description_location": "A rebindable action in the controls tab of the settings menu",
         "value_english": "Zoom in",
-        "value_translated_automated": "Увеличить масштаб",
+        "value_translated_automated": "Увеличить",
         "value_translated_native": "Увеличить масштаб"
       },
       {
@@ -2255,6 +2255,33 @@
         "value_english": "Default difficulty",
         "value_translated_automated": "Уровень сложности по умолчанию",
         "value_translated_native": "Уровень сложности по умолчанию"
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_reset_mods",
+        "description_text": "Resets all mod files and preferences back to default",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Reset mods",
+        "value_translated_automated": "Сбросить моды",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_application_speed_movement",
+        "description_text": "Describes the speed at which the camera is moved",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Movement sensitivity",
+        "value_translated_automated": "Чувствительность к движению",
+        "value_translated_native": null
+      },
+      {
+        "$type": "Translation, Assembly-CSharp-Editor",
+        "key": "setting_game_alt_shot",
+        "description_text": "Describes if the alternate shooting progression will be used",
+        "description_location": "A setting in the settings menu",
+        "value_english": "Alternate shot progression",
+        "value_translated_automated": "Альтернативная последовательность кадров",
+        "value_translated_native": null
       }
     ]
   }
