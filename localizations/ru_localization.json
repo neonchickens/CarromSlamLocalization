@@ -868,7 +868,7 @@
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Anywhere",
         "value_translated_automated": "В любом месте",
-        "value_translated_native": null
+        "value_translated_native": "Где угодно"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -877,7 +877,7 @@
         "description_location": "An option in a drop down menu in the rules menu",
         "value_english": "Direction only",
         "value_translated_automated": "Только направление",
-        "value_translated_native": "Где угодно"
+        "value_translated_native": "Только направление"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -2263,7 +2263,7 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Reset mods",
         "value_translated_automated": "Сбросить моды",
-        "value_translated_native": null
+        "value_translated_native": "Сбросить моды"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -2272,7 +2272,7 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Movement sensitivity",
         "value_translated_automated": "Чувствительность к движению",
-        "value_translated_native": null
+        "value_translated_native": "Чувствительность движения"
       },
       {
         "$type": "Translation, Assembly-CSharp-Editor",
@@ -2281,7 +2281,7 @@
         "description_location": "A setting in the settings menu",
         "value_english": "Alternate shot progression",
         "value_translated_automated": "Альтернативная последовательность кадров",
-        "value_translated_native": null
+        "value_translated_native": "Альтернативное выполнение удара"
       }
     ]
   }
